@@ -1,0 +1,307 @@
+{
+ "day": "2026-08-27",
+ "generated_at": "2026-08-27 07:18",
+ "scanned": 265,
+ "count": 23,
+ "items": [
+  {
+   "title": "AI has a hospitality problem money can’t fix —— 人工智能面临金钱无法解决的接待问题",
+   "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 75,
+   "summary_zh": "高端酒店用AI提升入住效率，但忽视了人性化服务。科技巨头每年投入近7000亿美元发展AI，却未解决AI在服务行业缺乏温度的问题。设计师需关注技术与人性需求的平衡，避免过度依赖自动化。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "7 ways to kick-start back to school using Gemini in Workspace —— 利用Gemini在Workspace中重启学校生活的7种方法",
+   "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 75,
+   "summary_zh": "Google 推出 7 种方法，利用 Gemini 在 Workspace 中助力学生开学。包括智能写作、研究辅助等功能，提升学习效率。设计师可参考其 AI 工具整合方式，优化教育类产品交互。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Meta’s mega settlement could change social media UX as we know it —— Meta的巨额和解可能改变我们所知的社交媒体用户体验",
+   "url": "https://www.fastcompany.com/91596416/meta-settlement-change-social-media-ux?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "Meta 同意支付 167 亿美元和解费，涉及 47 个州及多个美国领土。和解协议可能改变社交媒体用户体验，因 Meta 被指控故意设计平台以增加用户使用时长。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "The Case for Cloning Your Coworkers —— 克隆同事的必要性",
+   "url": "https://every.to/context-window/the-case-for-cloning-your-coworkers",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Every CEO Dan Shipper曾试图用30,000条编辑记录训练AI替代主编，但效果不佳。GPT-5.6发布后，模型能力提升，使AI接近人类编辑水平。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Turn your voice into action with new productivity features in Gemini Live —— 通过Gemini Live的新生产力功能，将你的声音转化为行动",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Gemini Live新增语音控制功能，整合Spark后可语音设置多步骤任务，如自动生成文档大纲、规划饮食计划。用户可语音查询每日待办、处理邮件、调取历史对话信息，无需手动操作，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Ox-Alpha（GLM-5.3 Flash）体验：价格低于V4 Flash，性能完爆V4 Flash Vision",
+   "url": "https://www.bestblogs.dev/status/2092655955037376886?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Ox-Alpha（GLM-5.3 Flash）价格低于V4 Flash，性能远超V4 Flash Vision。对产品设计者而言，这提供了更具性价比的AI模型选择，可能影响产品在成本与功能上的平衡策略。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+   "url": "https://www.qbitai.com/2026/08/479919.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "智谱发布GLM-5.3 Flash，首个原生多模态模型，支持3D建模、视频字幕生成等复杂任务，使用国产芯片运行。模型参数320B，性能超越753B的GLM-5.2，价格仅为同类模型的1/40，已开源。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "GLM-5.3-Flash发布，价格感人",
+   "url": "https://www.bestblogs.dev/status/2092639031343665511?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 82,
+   "summary_zh": "GLM-5.3-Flash 发布，支持 1M-token 上下文窗口，采用 MIT 许可证，运行在中国 AI 芯片上，价格具有竞争力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "小天才还要逼疯多少家长",
+   "url": "https://www.bestblogs.dev/article/4c7c3852b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "小天才电话手表根据BMI判定儿童‘偏重’，与国家卫健委标准不符，引发身材焦虑。专家指出企业标准缺乏权威性，建议仅展示客观数据，加强未成年人保护。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "奥特曼公开表白，Codex赛博义父才是头号功臣",
+   "url": "https://www.bestblogs.dev/article/21cfe0f69f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 75,
+   "summary_zh": "Codex 通过贴近用户的产品运营、GPT-5.6 提升 coding 能力，以及接入浏览器等工具，从落后 Claude Code 追至第一梯队。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GLM-5.3-Flash：基于国产芯片的超低成本多模态MoE模型，逼近Claude Opus 4.8",
+   "url": "https://www.bestblogs.dev/status/2092624858266144986?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 80,
+   "summary_zh": "GLM-5.3-Flash 基于国产芯片，以 1/10 成本接近 Claude Opus 4.8，DeepSWE 和 AutomationBench 分别达 63.4 和 48.8。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "重磅！Anthropic内部AI Native经验公开了！",
+   "url": "https://www.bestblogs.dev/article/a271b986ea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Anthropic 公开 AI Native SDLC Playbook，将开发流程分为六个阶段，AI 负责推动流程，人负责意图确认与审批。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "阿里动真格，大模型新的“斩杀线”出现了",
+   "url": "https://www.bestblogs.dev/article/1f7ce6ee37?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "阿里千问发布Qwen3.8-Flash，仅激活6B参数性能超越Claude Opus4.6，输入1元/百万Tokens、输出3元/百万Tokens，价格仅为DeepSeek-V4-Flash的三分之一…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions —— 重新思考数据可视化：以用户体验为导向的驱动决策仪表板方法",
+   "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Meriem Benhabiles 探讨如何用 UX 思维重构数据可视化，强调从问题出发设计仪表盘，确保洞察能真正驱动决策，而非仅停留在展示层面。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+   "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "阿里发布Qwen3.8-Flash，采用新一代架构，仅激活60亿参数即可超越Claude Opus4.6，训练和推理成本下降近90%，每百万Tokens输入1元，输出3元。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "技术革命：为Agentic AI时代做好准备 | 技术趋势",
+   "url": "https://www.infoq.cn/article/8ouuK09WuWA7Up35W9vb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "2026 年，Agentic AI 在零售、制造等领域推动智能体自主完成交易与生产，企业需统一数据、构建 AI 平台以支持智能体运作。品牌需优化产品数据结构，适应 GEO，提升在 AI 驱动的购物流程中可见性。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "PHASE-Tree｜CPC不只要会聊、会打，还要会成长：AI队友的状态演化难题",
+   "url": "https://www.oschina.net/news/502132",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "PUBG Ally AI 队友能记住玩家偏好并跨局使用，KRAFTON 与 NVIDIA 正测试其长期记忆功能。设计师需关注 AI 角色随经历变化的立场与对话方式，以提升沉浸感与互动真实性。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "2026世界机器人大会落幕，谁在物理AI赛道抢跑？",
+   "url": "https://www.leiphone.com/category/transportation/D7jJzjiKAFgoKr5U.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "2026世界机器人大会展示上千台机器人在家庭和工业场景的应用，具身智能加速转向实景作业。采购日销售额突破2亿元，AI汽车或率先实现人机协作，物理AI比拼核心在于建立人机信任关系。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "即梦AI推出内容厂牌“即梦片场”，探索AI影像发行新路径",
+   "url": "https://www.leiphone.com/category/industrynews/bVlL8Bsgh6GURrf7.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "即梦AI推出内容厂牌“即梦片场”，面向电影、剧集项目开放征集，入选者可获算力、资金等支持。此举为AI影像创作提供商业化路径，推动AI原生影像在故事、视觉、表达上达到院线或平台头部水准。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "英伟达Vera Rubin的Agent吞吐暴涨最高提升30倍，却不只靠GPU | Hot Chips 2026",
+   "url": "https://www.leiphone.com/category/chips/LIUBrHLsZcZlyHwv.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "英伟达Vera Rubin NVL72在Agent推理测试中，相比GB300 NVL72，每兆瓦吞吐最高提升30倍。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "从导航工具到AI基础设施，上海开源大赛百度地图命题公布",
+   "url": "https://www.oschina.net/news/502131",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "百度地图在上海开源大赛中提出命题，推动地图从导航工具转型为AI基础设施，提供智能定位、路线规划等能力供AI调用。工业场景中，工业园区数字化需求推动地图技术升级，为智能体和大模型应用提供位置感知支持。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜金融研究代理的使用场景随时间从总结报告到构建投资论点逐步升级，评估体系需同步…",
+   "url": "https://x.com/realmadhuguru/status/2092426017118028266",
+   "source": "X · @realmadhuguru",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "金融研究代理的使用场景随时间从总结报告到构建投资论点逐步升级，评估体系需同步演进。需根据用户行为变化调整评估维度，优先开发下一阶段核心用例的评估，持续优化模型能力以匹配实际需求。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 83
+  },
+  {
+   "title": "X观点｜X 创始人 Aaron Levie 指出，企业应用 AI 时，模型与实际工作…",
+   "url": "https://x.com/levie/status/2092466424694649066",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "X 创始人 Aaron Levie 指出，企业应用 AI 时，模型与实际工作流程存在巨大差距，应用 AI 公司有大量机会。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 122
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "day": "2026-08-21",
+ "generated_at": "2026-08-21 11:50",
+ "scanned": 659,
+ "count": 30,
+ "items": [
+  {
+   "title": "Sightlines issue no.2: What leaders need to know about building agents —— 视点第2期：领导者在构建代理时需要了解的内容",
+   "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Figma 讨论了设计自主代理产品时的挑战，如何在保持工具强大和知识的同时确保信任与安全。对产品设计者而言，需平衡自主性与用户控制，明确安全边界和透明度。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？",
+   "url": "https://www.bestblogs.dev/podcast/e94dc3a07?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "DeepSeek 发布 Harness，提供类似造车工厂的开放平台，允许用户自定义开发 agent 应用。但主播指出，多数企业缺乏技术能力与合规资源，可能导致落地困难。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
+   "url": "https://www.bestblogs.dev/article/3b8b890afb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "MiniMax 推出 H3 三段式视频模型，结合 Design Agent 实现多模态任务自动执行，支持动态网页、角色 PV 等场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "人类审美、模型选择与设计系统是避免 AI 味的关键",
+   "url": "https://www.bestblogs.dev/status/2090451525726294225?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 86,
+   "summary_zh": "宝玉指出，避免AI味需重视人类审美，Claude模型优于GPT，建立个性化设计系统是关键。设计系统应包含规范和可复用组件，而非僵化规则。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "关于 AI，新手 UI 设计师问得最多的十个问题",
+   "url": "https://www.bestblogs.dev/article/cb4842675a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "资深设计讲师酸梅干超人针对新手 UI 设计师的 10 个 AI 应用问题给出回答，建议组合使用工具，强调设计思维与流程理解的重要性，AI 无法替代专业设计的前期规划与执行。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "信息量太大！Datawhale 对谈 Google 高管最新实录",
+   "url": "https://www.bestblogs.dev/article/41d4020a18?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Google 高管 David McLaughlin 访谈中指出，Agentic Development 时代开发者需转向定义问题、管理 Agent 团队，工程思维与对人的理解是核心竞争力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "What nobody tells you about AI ethics —— 没人告诉你的AI伦理问题",
+   "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "AI决策责任归属影响伦理判断，实验显示解释方式改变公众道德反应。设计时需明确系统决策逻辑，避免模糊表述，提升用户信任与合规性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "豆包上线侧边工作台，支持对话与操作同屏进行",
+   "url": "https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "豆包上线侧边工作台，支持对话与操作同屏进行。用户可在右侧直接打开文件、网页、代码等，提升办公效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Vercel 发布 fx：Zig 语言实现的轻量 Agent，能直接在浏览器里跑",
+   "url": "https://www.oschina.net/news/502038/vercel-fx",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel 发布 fx，用 Zig 编写的轻量 Agent，可在浏览器运行，冷启动仅 10 微秒，二进制文件仅 6.39MB。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "跨境圈爆火的 AI，潜入了淘宝商家的后台",
+   "url": "https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "淘宝商家开始使用AI工具Accio，该工具已拥有1000万用户，可同时管理淘宝、天猫、拼多多等多个平台，帮助商家应对内外贸一体化带来的复杂运营问题。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范",
+   "url": "https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "中国信通院与淘宝闪购发布即时零售智能体可信规范，明确简单任务准确率超95%，复杂任务超90%。规范覆盖数据安全、执行效率等六大领域，为AI在即时零售应用提供评估标准。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Is design dead in the age of AI? —— AI时代，设计是否已死？",
+   "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "AI不会取代设计，但会改变设计。设计的核心在于人类的情感、个性和独特视角，这些是AI无法复制的。设计师应深入研究自身风格，注重工艺，拥抱不完美，并从多元领域获取灵感，以建立真实的人际关系和独特价值。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "How to choose a UI font (and 10 Inter alternatives) —— 如何选择UI字体（以及10个Inter的替代方案）",
+   "url": "https://yeptype.com/article/inter-alternatives",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章提出选择UI字体的两个关键标准：顶高对齐和高x-height。顶高对齐使文字在按钮中居中，减少手动调整CSS的需要；高x-height使文字更饱满，视觉效果更均衡。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "It really wasn’t your fault, Coyote —— Coyote，这真的不是你的错",
+   "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章以ACME公司设计的工具为例，指出产品设计缺陷可能导致用户失败。对设计师意味着：需确保工具可靠，避免因设计问题让用户无法达成目标。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景",
+   "url": "https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "中科通量推出OmniMate移动AI数字员工，基于本地边缘智能架构，替代或辅助线下网点高频、重复服务职能。产品覆盖迎宾讲解、培训赋能等场景，已在通信营业厅等部署验证，提升服务一致性与效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+   "url": "https://www.ifanr.com/1675657?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "MiniMax 推出 Design 产品，整合 H3 视频模型与多种 AI 工具，实现从需求输入到视频生成的全流程自动化。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Vercel Agent is now available in Slack code channels —— Vercel Agent 现已在Slack代码频道上线",
+   "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel Agent 现在可在 Slack 的代码频道中使用，用户可在频道内跟踪、指导和审查 Agent 编写的代码。创建频道时选择 Vercel 作为代理，并描述需求即可开始。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "AI is lying to us, and nobody seems to care —— AI在欺骗我们，但没人似乎在意",
+   "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "AI生成的回答掺杂虚构信息，界面不显示推理过程。团队讨论是否应更诚实，正在开发的AI产品侧边栏展示推理过程，让用户了解AI如何得出结论。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "An Engineering Team for the Cost of Codex —— 一支工程团队，价格等同于Codex",
+   "url": "https://every.to/context-window/an-engineering-team-for-the-cost-of-codex",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Every的Naveen Naidu用Codex构建了多个工程角色代理，管理一个虚拟工程师团队开发Monologue。这种做法降低了团队组建成本，使单人也能高效完成复杂工程任务。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Replit expands access to software creation with GPT-5.6 Luna —— Replit通过GPT-5.6 Luna扩大软件创建的访问权限",
+   "url": "https://openai.com/index/replit",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需付费即可创建软件。此举降低技术门槛，让更多人能快速将想法变为产品，推动软件开发普及。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "DeepSeek Harness’s minimalism is deliberate, not incomplete —— DeepSeek Harness 的极简主义是有意为之，并非不完整",
+   "url": "https://x.com/ZhihuFrontier/status/2089998555889250478",
+   "source": "AI News (smol.ai)",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "DeepSeek Harness 采用极简设计，核心是插件架构 Cordis，所有功能包括代理循环均可作为插件实现。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Gemini 3.7 Flash had a strong day on both evals and product integration —— Gemini 3.7 Flash在评估和产品集成方面都表现强劲",
+   "url": "https://x.com/_philschmid/status/2090063976872751408",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Gemini 3.7 Flash在评估和产品集成中表现突出，以60%的五次通过率、70.5%的一次通过率和1.32秒/任务的速度，成为AA-AnalystAgent第一名。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Anthropic continues to tighten the developer ergonomics loop —— Anthropic持续优化开发者的人体工程学循环",
+   "url": "https://x.com/ClaudeDevs/status/2090245922685063634",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Anthropic 为 Claude Code 新增 Concise 输出模式，优化开发者使用体验。产品团队开始将响应格式作为核心 UX 变量进行调整，提升开发效率。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Rethinking design leadership with swarms and flocks —— 用蜂群和鸟群重新思考设计领导力",
+   "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章提出用‘结构化涌现’替代传统管理，通过模仿椋鸟群和雁群的协作模式，解决设计团队管理僵化、领导力枯竭问题。设计师应与小队紧密协作，避免过度依赖单一领导者，减少瓶颈与冗余产出。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Try these 10 skills—and show off your own —— 尝试这10项技能——并展示你自己的",
+   "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Figma 现支持在设计界面内直接创建技能，提升协作效率。例如，/image-audit 可检查图像导出性，/camera-pan-and-zoom 可生成动态镜头效果，设计师可自定义工具，优化工作流程。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Agent experience needs failure affordances —— 代理体验需要容错设计",
+   "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章提出，当AI代理无法解决问题时，应设置‘失败通道’，主动请求人工介入，而非强行推进。设计中可引入‘判断路由’机制，在执行、升级或终止动作前评估风险，确保操作合规。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Introducing Vercel for Slack —— 推出Vercel for Slack",
+   "url": "https://vercel.com/blog/introducing-vercel-for-slack",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Vercel Agent 现在支持 Slack，可在频道内直接调用，根据讨论内容自动响应并执行部署。Pro 和 Enterprise 团队可参与公测。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Vercel for Slack now in public beta —— Vercel for Slack现在已进入公开测试阶段",
+   "url": "https://vercel.com/changelog/vercel-for-slack-now-in-public-beta",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Vercel Agent 在 Slack 公测，可在任何频道提及 @Vercel，Agent 会提供项目部署、构建、日志等信息。可用来排查部署失败原因、审查代码等，提升团队协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "How to make your design system agent-ready —— 如何让你的设计系统兼容代理",
+   "url": "https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "文章指出，将设计系统拆分成结构化Markdown和Figma文件，能帮助AI更准确理解设计规范。团队尝试用AI生成前端代码，但发现细节如颜色、间距、交互状态常不符合设计系统要求，需明确文档指引AI。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Harnesses are becoming the real product surface —— Harnesses 正在成为真正的产品界面",
+   "url": "https://x.com/masondrxy/status/2089861640770527512",
+   "source": "AI News (smol.ai)",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "多个产品如LangChain、Tiller和Vercel引入HarnessAgent，强化模型与工具链整合。产品设计需重视Harness对模型应用的实际影响，而非仅依赖模型质量。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  }
+ ]
+}

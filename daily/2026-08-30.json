@@ -1,0 +1,269 @@
+{
+ "day": "2026-08-30",
+ "generated_at": "2026-08-30 07:15",
+ "scanned": 220,
+ "count": 20,
+ "items": [
+  {
+   "title": "不锁屏、不打断，护眼宝：派 6 只宠物强制提醒你",
+   "url": "https://www.bestblogs.dev/article/23bb1d8264?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "护眼宝通过蓝光过滤和定时出现的宠物图像提醒用户休息，减少眼睛疲劳。用户可调节色温与蓝光比例，宠物提醒比传统弹窗更友好，有助于养成休息习惯。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "决策与反馈是 AI 优化之匙",
+   "url": "https://www.bestblogs.dev/status/2093747650298339795?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 75,
+   "summary_zh": "AI 优化需明确决策和实时反馈。编程可通过自动化测试获取反馈，写作则依赖人工指导。明确目标和持续校准是提升 AI 输出质量的关键。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 时代领导力变迁：从管理团队到调参 Agent",
+   "url": "https://www.bestblogs.dev/status/2093737916459536706?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 75,
+   "summary_zh": "AI 时代管理者需亲自调参、监控 AI Agent 运行，确保其执行战略。这对产品设计者意味着需更关注技术细节，理解 AI 行为逻辑，提升人机协作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "判断 AI Native 公司的核心准则：执行主体是谁?",
+   "url": "https://www.bestblogs.dev/status/2093714239718351350?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 75,
+   "summary_zh": "AI Native 公司以 AI Agent 作为执行主体，负责核心业务操作，如审批和决策；而传统公司仍由人执行，AI 仅作为辅助工具。这种差异决定了业务流程设计和执行效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "重构竞争格局的策略思考",
+   "url": "https://www.bestblogs.dev/status/2093708941566038371?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 79,
+   "summary_zh": "文章提出三种应对资源竞争的策略：加入现有竞争（上桌子）、破坏规则（掀桌子）、创造新市场（新开一桌）。对产品设计者而言，这意味着可探索新合作模式或开辟新赛道，避免零和竞争，提升创新空间。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+   "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "HarmonyOS 7 新增文搜图和图像超分能力，支持通过文本语义查找图片、提升低清图清晰度。对产品设计者而言，这两项能力可减少用户查找图片和处理低清图的操作成本，尤其适合图片管理复杂的应用场景。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+   "url": "https://www.qbitai.com/2026/08/480940.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "阿里Qoder推出桌面端，支持语音交互和实时任务执行，用户无需编程即可创建系统。新增40多个连接器和70多个插件，能接入代码仓库、项目管理等工具，提升开发效率。",
+   "source_count": 2,
+   "sources": [
+    "量子位",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Agent 时代，为什么有人开始重新造 Google？",
+   "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "Keenable 完成 2600 万美元种子融资，正在重建 Web 索引，专为 AI Agent 提供低延迟、高 QPS 的搜索基础设施。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI 自动化追逐热点：dbskill 的新颖应用",
+   "url": "https://www.bestblogs.dev/status/2093636547816092101?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "dbskill 工具可通过自然语言指令自动分析热点事件，如孙宇晨和景甜的动态，并生成短视频内容策略。系统评估流量潜力、专业契合度及风险，帮助用户高效决策。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "全球开源平台的宿命，都逃不过被收购 ？",
+   "url": "https://www.oschina.net/news/502194",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "Hugging Face 或将被英伟达以 129 亿美金收购，成为开源领域最大交易。此举可能影响 AI 发展方向，但公众关注度低，反映出开源社区与主流舆论的脱节。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "skill-doctor：基于数据驱动的 agent-skill 优化分析系统",
+   "url": "https://www.bestblogs.dev/status/2093627751479857574?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "skill-doctor 分析本地对话历史，从效率和代码质量两个维度评分，并提供具体改进建议。对产品设计者而言，它能精准定位 AI agent 技能问题，提升实际表现。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一人媒体公司实操指南：六个 AI 角色的分工系统",
+   "url": "https://www.bestblogs.dev/status/2093620118949638516?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "一人媒体公司用六个AI角色分工系统提高内容生产效率，包括信号侦察、研究员、策略师等，基于Hermes 4和Obsidian知识库协同工作。明确职责划分和结构化交接，确保信息一致性和质量控制，保留人类编辑权限。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一封内部信暴露了中美 AI 竞赛的真实格局",
+   "url": "https://www.bestblogs.dev/article/cfa3a388ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "80%美国AI初创公司已部署中国开源模型，如Qwen在Hugging Face下载量超10亿，显示中国在软件层面的竞争力。芯片禁令促使中国优化效率，形成全栈工程优势，中美技术双向渗透加剧。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Omarchy 3.0 文件浏览器正式版发布",
+   "url": "https://www.bestblogs.dev/status/2093612261575381444?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "Omarchy 3.0 发布，采用自主开发的低延迟文件管理器，集成 AI 自动索引搜索。用户可快速精准查找文件，提升数字资产管理效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 赋能的创作民主化",
+   "url": "https://www.bestblogs.dev/status/2093611482256920752?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "AI 创作工具如 YouMind 让普通人轻松绘画、唱歌、讲故事，降低创作门槛。对产品设计者而言，意味着需关注如何通过技术赋能用户，推动文化体验而非单纯消费。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "开源 GEOFlow 3.0：企业官网智能运营系统升级",
+   "url": "https://www.bestblogs.dev/status/2093604992318087649?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 85,
+   "summary_zh": "GEOFlow 3.0 升级后台 Admin UI V3，优化交互与无障碍体验，新增 AI 质检机制作为发布门禁，确保内容一致性与安全性。支持多站点分发与协作，提升企业官网运营效率与稳定性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "drawio-skill: 快速生成架构图的 AI 辅助工具",
+   "url": "https://www.bestblogs.dev/status/2093602093211037991?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "NVIDIA 推出 drawio-skill，通过自然语言生成 UML、网络拓扑等图表，支持从代码反向生成架构图，预设 11 种图表类型及行业图标，提升文档维护效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "X观点｜Replit 免费提供 OpenAI 模型，高阶模型成本降低",
+   "url": "https://x.com/amasad/status/2093533378880667787",
+   "source": "X · @amasad",
+   "cat": "AI新闻",
+   "date": "2026-08-29",
+   "score": 70,
+   "summary_zh": "Replit 免费提供 OpenAI 模型，高阶模型成本降低。企业可使用 Replit 作为 Cursor 的替代方案，Replit 愿意资助迁移。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 579
+  },
+  {
+   "title": "X观点｜网页发展呈现两极：一极是借助threejs等技术打造极致用户体验，另一极是追…",
+   "url": "https://x.com/rauchg/status/2093482695838007318",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "网页发展呈现两极：一极是借助threejs等技术打造极致用户体验，另一极是追求机器可处理的纯粹数据信号，如markdown和MCP。中间地带可能被智能代理接管，按需生成界面。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 459
+  },
+  {
+   "title": "X观点｜AI领域多数强信念半衰期仅6个月，如开源落后、模型无法盈利、RAG已死等观点…",
+   "url": "https://x.com/levie/status/2093568352736436576",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-29",
+   "score": 75,
+   "summary_zh": "AI领域多数强信念半衰期仅6个月，如开源落后、模型无法盈利、RAG已死等观点不断更替。对产品设计者意味着需保持思维灵活，适应快速变化的技术环境。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 99
+  }
+ ]
+}
