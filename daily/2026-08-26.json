@@ -1,0 +1,413 @@
+{
+ "day": "2026-08-26",
+ "generated_at": "2026-08-26 11:31",
+ "scanned": 1027,
+ "count": 31,
+ "items": [
+  {
+   "title": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+   "url": "https://www.bestblogs.dev/article/39698a28e2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "Kimi 等中国开源模型被 Harvey、Cursor 等美国公司用于训练行业专用 AI 产品，替代 GPT/Claude。这种模式降低成本，积累行业数据，形成可持续竞争力，推动中国模型从产品转向工业原料。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Benchmarks Don’t Know Your Job —— 基准测试并不了解你的工作",
+   "url": "https://every.to/context-window/benchmarks-don-t-know-your-job",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "AI模型的评估常依赖公开基准，但企业更关心是否节省员工时间或提升工作可信度。文章提供方法，帮助企业自行评估模型的实际效果，如减少人工复核需求、提升工作效率等。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "What Blade Runner got right about AI —— 《银翼杀手》关于AI的正确之处",
+   "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "《银翼杀手》预见了AI设计难题，如合成记忆与界面争议。影片虽以雨夜、霓虹闻名，实则精准描绘了AI辅助工作的氛围。对产品设计者而言，其对未来人机交互的思考仍具参考价值。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Here’s how to use intelligent dictation in Gemini for macOS. —— 如何在Gemini中使用智能语音输入功能以适用于macOS",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "Gemini for macOS 新增智能语音输入功能，可直接在桌面任意窗口语音输入，自动修正口误并生成整洁文本。设计师可用语音快速编辑内容，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "技术革命：为 Agentic AI 时代做好准备 | 技术趋势",
+   "url": "https://www.infoq.cn/article/8ouuK09WuWA7Up35W9vb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "2026 年 Agentic AI 在企业应用中取得突破，智能体从被动助手转为主动行动者，重塑零售、供应链和制造。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Apodex 1.1 发布：面向科研任务的专业 Agent 及开源生态",
+   "url": "https://www.bestblogs.dev/status/2092395786286117208?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "Apodex 1.1 发布专业科研 Agent，支持事实核查与多子 Agent 并行推理，适用于严谨科研场景。同步开源 35B 本地模型与 Agent 框架，提升科研效率与结果可靠性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Apodex 实测交付物免费下载：Omarchy 手册、Obsidian 白皮书、讲故事课程",
+   "url": "https://www.bestblogs.dev/status/2092392285464129855?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 78,
+   "summary_zh": "Apodex 生成三份文档免费下载，包括 Omarchy 手册、Obsidian 白皮书和讲故事课程。演示上传 GDP/寿命 CSV 数据自动完成统计分析，附官网免费试用入口。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Apodex：科研级 AI Agent 系统实测，从原始材料直达可核验交付物",
+   "url": "https://www.bestblogs.dev/status/2092391737675370948?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 83,
+   "summary_zh": "博主实测 Apodex AI Agent 系统，完成 8 万字课程生成、6 万字手册编写等任务，展示其任务拆解、代码执行与全链路可核验能力。对产品设计者而言，该系统可提升复杂任务自动化水平，增强交付物可信度。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
+   "url": "https://www.bestblogs.dev/podcast/fa287f6cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "腾讯、阿里、字节等大厂整合AI办公产品，聚焦智能体能力提升与办公入口防御。字节推出豆包工作，阿里将三款智能体交钉钉整合，腾讯推WorkBuddy，统一产品线应对竞争。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "社媒的设计方式让年轻人难以批判性思考",
+   "url": "https://www.solidot.org/story?sid=85193",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "TikTok 的无限滚动设计让年轻人难以进行批判性思考，欧洲考虑限制此类设计。研究发现，算法驱动的内容推送使用户被动消费信息，影响深度思考，用户虽尝试训练算法，但反馈不稳定，有害内容仍频繁出现。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "#688.OpenAI 内部视角：从算力重置、超快模式到人手一个个人 AGI 的演进路线",
+   "url": "https://www.bestblogs.dev/podcast/3163b3f72?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "OpenAI 核心成员 Tibo 讨论了 ChatGPT 与 Codex 融合逻辑，未来个人 AGI 将自适应不同用户。超快模式以 14 倍速度提升开发者效率，OpenAI 通过算力规划使前沿模型成本大幅下降。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅",
+   "url": "https://www.bestblogs.dev/article/a3be2400e2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "QQ宠物回归并接入腾讯混元大模型，新增记忆与个性功能，提升互动感。桌宠从命令行彩蛋演进为Agent桌宠，提供低负荷进度提醒，降低用户切换窗口的频率，但需避免过度动效干扰注意力。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+   "url": "https://www.bestblogs.dev/podcast/102658859?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "抽象仔从央视导演转型AI内容创作，凭借《新鸳鸯蝴蝶梦福音版》出圈，总结出文化反差与解构的流量密码。他强调AI是工具，真诚表达与独立审美才是创作核心，同时分享C端与B端平衡的实践经验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google AI 把「地球」玩坏了，这是对 10 亿人的不负责",
+   "url": "https://www.bestblogs.dev/article/4db859e1ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "Google 地球新增 AI 生图功能后，用户滥用生成虚假影像，如 9·11、哥斯拉等，引发信任危机。平台需在设计阶段加强安全规则，区分真实与生成内容，避免误导公众。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Courtesy",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/e3lf871yc8ppfovqxldp.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 90,
+   "summary_zh": "Viktor.com 推出 AI 工作助手，支持代码编写、跨会话记忆、自主排程及调用 3,200+ 工具，已在 6 万团队中应用。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "斯坦福最新课程发布：教 AI Agent 自我进化！",
+   "url": "https://www.bestblogs.dev/article/c6ea3762ab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "斯坦福开设CS329A课程，教授AI Agent通过搜索、验证和环境反馈实现自我进化。课程涵盖ReAct、树搜索、多步规划等技术，适用于编码Agent和机器人，资料已公开。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "深度分析办公 Agent 的入口变迁与竞争护城河",
+   "url": "https://www.bestblogs.dev/status/2092250134243369035?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 90,
+   "summary_zh": "文章从入口变化、上下文数据、权限管理、组织效率等角度，分析办公 Agent 的发展趋势与核心竞争力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "深度解析长时运行 Agent 的开源 Harness 架构与执行机制",
+   "url": "https://www.bestblogs.dev/status/2092245762411499894?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "文章解析长时运行 Agent 的 Harness 架构，包括模型、MCP 工具、Skills、Sandbox 四大模块及子 Agent、上下文管理等扩展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "前剪映负责人创业融资近亿，给 AI Coding 们补审美",
+   "url": "https://www.bestblogs.dev/article/7b1d412319?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 90,
+   "summary_zh": "前剪映负责人张琪智创办的OJO获近亿融资，推出AI产品原型设计工作台，通过三层架构帮助用户参与设计流程，将设计师判断拆解为Skill库，使普通用户也能参与设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GitHubDaily 推荐开源 AI 工具 Apodex 1.1 及 FrontierAgent 框架",
+   "url": "https://www.bestblogs.dev/status/2092243137133793743?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "GitHubDaily 推荐 Apodex 1.1 AI 工具及其开源框架 FrontierAgent，支持本地部署和任务自动化，提供 35B 模型 mini 版。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "被 AI 骂哭的用户，撑起了一个月入百万的语言学习 App",
+   "url": "https://www.bestblogs.dev/article/c69214b868?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "Pingo AI 通过毒舌人设和 VC 式管理，用 TikTok 和 Instagram 创作者实现 10 亿播放、月流水近 50 万美元。但产品体验差、定位模糊，RPD 仅 0.32 美元，远低于同行。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "前 Plaud 中国区 CEO 创业「Ambi」，入局“环境感知+AI 记忆”硬件",
+   "url": "https://www.bestblogs.dev/article/65d15af364?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "前 Plaud 中国区 CEO 莫子皓创立 Ambi，主打「环境感知 + AI 记忆」硬件，打造全天候在线的「个人第二大脑」。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Text-to-CAD 建模三要素：人画关键约束，AI 打磨细节",
+   "url": "https://www.bestblogs.dev/status/2092240247383834885?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 81,
+   "summary_zh": "Susan STEM 提出 text-to-CAD 建模三要素：手绘加关键约束、理解工具行为模式、AI 承担细节打磨。此方法使建模效率提升，简单模型仅需 1-2 个 prompt，适合产品设计师参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "MemOS Skill 上线｜一句话即可接入 MemOS Cloud",
+   "url": "https://www.oschina.net/news/502121",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "MemOS Skill 上线，开发者可通过一句提示词让 Agent 自动接入 MemOS Cloud，提升在 Claude Code、Cursor 等工具中的使用效率。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Researcher-in-the-loop",
+   "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "UX研究者与AI协作的新模式：研究者主导AI生成数据，提升研究效率与质量。AI可辅助自动化任务，但无法替代人类提出关键问题，研究者需保持主导地位。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "What luxury bags can teach designers about how to adapt to a changing deal",
+   "url": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "设计师面临AI生成界面和ROI压力，传统高保真设计的隐含决策价值被忽视。设计师需重新定义设计价值，强调决策过程而非仅输出结果。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "微软画图和照片应用生成的图像嵌入了看不见的水印",
+   "url": "https://www.solidot.org/story?sid=85192",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "微软画图和照片应用生成的AI图像嵌入了可见的Copilot logo和不可见的GUID水印，用于追踪用户身份。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Calendly gets a rippling, gloopy rebrand for the AI age",
+   "url": "https://www.fastcompany.com/91594105/calendly-gets-a-rippling-gloopy-rebrand-for-the-ai-age?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "Calendly 推出新品牌视觉，强调其不仅是日历工具。新增 AI 邮件助手和会议记录员，形成 AI 工具套件，提升用户效率。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "基于阿里千问，路透社推出首个自研大模型",
+   "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-25",
+   "score": 70,
+   "summary_zh": "路透社推出自研大模型Thomson-1，基于阿里Qwen3.5开发，用于表格分析和文档审核等任务，降低对闭源模型依赖。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Why Your Website Should Never Stop Changing",
+   "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 85,
+   "summary_zh": "网站上线后逐渐失去活力，因无人持续更新。Pierre Burgy 探索了通过自动化代理持续优化网站的方法，发现实现网站自主性背后存在更深层的设计问题。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "X观点｜系统记录在AI代理广泛应用的背景下愈发关键，治理、安全、访问控制等成为核心",
+   "url": "https://x.com/levie/status/2092087679240569126",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-25",
+   "score": 75,
+   "summary_zh": "系统记录在AI代理广泛应用的背景下愈发关键，治理、安全、访问控制等成为核心。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 344
+  }
+ ]
+}
