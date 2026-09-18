@@ -1,0 +1,320 @@
+{
+ "day": "2026-09-11",
+ "generated_at": "2026-09-11 07:17",
+ "scanned": 276,
+ "count": 24,
+ "items": [
+  {
+   "title": "8 voice AIUX patterns —— 8个语音AIUX模式",
+   "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "文章梳理了8种语音AI的UI模式，包括代理角色设定、设计决策及限制。以1922年Radio Rex玩具为例，说明早期语音交互依赖固定频率触发机制，为现代语音设计提供历史参考。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "How authentication friction frustrates users — and how to stop it —— 身份验证的摩擦如何让用户感到沮丧——以及如何阻止这种情况",
+   "url": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "2013年上线的ERP系统因复杂验证流程引发大量用户投诉，如忘记用户ID、需提供宠物名字等。设计者忽视了用户真实需求，使登录流程变成障碍。如今需简化验证步骤，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Five eras of UX design and the lessons to keep in the AI era —— 五次UX设计时代及在AI时代应铭记的教训",
+   "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "UX设计历经六个时代，AI时代需借鉴早期人因工程经验。贝尔实验室的约翰·卡尔林等先驱工作被忽视，当前教育体系缺乏对历史的系统传承。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Snowflake落地中国两年：迈向智能体企业时代，关键在上下文",
+   "url": "https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "Snowflake 中国首秀聚焦企业级智能体，强调上下文治理是 AI 信任基础。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "#716.Stripe：企业AI的关键是治理",
+   "url": "https://www.bestblogs.dev/podcast/5a722f3ed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "Stripe 内部 AI 系统 Kai 通过 Project 管理权限与成本，Skill 平台实现对话复用，10 人团队服务 1 万员工。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S. —— Dreambeans：每日为你定制的故事，现已向所有美国账户开放",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "Google 推出 Dreambeans，面向美国 18 岁以上用户，每日推送个性化故事合集，整合日历、邮件、照片等应用信息。用户可收藏、分享故事，反馈帮助优化内容。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "PayPal谈Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+   "url": "https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "PayPal 在大会上重点介绍了 Agentic Commerce 在跨境支付中的应用，包括 AI 在交易、风控、资金调度等环节的落地。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "GPT图像在UI设计中的实践发现：从问题到高精度可视化",
+   "url": "https://www.bestblogs.dev/status/2098085821266145329?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "GPT Image 2.5 可生成高精度 UI 效果图，支持 1:1 还原，减少设计中介环节。细节处理如纸雕、广告多格、陶瓷漫反射表现优异，提升设计效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The Gemini app is now available for Windows —— Gemini应用现已支持Windows系统",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "Google 推出 Gemini 桌面应用，支持 Windows 10/11。用户可通过快捷键 Alt+Space 快速调用，支持多任务处理、生成图像视频等功能。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Your first draft now has a log —— 你的初稿现在有了日志功能",
+   "url": "https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 75,
+   "summary_zh": "AI开始记录用户与语言模型的对话内容，包括健康、金钱、关系等敏感信息。对产品设计者意味着需重视用户隐私保护，设计更透明的数据处理机制。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Now everyone can put data to work —— 现在每个人都可以让数据投入工作",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "ChatGPT Work推出数据代理功能，可连接企业数据源如Redshift、BigQuery等，用户通过提问生成分析结果、交互式仪表盘。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "中科院江小涓谈AI新经济：AI正在改写中国企业“先国内、再出海”的老路径",
+   "url": "https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "中科院江小涓指出，AI推动中国企业进入‘生而为全球’的原生全球化阶段，产品设计、技术研发从一开始即面向全球。中国开源模型下载量已超美国，AI改变全球产业分工，企业需从创立之初即构建全球合规体系。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "蚂蚁数科推出Agentar金融版 助力金融机构打造智能体超级工厂",
+   "url": "https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "蚂蚁数科推出Agentar金融版，提供预置金融智能体专家团、Skill及工具，帮助金融机构快速构建智能体应用。该平台降低开发成本，统一管理模型与工具，适用于智能投顾、财富管理等场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "蚂蚁陈亮：能力决定AI能做什么，可信决定社会敢把什么交给AI",
+   "url": "https://www.leiphone.com/category/industrynews/X2TDF0nWzEIkJnmf.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "蚂蚁大安全CTO陈亮指出，AI能否规模化取决于可信度，而不仅是能力。蚂蚁正构建适用于Agent时代的安全能力，以应对用户不在场、委托边界变宽等挑战，确保智能体在授权范围内行动并可追溯。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "智象未来vivago R1全球上线，国内版本「够搭」全新升级发布：从15秒到5分钟，AI视频创作进入单反级交付时代",
+   "url": "https://www.leiphone.com/category/industrynews/7VtjXHgiuTlhpNkU.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "智象未来vivago R1全球上线，支持5分钟高质量视频生成，国内版本「够搭」升级。AI视频创作进入单反级交付时代，用户可通过自然语言完成从创意到成片的全流程。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "At last, Apple joins the war against fake AI images —— 终于，苹果加入对抗虚假AI图像的战争",
+   "url": "https://www.fastcompany.com/91604555/apple-reference-image-war-against-fake-ai-images?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "苹果在iPhone 18 Pro中推出Apple Reference Image技术，通过摄像头传感器对每张照片的像素进行加密签名，以验证图像真实性。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "AI开始学习「想象未来」：ECCV 2026背后，中国学者如何卡位世界模型",
+   "url": "https://www.leiphone.com/category/private/N4B8vPY6fPQvqU4Z.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "ECCV 2026 收到 10473 篇投稿，接收 2883 篇，接收率 27.5%。会议设置 13 个与世界模型相关的 workshop，显示该领域热度上升。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+   "url": "https://www.qbitai.com/2026/09/486900.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 80,
+   "summary_zh": "高德发布ABot-Earth 0.7，基于3D原生技术与时空数据，10分钟生成公里级3D城市场景，效率提升1000倍。产品支持自由探索与实时交互，为AI理解真实世界提供入口，适用于飞行街景2.0等场景。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "首个生活场景智能体大奖：支付宝每年1000万激励开发者",
+   "url": "https://www.leiphone.com/category/industrynews/osi55rJJYCUZuY7h.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "支付宝设立‘智能体涌现奖’，每年投入1000万元，鼓励开发者用自然语言创建生活场景智能服务，无需编程。入围作品可接入支付宝，服务10亿用户，完成商业化闭环。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Ubuntu设计团队往事：品味是如何死在投票箱里的？",
+   "url": "https://www.oschina.net/news/502408",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 75,
+   "summary_zh": "Ubuntu 设计团队曾试图通过投票决定启动器动画设计，但最终失败。David Siegel 回顾这段经历，指出过度依赖投票可能损害设计品质，强调用户体验需专业判断而非民主决策。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+   "url": "https://www.qbitai.com/2026/09/486684.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "OpenAI发布ChatGPT Images 2.5，生成速度提升最多50%，支持草图参考和图片批注修改，改图更稳定。对设计师而言，多轮编辑一致性增强，局部修改更可控，适合电商、海报等场景。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "X观点｜X 上 Guillermo Rauch 宣布举办 AI Benchmarks…",
+   "url": "https://x.com/rauchg/status/2097837950612717804",
+   "source": "X · @rauchg",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 70,
+   "summary_zh": "X 上 Guillermo Rauch 宣布举办 AI Benchmarks 会议，聚焦模型评估与软件发展。该活动旨在推动技能、真相与效率，对产品设计者而言，是了解 AI 评估趋势和工具的重要机会。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 183
+  },
+  {
+   "title": "X观点｜Aaron Levie认为，编码代理将被广泛用于新工具开发、企业软件、网络安…",
+   "url": "https://x.com/levie/status/2097920810543468551",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-10",
+   "score": 85,
+   "summary_zh": "Aaron Levie认为，编码代理将被广泛用于新工具开发、企业软件、网络安全、生命科学研究等领域，降低编程成本将大幅提升软件实用性与工程师价值，从而需要更多工程师。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 70
+  },
+  {
+   "title": "X观点｜X团队将自定义工具替换为统一的仪表盘和插件系统，所有功能现在以侧边栏入口、仪…",
+   "url": "https://x.com/steipete/status/2097880507753382201",
+   "source": "X · @steipete",
+   "cat": "AI新闻",
+   "date": "2026-09-10",
+   "score": 75,
+   "summary_zh": "X团队将自定义工具替换为统一的仪表盘和插件系统，所有功能现在以侧边栏入口、仪表盘或插件形式存在，提升协作效率。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 161
+  }
+ ]
+}
