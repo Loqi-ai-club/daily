@@ -1,0 +1,164 @@
+{
+ "day": "2026-09-05",
+ "generated_at": "2026-09-05 07:15",
+ "scanned": 258,
+ "count": 12,
+ "items": [
+  {
+   "title": "Claude Code 新闻公告：Fable 5.1 性能提升与数据安全改善",
+   "url": "https://www.bestblogs.dev/status/2095976692497916149?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "Anthropic 推出 Claude Fable 5.1，科学基准测试性能翻倍，缓存读取成本降 75%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6 Astra 现已登陆 Codex",
+   "url": "https://www.bestblogs.dev/status/2095956743800881377?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "GPT-6 Astra 已在 Codex 平台测试，目前仅限部分用户使用。该模型可提升代码生成与分析能力，对开发者而言是重要工具升级。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Using AI for UX Work: Study Guide —— 利用AI进行用户体验工作：学习指南",
+   "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "AI在UX工作中的应用已成趋势，但尚未能完全替代设计师。UX设计师应善用AI工具提升效率，同时保持对用户需求的把控。AI可辅助设计、研究、写作等环节，但核心仍需人类策略与创造力。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Create your best tracks yet with Lyria 3.5 in Gemini. —— 使用Gemini中的Lyria 3.5创作你最好的音轨",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "Google 推出 Lyria 3.5 音乐生成模型，支持更丰富的声线和编曲，用户可在 Gemini App 中选择风格、使用模板快速创作背景音乐或生日曲等。该模型已开放给全球用户及开发者，提升音乐创作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "The Folder Is the Agent —— 文件夹即代理",
+   "url": "https://every.to/source-code/the-folder-is-the-agent-rerun",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 70,
+   "summary_zh": "Every将发布Kieran Klaassen关于如何通过‘文件作为代理’方法协调44个专业代理的反思文章。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "GPT 6 Astra 震惊瘫坐...完全无法动弹",
+   "url": "https://www.bestblogs.dev/article/793a27d2df?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 75,
+   "summary_zh": "OpenAI 推出 GPT 6 Astra，重点提升计算机操作能力，但智能指数仅比前代提升 1 分，成本却上涨 2.5 倍。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Codex 悄悄大改了记忆系统！",
+   "url": "https://www.bestblogs.dev/article/4d820ebfb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 75,
+   "summary_zh": "Codex CLI 放弃传统有损压缩机制，改用 token 预算与上下文切换管理记忆，通过 history 和 notes 保留完整信息，提升长文本与复杂任务处理能力，为 Agent 系统提供新思路。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI办公产品大战后，BAT进入生态大战｜大公司",
+   "url": "https://www.bestblogs.dev/article/040cc1f363?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "腾讯 WorkBuddy 开放平台上线，接入超 100 家软硬件开发者，用户可直接调用硬件音频数据或唤起服务。此举标志着 AI 办公产品从单点竞争转向生态构建，与阿里、字节展开全方位竞争。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "打穿AI智商测试！GPT-6 Astra的符号世界模型，是突破还是钞能力刷分？",
+   "url": "https://www.leiphone.com/category/yanxishe/FQUliuw9lt15UH54.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 70,
+   "summary_zh": "GPT-6 Astra在ARC-AGI-3测试中接近满分，比人类效率高51.7%。这表明其具备在陌生环境中推理解决问题的能力，对产品设计意味着AI可更灵活应对复杂场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "全生态物理AI落地，小米的主场攻防战",
+   "url": "https://www.leiphone.com/category/robot/e96zyiLA9MYshHvY.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 70,
+   "summary_zh": "小米在IFA展会上展示人车家全生态物理AI落地成果，吸引海外消费者关注。物理AI需芯片、模型、终端等多环节协同，门槛高但潜力大，预示AI应用正从数字转向实体交互。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Open Flow 开源：面向AI Agent的工作流自动化平台",
+   "url": "https://www.oschina.net/news/502325",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-09-04",
+   "score": 85,
+   "summary_zh": "OOMOL Lab 开源 Open Flow，支持 AI Agent 参与工作流生命周期，提供可视化界面和命令行接口。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜Guillermo Rauch 认为用户反馈是改进产品的宝贵资源，每条反馈都…",
+   "url": "https://x.com/rauchg/status/2095720463397753000",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-04",
+   "score": 70,
+   "summary_zh": "Guillermo Rauch 认为用户反馈是改进产品的宝贵资源，每条反馈都相当于为产品团队提供了优化方向。对产品设计者而言，重视并利用用户反馈能更精准地提升产品体验。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 257
+  }
+ ]
+}

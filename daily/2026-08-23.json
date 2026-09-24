@@ -1,0 +1,398 @@
+{
+ "day": "2026-08-23",
+ "generated_at": "2026-08-23 09:57",
+ "scanned": 536,
+ "count": 30,
+ "items": [
+  {
+   "title": "AI 原生组织转型 01：用 AI 对齐事实、对齐打法",
+   "url": "https://www.bestblogs.dev/podcast/db03693fc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-22",
+   "score": 85,
+   "summary_zh": "AI原生组织转型强调用AI替代传统协作方式，安克创新将20个环节压缩至三四个，减少交接；出门问问用Agent替代会议，Claude Tag主动纠正决策。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "我个人最欣赏的 AI 用法",
+   "url": "https://www.bestblogs.dev/article/3deaaf4386?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-22",
+   "score": 75,
+   "summary_zh": "作者认为AI最有价值的用法是通过多轮对话锻炼思维，帮助发现认知盲区。AI可作为智能导师，引导用户深入思考，重塑个人思维模式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从游戏社会到“主角江湖”：独狼玩家为何热衷在多人网游里斗地主",
+   "url": "https://www.bestblogs.dev/article/a9f38ca73f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-22",
+   "score": 85,
+   "summary_zh": "《逆水寒手游》《燕云十六声》通过AI智能体替代社交、叙事机制升级和休闲玩法扩容，满足独狼玩家单机需求。这反映社会原子化趋势，MMORPG正向更私密、个体化方向发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "🔥 SolonCode 的两个\"后悔药\"：重新运行 vs 继续运行",
+   "url": "https://www.oschina.net/news/502070",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "SolonCode 新增 Re-run 和 Continue 两个按钮，前者删除旧回答重新运行，后者保留旧回答追加内容。这对需要反复调试代码或逐步构建逻辑的开发者来说，能更高效地调整和验证代码。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "How Ora benchmarks every major AI agent on Vercel —— Ora 如何在 Vercel 上对所有主要 AI 代理进行基准测试",
+   "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+   "source": "Vercel",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "Ora在Vercel平台上测试主流AI代理，模拟注册、集成和付费流程，发现99%网站无法被代理处理。平台展示失败环节及改进方案，帮助开发者优化网站兼容性。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Artificial Intelligence: Glossary —— 人工智能：术语表",
+   "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "文章提供AI术语表，解释了AI代理、AI工程、AI劣质内容等概念，帮助设计师理解AI产品的工作方式。设计师应关注术语定义与实际应用的差异，以便更准确地进行产品设计。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "AI-Generated Images Can Perform as Well as Stock Photography —— AI生成图像的表现可与库存摄影相媲美",
+   "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 75,
+   "summary_zh": "Nielsen Norman Group研究发现，AI生成图片在信任度、专业性和真实性评分上与真实图片无显著差异，甚至在真实性上略胜一筹。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
+   "url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "内容团队面临视频生成后筛选、修改和交付的隐性成本压力，MiniMax Design 通过 Agent 驱动的工作流，直接从需求生成脚本、分镜、素材和成片，减少人工拆解和跨工具操作，提升批量视频生产的效…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
+   "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "百度文库网盘推出库库AI，整合办公、素材处理等能力，支持三端同步，优化记忆系统，提升跨设备体验。依托百度网盘技术，实现高效数据处理，C端已成熟，B端逐步渗透，金融投研为首个重点场景，海外产品同步布局。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
+   "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "Vercel 推出 v0 API，允许开发者通过编程方式生成和修改应用，并在 Sandbox 中运行。该 API 支持同步、异步和流式请求，还能集成外部工具和设计系统。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "🔥 SolonCode 是不是国产化替代 ClaudeCode 的优选？",
+   "url": "https://www.oschina.net/news/502066",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "国内企业替换 ClaudeCode 主要考虑安全审计、代码脱敏和数据本地化。SolonCode 在安装配置、模型选择、兼容性等方面表现如何，需具体对比后判断是否为优选。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+   "url": "https://www.ifanr.com/1676048?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-08-21",
+   "score": 75,
+   "summary_zh": "微信灰度测试AI修图功能，支持美颜、滤镜等11类操作，使用微信定制WeLM模型。对产品设计者而言，微信正将AI能力嵌入现有功能，而非独立App，需关注其如何平衡算力成本与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Agent infra is getting more productized —— Agent基础设施正变得越来越产品化",
+   "url": "https://x.com/tiagonbotelho/status/2090837735351230828",
+   "source": "AI News (smol.ai)",
+   "cat": "AI工具",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "GitHub 将协作代理工作流程集成到 Slack 和 Teams，支持代理自动提 PR 并与设计师协作。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model (Activity —— Qwen3.8-27b 具备我所见过的本地模型中最高水平的“代理能力”（活动）",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "Qwen3.8-27B在单块RTX 3090上运行，通过量化和缓存技术实现自主代理功能，能自动获取课程表和处理社交媒体视频。对产品设计者而言，展示了大模型在本地执行复杂任务的潜力。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "How to become an AI Designer —— 如何成为AI设计师",
+   "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "设计师尝试脱离Figma，用Claude快速制作交互原型，提升协作效率。AI工具让设计流程更敏捷，适合需要高频迭代的产品团队。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "AIGCPanel v2.2.0 一句话让图片动起来，AIGCPanel 把视频生成装进了桌面",
+   "url": "https://www.oschina.net/news/502048",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-21",
+   "score": 75,
+   "summary_zh": "AIGCPanel v2.2.0 新增「文生视频」和「图生视频」功能，用户只需输入文字或上传图片加描述即可生成视频。该功能简化了视频制作流程，适合需要快速生成视频内容的产品设计师使用。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Sightlines issue no.2: What leaders need to know about building agents —— Sightlines第2期：领导者在构建代理时需要了解的内容",
+   "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Figma 探讨了构建智能代理产品的设计挑战，强调工具需兼具强大功能与安全性，以赢得用户信任。产品设计者需平衡自主性与可控性，确保用户体验与数据安全。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "In Defense of AI Writing —— 为AI写作辩护",
+   "url": "https://every.to/context-window/in-defense-of-ai-writing",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 70,
+   "summary_zh": "技术咨询公司高管Mike Taylor承认，其在Every平台发表的热门文章和博客内容多由AI生成，他仅负责修改和结构调整。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+   "url": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 70,
+   "summary_zh": "Snowflake 推出 CoCo，直接运行在平台内部，可读取数据目录、执行 SQL，内置数据任务技能，减少手动维护上下文。数据工程师可专注设计，无需反复搭建脚手架。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
+   "url": "https://www.solidot.org/story?sid=85148",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-08-20",
+   "score": 70,
+   "summary_zh": "AI 记录员误将患者服用迷幻蘑菇写入病历，导致患者被误认为有相关经历。AI 医疗记录员使用率已达四成，错误信息可能影响临床决策。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "What nobody tells you about AI ethics —— 没人告诉你的关于AI伦理的事",
+   "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 75,
+   "summary_zh": "AI决策引发道德责任争议，用户对‘AI决定’与‘系统设计’的归责差异显著。研究显示，AI伦理涉及UX设计，透明解释可减少道德冲突。设计师需关注系统叙事对用户信任与法律影响。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Vercel 发布 fx：Zig 语言实现的轻量 Agent，能直接在浏览器里跑",
+   "url": "https://www.oschina.net/news/502038/vercel-fx",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel 开源了 fx，一个用 Zig 编写的轻量级 Agent，可在浏览器运行，二进制仅 6.39MB，冷启动仅需 10 微秒。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Anthropic made its agent platform more composable and production-ready —— Anthropic使其代理平台更易于组合且适合生产使用",
+   "url": "https://x.com/ClaudeDevs/status/2090540270219567575",
+   "source": "AI News (smol.ai)",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "Anthropic 发布 Claude 平台多项功能，包括计算机使用、浏览器工具、Skills API 和 Files API，后者支持过期控制、500 RPM 速率限制及 1 TB/组织存储。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "OpenAI pushed several desktop and builder features in one wave —— OpenAI一次性推送了多个桌面和构建器功能",
+   "url": "https://x.com/ChatGPT/status/2090499359641329950",
+   "source": "AI News (smol.ai)",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "ChatGPT for Mac新增Apple Messages插件，支持消息搜索、草稿发送等功能；ChatGPT Sites支持多人协作编辑，共享只读链接和PR上下文。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "The most interesting agent research in the set was about harness evolution, not model weights —— 该集中最有趣的代理研究是关于驾驭器演变，而非模型权重",
+   "url": "https://x.com/omarsar0/status/2090533587066249514",
+   "source": "AI News (smol.ai)",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "研究发现，智能体的进化应关注‘Harness’而非模型权重，通过独立演化提示、记忆、技能和路由规则，可避免因更新导致的性能下降。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Zhipu’s GLM-5.3 keeps showing up in agentic/code evals —— 智谱的GLM-5.3在代理/代码评估中频繁出现",
+   "url": "https://x.com/AutoClawAIer/status/2090446256342708724",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-20",
+   "score": 70,
+   "summary_zh": "智谱GLM-5.3集成至AutoClaw工作代理，提升代码评估表现；Code Arena测试中位列开源模型第二，总排名第八，得分1597；SAO优化算法增强异步强化学习稳定性。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Is design dead in the age of AI? —— 在AI时代，设计是否已死？",
+   "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "AI不会取代设计，但会改变设计。设计的独特性在于人类的情感与个性，AI无法复制。设计师应深化技艺、拥抱不完美、拓宽影响来源，并建立真实关系。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "How to choose a UI font (and 10 Inter alternatives) —— 如何选择UI字体（以及10个Inter替代方案）",
+   "url": "https://yeptype.com/article/inter-alternatives",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 75,
+   "summary_zh": "文章指出选择UI字体应关注两个关键指标：顶高对称和x高度较高。前者确保文字在按钮中居中对齐，后者使文字更饱满。Inter字体符合这些标准，但设计师可考虑其他符合规范的字体以避免视觉疲劳。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "It really wasn’t your fault, Coyote —— Coyote，这真的不是你的错",
+   "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章用ACME公司设计的陷阱产品，分析了产品设计中的失败案例。对设计师而言，需关注工具可靠性与用户实际需求的匹配，避免因设计缺陷导致用户无法达成目标。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "How v0 authenticates to Snowflake without exposing the user's OAuth token —— v0如何在不暴露用户OAuth令牌的情况下认证到Snowflake",
+   "url": "https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token",
+   "source": "Vercel",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 70,
+   "summary_zh": "Vercel 的 v0 在连接 Snowflake 时，通过无用户 OAuth token 的方式实现认证。该方法避免了暴露用户凭证，同时让生成的代码能安全访问 Snowflake 数据。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  }
+ ]
+}

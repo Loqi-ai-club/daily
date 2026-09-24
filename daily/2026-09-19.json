@@ -1,0 +1,386 @@
+{
+ "day": "2026-09-19",
+ "generated_at": "2026-09-19 07:17",
+ "scanned": 267,
+ "count": 29,
+ "items": [
+  {
+   "title": "Whatever happened to “Download on the App Store” buttons? —— “在App Store下载”按钮去哪了？",
+   "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "苹果和谷歌曾提供标准化的“下载App Store”和“Google Play”按钮，如今几乎消失。这些按钮曾广泛用于引导用户下载应用，现在被替代方案取代。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "拆解近1个月来全球AI领导者的6次访谈和2篇万字长文",
+   "url": "https://www.bestblogs.dev/article/7e6223a7dc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "Sam Altman、Dario Amodei 等 AI 领袖讨论智能时代愿景与安全风险，黄仁勋称 AI 正引发类似工业革命的变革，AI 成本下降速度超摩尔定律。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Jev实时生成游戏关卡，降低游戏开发成本",
+   "url": "https://www.bestblogs.dev/status/2101031465597247888?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 82,
+   "summary_zh": "NVIDIA 的 Jev 模型可实时生成游戏关卡，无需预渲染或手动设置，降低开发成本。设计师能动态调整关卡，提升效率和灵活性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "开发者用AI辅助自建开源Photoshop替代品",
+   "url": "https://www.bestblogs.dev/status/2101029005159805101?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 76,
+   "summary_zh": "开发者用 Claude 辅助开发开源图像编辑器 Compositor，体积仅 12MB，对比 Photoshop 的 6455MB。AI 工具让个人能独立构建复杂桌面应用，提供轻量替代方案。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Code新增对AGENTS.md的支持",
+   "url": "https://www.bestblogs.dev/status/2101013914116915454?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 76,
+   "summary_zh": "Claude Code v2.1.277 新增对 AGENTS.md 的支持，可替代 CLAUDE.md 定义 Agent 行为，用户可通过 /config 自定义开关。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Vibe Check: Is Astra a Breakthrough for Indie Filmmakers? —— Vibe Check：Astra是否是独立电影制作人的突破？",
+   "url": "https://every.to/p/vibe-check-is-astra-a-breakthrough-for-indie-filmmakers",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "Afterimage 用 Astra 处理了真实拍摄的素材，包括替换盘中食物和添加建筑等特效。Astra 显示出处理复杂视觉效果的潜力，可能为独立电影制作人提供更高效的后期工具。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "WebMCP support now available in mcp-handler —— mcp-handler现已支持WebMCP",
+   "url": "https://vercel.com/changelog/webmcp-mcp-handler",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "Vercel 的 mcp-handler 现支持实验性 WebMCP，通过添加 script 标签即可在浏览器中使用 MCP 工具。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Figure让机器人第一次“空手”进入陌生人家：不远程操控，也不提前预习，进家门后直接干活",
+   "url": "https://www.bestblogs.dev/article/df0a33d8b5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 75,
+   "summary_zh": "Figure AI 推出 Helix 2.5 模型，通过 Index 数据集实现机器人在 30 个陌生家庭中完成零样本任务，成功率 56%。表明大规模预训练可提升机器人泛化能力，为商业化部署奠定基础。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Designing AI Products and Features: Study Guide —— 设计AI产品和功能：学习指南",
+   "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 90,
+   "summary_zh": "Nielsen Norman Group指出，AI产品设计需谨慎评估价值，避免盲目投入。研究强调应明确用户需求，而非单纯追求技术亮点。具体建议包括优化提示设计、关注实际应用场景，并根据AI能力变化调整设计策略。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "The 3 Roles of Context for AI Agents —— AI代理中上下文的3种角色",
+   "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "用户通过构建包含文件、数据库和实时连接的上下文库，帮助AI代理更精准执行任务。上下文分为全局、局部和环境三类，分别影响AI的长期行为、特定任务和信息筛选。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+   "url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "Anthropic 披露 Claude 已主导 26% 的 AI 研发，3 万个 Agent 同时运行，AI 协作水平达 90%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”",
+   "url": "https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "智谱GLM-5.3-Flash通过Infra Agent在10万张国产芯片集群上完成模型适配与性能优化，两周内端到端吞吐提升至初始基线3倍。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The next phase of design will still be human-led —— 下一阶段的设计仍将由人主导",
+   "url": "https://www.fastcompany.com/91609602/the-next-phase-of-design-will-still-be-human-led?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "生成式AI让创意实现更快，但人类判断更关键。Spotify设计总监Emily Galloway在2026 Fast Company创新节上强调，创新成本降低，但人类决策不可替代。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Jev与大模型的快思考分工",
+   "url": "https://www.bestblogs.dev/status/2100989109263351827?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 76,
+   "summary_zh": "Jev 采用快思考机制处理简单任务，与大模型的慢思考分工，提升效率。产品设计者可借此优化任务分配，降低复杂任务处理压力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "微软高管称AI的训练数据是人类历史上最大规模的劳动盗窃",
+   "url": "https://www.solidot.org/story?sid=85423",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "微软高管称抓取新闻训练AI是史上最大规模劳动盗窃，认为此做法不合理且伤害Web生态。微软数据显示部分新闻网站点击率下降达93%，OpenAI曾利用漏洞绕过付费墙。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "ColorOS 17发布，OPPO开始将手机OS推向AgentOS",
+   "url": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "ColorOS 17 发布，OPPO 推出 On-Device Compute 端侧大模型，内存降低 48%，并展示 Agent Matrix 智能体生态，小布 Next 支持多 AI 协作处理复杂任…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "85%的日本游戏开发者在工作中使用生成式AI",
+   "url": "https://www.solidot.org/story?sid=85422",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 75,
+   "summary_zh": "日本85.8%游戏开发者使用生成式AI，主要用于提升效率、缩短周期和降低成本，常见用途包括生成视觉素材、文本及辅助编程。Capcom等公司用AI减少日常任务，但强调AI在感性上无法替代创作者。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "安全研究人员利用Claude成功入侵OpenAI",
+   "url": "https://www.solidot.org/story?sid=85421",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "安全团队利用 OpenAI SSO 配置错误和 Discourse 软件漏洞，入侵员工 ChatGPT 账户并访问内部代码库，获赏金 6500 美元。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "「产品管理」做什么、怎么做？一文讲透！",
+   "url": "https://www.bestblogs.dev/article/c51ce1c2e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "文章由史蒂文·海恩斯撰写，定义产品管理为对产品全生命周期的整体性业务管理，分为四个动态循环模块：发现与创新、新产品计划、新产品导入、上市后管理。产品管理强调跨职能协作与价值最大化，是一个相互关联的系统。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/rcdvotw7hh9zdbf0uj02.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "Adobe Acrobat 新增 AI 功能，可将复杂报告转为可视化摘要、互动报告、播客和音频，提升理解效率。Stylize 功能一键美化文档，保留原文引用链接。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Ask LukeW: Less Walls of Text —— Ask LukeW：减少大段文字",
+   "url": "https://www.lukew.com/ff/entry.asp?2162",
+   "source": "LukeW",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "Ask LukeW 推出视觉化回答功能，减少大段文字，提升阅读体验。设计师可更高效获取设计策略建议，减少信息过载。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "Claude Code改版Projects：从资料文件夹变成云端多任务工作大厅",
+   "url": "https://www.bestblogs.dev/status/2100940200751092092?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-18",
+   "score": 90,
+   "summary_zh": "Claude Code 的 Projects 功能升级为云端多任务工作大厅，用户可在主对话中拆分任务并由下属 AI 并行执行，任务进度可手机查看。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "We are all Product Engineers now —— 我们现在都是产品工程师",
+   "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 75,
+   "summary_zh": "文章指出，AI代理将接管软件开发全流程，编程成本大幅下降，初级程序员市场萎缩。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Why your numbers look wrong —— 为什么你的数据看起来不对",
+   "url": "https://www.carmenansio.com/articles/opentype-features-css/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "字体默认数字导致仪表盘数据错位，使用 tabular-nums 可使数字对齐，提升视觉稳定性。产品设计中，表格、统计面板等需统一数字宽度，避免布局抖动。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Designing with AI —— 与AI协作设计",
+   "url": "https://buzzusborne.com/work/designing-with-ai/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "Help Scout 通过编写 AI 操作原则和设计原则，使 AI 生成的设计更符合品牌风格。同时重构设计系统，使其能被大语言模型理解，提升 AI 生成设计的质量和效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "美国政府网站使用了阿里巴巴的千问模型",
+   "url": "https://www.solidot.org/story?sid=85417",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "美国《联邦公报》网站曾使用阿里巴巴通义千问模型提供AI搜索工具，后因舆论压力下线。此举引发对美政府立场与实际做法是否一致的质疑，专家认为虽不必然构成安全风险，但凸显中美AI竞争背景下政府选择的矛盾。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Altman and Amodei’s “unsafe at any prompt” moment for AI —— Altman和Amodei的AI“任何提示下均不安全”时刻",
+   "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 70,
+   "summary_zh": "文章类比1965年Ralph Nader揭露汽车安全隐患，指出AI行业正以类似方式掩盖问题。当前AI事故归咎于用户操作，而非技术缺陷，呼吁行业正视风险并采取行动。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "GLM-5.3-FlashX上线，智谱将国产卡上的推理速度提升至200 token/s",
+   "url": "https://www.oschina.net/news/502582",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-09-18",
+   "score": 85,
+   "summary_zh": "智谱推出GLM-5.3-FlashX，推理速度达200 token/s。该模型基于国产芯片集群优化，适合需要高吞吐量的AI应用开发。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜当前推理任务中，代理（Agents）已占多数，未来一两年将几乎全部由代理完成",
+   "url": "https://x.com/levie/status/2100799668573946191",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-18",
+   "score": 90,
+   "summary_zh": "当前推理任务中，代理（Agents）已占多数，未来一两年将几乎全部由代理完成。它们将处理代码审查、数据分析、招聘研究等任务，消耗大量算力。新代理部署速度加快，技术突破使更多复杂流程成为可能。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 79
+  }
+ ]
+}
