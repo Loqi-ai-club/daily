@@ -1,0 +1,309 @@
+{
+ "day": "2026-09-03",
+ "generated_at": "2026-09-03 07:21",
+ "scanned": 273,
+ "count": 23,
+ "items": [
+  {
+   "title": "When the canvas starts acting, who’s really in control? —— 当画布开始行动时，谁真正掌握控制权？",
+   "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 90,
+   "summary_zh": "界面开始自主行动，设计师控制权减弱。新界面能整合多工具信息并自动执行任务，减少用户操作步骤。设计师需关注如何引导AI行为，而非仅设计交互流程。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI took away engineering’s right to say no —— AI剥夺了工程师说“不”的权利",
+   "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 70,
+   "summary_zh": "AI削弱了工程师对技术可行性的判断权，使他们失去主导权。工程师曾通过代码复杂性控制项目，但现在AI介入后，他们不再是唯一能决定可能性的人。这对产品设计意味着需重新平衡AI与人工判断的协作方式。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "How Coinbase used Code Connect to guide agents and shrink token costs —— Coinbase如何利用Code Connect引导代理并减少代币成本",
+   "url": "https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "Coinbase 使用 Figma Code Connect 提升代理生成代码质量，减少 22.5% 的 token 消耗。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "#701.AI 如何加速学习与重塑教育",
+   "url": "https://www.bestblogs.dev/podcast/42f3de5aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 75,
+   "summary_zh": "Alpha School 校长 Joe Liemandt 介绍 AI 如何通过个性化教学和掌握式学习，让学生每天仅学两小时即可提升成绩并培养创造力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber —— 推出Gemini 3.8 Flash和3.8 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+   "source": "Google DeepMind",
+   "cat": "AI新闻",
+   "date": "2026-09-02",
+   "score": 80,
+   "summary_zh": "Google DeepMind发布Gemini 3.8 Flash和3.8 Flash Cyber，前者在代码和推理能力上显著提升，后者在网络安全领域表现突出，漏洞检测成功率超70%。",
+   "source_count": 1,
+   "sources": [
+    "Google DeepMind"
+   ]
+  },
+  {
+   "title": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！",
+   "url": "https://www.bestblogs.dev/podcast/7a8ed6920?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 75,
+   "summary_zh": "数美万物创始人卷卷分享从抖音到AI 3D生成的创业历程，强调AI生成3D模型在制造业的应用价值，团队自研Hi3D 3.0模型并自建实验工厂，推动柔性面料数字化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+   "url": "https://www.bestblogs.dev/article/fcd75eff08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "李飞飞团队发布多模态世界模型 Atlas，支持用 1-6 张照片生成 1 分钟 1440p 视频，空间重建仅需 2-25 张游客视角照片。对产品设计者而言，大幅降低视频生成与机器人仿真成本，提升内容创作效率。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Orbis 1.0：实时生成持久互动世界",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/optpam1cxqytmlh40qm4.html#p5",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "Anthropic发布Claude Fable 5.1，科学与编码能力显著提升，推理速度加快2.5倍；World Labs推出Atlas模型，可由图像生成3D世界，支持实时交互与物理模拟。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "龙虾之父，困在了龙虾里",
+   "url": "https://www.bestblogs.dev/article/54e7a94ec6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "OpenClaw 创始人斯坦伯格经历项目爆红后陷入用户流失与产品落后困境，2.0 版本虽重构记忆机制等核心功能，但已被竞品超越，新项目 Crabbox 也遇冷，反映 AI Agent 赛道泡沫。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "前Meta团队：估值3亿美元的初创公司如何构建AI agent基础设施层丨 Will Phillips",
+   "url": "https://www.bestblogs.dev/article/f6b3e45ef2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "Guild.ai 为 AI Agent 提供控制层，解决生产环境中的可见性、成本与结果追踪问题。通过监控运行记录、转稳定流程为确定性代码、优化器自证质量，帮助企业降低成本并提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Fable 5.1正式发布：性能翻倍、Agent成本下降45%，Anthropic将顶级模型送入现实世界",
+   "url": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "Anthropic 发布 Fable 5.1 和 Mythos 5.1，前者性能翻倍、Agent 成本降 45%，后者仅限信任机构使用。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Making kyōwa possible with AI —— 用AI实现kyōwa",
+   "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "文章探讨如何通过AI技术解构发送按钮，使文字能像草图一样灵活使用。对产品设计者而言，这种解构方式可能启发更多交互创新，提升用户在沟通中的创作自由度。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "This clever app turns photos of everyday objects into an aesthetic file system —— 这个聪明的应用程序将日常物品的照片转化为美观的文件系统",
+   "url": "https://www.fastcompany.com/91599902/archiv-app-turns-your-phone-into-an-archive-of-ordinary-objects?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI工具",
+   "date": "2026-09-02",
+   "score": 75,
+   "summary_zh": "Archiv 应用通过拍照将日常物品转化为美学档案，帮助用户建立个性化收藏系统。设计师 David McGillivray 正在测试中，用户可上传物品照片，应用将自动识别并归类，适合对物品有组织需求的用户。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "李飞飞的World Labs，把赛博朋克的「超梦」做出来了",
+   "url": "https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 70,
+   "summary_zh": "李飞飞团队 World Labs 推出 3D 世界模型 Atlas，仅用 3-5 台手机即可生成子弹时间效果，无需传统多机位阵列。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI ruined posters. This human designer is fixing them —— AI毁坏了海报，这位人类设计师正在修复它们",
+   "url": "https://www.fastcompany.com/91599914/ai-ruined-posters-this-human-designer-is-fixing-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "AI生成的海报因过度信息堆砌、不自然色调和布局而广受诟病，设计师们开始重新设计这些海报以突出人类创意的价值。AI海报常使用大量文字和图标，缺乏视觉优化，影响用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+   "url": "https://www.qbitai.com/2026/09/483274.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "SkyProduction天工工作台8月31日上线新版本，整合剧本、分镜、视频生成等功能，支持剧本翻译、评分、小说转剧本，降低AI短剧生成成本至0.4元/秒，提升团队协作效率，让创作者更专注创意打磨。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "How AI-ready is your design system? —— 您的设计系统有多AI就绪？",
+   "url": "https://christophhellmuth.com/open-design-system-bench/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "Sidebar 发布了 open-design-system-bench 工具，评估 AI 生成 UI 是否遵循设计系统。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The critical design engineering manifesto —— 批判性设计工程宣言",
+   "url": "https://www.pipshea.net/manifesto",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "2011年《批判工程宣言》被重新诠释为《批判设计工程宣言》，强调代码作为设计材料，关注生成工具的潜在威胁，主张设计可理解的接口，记录决策原因，并重视代码库中的批判性实践。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座",
+   "url": "https://www.leiphone.com/category/industrynews/3BBOm1CluS1kcwFf.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-02",
+   "score": 85,
+   "summary_zh": "腾讯WorkBuddy开放平台上线，首批引入超百家生态伙伴，打通软硬件与开发者三层生态。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜Peter Yang 在使用 AI 技能时发现，手动迭代后让 AI 自动优化…",
+   "url": "https://x.com/petergyang/status/2094995775952740795",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-02",
+   "score": 75,
+   "summary_zh": "Peter Yang 在使用 AI 技能时发现，手动迭代后让 AI 自动优化会导致技能过度拟合，长期使用后效果下降。他询问是否有方法避免这种技能漂移问题。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 102
+  },
+  {
+   "title": "X观点｜Fable 5.1 推出新功能 /claude-api prompt-aud…",
+   "url": "https://x.com/petergyang/status/2094987791566622971",
+   "source": "X · @petergyang",
+   "cat": "AI工具",
+   "date": "2026-09-02",
+   "score": 70,
+   "summary_zh": "Fable 5.1 推出新功能 /claude-api prompt-audit，可检测并优化技能中的冗余规则。Peter Yang 建议用户运行该工具，以适配最新模型。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1514
+  },
+  {
+   "title": "X观点｜减少AI代理的烦扰能提升用户体验，避免用户流失",
+   "url": "https://x.com/thenanyu/status/2094928205753040999",
+   "source": "X · @thenanyu",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-01",
+   "score": 85,
+   "summary_zh": "减少AI代理的烦扰能提升用户体验，避免用户流失。UX设计师可探索对话与修辞设计，优化人机交互方式。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 113
+  },
+  {
+   "title": "X观点｜Fable 5.1 发布，支持更复杂的任务处理",
+   "url": "https://x.com/_catwu/status/2094933602228416603",
+   "source": "X · @_catwu",
+   "cat": "AI工具",
+   "date": "2026-09-01",
+   "score": 85,
+   "summary_zh": "Fable 5.1 发布，支持更复杂的任务处理。用户可通过 Claude Code、Claude Cowork、Claude Tag 提交任务，团队能更快完成以往需数月的项目。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 325
+  }
+ ]
+}

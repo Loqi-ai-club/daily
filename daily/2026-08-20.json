@@ -1,0 +1,400 @@
+{
+ "day": "2026-08-20",
+ "generated_at": "2026-08-20 18:15",
+ "scanned": 775,
+ "count": 30,
+ "items": [
+  {
+   "title": "Vercel 发布 fx：用 Zig 语言实现的轻量级 Agent，可在浏览器中直接运行",
+   "url": "https://www.oschina.net/news/502038/vercel-fx",
+   "source": "开源中国",
+   "cat": "AI产品与交互",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel 开源了 fx，一个用 Zig 编写的轻量级 Agent，可在浏览器中运行，冷启动仅需 10 微秒。其设计风格接近 Unix shell，强调简洁和高效，适合需要快速响应和低资源消耗的场景。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "OpenAI 设计负责人 Ian Silber：现在是历史上当设计师最好的时代",
+   "url": "https://www.bestblogs.dev/podcast/73a5ab579?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "设计工作与方法",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "OpenAI 设计负责人 Ian Silber 认为，AI 时代设计师应专注好奇心与系统思维，强调快速原型与少做设计。他指出，当前是设计师最好的时代，因技术尚处早期，角色定义尚不明确，带来机遇。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "It really wasn’t your fault, Coyote —— 狐狸，这真的不是你的错",
+   "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "设计工作与方法",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章以ACME公司设计的陷阱产品为例，分析了产品设计中可能存在的缺陷。对设计师而言，需关注工具可靠性，避免因设计失误导致用户失败。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景",
+   "url": "https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html",
+   "source": "雷峰网",
+   "cat": "AI产品与交互",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "中科通量推出OmniMate移动AI数字员工，采用本地边缘智能架构，可替代或辅助线下实体场景中高频、重复性服务工作。产品已在通信营业厅等场景部署验证，覆盖迎宾讲解、培训赋能等环节，提升服务一致性与效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Claude Code 内置 Claude Design，使用体验良好",
+   "url": "https://www.bestblogs.dev/status/2090268932548526123?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI产品与交互",
+   "date": "2026-08-20",
+   "score": 88,
+   "summary_zh": "Claude Code 新增内置 Claude Design 功能，用户可通过 /design + 内容直接使用，无需切换工具，提升设计效率。该功能支持本地项目无缝对接，适合需要频繁设计的开发者。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+   "url": "https://www.ifanr.com/1675657?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI产品与交互",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "MiniMax 推出 Design 产品，集成 H3 视频模型与多种 AI 能力，实现从需求输入到完整视频生成的自动化流程。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "E249｜Token 经济转点：OpenClaw、Hermes 到本地自研的 Agent 进化之路",
+   "url": "https://www.bestblogs.dev/podcast/a086f9a34?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI产品与交互",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "2026 年 AI 行业从「模型能力」转向「Agent 工程」，OpenClaw、Hermes 等产品演进显示，本地开源模型与云端模型混合部署可大幅降低 Token 成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI is lying to us, and nobody seems to care —— AI 正在对我们撒谎，而似乎没人关心",
+   "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "AI生成的回答混入虚构信息，界面不显示推理过程。团队讨论是否应向用户更诚实，正在开发的AI产品侧边栏展示推理过程，帮助用户理解AI的思考路径。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "E15.宋亚宸：为世界进文明，为人类造幸福｜北坡计划",
+   "url": "https://www.bestblogs.dev/podcast/ed3a495ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "VAST 创始人宋亚宸认为，AI 将使生成式 3D 创作门槛降至接近零，进入类似「剪映」的 UGC 时代。他提出「两步走」战略：先解决生产力问题，再通过平台实现内容分发与商业化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 换台电脑就失忆？我们自己写了个开源项目解决它",
+   "url": "https://www.oschina.net/news/502011",
+   "source": "开源中国",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "开源项目 agentctxsync 解决 AI 工具跨设备记忆同步问题。用户在不同电脑上使用 AI 工具时，对话记录无法共享，影响效率。该项目通过同步上下文，实现多设备无缝切换，提升 AI 工具使用体验。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "让 Agent 真正驱动销售增长——FDE 模式下的业务流重构实战｜AICon深圳",
+   "url": "https://www.infoq.cn/article/vrlSsJUrdpfGqsj3CTZK?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "AICon深圳大会将探讨FDE模式下Agent如何重构销售业务流，提升效率与增长。阿里云专家分享汽车销售与医药履职案例，展示Agent如何嵌入高价值场景，驱动业务结果。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线",
+   "url": "https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html",
+   "source": "雷峰网",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "支付宝“晓政”联合民政部推出婚姻登记智能服务，用户可通过语音指令快速预约、查询登记信息，减少重复操作。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "豆包“工作任务”新增支持本地电脑、云电脑双模式",
+   "url": "https://www.leiphone.com/category/industrynews/yOzZ6pmXf7KOsYYc.html",
+   "source": "雷峰网",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "豆包工作任务新增本地与云电脑双模式，用户可按需选择执行方式。云电脑适合处理耗时任务，如数据采集、文件转换等，支持手机远程操作。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex",
+   "url": "https://www.leiphone.com/category/industrynews/3ldIRLLRue7anIFz.html",
+   "source": "雷峰网",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 90,
+   "summary_zh": "华尔街投行杰富瑞测试8款AI Agent，阿里千问办公综合得分第一，超过Claude Cowork和Codex。",
+   "source_count": 2,
+   "sources": [
+    "雷峰网",
+    "量子位"
+   ]
+  },
+  {
+   "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+   "url": "https://www.qbitai.com/2026/08/475476.html",
+   "source": "量子位",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "updream推出预演台功能，利用AI生成3D白模辅助视频创作，提升镜头控制精度。创作者可先设计运镜与场景，减少生成阶段反复调整，专业团队与个人创作者均可降低试错成本。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Replit expands access to software creation with GPT-5.6 Luna —— Replit 通过 GPT-5.6 Luna 扩展软件创作的访问权限",
+   "url": "https://openai.com/index/replit",
+   "source": "OpenAI",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需付费即可创建软件。此举降低技术门槛，让更多人能快速将想法变为产品，提升软件开发的普及性。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "英伟达 Cosmos 3 深度拆解：它想做具身智能时代的「安卓系统」| RSS 2026",
+   "url": "https://www.leiphone.com/category/private/XVXWtcCNFb4PP233.html",
+   "source": "雷峰网",
+   "cat": "新模型与能力",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "英伟达发布Cosmos 3，首次在单一Transformer架构下整合文本、视觉、音频和动作模态，实现全模态世界模型。对产品设计者而言，这提供了更统一的具身智能开发平台，降低多模态集成难度，加速机器人应用落地。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Rethinking design leadership with swarms and flocks —— 用蜂群和鸟群重新思考设计领导力",
+   "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
+   "source": "Sidebar 每日精选",
+   "cat": "设计工作与方法",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章提出用‘结构化涌现’替代传统管理，借鉴椋鸟群聚和雁群飞行的模式。设计团队可减少层级依赖，提升灵活性，但需避免‘独鹅’模式导致的领导疲劳与团队惰性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Try these 10 skills—and show off your own —— 尝试这些10项技能——并展示你自己的",
+   "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Figma 现支持在设计界面内直接创建技能，用于指导 AI 代理执行任务。例如，/image-audit 可检查图像导出性，/camera-pan-and-zoom 可生成动态镜头效果。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Agent experience needs failure affordances —— Agent 体验需要容错设计",
+   "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
+   "source": "Sidebar 每日精选",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章讨论了智能代理在无法解决问题时应触发‘ distress_call ’，请求人工介入，而非强行推进。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Introducing Vercel for Slack —— 推出适用于 Slack 的 Vercel",
+   "url": "https://vercel.com/blog/introducing-vercel-for-slack",
+   "source": "Vercel",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Vercel Agent 现在支持 Slack，可在频道内直接调用，根据讨论内容自动执行部署。Pro 和 Enterprise 团队可参与公测。设计者可直接在 Slack 内完成部署流程，无需跳转其他平台。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Vercel for Slack now in public beta —— Vercel for Slack 现已开放公测",
+   "url": "https://vercel.com/changelog/vercel-for-slack-now-in-public-beta",
+   "source": "Vercel",
+   "cat": "AI产品与交互",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Vercel Agent 现在可在 Slack 公共测试，提及 @Vercel 即可获取项目部署、构建、日志等信息。可用来排查部署失败原因、审查代码、修复 CI 错误。对开发者而言，提升协作效率，快速定位问题。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "苹果开发配备摄像头的耳机 AirPods",
+   "url": "https://www.solidot.org/story?sid=85128",
+   "source": "Solidot 奇客",
+   "cat": "AI产品与交互",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "苹果正在研发配备摄像头的 AirPods，代号 B790，可利用 AI 识别物体并传输信息至 Visual Intelligence，Siri 可回答环境问题。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "一台诞生于 AI 时代的电脑，该是什么样？",
+   "url": "https://www.ifanr.com/1675518?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI产品与交互",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "鸿蒙电脑生态应用超19000款，应用开始围绕折叠屏、跨设备协同和系统级AI重新设计工作流，AI时代电脑需适应多设备全场景交互。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+   "url": "https://www.ifanr.com/1675514?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI产品与交互",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "支付宝推出AHA协议，让手机、汽车、大模型等终端的AI Agent协同完成任务，如一键叫车、点咖啡、开电子发票。商家和服务接入后，用户需求可自动触发多个Agent接力处理，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Meta 面临修改社媒算法和设计的诉讼",
+   "url": "https://www.solidot.org/story?sid=85123",
+   "source": "Solidot 奇客",
+   "cat": "行业与观点",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "30 个美国州起诉 Meta，要求修改 Instagram 和 Facebook 的算法及功能，如取消点赞数、无限滚动、自动播放视频等，以减少对未成年人的影响。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "How to make your design system agent-ready —— 如何使你的设计系统具备 Agent 能力",
+   "url": "https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270",
+   "source": "Sidebar 每日精选",
+   "cat": "设计工作与方法",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "文章指出，将设计系统拆分为结构化Markdown文件，而非集中在一个文件中，有助于AI代理理解。团队通过Figma、tokens和结构化文档，使AI能依据设计系统生成符合规范的界面，减少重复修正。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Claude 给所有 AI 文字加了水印，全球用户彻底怒了！",
+   "url": "https://www.ifanr.com/1675465?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI产品与交互",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "Anthropic 强制给 Claude 生成文字加水印，全球用户不满。水印采用统计方式，通过特定词频组合标记 AI 内容，但不区分使用场景，影响用户创作与使用体验。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Vercel 开发了专门给 AI Agent 用的编程语言 Zero",
+   "url": "https://www.oschina.net/news/501972/vercel-labs-zerolang",
+   "source": "开源中国",
+   "cat": "AI产品与交互",
+   "date": "2026-08-18",
+   "score": 85,
+   "summary_zh": "Vercel 开发了专为 AI Agent 设计的编程语言 Zero，用图结构替代传统文本作为代码源头。这种新语言可能改变人与 AI 协作开发的方式，让 Agent 更自主地处理任务。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "The feature was fine. So why did users keep hiding it? —— 这个功能本身没有问题，那为什么用户一直隐藏它？",
+   "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "设计工作与方法",
+   "date": "2026-08-17",
+   "score": 85,
+   "summary_zh": "用户持续隐藏某功能，虽符合需求文档但与品牌形象不符。研究显示，用户认为该功能与自身形象不符，导致使用意愿降低。设计师需关注用户自我认知与产品定位的匹配度，避免功能与用户身份脱节。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  }
+ ]
+}

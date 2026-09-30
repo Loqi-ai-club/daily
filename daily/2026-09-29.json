@@ -1,0 +1,373 @@
+{
+ "day": "2026-09-29",
+ "generated_at": "2026-09-29 07:16",
+ "scanned": 246,
+ "count": 28,
+ "items": [
+  {
+   "title": "The next larger context —— 下一步的更大背景",
+   "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "文章提出设计应超越界面、产品和提示，关注更广泛的上下文。对产品设计者意味着需考虑用户行为、环境及社会因素，提升整体体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "What makes a brand last? —— 是什么让品牌持久？",
+   "url": "https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "两家能源公司使用相同颜色和欢快语音，但一家破产。银行和语言应用的成功揭示品牌持久关键：差异化体验与用户情感连接。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "云flare 推出智能体开发栈生命周期，以取代传统 SDLC",
+   "url": "https://www.infoq.cn/article/OooAe7xY816xAdLrkv8V?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "Cloudflare 推出智能体开发生命周期（ADLC），用自动化替代传统 SDLC，支持智能体自主管理开发流程。平台具备可编程性、水平扩展和事件驱动能力，提供预览部署、原子变更和数据驱动反馈。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "对 Manus 2.0 及通用 Agent 竞争格局的思考",
+   "url": "https://www.bestblogs.dev/status/2104656716734570801?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 72,
+   "summary_zh": "Manus 2.0 发布，文章探讨其与 Cowork、Codex 等通用 Agent 的竞争格局，分析谁能像 Apple 一样实现软硬件或生态整合。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus Studio Alchemy Mode for Video Creation",
+   "url": "https://www.bestblogs.dev/status/2104650545407672717?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 79,
+   "summary_zh": "Manus Studio 推出 Alchemy 模式，用于制作发布视频，Cue 的官方视频即由该工具完成。该模式提升视频制作效率，适合商业与产品发布场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 舞者与代码音游特效的组合 Prompt",
+   "url": "https://www.bestblogs.dev/status/2104649915385237741?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 75,
+   "summary_zh": "用 Seedance 生成动漫角色舞蹈视频，再用代码叠加音游特效。AI 视频质量取决于素材、工具组合与迭代，而非仅靠 Prompt。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus Alchemy 视频 Prompt 合集分享",
+   "url": "https://www.bestblogs.dev/status/2104649290668773568?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "Manus 2.0 提供 12 个视频生成 Prompt，适用于 Opus 5.5 等支持代码执行的 Agent 环境。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Sonnet 5.5 发布深度解析：速度、成本与编程能力的飞跃",
+   "url": "https://www.bestblogs.dev/status/2104638801905955166?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "Claude Sonnet 5.5 输出速度提升30%，成本降低30%，编程能力在Terminal-Bench 4.0达70.6%，新增五档思考力度调节及网络安全防护，适合日常办公任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "尝试用 AI Skill 为 Manus Cue 制作宣传片",
+   "url": "https://www.bestblogs.dev/status/2104620904596808127?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 81,
+   "summary_zh": "Berryxia.AI 用自研 AI 技术为 Manus Cue 制作宣传片，验证低成本复刻流程。该尝试旨在吸引官方关注并测试工作流有效性，涉及 AI 视频生成与产品宣传应用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus 2.0 发布深度解析：底层框架升级、专业环境扩展与个人智能体 Cue",
+   "url": "https://www.bestblogs.dev/status/2104614931962232959?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "Manus 2.0 升级自研 Cascade 框架，降低 23.2% Token 消耗和 32% 成本，新增视频剪辑、游戏开发环境及独立 App 'Cue'，支持个人事务处理。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 产品的宿命：能力内化与数据回流",
+   "url": "https://www.bestblogs.dev/status/2104607183044235525?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "Claude Design 的能力被内化进 Opus 5.5 模型，表明 AI 产品经验最终会被模型吸收。对产品设计者意味着，应用层功能可能被基础模型替代，需关注数据回流与模型演进的关系。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Instinct 创始人：个人 AI 助手应该站在用户这边",
+   "url": "https://www.bestblogs.dev/podcast/3b77c2714?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "Instinct 创始人 Noah Shinn 讨论个人 AI 助手如何通过信任机制、交易抽成和算力规划，实现跨应用办事。平台年交易额近 10 亿美元，用户留存率约 80%，对注意力经济行业影响显著。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 生成视频的「预制菜」感分析",
+   "url": "https://www.bestblogs.dev/status/2104599877007372435?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 82,
+   "summary_zh": "Opus 5.5 生成的宣传视频质量高但风格高度同质化，被比作「AI 预制菜」。对产品设计者意味着：AI 生成内容虽可满足基础需求，但缺乏创意差异，需警惕模板化限制。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus 推出个人 Agent 产品 Cue",
+   "url": "https://www.bestblogs.dev/status/2104598459089403953?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-28",
+   "score": 80,
+   "summary_zh": "Manus 推出个人 Agent 产品 Cue，已开放下载。产品拓展其在消费级 Agent 领域的布局。有传闻称原本计划与 Meta 合作，但因商业博弈未能成行。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus 2.0 上线及 Vibe Coding 趋势观察",
+   "url": "https://www.bestblogs.dev/status/2104598422489813347?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 76,
+   "summary_zh": "Manus 2.0 上线，强化视频与游戏创作能力，提供更便捷的体验路径。作者预测未来将形成 Vibe Coding 内容分享生态，提升用户创作与互动效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Manus 2.0 发布及其对 Personal Agent 演进的思考",
+   "url": "https://www.bestblogs.dev/status/2104596819900879126?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 76,
+   "summary_zh": "Manus 2.0 发布，作者认为其在 Personal Agent 领域具有先驱地位，可能受收购影响。同时，Muse 产品的精细度暗示 Manus 团队成员可能参与其中，影响了设计标准。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "通用 AI Agent 平台 Manus 2.0 发布",
+   "url": "https://www.bestblogs.dev/status/2104596566816547068?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "Manus 2.0 发布，新增多 Agent 协作与任务编排功能。对产品设计者而言，可更灵活构建复杂 AI 应用场景，提升用户体验与系统效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Muse 产品的逻辑分析与创业机会判断",
+   "url": "https://www.bestblogs.dev/status/2104596246967251299?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "傅盛分析 Meta Muse Agent 技术本质为记忆与虚拟机结合，强调其主动服务趋势。他认为通用生活类 Agent 由大公司主导，创业者应聚焦垂直领域。Meta 的 Token 成本和生态优势形成竞争壁垒。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "可灵 Kling 4.0 发布",
+   "url": "https://www.bestblogs.dev/status/2104596448277148150?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "可灵 AI（Kling）4.0 版本正式发布，新增多模态生成能力，支持文本、图像、音频等多种输入形式，提升内容创作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "关于 AI 协作模式的思考",
+   "url": "https://www.bestblogs.dev/status/2104595228896448716?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "作者认为当前是人与AI协作阶段，未来将演变为AI与AI自主协作。对产品设计者而言，需提前布局AI间协作的交互逻辑与系统架构，以适应技术演进趋势。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "彼得·蒂尔：零增长不是 AI 的安全替代",
+   "url": "https://www.bestblogs.dev/podcast/69317e91b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "彼得·蒂尔认为零增长不是AI的安全替代，技术停滞会加剧社会分裂与政治极化。他指出欧洲AI发展落后，美国政治存在颠覆风险，并强调长寿科技是唯一有益的进步领域。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "模型本地化趋势与数据的稀缺溢价",
+   "url": "https://www.bestblogs.dev/status/2104587562715324881?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "模型本地化趋势下，模型本身将贬值，修正数据成为核心价值。优质数据能提升模型处理复杂问题的能力，具备高商业价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Opus 5.5 网页物理交互能力惊叹",
+   "url": "https://www.bestblogs.dev/status/2104584069837459540?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "用户用 Claude Opus 5.5 生成一个可交互的网页，支持软体物理效果，如抓取、拉伸、切割。这表明 Opus 5.5 在代码生成和复杂交互实现上能力突出，对产品设计者来说，可快速实现高互动性的网页原型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "ElevenLabs 发布 Eleven v4 与 v4 Turbo 模型",
+   "url": "https://www.bestblogs.dev/status/2104582357345018330?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 81,
+   "summary_zh": "ElevenLabs 推出 Eleven v4 和 v4 Turbo 模型，v4 支持文本中嵌入笑声、耳语等导演标记，增强情绪控制；Turbo 版将首字延迟降至 150 毫秒，优化实时交互体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
+   "url": "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "平安人寿吴智炜在QCon上海分享保险后援数字分身实践，基于OpenClaw框架实现从生成式AI到代理式AI的三阶段迭代，打通14类保单数据，构建5000+多模态特征库，提升自动化率与运营效率，输出金融…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "豆包输入法大更新，AI 最自然的入口回到了键盘",
+   "url": "https://www.ifanr.com/1682232?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 85,
+   "summary_zh": "豆包输入法覆盖五大平台，实现词库、内容跨设备同步，提升输入效率。新增超级互传功能，支持文字、图片无缝复制粘贴；优化语音输入，支持多语言混用及低音量识别，减少输入障碍。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Strands 开源组装好的 Agent harness，同模型下 token 省 28%",
+   "url": "https://www.oschina.net/news/502772/strands-harness",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-09-28",
+   "score": 70,
+   "summary_zh": "Strands 开源了组装好的 Agent harness，使用时 token 消耗减少 28%。对产品设计者而言，可节省开发时间，提升 agent 整体性能。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜AI代理将改变用户决策方式，降低部分市场切换成本，加剧竞争；同时在医疗、旅行…",
+   "url": "https://x.com/levie/status/2104350592290406849",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 85,
+   "summary_zh": "AI代理将改变用户决策方式，降低部分市场切换成本，加剧竞争；同时在医疗、旅行等领域减少摩擦，释放经济潜力。产品设计需考虑代理如何优化用户体验与市场平衡。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 174
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "day": "2026-09-08",
+ "generated_at": "2026-09-08 07:13",
+ "scanned": 220,
+ "count": 13,
+ "items": [
+  {
+   "title": "The model is behaving impeccably. Your information architecture isn’t. —— 模型表现堪称完美，但你的信息架构却并非如此。",
+   "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 75,
+   "summary_zh": "1960年城市地图研究揭示AI需良好信息架构。结构先于内容，来源需记录。对产品设计者意味着：AI模型表现良好时，信息架构可能仍存在问题，需优先规划结构和来源管理。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The sycophancy trap: what happens when feelings become the metric —— 奉承陷阱：当情感成为衡量标准时会发生什么",
+   "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 75,
+   "summary_zh": "一款付费玩游戏的App通过支付用户激励留存，设计围绕短期情感体验调整，用数据衡量用户情绪反应。设计师需警惕过度依赖情感指标，可能忽略长期产品价值。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Villains plan. Heroes react. —— 反派制定计划，英雄作出反应。",
+   "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 75,
+   "summary_zh": "印尼加里曼丹地区因棕榈油种植导致森林火灾，引发跨国空气污染。产品团队可借鉴此案例，关注系统性问题背后的利益链与计划性，避免设计中忽略长期影响。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "DeepSeek、千问、智谱轮番登场，PC厂商终于等到了它们的弹药",
+   "url": "https://www.bestblogs.dev/article/82928ead3c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-07",
+   "score": 75,
+   "summary_zh": "AMD 在 IFA 2026 推出 Gorgon Halo、HP ZBook 与 Threadripper Halo Station 三款硬件，支持本地运行 3000 亿至 1 万亿参数模型，联合微软…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6发布后，OpenAI又自曝「外星思维」，AGI真的来了？",
+   "url": "https://www.bestblogs.dev/article/b8a2e4ecb5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 70,
+   "summary_zh": "OpenAI 高管称可能已进入 AGI 时代，但内部对 AI 的「外星思维」本质、安全风险及社会适应速度存在深刻分歧。AGI 的降临远比想象中更平淡。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "成立12年，快看漫画重做AI时代的内容产品",
+   "url": "https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "快看漫画推出 AI 互动产品 Livo，采用 Multi-Agent 架构，支持用户选择影响剧情发展。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "折叠屏大战是烟雾弹，手机行业真正的争夺在交互层",
+   "url": "https://www.bestblogs.dev/article/cf206c6b98?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "2026年手机行业聚焦交互层竞争，努比亚NaviX Ultra通过系统级整合实现自然语言指令跨应用执行。智能体互操作协议发展，推动人机交互从点击转向自然语言，决定手机行业未来胜负。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从技术竞赛到商业化落地：AI出海的下半场，拼的是全链路能力",
+   "url": "https://www.bestblogs.dev/article/34633fcc1a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 75,
+   "summary_zh": "AI 出海进入商业化深水区，全链路能力成为竞争关键。Google 指出用户行为三大变化，建议深耕垂直行业；LoopMe 通过直连模式提升 eCPM，FastSpring 强调支付合规重要性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "这，才是下一个5年的的工作操作系统",
+   "url": "https://www.bestblogs.dev/article/fd925b9f3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "CarryGo 用世界模型构建企业经营地图，让 AI 理解组织、自动巡查异常并生成执行方案，沉淀组织记忆。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Are you still typing your prompts, really? —— 你真的还在手动输入提示词吗？",
+   "url": "https://ref.wisprflow.ai/sidebar",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "语音转文字工具Flow可将口语转化为清晰文本，4倍于打字速度，支持所有应用和设备，自动纠正错误并格式化内容，支持100+语言及多种口音，数据隐私保护完善。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Your product didn’t get worse —— 你的产品并没有变差",
+   "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "用户在使用代理处理任务后，重新使用产品时感到繁琐，发现原有流程变得低效。产品设计者需关注用户行为变化，而非仅依赖技术趋势。通过询问用户实际工作流程，可发现隐藏问题，而非盲目引入AI功能。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Four modes of working with AI —— 与AI协作的四种模式",
+   "url": "https://fourmodes.teybannerman.com/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 85,
+   "summary_zh": "75%职场人使用AI工具，但60%缺乏使用技巧。Four Modes框架将AI应用分为压缩、扩展、反思、执行四种模式，帮助用户更高效地完成任务。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The singular viable product —— 唯一可行的产品",
+   "url": "https://www.nyn.me/blog/the-singular-viable-product",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-07",
+   "score": 70,
+   "summary_zh": "一位维也纳创始人2024年底为自身需求开发多个工具，18个月后整合成GitHub增长最快的项目OpenClaw。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  }
+ ]
+}

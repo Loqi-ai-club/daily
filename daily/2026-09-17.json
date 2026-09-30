@@ -1,0 +1,255 @@
+{
+ "day": "2026-09-17",
+ "generated_at": "2026-09-17 07:13",
+ "scanned": 227,
+ "count": 19,
+ "items": [
+  {
+   "title": "实测 Vibe Key：开口使唤 AI，真有当甲方的感觉",
+   "url": "https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Vibe Key AI 键盘麦通过语音指令直接调用 WorkBuddy，简化 AI 任务发起流程，适合高频使用大模型的创作者。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案",
+   "url": "https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "89%组织为Agent配上可观测能力，Qoder Cloud Agents提供云端托管，支持调度、恢复、可观测等功能，降低企业工程投入，提升Agent生产效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "13 Beliefs About AI Writing —— 关于 AI 写作的 13 个信念",
+   "url": "https://every.to/also-true-for-humans/ai-writing-beliefs",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Mike Taylor用AI生成初稿，再自行润色，强调AI辅助而非替代。他将自身内容融入提示词，确保思想可控。对设计师而言，AI可提升效率，但需明确角色边界，保持创意主导。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Show Us Your Folders —— 展示你的文件夹",
+   "url": "https://every.to/context-window/show-us-your-folders",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 75,
+   "summary_zh": "Every团队展示员工如何组织AI系统文件夹，命名清晰、结构明确。对产品设计者而言，这提供了一种可借鉴的AI工具使用方式，有助于提升用户系统的可管理性和效率。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Mem0 joins the Vercel Marketplace —— Mem0 加入 Vercel 市场",
+   "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Mem0 加入 Vercel Marketplace，提供长期记忆功能，记录用户偏好和上下文。安装后自动配置 API 密钥，无需额外账户管理，适用于需记忆功能的 AI 应用和代理。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Helping older adults use AI in everyday life —— 帮助老年人在日常生活中使用 AI",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-16",
+   "score": 70,
+   "summary_zh": "OpenAI 与 OATS 合作，在美国 10 个城市为 1000 名老年人举办免费 ChatGPT 工作坊，帮助他们学习使用 AI 技术。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Boost your holiday sales with these agentic commerce updates —— 通过这些智能商业更新提升假日销售",
+   "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-09-16",
+   "score": 70,
+   "summary_zh": "Google推出AI性能洞察功能，帮助商家分析在AI模式中的曝光情况；YouTube广告新增商务代理功能，允许用户直接在广告中获取产品信息。这两项更新有助于提升商家在假日季的销售转化。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Reimagining advertising with AI —— 用 AI 重新想象广告",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 75,
+   "summary_zh": "OpenAI推出AI广告新功能，包括Sponsored Agents让用户与商家代理对话，以及通过自然语言提示创建广告。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Try these 5 Weave tools—and share your own —— 尝试这 5 个 Weave 工具——并分享你自己的",
+   "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Figma 接收 Weavy，推出 Weave 工具，支持生成 3D 空间、建筑模型和图像重构。用户可发布工具至 Figma 社区，提升设计效率与创意表达。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+   "url": "https://www.solidot.org/story?sid=85395",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Mozilla 与 Mistral 合作推出 Firefox Smart Window（beta），使用 Mistral 开源模型，提供隐私保护的 AI 浏览助手功能，如信息整理、标签页搜索等，目前服…",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "‘I wanted it to be raw’: Paula Scher explains her squished map logo —— “我想让它保持原貌”：Paula Scher 解释她压缩的地图标志",
+   "url": "https://www.fastcompany.com/91606967/paula-scher-explains-her-squished-new-map-logo?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Paula Scher 为 Women+ on the Edge of Democracy 设计的标志，将标题压缩进狭小框架，象征女性被边缘化。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "千问办公上架 deepin ，一句话开启 AI 办公",
+   "url": "https://www.oschina.net/news/502521",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 70,
+   "summary_zh": "千问办公已上架deepin应用商店，支持一键下载体验。该应用提供一站式AI办公功能，如对话即交付等，丰富了Linux生态的智能办公选择，适合需要AI辅助办公的deepin用户。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "How workers are unlocking new ways of working —— 工人如何解锁新的工作方式",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 75,
+   "summary_zh": "OpenAI研究发现，150万条工作相关ChatGPT消息显示，6200名员工在4月至7月间，跨职业任务使用率从13.1%升至25.9%。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人 AI 新时代",
+   "url": "https://www.qbitai.com/2026/09/490756.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-16",
+   "score": 70,
+   "summary_zh": "高通与努比亚、豆包手机助手合作，推出搭载第五代骁龙8至尊版的努比亚NaviX Ultra，实现智能体AI交互体验升级。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "协同办公进入 Agent 时代，飞书+豆包工作跑在了最前面",
+   "url": "https://www.qbitai.com/2026/09/490686.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "飞书8.0完成系统性适Agent改造，支持Agent与人协作；豆包工作伙伴作为首个团队智能体产品，可进群、处理任务、跨场景联动。两者深度整合，提升AI办公效率与安全性，企业可统一管理Agent权限与使用情况。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Opusfived",
+   "url": "https://opusfived.dev/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "一个按钮变蓝，其他不变。短小互动喜剧展示无法直接执行任务的自主AI助手。设计师可借此反思AI交互设计的局限性与用户预期差异。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Rauno's field notes: 5",
+   "url": "https://rauno.me/notes/5",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "Vercel 仪表盘侧边栏需处理多卡片导航问题，通过悬停触发下一张卡片、扩大点击区域、动画提示关闭按钮等方式优化交互。设计师尝试多种方案后，最终采用卡片堆叠、动画提示和无标签设计，提升操作流畅性和用户理解。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Don’t let AI build a Winchester Mystery House —— 别让 AI 建造温彻斯特神秘屋",
+   "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "文章以Winchester Mystery House比喻无规划的AI产品开发，指出功能孤立、缺乏整体设计的问题。对产品设计者意味着需明确架构蓝图，避免重复建设，提升系统连贯性与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI 健康走进百姓餐桌，蚂蚁阿福推出 AI 饮食分功能",
+   "url": "https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-16",
+   "score": 85,
+   "summary_zh": "蚂蚁阿福推出AI饮食分功能，用户拍照即可获取营养评分及改进建议。该功能参考中国营养学会标准，分析食物营养成分并给出个性化饮食建议，帮助用户科学管理饮食健康。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}
