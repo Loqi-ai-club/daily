@@ -1,0 +1,99 @@
+{
+ "day": "2026-10-05",
+ "generated_at": "2026-10-05 07:09",
+ "scanned": 160,
+ "count": 7,
+ "items": [
+  {
+   "title": "Save time with Wispr Flow (4x faster than typing) —— 用Wispr Flow节省时间（比打字快4倍）",
+   "url": "https://bit.ly/side-wis1",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "Wispr Flow 语音转文字工具，4倍于打字速度，支持所有应用和设备，自动修正、格式化文本，准确识别专有名词和口音，隐私数据不外泄，已支持100+语言。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "A loading state within a loading state —— 一个加载状态中的加载状态",
+   "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "文章通过电梯镜面和ZX Spectrum游戏加载画面的例子，说明用户对等待时间的感知可被设计影响。Figma曾尝试在加载屏加入提示，但可能降低优化动力；Gmail简化加载状态，减少用户等待感知。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Google has the best AI money can buy. Its products still feel broken. —— 谷歌拥有金钱能买到的最佳AI，但其产品仍然感觉有问题",
+   "url": "https://hitesh.in/2026/best-ai-still-feels-broken/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 75,
+   "summary_zh": "Google 的 AI 产品虽技术先进，但搜索功能出现偏差，如误读引用、拒绝跳转链接等，影响用户体验。问题源于产品设计未明确 AI 猜测与真实结果的区分，导致用户信任下降。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – October 4, 2026 —— 本周焦点——2026年10月4日",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-october-4-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-04",
+   "score": 85,
+   "summary_zh": "本周精选资源包括通用无障碍代理构建、设计系统AI化方法、WCAG 3.3.4错误预防解析、AI界面委托矩阵等。对产品设计者而言，提供AI集成与无障碍设计的实用参考。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  },
+  {
+   "title": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口",
+   "url": "https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "",
+   "score": 85,
+   "summary_zh": "OpenAI 和 Meta 陆续推出长期在线的 Personal Agent 产品 dots 和 Muse，Muse 下载量突破 300 万，与 ChatGPT 竞争。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜用户通过X的智能功能批量删除无用邮件分类，自动标注工作类型标签，并引导处理需…",
+   "url": "https://x.com/thsottiaux/status/2106603980386394123",
+   "source": "X · @thsottiaux",
+   "cat": "AI工具",
+   "date": "2026-10-04",
+   "score": 85,
+   "summary_zh": "用户通过X的智能功能批量删除无用邮件分类，自动标注工作类型标签，并引导处理需回复邮件，结合背景信息提升回复准确性，高效处理大量邮件反馈。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 254
+  },
+  {
+   "title": "X观点｜AI agent使用目前呈现两极分化，编程相关任务进展较快，其他领域仍处于早…",
+   "url": "https://x.com/levie/status/2106583814709633413",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-04",
+   "score": 85,
+   "summary_zh": "AI agent使用目前呈现两极分化，编程相关任务进展较快，其他领域仍处于早期。多数工作流程需重构以适配agent，涉及数据连接、责任归属、合规治理等复杂变化，未来agent应用规模可能扩大百倍。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 187
+  }
+ ]
+}
