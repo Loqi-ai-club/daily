@@ -1,0 +1,92 @@
+{
+ "day": "2026-10-11",
+ "generated_at": "2026-10-11 09:52",
+ "scanned": 189,
+ "count": 6,
+ "items": [
+  {
+   "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
+   "url": "https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-10-10",
+   "score": 85,
+   "rank": 3.003,
+   "summary_zh": "Anthropic 宣布 Claude Code 将兼容 AGENTS.md，未来可能不再依赖静态指令文件。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "企业AI 走向生产环境，如何避免新一轮技术锁定",
+   "url": "https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-10",
+   "score": 70,
+   "rank": 1.005,
+   "summary_zh": "SUSE 推出 AI Factory 与 Liz 运维智能体，聚焦 AI 基础设施与安全治理。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+   "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-10",
+   "score": 70,
+   "rank": 2.004,
+   "summary_zh": "字节团队发现 DeepSeek V4 模型因分块 KV Cache 压缩技术，导致关键信息落在切块交界时输出错误。加空格可能引发模型输出大相径庭，影响合同审阅等场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "这届 AI PC，太烧心了",
+   "url": "https://www.ifanr.com/1683688?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-10",
+   "score": 70,
+   "rank": 0.006,
+   "summary_zh": "技嘉主板通过 BIOS 更新支持未来 DDR4 处理器，降低用户升级成本；开源项目 Strata 让普通电脑运行大模型，显示硬件与软件协同优化潜力。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "X观点｜Vercel 网络中 58.18% 的流量来自机器人，较 2024 年 1 …",
+   "url": "https://x.com/rauchg/status/2108733051283050964",
+   "source": "X · @rauchg",
+   "cat": "AI新闻",
+   "date": "2026-10-10",
+   "score": 85,
+   "summary_zh": "Vercel 网络中 58.18% 的流量来自机器人，较 2024 年 1 月增长显著。60% 以上部署为智能代理驱动，访问其文档的流量中 83% 来自代理。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 277,
+   "rank": 2.004
+  },
+  {
+   "title": "X观点｜AI代理将大量消耗算力，未来多数任务由后台代理完成，而非人工逐个触发",
+   "url": "https://x.com/levie/status/2108750943680630893",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-10",
+   "score": 85,
+   "summary_zh": "AI代理将大量消耗算力，未来多数任务由后台代理完成，而非人工逐个触发。这对产品设计者意味着需提前布局自动化流程与算力支持。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 530,
+   "rank": 2.004
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "day": "2026-10-20",
+ "generated_at": "2026-10-20 07:17",
+ "scanned": 257,
+ "count": 29,
+ "items": [
+  {
+   "title": "2026年中国AI发展趋势前瞻",
+   "url": "https://www.bestblogs.dev/article/e0356bad47?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 2.032,
+   "summary_zh": "2026年中国AI发展聚焦技术从‘聊天’转向‘做事’，算力追求密度而非规模，数据转向高质量专业化。制造业、医疗、金融等领域将深度应用AI，推动智能体自主性与多模态感知能力提升。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenUI：面向生成式UI的流式渲染框架",
+   "url": "https://www.bestblogs.dev/status/2112302776458035498?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 6.022,
+   "summary_zh": "OpenUI 是一个为生成式 UI 设计的流式渲染框架，使用自研紧凑语言 OpenUI Lang 显著减少 Token 消耗，支持 React、Vue 等主流框架，降低 AI 应用前端开发成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Human attention is the new old bottleneck. We have to design for it even more. —— 人类注意力成为新的旧瓶颈。我们必须更加重视其设计",
+   "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 7.035,
+   "summary_zh": "Anthropic员工每小时需处理6小时AI生成内容，阅读耗时达半天。研究显示，AI代理改变了工作方式，设计师需优化信息筛选机制，提升注意力管理效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Playing the sanshin without a sound —— 无声演奏三味线",
+   "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 6.038,
+   "summary_zh": "老虎机和清单：反馈设计中的两难。文章讨论了在没有声音反馈的情况下，如何通过视觉和交互设计提升用户体验，强调了即时反馈对用户操作确认的重要性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "ChatGPT Slides新增多人实时协作与直接编辑功能",
+   "url": "https://www.bestblogs.dev/status/2112277659959087314?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 7.032,
+   "summary_zh": "ChatGPT Slides 新增多人实时协作与直接编辑功能，支持 Pro 及企业版用户，可调用 AI agent 'dot' 批量更新内容。用户可手动修改文字、图表及图片，无需通过指令操作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT Images 2 Prompting Framework —— GPT Images 2提示框架",
+   "url": "https://www.bestblogs.dev/status/2112270559694491861?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 3.034,
+   "summary_zh": "GPT Images 2 提出高质量图像生成的结构化公式：主体 + 场景 + 风格 + 布局 + 技术参数。完整提示包含五要素，否则 AI 会随机补全缺失部分。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Anthropic秘密开发的新模型：强化意图揣摩与非套路化推理",
+   "url": "https://www.bestblogs.dev/status/2112257496954135030?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 3.022,
+   "summary_zh": "Anthropic 正研发新模型，能通过少量信息精准识别用户深层意图，并提供非套路化解决方案。该模型预计本月发布，与 Google、OpenAI 的新模型竞争激烈。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How to continue a GitHub Copilot app session in VS Code —— 如何在VS Code中继续GitHub Copilot应用会话",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+   "source": "GitHub Blog",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 70,
+   "rank": 7.026,
+   "summary_zh": "GitHub Copilot 现支持在 VS Code 中继续之前的会话，保留对话、代码修改和上下文。开发者可在 VS Code 内无缝衔接 Copilot 助力编码，提升开发效率。",
+   "source_count": 1,
+   "sources": [
+    "GitHub Blog"
+   ]
+  },
+  {
+   "title": "人工智能，从深度学习到全面赋能（科技前沿）",
+   "url": "https://www.bestblogs.dev/article/125ec50c74?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 0.036,
+   "summary_zh": "人工智能从判别到生成、单模态到多模态、专用到通用发展，2025年关键模型如DeepSeek R1、OpenAI Sora推动生成式AI与多模态能力。AI智能体在工业、医疗等领域广泛应用，对社会经济影响深远。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "苹果首个AI机器人，可能是一个可移动的HomeView",
+   "url": "https://www.bestblogs.dev/article/afd1417ee3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 1.039,
+   "summary_zh": "苹果研发代号 J595 的 HomeView 机械臂，配备 9 英寸屏幕和语音识别转向功能，预计 2027 至 2028 年发布。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "我向新版DeepSeek许了个愿，4块钱让特斯拉飞起来",
+   "url": "https://www.bestblogs.dev/article/920d48aa06?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 3.032,
+   "summary_zh": "DeepSeek V4.1 Flash 1017 模型通过自反馈强化学习，能从零构建复杂 3D 项目和游戏，实测可复刻‘特斯拉飞行’动态网页。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "微信鸿蒙版周年小记：两群人，一件难事，从陌生到并肩",
+   "url": "https://www.bestblogs.dev/article/230f5b5a27?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 70,
+   "rank": 5.035,
+   "summary_zh": "微信鸿蒙版上线一周年，适配HarmonyOS NEXT系统，重构代码实现170种消息类型支持，高清低码通话等功能与iOS/Android对齐，展现软硬协同能力，推动生态发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How to shape your slides and videos with Gemini Notebook —— 如何使用Gemini Notebook塑造你的幻灯片和视频",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 4.037,
+   "summary_zh": "Google Gemini Notebook新增幻灯片和视频制作流程，用户可逐步调整内容与视觉风格，新增Review功能允许在生成前修改结构与顺序，提升创意控制。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "AI时代稀缺的评判能力",
+   "url": "https://www.bestblogs.dev/status/2112226590382080465?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 70,
+   "rank": 3.037,
+   "summary_zh": "AI 生成内容泛滥，能指出其不足的评判能力成为稀缺。对产品设计者而言，需强化用户对 AI 输出的批判性思维，提升内容质量与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Agent定价模式与产品定义的逻辑关系",
+   "url": "https://www.bestblogs.dev/status/2112224602265104474?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 78,
+   "rank": 4.032,
+   "summary_zh": "AI Agent 的定价方式（Token、结果或席位）反映其核心价值定位。产品定义决定定价逻辑，厂商通过计费模式体现对 Agent 是工具、服务或基础能力的理解。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Viggle JST-2：一秒生成可探索的3D虚拟世界模型",
+   "url": "https://www.bestblogs.dev/status/2112222070683963861?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 6.032,
+   "summary_zh": "Viggle 推出 JST-2，可在一秒内生成完整 3D 场景，支持浏览器内实时扩展。角色与动作可通过文字或视频直接生成，省去传统绑定骨骼流程，提升 3D 场景构建效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "将亚马逊PRFAQ管理法应用于独立开发",
+   "url": "https://www.bestblogs.dev/status/2112215803172925729?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 81,
+   "rank": 6.034,
+   "summary_zh": "独立开发者可借鉴亚马逊PRFAQ方法，在开发前撰写公关稿和FAQ，明确目标用户与卖点。通过AI生成宣传片提前验证市场反应，降低开发风险。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从\"IO\"到Wabi：Eugenia Kuyda的AI助手进化论，试图破解单人聊天的死局",
+   "url": "https://www.bestblogs.dev/article/faab493a14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "Eugenia Kuyda 的 Wabi 通过多线程架构与多人协作设计，解决单人聊天助手的上下文混乱问题。用户可共享线程形成群聊空间，系统自动创建独立线程并预装应用，提升交互效率与安全性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "养成系AI玩法来了！可持续进化Personal AI，经验写进DNA",
+   "url": "https://www.bestblogs.dev/article/b694f75aa7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 1.041,
+   "summary_zh": "通衍灵智提出可持续进化的 Personal AI 架构，通过 Personal LoRA 将企业经验沉淀为模型参数，降低运行成本并实现持续自进化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "美国国土安全部下令所有联邦文职机构移除DeepSeek及基于其开发的产品",
+   "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 80,
+   "rank": 3.024,
+   "summary_zh": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Numan如何用LangGraph和LangSmith构建评测优先的AI健康教练Nu",
+   "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "迪士尼拟通过破产程序收购Character.AI团队与技术、绕开其诉讼",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 70,
+   "rank": 3.028,
+   "summary_zh": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "阿里云7个样板间，探索AI原生研发组织的实践",
+   "url": "https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 7.026,
+   "summary_zh": "阿里云通过7个样板间探索AI原生研发组织，将全链路处理时长从2小时缩短至5分钟，发布周期从40天缩短至2天。对产品设计者意味着需关注AI如何重构研发流程，推动组织从工具原生向组织原生演进，提升协作与生产力。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "LinkedIn清理其平台上的AI冗余内容",
+   "url": "https://www.solidot.org/story?sid=85650",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 70,
+   "rank": 4.029,
+   "summary_zh": "LinkedIn 发现 40% 长文为 AI 生成，质量低影响用户体验。8 月上线 AI slop 标记功能，并用 AI 清理系统限制传播，使 AI slop 浏览量下降 40%。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes —— 为什么设计（仍然）重要，品味不是方法论，借来的斜坡",
+   "url": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 6.022,
+   "summary_zh": "AI公司大量招聘前线工程师，与客户团队协作解决问题，该职位一年增长1165%。作者在新闻编辑室实践类似工作，发现倾听需慢，回应要快，这对产品设计强调用户真实需求和快速迭代的重要性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "UX designers are not designing interfaces, they design personalities —— UX设计师不是在设计界面，而是在设计个性",
+   "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 75,
+   "rank": 3.037,
+   "summary_zh": "文章指出，过去20年科技文化使人类变得数字化、单一化。作者反思自己在1995年接触互联网后，开始影响人们对自我认知的方式。对产品设计者而言，需关注技术如何塑造用户个性，而非仅设计界面。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "网站对AI智能体关上大门",
+   "url": "https://www.solidot.org/story?sid=85649",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 2.034,
+   "summary_zh": "多家网站如Yelp、达美航空、摩根大通等开始屏蔽AI智能体访问，限制其完成预订、购物等任务。亚马逊也加入屏蔽行列，Meta则转向与沃尔玛、Gap等零售商合作。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Beyond the Canvas —— 超越画布",
+   "url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "rank": 0.041,
+   "summary_zh": "Config India 2026显示设计领域正扩展，设计师能力增强，能更高效将创意变为产品。印度科技领袖强调设计是核心竞争力，推动设计从工具转向战略角色。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "X观点｜Agent swarms通过并行处理任务，使计算成为关键变量，提升多个领域效…",
+   "url": "https://x.com/levie/status/2112051081014649303",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-19",
+   "score": 85,
+   "summary_zh": "Agent swarms通过并行处理任务，使计算成为关键变量，提升多个领域效率。在网络安全、生命科学等领域，通过设定目标和投入算力，可解决复杂问题，改变行业竞争格局。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 121,
+   "rank": 4.032
+  }
+ ]
+}

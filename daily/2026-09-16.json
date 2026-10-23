@@ -1,0 +1,399 @@
+{
+ "day": "2026-09-16",
+ "generated_at": "2026-09-16 07:18",
+ "scanned": 270,
+ "count": 30,
+ "items": [
+  {
+   "title": "Source material: Artist and educator Zach Lieberman likes to break things —— 素材来源：艺术家兼教育家扎克·利伯曼喜欢打破事物",
+   "url": "https://www.figma.com/blog/source-material-zach-lieberman/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "艺术家Zach Lieberman分享创作过程，强调打破常规的重要性，并提到他受Lillian Schwartz启发。他对AI仅用于输出感到厌倦，认为AI应作为对话工具。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+   "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 90,
+   "summary_zh": "飞书8.0版本支持Agent进群协作，可完成写周报、做PPT等任务，豆包工作与飞书原生融合，共享账号体系和权限管理。企业可通过CLI工具调用767个功能点，提升智能体在办公场景中的使用效率和安全性。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
+   "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "支付宝推出AI入口“阿宝”，基于xUI技术体系实现全双工多模态通信、生成式渲染交互、服务执行及多Agent协同。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Beyond the model: Engineering AI infra with scientific judgement —— 超越模型：以科学判断构建人工智能基础设施",
+   "url": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+   "source": "Airbnb Engineering",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Airbnb 的 agent 系统将科学方法嵌入 AI 基础设施，能快速处理 10 万条客服对话，生成分类、统计和摘要。",
+   "source_count": 1,
+   "sources": [
+    "Airbnb Engineering"
+   ]
+  },
+  {
+   "title": "ChatGPT 图像生成能力的进步：从海报设计到中秋习作",
+   "url": "https://www.bestblogs.dev/status/2099907428951417307?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "用户用ChatGPT生成中秋海报，图像质量提升明显。AI理解力和美学表现增强，可应用于实际设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking —— 介绍 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind",
+   "cat": "AI新闻",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Google推出Gemini 3.8 Live和3.8 Live Extended Thinking两款模型，前者支持多语言实时对话和视觉输入，后者擅长复杂任务推理，均提升语音交互流畅度。",
+   "source_count": 2,
+   "sources": [
+    "Google DeepMind",
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "An Apple alum revamped GM’s truck interface for the screen fatigue era —— 一位苹果前员工为屏幕疲劳时代重新设计了通用汽车卡车界面",
+   "url": "https://www.fastcompany.com/91607221/an-apple-alum-revamped-gms-truck-interface-for-the-screen-fatigue-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "通用汽车2027款皮卡采用全新交互设计，减少屏幕依赖，增加物理按键。对产品设计者意味着：在信息过载时代，平衡数字与实体控制能提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent",
+   "url": "https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-15",
+   "score": 90,
+   "summary_zh": "京东上线“东东”购物助手，集成于APP内，通过AI分析用户行为提供个性化推荐。该功能提升用户购物效率，为产品设计者提供更精准的用户行为数据支持，有助于优化推荐算法与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Cognition 推出 Devin Mac VM：从 prompt 到 TestFlight，全自动化构建 iOS 应用",
+   "url": "https://www.bestblogs.dev/status/2099895786423398830?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "Cognition 为 Devin 分配了专用 Mac 虚拟机，使其能独立完成 iOS 应用开发，包括打开 Xcode、构建测试、生成 TestFlight 链接。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Autodesk’s AI assistant could radically change how buildings are designed and built —— Autodesk 的人工智能助手可能彻底改变建筑的设计和建造方式",
+   "url": "https://www.fastcompany.com/91606367/autodesks-ai-assistant-could-radically-change-how-buildings-are-designed-and-built?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Autodesk推出AI助手，可自动识别3D模型中的设计错误，如错位的梁或错误的扶手高度。对产品设计者而言，这能提升建筑项目协作效率，减少人为疏漏，加速工程落地。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "比尔·盖茨发长文警告：人类将迎来历史上最动荡的时期，但我们并未做好准备",
+   "url": "https://www.bestblogs.dev/article/8fdb86650d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "比尔·盖茨警告AI将引发大规模失业、网络安全威胁和批判性思维丧失，呼吁加强监管、征收AI税，并保留需人类同理心的工作岗位。对产品设计者意味着需关注AI对就业影响及用户认知变化，提前布局人机协作方案。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Sharpen your study routine with new Gemini Notebook tools —— 用全新的 Gemini Notebook 工具优化学习习惯",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Google Gemini Notebook新增实时对话功能，支持近100种语言，可语音提问并获取基于资料的分步指导。新增音频录制功能，可随时记录讲座和想法，笔记与资料同步。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "智能的下一幕，让人兴奋——73 页 PPT solo",
+   "url": "https://www.bestblogs.dev/podcast/ba7ad3970?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "庄明浩用73页PPT分析AI行业趋势，指出模型竞争转向‘拥有自己的智能’。企业开始重视自研AI能力，开源模型性价比提升推动产业分工。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "华为高层内部讲话万字纪要曝光，郭平回应大模型、昇腾及智能驾驶布局",
+   "url": "https://www.bestblogs.dev/article/c923578ca7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "华为郭平强调聚焦连接和计算领域，不扩张业务，目标是成为计算领导者。在智能驾驶等终端业务中，华为将发展自研大模型。半导体方面，通过架构创新弥补工艺不足，昇腾 950 系列已缩小差距。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
+   "url": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "美团发布‘手艺人Agent’，发型师可让AI协助管理线上作品、分析经营数据。AI能提供运营建议、提醒关键事项，提升手艺人线上运营效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "作者分享炫酷动画制作流程",
+   "url": "https://www.bestblogs.dev/status/2099877728917016988?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 84,
+   "summary_zh": "作者分享用 GPT 生成分镜图，豆包制作动画视频，Codex 嵌入网站的流程。AI 工具让动画制作更高效，适合快速产出高质量作品集。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+   "url": "https://www.bestblogs.dev/article/eaf49b35ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 95,
+   "summary_zh": "飞书与豆包工作推出国内首个团队 Agent「豆包工作伙伴」，可独立进群、处理任务、调用资源。它具备组织权限，能跨群协作、自动完成开发任务，提升团队效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "岗位要求 Vibe Coding，真是让你编程么？",
+   "url": "https://www.bestblogs.dev/article/b5c4c68d06?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 90,
+   "summary_zh": "VibeCoding 要求设计师通过 AI 编程体验产品开发全流程，理解技术限制与协作难点，提升全局思维与作品集含金量。设计师可积累技术框架知识，优化 AI 工作流，增强与开发团队的协作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "华为高层内部万字讲话纪要曝光",
+   "url": "https://www.bestblogs.dev/article/458a8de8d5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "华为监事会主席郭平称人工智能是最大机遇，强调聚焦连接与计算领域，不涉足非核心业务。公司将在ICT领域支持客户构建大模型，在终端和智能驾驶领域自研大模型，以提升产品核心价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "格雷格·布罗克曼：AI 时代人类价值与未来创业展望",
+   "url": "https://www.bestblogs.dev/status/2099866603890569303?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Greg Brockman认为AI将降低创业门槛，让小团队或个人能独立完成复杂项目。他指出人类核心价值在于设定目标、承担责任和理解社会关系，未来交互将转向自然语音与主动式AI助手。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 感谢",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/ffkoj3vuj4akl5zsl8ja.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 90,
+   "summary_zh": "AI Valley推出AI员工Viktor，可在Slack和Teams中自动执行任务，如每周生成报告、构建仪表盘、审查代码。产品无需人工干预，提升团队效率。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+   "url": "https://www.qbitai.com/2026/09/489466.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 90,
+   "summary_zh": "荣耀MagicOS 11的AI助手YOYO能执行超100步任务，任务闭环率达90%。用户一句话即可完成演唱会抢票、整理歌单等操作，YOYO还能跨设备控制智能家居、自动识别快递信息、记录日程，极大提升生活效率。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "R/GA’s new tool helps brands embrace the hyper-personalized future of advertising —— R/GA 的新工具帮助品牌拥抱广告业高度个性化的未来",
+   "url": "https://www.fastcompany.com/91603710/rga-brdna-sequencer-ai-tool?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "R/GA 推出 AI 工具 BRDNA Sequencer，能学习品牌指南并生成符合规范的创意内容。该工具可帮助品牌实现高度个性化广告，提升营销效率。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Meta 打造“组织第二大脑”智能体的设计思路",
+   "url": "https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "Meta 设计了名为“组织第二大脑”的AI智能体，能捕获专家逻辑而非单纯存储文档，适用于合规、安全等领域。该系统通过结构化知识与自改进闭环，使知识更新无需重新训练模型，评估效率提升数十倍。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The hidden culture of AI —— 人工智能的隐秘文化",
+   "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "AI在生成内容时会默认某些文化偏好，例如对披萨的排序。这种文化默认影响了AI的表现，使用户难以察觉。对产品设计者来说，需关注AI如何反映文化假设，并在设计中考虑不同文化背景的用户需求。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The users were confident, but wrong. Here’s how to design for that. —— 用户充满信心，但错了。这是如何为这种情况进行设计的",
+   "url": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "老年用户误以为已有律师处理事务，拒绝使用Advance Designation功能。设计时需识别用户认知偏差，避免术语误导，确保关键信息清晰传达。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "阶跃发布 StepAudio 3 ，多款语音模型登顶 Artificial Analysis 全球榜单",
+   "url": "https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "阶跃发布 StepAudio 3 系列，五款模型覆盖语音识别、生成、音乐创作等场景，多款登顶 Artificial Analysis 榜单。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "被称为人类制造的最后一个 AI 即将到来，刷屏全网的 RSI 是什么",
+   "url": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 70,
+   "summary_zh": "RSI（递归自我改进）AI 能自主优化代码、实验和训练流程，提升研发效率。OpenAI 和 Anthropic 已实现自动化研究，AI 可改进下一代模型，引发安全与创新的争议。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "“阿宝”交新朋友：携手比亚迪“迪迪虾”，实现车机端一句话办事",
+   "url": "https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "腾势N8L车主可通过车机语音唤起比亚迪‘迪迪虾’，联动支付宝‘阿宝’完成停车缴费、点单等服务。‘迪迪虾’负责语音交互，‘阿宝’处理支付，双方各守隐私边界，保障交易安全。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜X 创始人 Aaron Levie 认为，随着 Agent Swarms、新…",
+   "url": "https://x.com/levie/status/2099739019517235618",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-15",
+   "score": 85,
+   "summary_zh": "X 创始人 Aaron Levie 认为，随着 Agent Swarms、新 API 和 MCPs 等技术发展，AI 代理将承担更多专业和生活任务，如全天候招聘、分析客户信号、代码审查等。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 91
+  }
+ ]
+}
