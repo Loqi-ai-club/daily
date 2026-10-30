@@ -1,0 +1,461 @@
+{
+ "day": "2026-10-14",
+ "generated_at": "2026-10-14 07:20",
+ "scanned": 294,
+ "count": 32,
+ "items": [
+  {
+   "title": "How to talk about a design that looks worse on paper —— 如何谈论一个在纸面上看起来更差的设计",
+   "url": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 75,
+   "rank": 4.03,
+   "summary_zh": "微软耗时5年才推出一个‘明显修复’方案，因初期设计在纸上看似更差。对产品设计者意味着：直观的方案可能因复杂性被忽视，需持续验证用户真实反馈。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+   "url": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 3.037,
+   "summary_zh": "阶跃星辰发布首款智能体手机 STEPX Neo，定价 3999 元，配备智能体专属背屏和六麦克风阵列，用户可直接向 AI 发出指令。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "不是水桶机，却想颠覆行业：一台「模型原生」手机的疯狂野心",
+   "url": "https://www.bestblogs.dev/article/1e675351af?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 2.038,
+   "summary_zh": "阶跃终端发布 STEPX Neo 智能体手机，采用软硬模三位一体架构，支持用户自定义功能。该设备通过 Amoo 个人智能体实现多步骤任务处理，将手机从功能机转变为创造力平台，强调用户参与设计。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Google Play 开放“个人 App”：AI Studio 输出无需开发者注册直接安装",
+   "url": "https://www.bestblogs.dev/status/2110106922322120937?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 4.037,
+   "summary_zh": "Google Play 开放个人用户直接安装 AI Studio 生成的安卓应用，无需注册开发者账号或支付费用。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "餐饮行业创始人头像 LOGO 及卡通人物头像 LOGO 设计案例大全参考 - 新闻 - 创意共和|大连设计公司",
+   "url": "https://www.bestblogs.dev/article/64084d8122?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 75,
+   "rank": 4.034,
+   "summary_zh": "餐饮品牌LOGO常因过度装饰、过时画风和配色不当显土味。文章建议简化元素、采用现代画风、控制配色并保持自然姿态，以提升品牌视觉质感。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "yetone 的 Magpie 自动化维护工作流深度拆解",
+   "url": "https://www.bestblogs.dev/status/2110084393255514268?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 5.028,
+   "summary_zh": "yetone 用 Claude Code 和 Opus 5.5 模型搭建 Magpie 项目自动化维护流程，通过三个并行循环处理 issue 修复、Twitter 反馈过滤和代码清理，仅需处理 UI/…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+   "url": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "Meta 发布 Muse Wonder 系列模型，强调主动记忆和专注能力，支持长上下文和多模态输入，价格为每百万 Token 4 美元。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+   "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 80,
+   "rank": 3.027,
+   "summary_zh": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
+   "url": "https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 70,
+   "rank": 1.041,
+   "summary_zh": "Reflection AI 推出 5010 亿参数开放模型 Beam，对标中国模型，强调推理效率。英伟达拟收购或投资，关注开放模型对算力和生态的影响。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+   "url": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "Anthropic 推出 Dynamic Workflows，让 Claude 自动生成编排程序管理多 Agent 任务，减少主 Agent 协调负担。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "用户对不同 AI Bot 的留存与使用体验分析",
+   "url": "https://www.bestblogs.dev/status/2110045258889236563?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 3.041,
+   "summary_zh": "ChatGPT Dots 因深度嵌入 Codex 和 App 形成高频使用习惯，留存率高；Grokbot 虽集成 X 平台，但因缺乏主动触发场景，使用率低。用户资源和注意力有限，限制新 AI 工具的引入。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+   "url": "https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 6.022,
+   "summary_zh": "千问发布AI眼镜N1系列及AI耳夹耳机，支持虹膜支付、眼动交互、体征监测等功能。产品强化Personal Agent的主动服务能力，提升支付安全与交互便捷度，适合日常使用及商务场景。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Vibe Check: Gemini 4 Argon Puts Google Back On the Frontier",
+   "url": "https://every.to/vibe-check/vc-gemini-4-argon-puts-google-back-on-the-frontier",
+   "source": "Every",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 8.024,
+   "summary_zh": "谷歌推出Gemini 4 Argon模型，性能接近行业顶尖。对产品设计者而言，意味着大模型能力更易被传统企业采用，推动AI工具在日常工作中落地。",
+   "source_count": 2,
+   "sources": [
+    "Every",
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+   "source_count": 3,
+   "sources": [
+    "AIHOT",
+    "Google DeepMind",
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "从可复用到可再生：重新思考共享 UI 组件库",
+   "url": "https://www.infoq.cn/article/Fvuq0C19vAAYpSBN3US2?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 75,
+   "rank": 8.021,
+   "summary_zh": "2026年，共享UI组件库的价值因AI生成代码而下降，维护成本高且易碎片化。设计系统、token和工程原则成为核心，团队可按需生成组件，确保一致性与无障碍性，减少对集中化共享库的依赖。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "利用 Opus 快速生成视频梳理事件多视角",
+   "url": "https://www.bestblogs.dev/status/2110026253952762265?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 75,
+   "rank": 7.027,
+   "summary_zh": "作者用 Opus 模型快速生成视频，对事件进行多视角梳理。AI 工具能高效处理复杂信息，适合用于内容创作与信息呈现。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Muse AI vs H3 AI Portrait Detail Comparison",
+   "url": "https://www.bestblogs.dev/status/2110023639806660635?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "Muse AI 在人物面部细节刻画上优于 H3，适合需要高精度人像的项目。作者建议用剪映降低 AI 视频饱和度，并提供宋式美学视频的提示词框架，有助于提升视觉风格一致性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Sumus 的生成式 UI 与动态连接器设计创新",
+   "url": "https://www.bestblogs.dev/status/2110021506013221063?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 82,
+   "rank": 7.028,
+   "summary_zh": "Sumus 通过生成式 UI 和动态连接器提升交互体验。生成式 UI 用交互组件替代静态文本，减少审美疲劳；动态连接器自动引导服务授权，简化操作流程，提升对话连贯性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "PPT Skill 工具上线半年复报",
+   "url": "https://www.bestblogs.dev/status/2110018507526250561?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 70,
+   "rank": 6.03,
+   "summary_zh": "PPT Skill 工具上线半年获 3600 GitHub Star，用户持续增长。AI 辅助制作 PPT 的需求被验证，对产品设计者而言，AI 工具在效率提升和用户需求匹配上具有实际价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 制作小王子 3D 游戏展示",
+   "url": "https://www.bestblogs.dev/status/2110016620869673386?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 8.029,
+   "summary_zh": "作者用 Opus 5.5、Tripo 和 Blender 在 16 天内完成《小王子》3D 游戏开发，并计划开源。展示了 AI 工具链在内容创作中的高效协同，对设计师提供了可复用的流程参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Source material: Creative director Manon Macasaet’s spirituality shapes her process —— 原材料：创意总监 Manon Macasaet 的灵性塑造了她的创作过程",
+   "url": "https://www.figma.com/blog/source-material-manon-macasaet/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 1.034,
+   "summary_zh": "设计师Manon Macasaet分享创作灵感来源，包括Harajuku时尚、Tumblr早期网络文化等。她强调精神层面在创作过程中的重要性，并提到《Helter Skelter》是其设计圣经。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "东半球首款原生智能体手机发布",
+   "url": "https://www.bestblogs.dev/status/2110011638061682845?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 75,
+   "rank": 2.036,
+   "summary_zh": "东半球发布首款大模型原生智能体手机，搭载AOS 1.0系统，定价对标苹果HomeView，设计参考Nothing手机。对产品设计者而言，这展示了AI原生系统与竞品定价策略的结合，可能影响未来手机设计方向。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+   "url": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 70,
+   "rank": 5.025,
+   "summary_zh": "LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Higgsfield takes AI video from 1 minute to over 10 —— Higgsfield 将 AI 视频制作时间从 1 分钟缩短至 10 分钟以上",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 3.035,
+   "summary_zh": "Higgsfield AI利用GPT-6 Astra和GPT-Image-2.5，使视频时长从1分钟延长至10分钟以上，并支持精准图文生成。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+   "url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 3.032,
+   "summary_zh": "Meta、OpenAI、Google 等巨头纷纷推出个人 AI Agent，强调长期运行与个性化服务。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+   "url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 70,
+   "rank": 5.033,
+   "summary_zh": "GitHub 上 REA 项目因 AI 逆向分析能力获 12 万星，能解析二进制、还原代码，甚至克隆软件功能。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "拾趣 Magpie：macOS 划词 AI 工具",
+   "url": "https://www.oschina.net/news/503004",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 70,
+   "rank": 6.025,
+   "summary_zh": "拾趣 Magpie 是一款 macOS 划词 AI 工具，划选或双击即可实时翻译、解释、总结文字，并支持复制、搜索、写入 Obsidian、预填日历等功能。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Graphic design isn’t dying. It’s expanding —— 视觉设计并未消亡。它正在扩展",
+   "url": "https://www.fastcompany.com/91621640/graphic-design-isnt-dying-its-expanding?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 2.036,
+   "summary_zh": "设计师Jarrett Fuller在新书《Graphic Designers After Graphic Design》中提出，图形设计正从传统领域扩展到出版、研究、艺术等领域。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "The synth everyone owned and few could program: a lesson for AI design —— 每个人都拥有却很少人能编程的合成器：对 AI 设计的启示",
+   "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-13",
+   "score": 85,
+   "rank": 3.041,
+   "summary_zh": "1983年雅马哈发布DX7合成器，虽功能强大但操作复杂，依赖预设音色。如今AI让创作门槛降低，但真正脱颖而出的作品仍需人工决策与精细调整。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
+   "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-13",
+   "score": 80,
+   "rank": 3.032,
+   "summary_zh": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "X观点｜Peter Yang分享使用Grok Bot的经验，强调其基于角色而非对话线…",
+   "url": "https://x.com/petergyang/status/2109803399332213090",
+   "source": "X · @petergyang",
+   "cat": "AI工具",
+   "date": "2026-10-13",
+   "score": 85,
+   "summary_zh": "Peter Yang分享使用Grok Bot的经验，强调其基于角色而非对话线的设计，如客服、研究、家务等分工明确。新功能包括独立邮箱和Opus，适合需要自动化任务的用户。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 77,
+   "rank": 4.035
+  },
+  {
+   "title": "X观点｜研究指出，AI未来将能自主判断任务并优化自身结构，无需人工预先设定",
+   "url": "https://x.com/levie/status/2109788979952558255",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-12",
+   "score": 70,
+   "summary_zh": "研究指出，AI未来将能自主判断任务并优化自身结构，无需人工预先设定。这对产品设计者意味着，系统需更灵活适应AI自主决策，设计时应预留可扩展接口和动态调整机制。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 289,
+   "rank": 4.035
+  }
+ ]
+}

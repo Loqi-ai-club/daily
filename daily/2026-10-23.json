@@ -1,0 +1,219 @@
+{
+ "day": "2026-10-23",
+ "generated_at": "2026-10-23 07:16",
+ "scanned": 265,
+ "count": 15,
+ "items": [
+  {
+   "title": "How to put your design system to work with the Figma agent —— 如何通过 Figma 代理利用你的设计系统",
+   "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 8.027,
+   "summary_zh": "Figma Agent 现已全面上线，支持通过设计系统提升工作效率。设计师可将设计库连接至 Agent，使其使用已批准的组件和变量生成设计。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Buy vs. build is now also a UX decision, especially in enterprise —— 购买还是自建如今也成为用户体验决策，尤其是在企业领域",
+   "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-22",
+   "score": 70,
+   "rank": 5.028,
+   "summary_zh": "企业产品团队在购买工具与自研之间权衡时，UX设计成为关键因素。AI降低了自研成本，但维护、工具衔接、数据管理等问题仍需设计介入。设计师需更早参与决策，影响产品体验与长期维护。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+   "url": "https://replit.com/blog/replit-monitoring-agent",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 6.022,
+   "summary_zh": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+   "url": "https://x.com/claudeai/status/2113360845409583307",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 2.04,
+   "summary_zh": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。",
+   "source_count": 2,
+   "sources": [
+    "AIHOT",
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "#787.Ilya：预测得越好，模型越懂世界",
+   "url": "https://www.bestblogs.dev/podcast/d94ea9e04?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-22",
+   "score": 70,
+   "rank": 0.032,
+   "summary_zh": "Ilya Sutskever 认为预测能力提升源于模型对真实世界的理解，通过压缩数据学习深层表征。他指出幻觉源于输出控制不足，改进基于人类反馈的强化学习可解决。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "10 例——“共享”产品设计！",
+   "url": "https://www.bestblogs.dev/article/7929096428?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 3.037,
+   "summary_zh": "10 款共享产品设计案例涵盖智能家居、出行、餐饮等领域，如 Oasis 智能桌、TwinsPOS 系统等，通过模块化、可拆分设计促进资源共享与社交互动，提升用户体验与社会连接。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从零看懂 AI：一篇写给初学者的入门指南",
+   "url": "https://www.bestblogs.dev/article/841bc35fe8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-22",
+   "score": 70,
+   "rank": 5.034,
+   "summary_zh": "文章系统介绍了AI的基本概念、技术架构和主流产品，如ChatGPT、通义千问等，并解释了Token、提示词等关键术语。对产品设计者而言，理解AI的预测机制和交互方式有助于优化用户体验和产品功能设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/lk7q4fw0mr7btigeetqwh2htiwrm5416iar8spd2.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 7.029,
+   "summary_zh": "Wispr Flow 将语音转为可发送文本，支持 Cursor、ChatGPT 等应用，89% 消息无需编辑。产品设计者可借此提升编码效率，减少输入负担。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "个人智能体赛道开启“三国杀”",
+   "url": "https://www.bestblogs.dev/article/0efc469888?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 0.044,
+   "summary_zh": "Anthropic、OpenAI 和 Meta 分别推出 Claude Duet、Dots 和 Muse，定位日常生活、专业工作和业务管理，争夺下一代人机交互入口。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+   "url": "https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-22",
+   "score": 75,
+   "rank": 5.024,
+   "summary_zh": "百度世界2026将设10+分论坛，聚焦AI驱动组织跃迁、智能办公等议题，探讨如何将AI能力融入组织，提升生产力。对企业而言，需关注AI转型从工具升级向组织重构转变，把握智能组织建设的实践方向。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+   "url": "https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-22",
+   "score": 70,
+   "rank": 2.04,
+   "summary_zh": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，支持多选与按序决策，27B版本在23项评测中超越微软和Jev等模型。该模型Token消耗降低90%，响应速度提升10倍，适合产业AI场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+   "url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 5.028,
+   "summary_zh": "豆包工作上线 IGA Pages 插件，可一键将生成的网页部署为可分享链接。用户只需说‘部署’，插件自动上传至火山引擎服务器，生成公网预览链接。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优",
+   "url": "https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "Accio助力双11商家，蓄水期缩短半个月，15分钟完成全网爆款调优。跨平台数据分析、广告投放优化等功能提升效率，00后操盘手6天打造日均百单新品，多平台数据处理更高效。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+   "url": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-22",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "千问发布AI眼镜N1 Pro和耳夹式耳机，眼镜支持自动录音、呼吸提醒、菜单翻译、点头支付等功能，售价2218元起。眼镜搭载全天候视觉感知系统，无需唤醒即可提供行程指引等服务，试图突破传统AI助手的使用局限。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

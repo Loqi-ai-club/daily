@@ -1,0 +1,320 @@
+{
+ "day": "2026-09-01",
+ "generated_at": "2026-09-01 07:18",
+ "scanned": 255,
+ "count": 24,
+ "items": [
+  {
+   "title": "The call for an agentic standard: We need to stop shipping the same form four different times —— 呼吁建立智能体标准：我们应停止四次重复提交同一份表单",
+   "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "不同助手以不同方式渲染同一组件，增加维护负担。建议统一标准，明确组件归属与渲染责任，减少重复开发。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI 编程时代的代码质量方差与个人责任",
+   "url": "https://www.bestblogs.dev/status/2094526075682660617?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "AI 编程降低门槛后，代码质量方差增大，技术判断力和责任心成为关键。跳过需求分析直接提交 AI 代码，将维护成本转嫁给团队，AI 无法担责，最终仍由人承担。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从出片到出海：AI MediaKit 重塑短剧全链路生产力",
+   "url": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "短剧出海进入工业化阶段，AI MediaKit 提供画质增强、字幕擦除、高光智剪等工具，降低 80% 成本，支持 50+ 语言翻译，提升成片可用率至 90%+，助力内容快速适配多地区、多渠道分发。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "500 万人围观，AI 终于造出了「无限泔水机」",
+   "url": "https://www.bestblogs.dev/article/50ba88f358?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "Infinite Slop 网站用 AI 实时将观众聊天生成视频片段，形成无限直播流。虽内容质量不一，但展示了 AI 在实时内容生成的潜力，对产品设计者而言，提供了互动直播新思路。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践",
+   "url": "https://www.infoq.cn/article/l88X1azz8wfwphDyECoP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "小红书 Muse 平台通过 Agentic 架构打通需求、设计与研发流程，提升协作效率。系统需解决 AI 生成代码与企业规范适配、上下文连贯及高可用问题，强调人机共创与任务主线控制。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI PPT 生成的最佳实践——从 HTML 到 PPTX 的过渡",
+   "url": "https://www.bestblogs.dev/status/2094466904828068086?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "AI生成PPT时，直接操作PowerPoint或使用YAML格式效果不佳。推荐用HTML生成网页PPT再导出为PPTX，既保证美观又提升编辑灵活性。此方法利用AI对HTML的理解优势，符合通用学习方法原则。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
+   "url": "https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 75,
+   "summary_zh": "得物推荐团队在AI研发全链路中，通过PDCA循环和七阶段护栏，构建了覆盖需求、开发、测试、反思的AI实践体系。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Design has outgrown the traditional designer —— 设计已超越传统设计师",
+   "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "设计教育需重新定义目标学生，传统设计师角色已扩展。设计不再仅服务于艺术天赋者，更需培养跨领域能力，适应产品设计需求。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "OpenClaw 从意外爆红到“无人问津”：一个开源 AI Agent 的八个月过山车",
+   "url": "https://www.infoq.cn/article/4KQHJC49t8J8FPqaEVLv?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "美团大规模引入 OpenClaw 导致每天 AI 费用超千万，暴露 AI 落地需业务、组织、技术协同。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
+   "url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 80,
+   "summary_zh": "Shopify CEO 要求 Claude Code 支持 AGENTS.md，否则禁用。Anthropic 拒绝，开发者被迫写脚本兼容。大型代码库需统一指令格式，否则引发协作混乱。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "自研Runtime、Agent Loop、Infra：一家通用Agent公司的全栈赌注",
+   "url": "https://www.infoq.cn/article/NUGYDLvivgYXMV9u637z?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "Floatboat 自研 Runtime、Agent Loop 等全栈系统，使 DeepSeek-V4-Flash 在长程任务中超越 Claude Opus 4.8。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI生成无限直播，实时互动吸引3.7万人观看",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/rshd551s02u6mx213j49.html#p2",
+   "source": "AI Valley",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "AI生成视频速度提升，Fal的H3 Max可在9秒内生成15秒视频，实现无限直播。用户实时互动内容被AI生成并接入直播，首日吸引3.7万人观看。产品设计者可借此探索实时生成内容与用户互动的新模式。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事",
+   "url": "https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "Cisco 向 9 万员工部署 MyAgent，可跨系统执行任务，提升效率。MyAgent 依托内部 AI 平台 Circuit，具备持久记忆、意图驱动和跨系统协调能力，减少员工手动操作，优化工作流程。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Blank pages, Researcher-in-the-loop, Design’s craft crisis —— 空白页面、研究员在环、设计的技艺危机",
+   "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "文章指出，界面设计应遵循‘识别优于回忆’原则，减少用户记忆负担。AI设计需避免空白页面，强调实用技能培养。设计师应关注可见性与交互逻辑，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Google 改变了其搜索结果的展示方式",
+   "url": "https://www.solidot.org/story?sid=85242",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "Google 改变了搜索结果展示方式，链接改为 google.com/goto + 随机字符串，且取消了显示 100 个结果的快捷方式，现在最多只显示 10 个结果。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "UX in 2027 may be less about interfaces and more about behavior —— 2027年的UX可能更关注行为而非界面",
+   "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "2027年UX设计更关注用户行为而非界面。软件将主动解读用户目标并执行操作，设计师需定义系统边界。Google等公司已开始探索此类智能交互方式，强调设计在自适应系统中的核心作用。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026",
+   "url": "https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 70,
+   "summary_zh": "2026世界机器人大会上，八位AI创业者讨论世界模型的发展现状与挑战，认为其不仅是生成式AI的‘皇冠上的明珠’，还需解决数据成本、常识理解等问题。对产品设计者而言，世界模型的落地将推动更智能、具身化的交互体验。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运",
+   "url": "https://www.bestblogs.dev/podcast/19cb1577b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "Canva、Figma 等公司因 AI 模型替代单点功能导致估值下调，而美图通过整合模型、流程与支付，实现 AI 工作流与结果交付，AI 板块收入占比达 96%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gridset: Turn drafts into on-brand documents —— Gridset: 将草稿转化为符合品牌规范的文档",
+   "url": "https://bit.ly/side-grid1",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "Gridset 能将 Notion、Google Doc 等内容自动设计成符合品牌风格的文档，无需手动调整格式。设计师可直接使用现有内容生成 PPT、PDF 等格式，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "AI operating principles —— AI 运营原则",
+   "url": "https://buzzusborne.com/writing/ai-operating-principles/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "设计师应将AI视为增强能力的工具，而非替代判断。AI能加速设计流程，但真正价值在于拓展设计团队的思维边界，如探索更多可能性、缩短设计与工程的距离。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+   "url": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "Kimi 前 CLI 负责人指出，模型越强，Harness 越重要，但作用从补能力转向管理多智能体协作。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”",
+   "url": "https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "海信发布家庭智能伴侣级AIOS JUOS，适配电视、投影等多终端，搭载自研星海大模型，实现家庭AI从被动响应到主动服务的升级。系统以‘一家人’为设计原点，推动家庭AI交互底层重构，提升家庭场景智能化体验。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？",
+   "url": "https://www.leiphone.com/category/industrynews/Q60UBtf6lmPQPreT.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 75,
+   "summary_zh": "筷子科技推出KP钱包，统一管理AI模型调用与预算，覆盖内容生产到分发全流程。企业可通过单一账户调用多个模型，降低管理成本，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜X 开发团队两个月前启动“用 OpenClaw 构建 OpenClaw”计划…",
+   "url": "https://x.com/steipete/status/2094290652649636173",
+   "source": "X · @steipete",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-31",
+   "score": 85,
+   "summary_zh": "X 开发团队两个月前启动“用 OpenClaw 构建 OpenClaw”计划，逐步将本地编码工具替换为共享代理，实现多人协作编码和无限算力。该做法改变了开发方式，本地工具逐渐被淘汰。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1134
+  }
+ ]
+}

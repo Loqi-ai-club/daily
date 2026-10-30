@@ -1,0 +1,361 @@
+{
+ "day": "2026-10-29",
+ "generated_at": "2026-10-29 07:18",
+ "scanned": 278,
+ "count": 25,
+ "items": [
+  {
+   "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "2026 年，企业开始将智能体视为员工管理，而非仅依赖提示词。领先企业通过设定岗位职责、准备结构化数据、设立 AI 管理者等做法，提升智能体治理与效果。智能体需接受培训、考核与监督，确保其产出符合业务目标。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 6.019,
+   "summary_zh": "Snowflake 提出五项措施管理 AI 智能体权限：识别身份、限制权限、保护数据、控制资源消耗、审计行为。智能体可能继承用户权限，需通过会话策略、数据掩码等手段限制其操作范围，避免敏感信息泄露。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI 的下一次突破在哪里？｜AI CLOUD 100 CHINA 2026 · 主论坛对话精选-36 氪",
+   "url": "https://www.bestblogs.dev/article/1d96263ced?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 2.033,
+   "summary_zh": "张牧涵提出模型需参数级持续学习，赵云飞预测世界模型将成突破，陈锴杰强调垂直领域优化，张伊凡指出自动化研究可降本增效。这些进展将推动AI更高效学习与应用，影响产品设计方向。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 自动剪辑靠谱吗？我拿自己的一条视频实测，省了时间也翻了一次车",
+   "url": "https://www.bestblogs.dev/video/bf6eeb2951?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 5.028,
+   "summary_zh": "Happy 哥用 ChatCut 测试 AI 自动剪辑，35 秒完成转写与粗剪，但误切语气停顿需人工修正。AI 适合口播、教程粗剪去水，但情绪留白或精准卡点仍需人工处理。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Box Mount now runs in Vercel Sandbox —— Box Mount 现在可在 Vercel Sandbox 中运行",
+   "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "Vercel 推出 Box Mount 功能，允许在 Vercel Sandbox 中通过标准文件系统操作读写 Box 文件。同步 Box 文件夹与 Sandbox 目录，卸载后数据保留在 Box。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Dive into new topics with immersive explorations in the Gemini app. —— 在 Gemini 应用中通过沉浸式探索学习新主题",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 3.034,
+   "summary_zh": "Gemini应用新增沉浸式探索功能，提供交互式视觉体验，涵盖丝绸之路、喷气发动机等主题。用户可通过学生中心访问，未来将支持聊天中直接使用。目前支持中、英、印地等六种语言，其他语言后续上线。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "带出 Transformer 一作、前 ACL 顶会主席来华分享：人类正在把“思考”全盘外包",
+   "url": "https://www.infoq.cn/article/SZuklTgjFS7o8BaZ8TJh?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 0.032,
+   "summary_zh": "Kevin Knight 指出，AI 正在改变人类思考方式，大模型使语言处理突破性进展，但人类过度依赖 AI 会导致思维退化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
+   "url": "https://www.bestblogs.dev/article/d94f77d897?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 90,
+   "rank": 5.03,
+   "summary_zh": "讯飞输入法 16.0 新增「意图成稿」功能，可跨应用记忆并生成草稿，支持语音边说边改及方言识别。AI 键盘提供 30 万表达技能，覆盖多种场景，实现机器适应人表达习惯的交互反转。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail. —— Chrome 的增强自动填充功能可借助 Gmail 提取建议，帮助您填写表单",
+   "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 6.031,
+   "summary_zh": "Chrome增强自动填充功能可从Gmail提取信息自动填充表单，如订单号、航班信息等。该功能基于Gemini与个人智能技术，目前在美国桌面和移动端逐步上线，用户可自行控制是否启用。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Gemini 4 Carbon: our next frontier model —— Gemini 4 Carbon：我们的下一个前沿模型",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 5.035,
+   "summary_zh": "Google推出Gemini 4 Carbon模型，网络安全能力领先，SEC-bench Pro得分88.2%，生成安全代码效率提升2倍。定价与Argon相同，先向部分网络安全团队开放，逐步扩展至更多合作伙伴。",
+   "source_count": 2,
+   "sources": [
+    "Google The Keyword",
+    "Google DeepMind"
+   ]
+  },
+  {
+   "title": "Build and manage Connected Apps in one place —— 集中管理连接应用",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 5.026,
+   "summary_zh": "谷歌推出Connected Apps平台，开发者可通过AppFunctions API将应用集成至Gemini和搜索，统一管理并追踪数据。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "模型越来越强，落地却处处卡关？14 位行业大佬拆解难题｜1024 模力工场 · AI 社区日圆满收官",
+   "url": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 1.03,
+   "summary_zh": "1024 模力工场 · AI 社区日活动在杭州举办，14 位行业专家分享 AI 落地实践与挑战。极客邦科技南方总部及 TGO 鲲鹏会全球总部在杭州成立，推动 AI 企业服务与科技领导者交流。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "微软通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "GitHub Universe 2026 发布 GitHub Copilot 应用、Copilot Fusion 等智能体产品",
+   "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "These people are cutting the clutter and redesigning their smart TVs with AI —— 这些人正在利用 AI 去除杂乱内容并重新设计智能电视",
+   "url": "https://www.fastcompany.com/91630508/vibe-coding-smart-tv-redesign?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 7.034,
+   "summary_zh": "用户通过AI重新设计智能电视界面，去除冗余内容，定制个性化启动页。对产品设计者意味着：用户期待更简洁、符合个人需求的界面，AI工具可帮助实现快速定制。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "智能指数得分创新高！蚂蚁百灵开源 Ling-3.1-flash-1019：让 Personal Agent 走向真实业务",
+   "url": "https://www.infoq.cn/article/wIuu0NSaLSaqJJpXVExD?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 2.044,
+   "summary_zh": "蚂蚁百灵开源Ling-3.1-flash-1019，智能指数提升3分至44分，处理复杂任务能力增强。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅 1/10！事实错误率暴降近 70%",
+   "url": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 80,
+   "rank": 3.027,
+   "summary_zh": "OpenAI 发布 GPT-6.1 Terra，速度比旗舰快 3 倍，价格仅为 1/10，事实错误率下降近 70%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The future of the firm —— 企业的未来",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 1.03,
+   "summary_zh": "OpenAI探讨AI在企业中的三种融入方式：在员工之下、并肩、或介于两者之间。AI将承担基础工作，逐步扩展至管理角色，改变组织结构和管理方式。员工可能从基层晋升为管理者，AI成为新层级的‘员工’。",
+   "source_count": 2,
+   "sources": [
+    "OpenAI",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Smaller teams want design leaders who make, again. Here’s how. —— 小团队需要能够“制造”的设计领袖，以下是实现方式",
+   "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 75,
+   "rank": 5.03,
+   "summary_zh": "小团队需要能动手的设计负责人。AI让团队规模缩小，对个人产出要求提高。设计领袖需亲自参与制作，像球员兼教练的模式，提升团队效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The agent woke up before you did —— 智能体在你之前就已“醒来”",
+   "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 2.033,
+   "summary_zh": "用户中心设计的最后一个假设被打破，四家公司同时推动新方向。传统以用户需求为核心的设计方法面临挑战，产品设计需更关注系统自主性与智能代理的交互逻辑。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work —— Legora 正在构建法律工作的智能体操作系统",
+   "url": "https://openai.com/index/legora",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 6.035,
+   "summary_zh": "Legora 开发基于 OpenAI 模型的法律工作智能系统，使律师审查 NDA 时间减少 95%，合同处理速度提升 90%。AI 自动化释放律师时间，用于高价值工作，如 M&A 审查。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "华为群英传之刘睿：AI 助手要告别聊天框，从“被动响应”走向“主动服务”",
+   "url": "https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "华为推出AI助手新功能，从被动响应转向主动服务。刘睿曾就职商汤，现于华为推动AI技术落地，强调生成式模型在实际应用中的价值。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Introducing Virtual Models on AI Gateway —— AI 网关上线虚拟模型",
+   "url": "https://vercel.com/blog/ai-gateway-virtual-models",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 5.037,
+   "summary_zh": "Vercel 推出 AI Gateway 虚拟模型功能，通过虚拟模型 ID 统一管理模型配置和回退策略，实现零数据保留。开发者可灵活切换模型，提升应用灵活性和安全性。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "X观点｜X用户Peter Yang试用Grok新功能，称其为近期最有趣的AI体验之一",
+   "url": "https://x.com/petergyang/status/2115239304092106772",
+   "source": "X · @petergyang",
+   "cat": "AI新闻",
+   "date": "2026-10-28",
+   "score": 85,
+   "summary_zh": "X用户Peter Yang试用Grok新功能，称其为近期最有趣的AI体验之一。该功能尚未全面上线，但即将推出。他计划制作相关视频，呼吁订阅以获取更新。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 65,
+   "rank": 5.026
+  },
+  {
+   "title": "X观点｜企业中实际应用AI代理的流程不足1%，多数仅用单次LLM处理",
+   "url": "https://x.com/levie/status/2115305369799110905",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "summary_zh": "企业中实际应用AI代理的流程不足1%，多数仅用单次LLM处理。随着计算能力提升，代理可处理复杂任务，如金融、医疗等领域。组织需重构流程以利用代理，将带来重大影响。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 186,
+   "rank": 5.026
+  }
+ ]
+}

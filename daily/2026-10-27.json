@@ -1,0 +1,400 @@
+{
+ "day": "2026-10-27",
+ "generated_at": "2026-10-27 10:06",
+ "scanned": 265,
+ "count": 28,
+ "items": [
+  {
+   "title": "Building an AI-ready design system library: Code → Figma with MCP. —— 构建一个AI就绪的设计系统库：代码→Figma，借助MCP。",
+   "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 8.035,
+   "summary_zh": "设计师从代码构建AI-ready设计系统，同步至Figma库。通过MCP工具实现代码与设计的双向联动，提升设计系统维护效率，适用于熟悉Figma但无代码经验的设计师及团队。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Does Apple’s HomeView reduce effort, or ask for our attention? —— Apple的HomeView是减少了努力，还是在争夺我们的注意力？",
+   "url": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 75,
+   "rank": 7.027,
+   "summary_zh": "苹果推出HomeView，7英寸触摸屏加音响，主打家庭场景。与Nest Hub、Echo Show竞争，但设计更注重融入环境，减少用户注意力需求。对产品设计者提示：智能家居需平衡功能与隐形性，避免过度干扰用户。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Greg Brockman称GPT-6.1 Terra的电脑操作速度已超过他本人",
+   "url": "https://x.com/gdb/status/2114814747254432243",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 2.044,
+   "summary_zh": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Discover 1000+ services on Vercel Connect from the CLI —— 通过CLI在Vercel Connect上发现1000+服务",
+   "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 5.025,
+   "summary_zh": "Vercel Connect CLI 支持在终端搜索 1000+ 服务，可按名称、别名、关键词、描述、分类、连接方式等过滤，适合开发者快速查找所需工具。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "OpenAI发布GPT-6.1 Terra，主打电脑操作与写作能力",
+   "url": "https://x.com/thsottiaux/status/2114800277677092936",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Why Instagram is about to look a lot more like YouTube —— 为什么Instagram即将看起来更像YouTube",
+   "url": "https://www.fastcompany.com/91630089/why-instagram-is-about-to-look-a-lot-more-like-youtube?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 4.029,
+   "summary_zh": "Instagram 推出新功能“Features”，支持最长 90 分钟的横向长视频，突破此前 Reels 的 20 分钟限制。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Gamma发布Gamma 5及credits、导出、预览等多项更新",
+   "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 7.027,
+   "summary_zh": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox —— 在Vercel Sandbox上运行Scale AI的AgentEnv评估",
+   "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 5.03,
+   "summary_zh": "Scale AI 的 AgentEnv 框架现已支持在 Vercel Sandbox 上运行，允许在独立沙箱中执行代理和任务环境。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "让AI从需求一路干到上线，软件开发组织要变了？",
+   "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 5.023,
+   "summary_zh": "Faros AI 研究显示，AI 编码虽提升开发速度，但企业交付效率未同步提升，代码审查时间反增。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "大语言模型：人类点错了科技树？",
+   "url": "https://www.bestblogs.dev/article/a2cd5577ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 1.033,
+   "summary_zh": "大语言模型（LLM）虽提升信息处理效率，但未如蒸汽机般扩展人类能力边界，主要在已有知识内组合生成，缺乏开辟新方向的能力。文章强调技术应创造新体验和可持续社会活动，而非仅提高效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Epoch AI用内部工作任务评测前沿模型：Claude Fable 5.1与GPT-6 Astra平均只得65%",
+   "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 6.027,
+   "summary_zh": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "15 college students share their favorite Gemini features —— 15名大学生分享他们最喜欢的Gemini功能",
+   "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 2.037,
+   "summary_zh": "15名大学生分享了他们最喜欢Gemini的功能，包括学习笔记、实时对话、引导学习、自动生成复习资料和测验等。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Krea推出面向Adobe Premiere的插件",
+   "url": "https://x.com/krea_ai/status/2114741513867395527",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "天禧AI“苍穹计划”托举超级个体：把亿级生态铺到独立创作者脚下",
+   "url": "https://www.bestblogs.dev/article/58cb679d21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 75,
+   "rank": 1.038,
+   "summary_zh": "联想天禧AI与观猹社区在杭州举办大会，展示如何通过跨端协同和开放生态，让个人AI具备‘记忆’与‘躯干’，放大创作者能量。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "30个Agent背后：花椒如何建设可持续演进的企业AI能力？",
+   "url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 75,
+   "rank": 6.031,
+   "summary_zh": "花椒通过自研Agent平台，沉淀30个应用，覆盖多个业务场景。平台分层设计，分离公共能力与业务逻辑，降低开发门槛，提升复用性。业务部门专注任务规则，技术团队负责运行治理，实现AI能力与业务需求的协同演进。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼节",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/vmm42hi68c3mg0qov5j38qx6hfv36c9en6kizpjn.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 90,
+   "rank": 6.029,
+   "summary_zh": "AI Valley推出AI员工Courtesy，已服务70,000+团队，可跨3,200+工具处理财务、销售、市场等任务，如从Stripe提取营收数据、清理HubSpot旧客户线索等，提升团队协作效率。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Technology Limits are Temporary —— 技术限制是暂时的",
+   "url": "https://www.lukew.com/ff/2169/technology-limits-are-temporary",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 0.026,
+   "summary_zh": "多年前，LukeW在Netflix和eBay演讲时，曾被质疑移动设备无法替代大屏观看或购物。如今这些质疑已被证明错误。这说明人们常过度关注新技术的局限，而忽视其长期潜力。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "AI时代的“房谋杜断”：如何培养能力、品味与判断力",
+   "url": "https://www.bestblogs.dev/article/b6f54b2c30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 1.036,
+   "summary_zh": "AI 时代需培养建模、提问、验证、取舍和责任五项能力，人类应从执行者转为决策者。'房谋杜断'典故说明 AI 提供方案，人做最终判断，强调通过实践提升判断力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "“过来人”与“窃脸人”：AI时代，我们该如何存在 | 人民锐评",
+   "url": "https://www.bestblogs.dev/article/8a09aae997?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 75,
+   "rank": 1.032,
+   "summary_zh": "文章通过《过来人》与‘窃脸人’案例，揭示AI双刃剑特性。AI既能复兴文化，也易侵犯隐私，需以人为本、设置伦理底线，确保其正向发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从Agent工程化到任务交付，解读AI走向生产的关键挑战｜QCon上海2026圆满收官",
+   "url": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 2.03,
+   "summary_zh": "QCon 上海 2026 举办，多位专家探讨 AI 如何进入生产系统。强调 Agent 工程化、上下文管理和工业数据语义化是关键。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Kimi K3.1 Pro发布：代码超GPT-6 Astra、开放权重版主动移除网络攻防能力",
+   "url": "https://www.oschina.net/news/503221",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "Kimi K3.1 Pro 发布，3 万亿参数、100 万上下文，代码能力超 GPT-6 Astra。同步推出高速版，速度 2~3 倍，价格 2 倍。开放权重版移除网络攻防能力，影响模型应用场景。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title —— 讲错故事，设计对ADHD，AI不在乎你的职位头衔",
+   "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "设计师为追求速度跳过流程步骤，但真正竞争是与利益相关者达成一致。需在Figma中闭环用户研究与设计，连接Optimal MCP与Figma AI设计代理可提升效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "即梦推出“短剧工作室”，打造更全能的AI内容创作平台",
+   "url": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 4.032,
+   "summary_zh": "即梦AI推出短剧工作室，整合剧本创作、角色管理、分镜生成等功能，支持10万字剧本上传与100集连续生成，提升短剧制作效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "ChatGPT’s expanding world of work —— ChatGPT不断扩展的工作世界",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-10-26",
+   "score": 70,
+   "rank": 0.045,
+   "summary_zh": "OpenAI发布ChatGPT工作使用数据，覆盖165项工作活动及近100个国家，显示用户用于准备教学材料、编程分析数据等。数据连接IWAs分类，帮助研究AI对经济影响，发现各国使用差异及工作活动分布变化。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Craftwork: UI made by real designers —— Craftwork：由真实设计师打造的UI",
+   "url": "https://craftwork.design/?ref=sidebar",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 5.044,
+   "summary_zh": "Craftwork 提供 3900+ 由 560+ 独立设计师制作的 Figma、Framer 等 UI 套件，覆盖 Nike、Riot Games 等公司。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Design and engineering are the same thing —— 设计与工程是同一件事",
+   "url": "https://www.youtube.com/watch?v=AK8zLQeRI2M",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 4.028,
+   "summary_zh": "文章指出设计与工程本质相同，强调两者均需解决问题并关注用户体验。对产品设计者而言，意味着应加强跨领域协作，提升技术实现与用户需求的契合度。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Intent Design System",
+   "url": "https://intentapp.dev/design-system?dark-mode=",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "rank": 7.028,
+   "summary_zh": "Intent Design System 发布，包含黄色系主色、灰色系辅助色及多种组件状态颜色定义。设计系统强调语义化颜色标记，提升界面一致性，为设计师和开发者提供明确的视觉规范和组件使用标准。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜HyperFrames 工作室新增功能，用户可通过上传参考视频并描述修改需求…",
+   "url": "https://x.com/petergyang/status/2114507378532229214",
+   "source": "X · @petergyang",
+   "cat": "AI工具",
+   "date": "2026-10-26",
+   "score": 85,
+   "summary_zh": "HyperFrames 工作室新增功能，用户可通过上传参考视频并描述修改需求，快速生成风格相似的视频短片。该功能支持调整字体和颜色，保留原视频结构。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 245,
+   "rank": 4.032
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "day": "2026-10-25",
+ "generated_at": "2026-10-25 07:12",
+ "scanned": 215,
+ "count": 8,
+ "items": [
+  {
+   "title": "别再吹 LLM 万能了：从技术边界到 3 年落地的真实账本",
+   "url": "https://www.bestblogs.dev/article/47eb5c1dec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-24",
+   "score": 75,
+   "rank": 1.02,
+   "summary_zh": "大语言模型本质是基于概率的文本预测器，缺乏自主意识，在逻辑推理和私有数据处理上存在局限。企业落地中，LLM在知识库等场景有实用价值，但AI直播等尝试失败。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 能力，如何变成真金白银？",
+   "url": "https://www.bestblogs.dev/article/5e016bd4b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-24",
+   "score": 70,
+   "rank": 3.018,
+   "summary_zh": "企业需将AI从辅助工具转为核心生产力，通过找矿、采矿、炼矿、分矿四步实现转型。重点在于重构人机协作，让AI处理重复任务，人类专注战略决策，同时建立灵活商业模式与组织结构。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "周受资最新访谈：未来几年，这 2 样能力最值钱",
+   "url": "https://www.bestblogs.dev/article/84ef3a8a0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-24",
+   "score": 70,
+   "rank": 0.021,
+   "summary_zh": "周受资在访谈中指出，AI时代最关键的是人类的判断力和创造力，以及如何让AI做正确的事。他强调对齐问题是当前最紧迫的挑战，需确保AI行为符合人类道德标准。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+   "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-10-24",
+   "score": 70,
+   "rank": 6.015,
+   "summary_zh": "开发者用 Claude 清理小米电视，停用 25 个组件，实现极简桌面，开源项目 CleanYourTV 获 1.37 万 Star。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+   "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-24",
+   "score": 70,
+   "rank": 3.018,
+   "summary_zh": "支付宝AI支付发起年度黑客松，邀请开发者用Skill、Agent等创意参赛，接入支付功能，争夺20万元奖金。大赛关注产品在真实交易中的价值，降低AI产品商业化门槛，助力开发者快速变现。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
+   "url": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-24",
+   "score": 75,
+   "rank": 4.017,
+   "summary_zh": "支付宝与科大讯飞升级车载助手，推出高速无感通行、停车无感支付等四大场景。通过支付能力与生态网络，实现车内办理日常事务，提升出行效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+   "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-24",
+   "score": 85,
+   "rank": 4.017,
+   "summary_zh": "百度健康升级文心健康管家，推出好医矩阵和健康相机，支持多模态输入，MAU超5000万。AI辅助诊疗，不替代医生，提升医疗普惠，降低用户健康问题描述门槛。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜X平台用户Thibault Sottiaux提醒，工具与被工具化的界限模糊…",
+   "url": "https://x.com/thsottiaux/status/2113838156193894447",
+   "source": "X · @thsottiaux",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-24",
+   "score": 70,
+   "summary_zh": "X平台用户Thibault Sottiaux提醒，工具与被工具化的界限模糊，设计时需警惕无意中让用户沦为工具。对产品设计者而言，应关注用户自主性，避免过度依赖技术而忽视人的主体性。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 4375,
+   "rank": 3.018
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "day": "2026-10-19",
+ "generated_at": "2026-10-19 09:23",
+ "scanned": 206,
+ "count": 13,
+ "items": [
+  {
+   "title": "互联网公司对 AI Agent 的封锁",
+   "url": "https://www.bestblogs.dev/status/2111925033023181134?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-18",
+   "score": 75,
+   "rank": 3.036,
+   "summary_zh": "Delta、JPMorgan 等企业限制 AI Agent 访问服务，担忧安全漏洞和利润流失。AI 模型存在 prompt injection 等风险，尚未能完全信任处理敏感事务，需探索更安全的协作方式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How to build a brand foundation with AI without losing your craft —— 如何借助 AI 打造品牌根基而不丧失专业技艺",
+   "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 8.03,
+   "summary_zh": "用 Claude 和设定规则构建设计系统，开发者认可，客户可落地。AI 辅助设计，保持品牌一致性，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI Agent 到底是什么？10 分钟讲清模型、智能体与控制框架",
+   "url": "https://www.bestblogs.dev/video/5b3ceac2d7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 3.034,
+   "summary_zh": "文章区分 Model、Agent、Harness，说明 AI Agent 需结合目标判断、工具执行和上下文衔接完成任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Ruflo：将 Claude Code 从个人能力转化为团队协作",
+   "url": "https://www.bestblogs.dev/status/2111873695098732695?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 8.023,
+   "summary_zh": "Ruflo 将 Claude Code 嵌入由 100+ 专业 agent 组成的协作网络，通过任务分解、跨会话记忆和智能路由提升开发效率。开发者可专注于核心编码，无需处理琐碎调度。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "新的创业机会正在 Claude Code 和 Codex 周边涌现｜对话 Treg",
+   "url": "https://www.bestblogs.dev/podcast/74e365e28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 2.033,
+   "summary_zh": "Treg 团队九个月内三次转型，从设计 Agent 到增长 Agent，最终聚焦 Agent 数据与 API 市场。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Huashu-motion 设计策略超越表层动效",
+   "url": "https://www.bestblogs.dev/status/2111836116923953393?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "Huashu-motion 设计策略以传达产品信息为核心，通过分镜与镜头设计提升宣传片效果，如 Grok bot 宣传片优于官方版本。对产品设计者意味着应将动效服务于产品信息传递，而非仅追求视觉效果。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Grok 选择蓝鸟：AI 对设计美感的判断",
+   "url": "https://www.bestblogs.dev/status/2111836059831357800?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "Grok 通过视觉分析选择 Twitter 蓝鸟 Logo，认为其线条更流畅、个性更鲜明，优于 X 的简洁但缺乏特色的 Logo。这对产品设计者意味着 AI 可以基于美学标准评估视觉元素，辅助设计决策。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "消除 AI 味的本质是回归人的局限性",
+   "url": "https://www.bestblogs.dev/status/2111835794977472971?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 84,
+   "rank": 1.035,
+   "summary_zh": "消除AI味的关键是将人的偏见、情绪等局限性传递给AI，使其生成更贴近人类真实感的内容。AI可作为认知镜像，帮助用户认识自身思维模式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "关于微信美学争议的个人解读",
+   "url": "https://www.bestblogs.dev/status/2111832192502661221?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 75,
+   "rank": 0.035,
+   "summary_zh": "微信因服务全球用户，优先考虑易用性而非设计创新。其界面虽被批为平庸，但有效满足了不同群体需求，证明实用性比极致美学更重要。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Design in the material you ship —— 在你交付的产品中体现设计",
+   "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "设计师应像建筑师理解石材一样理解代码，AI现在负责执行。设计文件与浏览器中的真实数据同步，提升一致性。设计师应关注材料特性而非实现方式，强调设计与技术的深度融合。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – October 18, 2026 —— 每周像素 – 2026 年 10 月 18 日",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-october-18-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "文章探讨了超越聊天界面的智能电商界面设计，强调根据用户意图动态调整界面。设计师应将性能视为设计机会，而非限制。此外，介绍了用垃圾制作的时钟、基于网络摄像头的空气特雷门实验，以及评估书籍章节情感影响的网站。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  },
+  {
+   "title": "德国两家法院先后裁定 Google 需为其 AI 概览内容承担责任",
+   "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-18",
+   "score": 80,
+   "rank": 3.028,
+   "summary_zh": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+   "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-18",
+   "score": 70,
+   "rank": 5.032,
+   "summary_zh": "QCon上海将聚焦AI终端落地，阶跃星辰袁俊杰分享大模型在终端的量产实践，包括Realtime Voice Agent框架、端云协同方案及跨终端融合案例。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  }
+ ]
+}
