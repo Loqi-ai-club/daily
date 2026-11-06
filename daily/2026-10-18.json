@@ -1,0 +1,162 @@
+{
+ "day": "2026-10-18",
+ "generated_at": "2026-10-18 09:26",
+ "scanned": 220,
+ "count": 11,
+ "items": [
+  {
+   "title": "青简：在打字过程中无干扰地学习英语",
+   "url": "https://www.bestblogs.dev/status/2111571453489647681?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-17",
+   "score": 70,
+   "rank": 3.018,
+   "summary_zh": "青简是一款基于Rust开发的跨平台拼音输入法，它在用户输入中文时，将对应的英文单词显示在候选词旁边，帮助用户在日常打字过程中自然学习英语。该软件本地运行，不上传用户数据，保障隐私安全。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "用 ChatGPT＋Fish Audio 为游戏配音！从 API Key 到深夜电台实战",
+   "url": "https://www.bestblogs.dev/video/9838c26eba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-17",
+   "score": 75,
+   "rank": 5.016,
+   "summary_zh": "用ChatGPT生成台词，接入Fish Audio生成多语言情绪语音，为深夜电台游戏配音。演示配置API密钥、选择声音和语言，区分实时语音与预设口型视频，适合快速制作配音原型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Future of Agent Scheduling: Transparent by Default —— 代理调度的未来：默认透明",
+   "url": "https://www.bestblogs.dev/status/2111506333174468882?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-17",
+   "score": 85,
+   "rank": 1.02,
+   "summary_zh": "未来代理调度将默认透明，仅高级用户需手动选择模式，类似CPU调度。系统将自动优化调度，减少用户干预，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "热爱、简化、迭代与投流：打造成功产品的五大策略",
+   "url": "https://www.bestblogs.dev/status/2111482401368965318?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-17",
+   "score": 70,
+   "rank": 3.018,
+   "summary_zh": "作者分享打造成功产品的五大策略：极致执行力、产品简化、持续迭代、投流推广和合理借鉴。强调执行力源于热爱或自卑，产品需简洁直观，迭代重于首发，投流加速推广，借鉴提升体验。这些策略在中西市场均取得显著成效。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "PraisonAI：5 行代码部署 AI 智能体团队",
+   "url": "https://www.bestblogs.dev/status/2111462737721057783?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-17",
+   "score": 70,
+   "rank": 5.016,
+   "summary_zh": "PraisonAI 是一个只需 5 行代码即可部署 AI 智能体团队的开源平台，支持 100 多种模型，智能体可自动协作执行任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Arsenal’s new blackletter font is a tribute to a star player —— 阿森纳推出全新黑体字，致敬球星",
+   "url": "https://www.fastcompany.com/91624387/arsenal-rocastle-new-font?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-17",
+   "score": 85,
+   "rank": 0.021,
+   "summary_zh": "阿森纳推出新哥特字体Rocastle，致敬已故球星David Rocastle。字体由terrain.studio设计，是俱乐部多字体品牌策略的一部分，于伦敦设计博物馆展览中发布。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "世界并非数据集——构建持续从现实学习的 AI 系统｜QCon上海",
+   "url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-17",
+   "score": 70,
+   "rank": 4.017,
+   "summary_zh": "QCon上海2026将聚焦AI Native工程实践，蚂蚁灵波科技黄用韬博士分享《The World Is Not a Dataset》，强调真实世界学习需结合任务、环境、硬件等上下文，构建闭环系统…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "X观点｜X 用户 Thibault Sottiaux 介绍 ChatGPT Spac…",
+   "url": "https://x.com/thsottiaux/status/2111249534072529256",
+   "source": "X · @thsottiaux",
+   "cat": "AI新闻",
+   "date": "2026-10-17",
+   "score": 70,
+   "summary_zh": "X 用户 Thibault Sottiaux 介绍 ChatGPT Space，称其团队正在实际开发中，偶尔显得笨拙但真实。他询问用户对下一步功能的期待。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1744,
+   "rank": 3.018
+  },
+  {
+   "title": "X观点｜X 推出 Replit 云服务，数据本地存储不外传，适用于政府、金融、医疗等…",
+   "url": "https://x.com/amasad/status/2111267314012496121",
+   "source": "X · @amasad",
+   "cat": "AI工具",
+   "date": "2026-10-17",
+   "score": 70,
+   "summary_zh": "X 推出 Replit 云服务，数据本地存储不外传，适用于政府、金融、医疗等高安全需求场景。设计师可借此实现更安全的数据处理流程，提升用户对隐私保护的信任度。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 144,
+   "rank": 3.018
+  },
+  {
+   "title": "X观点｜AI模型训练能力已超越多数人类工程师，数据、基础设施和并行处理能力的提升形成…",
+   "url": "https://x.com/levie/status/2111312141609586862",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-17",
+   "score": 70,
+   "summary_zh": "AI模型训练能力已超越多数人类工程师，数据、基础设施和并行处理能力的提升形成加速飞轮。这对产品设计者意味着，AI将更快推动技术边界，需提前考虑递归自我改进（RSI）带来的影响。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 125,
+   "rank": 3.018
+  },
+  {
+   "title": "X观点｜Garry Tan 开始新项目，使用 @capydotai 和 @Aside…",
+   "url": "https://x.com/garrytan/status/2111235500568969451",
+   "source": "X · @garrytan",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 75,
+   "summary_zh": "Garry Tan 开始新项目，使用 @capydotai 和 @AsideAI 工具，实现代码生成与 DevOps 自动化部署一体化，提升开发效率。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 187,
+   "rank": 3.018
+  }
+ ]
+}

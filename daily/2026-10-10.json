@@ -1,0 +1,386 @@
+{
+ "day": "2026-10-10",
+ "generated_at": "2026-10-10 07:16",
+ "scanned": 266,
+ "count": 27,
+ "items": [
+  {
+   "title": "4 team rituals that drive AI adoption —— 推动AI采纳的四个团队仪式",
+   "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-10",
+   "score": 85,
+   "rank": 5.035,
+   "summary_zh": "Figma、Sephora、Mercari 和 Atlassian 四家公司分享了四种团队仪式，帮助成员更高效地使用 AI。这些做法强调从个体效率提升转向团队协作，通过具体流程和工具让 AI 价值最大化。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "关于Claude Code上下文长度管理的建议",
+   "url": "https://www.bestblogs.dev/status/2108669281802289375?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "建议删除 Claude Code 中禁用 1M 上下文的旧配置，该设置已失效并限制长度至 200k。同时启用 autocompact 功能，将上下文控制在 300-400k，以优化性能和内存使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "宝玉的AI协作开发流程：高速迭代的秘密",
+   "url": "https://www.bestblogs.dev/status/2108665314619675011?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 75,
+   "rank": 5.033,
+   "summary_zh": "宝玉的AI协作开发流程依赖快速反馈循环，提升迭代速度；但受本地硬件和token限制，建议在云端并行运行更多任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "宝玉开源项目baocut开发流程分享",
+   "url": "https://www.bestblogs.dev/status/2108663149301846497?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 75,
+   "rank": 8.031,
+   "summary_zh": "baocut 项目通过技术方案文档和 AI 生成的 UI 原型，优化开发流程，提升效率。开发前明确方向，减少返工，用户反馈可快速迭代设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Designing for an idea before it exists —— 在构想存在之前设计",
+   "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "文章探讨如何为尚未存在的想法设计，通过空座位、隐喻等手法，挖掘潜在需求。设计师需关注未被满足的使用场景，提前构建解决方案，提升产品适应性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Agents can now buy domains with the Vercel CLI —— 现在Agent可通过Vercel CLI购买域名",
+   "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 3.024,
+   "summary_zh": "Vercel CLI 现支持代理购买域名，通过 vercel domains search、check、price 和 buy 命令完成流程。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Sierra发布Personal Agent Protocol（Poppy）协议草案，新增35家设计伙伴",
+   "url": "https://sierra.ai/blog/poppy",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 1.037,
+   "summary_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "微软Data Formulator：让数据分析省心的AI可视化平台",
+   "url": "https://www.bestblogs.dev/status/2108640138150474059?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "微软推出 Data Formulator 0.8 Beta，整合数据导入、图表生成与洞察提取，支持自然语言提问和上下文分支分析，降低非编程用户数据分析门槛。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Jellyfish: Automate AI Short/Manga Video Production —— Jellyfish：自动化AI短视频/漫画视频制作",
+   "url": "https://www.bestblogs.dev/status/2108608932633563185?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.039,
+   "summary_zh": "Jellyfish 自动化 AI 短视频和漫画视频制作流程，从脚本导入到视频导出全程无需人工干预，确保角色和场景一致性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "@一下就能派活？谷歌推出办公Agent，拥有独立账号、可创建子Agent并调用Claude",
+   "url": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 6.023,
+   "summary_zh": "谷歌推出Gemini Agent，可拥有独立企业邮箱、日历和存储空间，能创建子Agent协作，并调用Claude模型。该Agent能跨应用完成任务，如安排会议、制作报告，提升办公效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The New Siri’s Biggest Strength Is Not Intelligence —— 新Siri最大的优势并非智能",
+   "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI新闻",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 6.03,
+   "summary_zh": "苹果新Siri通过访问用户设备上的上下文信息（如消息、照片、日程等），提升了AI助手的实用性。它结合了本地语义索引和生成式AI能力，使用户无需手动提供信息即可完成任务。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Context Libraries: How AI Power Users Manage Context Engineering —— 上下文库：AI高阶用户如何管理上下文工程",
+   "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 1.044,
+   "summary_zh": "AI代理依赖用户管理上下文库，用户需自行维护和更新，否则信息会过时或失效。研究显示，专家用户也常因缺乏系统指导而难以有效构建和维护上下文库，影响AI使用效果。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Grok Bot新增X监视功能测试",
+   "url": "https://www.bestblogs.dev/status/2108599542778384751?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 3.041,
+   "summary_zh": "Grok Bot 新增 X 平台监控功能，可读取推送数据，便于复盘分析。该功能提升用户对社交媒体内容的追踪与检索效率，适用于需要数据分析的场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Grok Bot视觉表参失败：仅返回文字说明",
+   "url": "https://www.bestblogs.dev/status/2108599286984561073?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 1.036,
+   "summary_zh": "用户让 Grok Bot 分析 GitHub 项目并生成宣传视频，但模型只返回了纯文本描述，未提供图像或视频。这表明 AI 视觉生成功能存在可靠性问题，或用户指令与模型能力不匹配。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "前端审美需求促使切换至Claude和Kimi K3",
+   "url": "https://www.bestblogs.dev/status/2108594618170548354?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 75,
+   "rank": 3.029,
+   "summary_zh": "前端设计师在需要高审美需求的项目中，会从豆包切换至 Claude 和 Kimi K3，认为 Kimi 在视觉和交互设计方面表现更优，并期待其新模型发布。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "风哥技能推荐：使用Codex运营电商",
+   "url": "https://www.bestblogs.dev/status/2108583319109840945?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 3.033,
+   "summary_zh": "风哥推荐16项Codex技能，可自动化电商运营，涵盖库存管理到客户服务。个体从业者安装后可独立管理店铺，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "为新手推荐的Claude Code上手教程",
+   "url": "https://www.bestblogs.dev/status/2108582963382497281?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 6.031,
+   "summary_zh": "Hardy Chen 推荐一篇 Claude Code 保姆级教程，涵盖安装到基本使用步骤，适合新手入门。教程详细且操作性强，可帮助用户快速上手 AI 编程助手。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Design原型导出技巧：本地维护节省Token",
+   "url": "https://www.bestblogs.dev/status/2108574361443504625?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 8.022,
+   "summary_zh": "用户在Claude Design完成原型后导出HTML到本地，用Claude Code维护，减少Token消耗。此方法适用于需要频繁迭代设计的团队，能有效降低云端资源使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Introducing Claude Dashboards and Claude Motion\n1/ Claude can now build live dashboards and animated videos. Two new things —— 介绍Claude Dashboards和Claude Motion\n1/ Claude现在可以构建实时仪表盘和动画视频。两个新功能",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/d7ojadugxod0zud5wu8ynmr15ie4cba95sr68kfl.html#p2",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "Claude 现支持创建实时仪表盘和动画视频。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Sightlines issue no.3: Raise the bar for how teams use AI —— Sightlines第3期：提升团队使用AI的标准",
+   "url": "https://www.figma.com/blog/sightlines-issue-no3/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.025,
+   "summary_zh": "Figma 提出提升团队 AI 使用水平的策略，包括设定明确方向、推动全员学习与实验。领导应鼓励探索多方向、优化细节，而非单纯追求速度。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "The Convergence of Design —— 设计的融合",
+   "url": "https://www.lukew.com/ff/2166/the-convergence-of-design",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 75,
+   "rank": 0.037,
+   "summary_zh": "LukeW 整理了电视、手机、汽车等产品的历史与现代设计，发现趋同现象明显。他探讨了设计趋同是否因供应链限制、成本考量或相互模仿所致，引发对设计最终形态与平庸化的思考。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "从Demo到生产：AI Agent缺失的关键是什么？",
+   "url": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "AI Agent 从 Demo 到生产需构建 Agent Harness，包含开发和运维两部分。Harness 负责记忆、工具访问、成本控制等，确保系统稳定安全。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "This AI-powered brain implant hints at the future of human interaction —— 这种AI脑植入物预示着人类交互的未来",
+   "url": "https://www.fastcompany.com/91613405/brain-implant-read-speech-and-gestures?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-09",
+   "score": 70,
+   "rank": 5.03,
+   "summary_zh": "脑机接口新突破：AI植入物可同时读取瘫痪者言语与手势，转化为文字和数字人动作。该技术通过AI模型解析脑信号，实现语音与肢体语言同步输出，突破现有BCI只能解码单一信息的限制，为残障人士沟通提供新方案。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "AI invasive design —— AI侵入式设计",
+   "url": "https://jovo.design/writing/ai-invasive-design",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 2.027,
+   "summary_zh": "文章指出，‘AI native’定义模糊，许多企业仅模仿表面特征，忽视实际效果。真正的AI产品应适应人类行为，而非强行嵌入AI。AI需像本土物种般融入生态系统，避免成为入侵者，影响用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "A design system is what it does —— 设计系统就是它所做的事情",
+   "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 6.025,
+   "summary_zh": "美国政府网站设计系统或将改用 shadcn/ui，替代原有 HTML/CSS/JS 方案。shadcn 默认文字行宽比 USWDS 多 15 字符，信息密度更高，可能影响政府网站的可读性与无障碍体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Creative Intelligence Report —— 创意智能报告",
+   "url": "https://contralabs.com/creative-intelligence-report-2026",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "调研15万创意从业者发现，AI使用率随经验提升，高级设计师达80%。Photoshop和ChatGPT是主要工具，但输出质量、成本和工具过多仍是使用障碍。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Field Notes: Design Outcomes —— 实地笔记：设计成果",
+   "url": "https://ldlr.design/field-notes",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-09",
+   "score": 85,
+   "rank": 3.03,
+   "summary_zh": "Naqvi用检查点迁移LLM，确保行为可验证；Jiang将Sunyata引入Copilot，强调自动化减少机械劳动。设计团队分享实践，如Hoang主张设计GM管理P&L，NN/g发现上下文管理比提示词更重要。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  }
+ ]
+}

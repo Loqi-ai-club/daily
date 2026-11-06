@@ -1,0 +1,216 @@
+{
+ "day": "2026-10-02",
+ "generated_at": "2026-10-02 07:14",
+ "scanned": 237,
+ "count": 16,
+ "items": [
+  {
+   "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline. —— 别再将AI速度慢归咎于模型，应以多蒂阈值为指导",
+   "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "AI响应速度应遵循Doherty阈值（400毫秒），避免用户等待。优化前端交互和明确完成标准比降低推理成本更有效，提升用户体验和生产力。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Design’s consensus was AI’s first casualty —— 设计界共识：AI技术首当其冲",
+   "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "设计师对AI在设计中的作用存在分歧，部分认为AI能提升效率，另一部分担忧其影响创意与伦理。这种分歧使设计师在应用AI时面临选择困境，需权衡技术潜力与设计本质。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI beyond average: from chatting to collaborating —— 超越平均的AI：从聊天到协作",
+   "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "文章探讨如何通过上下文、技能和反馈，让AI模型从聊天工具转变为协作伙伴。对产品设计者而言，需关注AI在不同场景下的适应性与用户反馈机制，以提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "微软上新三款语音AI模型：实时转文字准确率登测评榜首，MAI-Voice 2.1覆盖23种语言",
+   "url": "https://www.bestblogs.dev/article/2997a71556?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 70,
+   "summary_zh": "微软发布三款语音AI模型，MAI-Transcribe-2-Streaming在实时转录测试中以2.5%词错误率和0.13秒延迟登顶，支持60种语言。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The eternal complement —— 永恒的补充",
+   "url": "https://openai.com/index/the-eternal-complement",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 75,
+   "summary_zh": "文章探讨了人类探索宇宙的局限性，指出随着科技发展，实现复杂想法需要更多资源和协作。对产品设计者而言，创新不仅依赖天才，还需配套的执行能力和基础设施支持。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Workflow lab: From design system to campaign in Figma Weave —— 工作流实验室：从设计系统到Figma Weave活动策划",
+   "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "Figma Weave结合设计系统与AI节点，让产品设计师快速生成品牌宣传物料。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Cromma Project Startup and Recruitment —— Cromma项目启动与招聘",
+   "url": "https://www.bestblogs.dev/status/2105696119691047196?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 75,
+   "summary_zh": "Cromma项目启动，计划在杭州设立办公室，开发AI原生IM网络，用户可通过自然语言创建‘小程序’。该项目旨在实现AI与人类平等交互，提升IM的智能化与个性化体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Guided Vision in Gemini Live: built for accessibility —— Gemini Live中的引导视觉：专为无障碍设计",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "Google在Gemini Live中推出Guided Vision功能，通过语音引导实时视觉解读，帮助视障人士及有低视力者获取环境信息。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "2/ OpenAI just had a pretty big DevDay, here’s what’s new —— 2/ OpenAI刚刚举办了一场重要的DevDay，以下是最新动态",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/d9vdz92g174007zr8emg.html#p3",
+   "source": "AI Valley",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 90,
+   "summary_zh": "OpenAI推出Dots，基于GPT-6 Astra的AI协作者，拥有独立云计算机和浏览器，支持4000+应用插件，可跨平台使用。同时发布ChatGPT Space，支持团队协作与文件共享。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus让位",
+   "url": "https://www.bestblogs.dev/article/cc0cc56dde?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "谷歌发布 Gemini 4 Argon，多项基准登顶，支持百万 Token 输出，主打网络安全与长任务场景。首批仅限审核团队使用，内部对其编程能力存疑。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gemini系列模型演进历程与用户体验回顾",
+   "url": "https://www.bestblogs.dev/status/2105668154714448313?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "Gemini 早期因多轮工具使用能力领先，但正式版性能下降，JSON 错误频发，失去优势。Gemini Flash 曾在图像生成上表现突出，现仅剩音视频转录优势。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Design Systems for AI Agents —— 用于AI代理的设计系统",
+   "url": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "AI代理让设计系统面临新挑战，传统维护方式难以应对产品快速变化。设计系统需适应AI动态特性，否则会滞后于实际产品。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "生成即合规：Agentic AIGC驱动的广告素材修复实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 70,
+   "summary_zh": "快手专家袁暖在QCon上海分享基于Agentic AIGC的广告素材修复架构，通过结构化任务与多目标强化学习，实现合规与营销的动态平衡。该方法可处理千万级素材，提升修复效率与通过率，为内容治理提供新思路。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "X观点｜ChatGPT 现支持构建和部署 MCP 服务器，并可自定义访问权限",
+   "url": "https://x.com/thsottiaux/status/2105519215092584786",
+   "source": "X · @thsottiaux",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 85,
+   "summary_zh": "ChatGPT 现支持构建和部署 MCP 服务器，并可自定义访问权限。对产品设计者而言，这一功能增强了 AI 在企业内部应用的可控性与灵活性。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 2082
+  },
+  {
+   "title": "X观点｜Vercel AI Gateway 通过真实用户数据和零加价策略，成为可信的…",
+   "url": "https://x.com/rauchg/status/2105476587756138942",
+   "source": "X · @rauchg",
+   "cat": "AI新闻",
+   "date": "2026-10-01",
+   "score": 70,
+   "summary_zh": "Vercel AI Gateway 通过真实用户数据和零加价策略，成为可信的AI token来源。每周拒绝多家声称零数据留存（ZDR）的公司促销，专注筛选优质供应商，保障合规与隐私。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 132
+  },
+  {
+   "title": "X观点｜X 用户 Garry Tan 指出，其他代码编辑器允许从上至下协调子代理，但…",
+   "url": "https://x.com/garrytan/status/2105449821645480046",
+   "source": "X · @garrytan",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-01",
+   "score": 70,
+   "summary_zh": "X 用户 Garry Tan 指出，其他代码编辑器允许从上至下协调子代理，但 Capy 的代理群能以对等身份自主沟通，无需预先安排，使探索更自然。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 125
+  }
+ ]
+}

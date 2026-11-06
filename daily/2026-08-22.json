@@ -1,0 +1,398 @@
+{
+ "day": "2026-08-22",
+ "generated_at": "2026-08-22 09:54",
+ "scanned": 545,
+ "count": 30,
+ "items": [
+  {
+   "title": "Artificial Intelligence: Glossary —— 人工智能：术语表",
+   "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "文章提供AI术语表，解释了如AI代理、AI工程、AI洗白等概念，帮助设计者理解AI产品中的专业术语和设计挑战。设计者需注意AI系统的自主性、内容质量及用户信任问题。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
+   "url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "内容团队面临视频生成需求激增与人工筛选压力，MiniMax Design 通过 Agent 驱动的工作流，实现从需求描述到成片的全流程自动化，提升批量生成效率与一致性。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
+   "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "百度文库网盘推出库库 AI 独立客户端、小程序、Web 三端产品，整合优化办公、素材处理等能力，依托百度网盘技术基建，实现多端同步、记忆解耦，解决任务中断、卡顿等行业痛点，C 端已成熟，B 端重点覆盖…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AutoResearch 神话破灭：大模型离真正自主科研还有多远？",
+   "url": "https://www.bestblogs.dev/article/045d1880ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "斯坦福与Prentis AI研究发现，当前大模型在科研任务中92.1%的失败源于认知问题，如缺乏自我修正能力。这提示产品设计需强化Agent的元认知闭环，提升其对科研过程的反思与调整能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
+   "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "Vercel 推出 v0 API，允许开发者通过编程方式生成和修改应用，并在 Sandbox 中运行。该 API 支持同步、异步和流式请求，可集成 GitHub 仓库、设计系统和外部工具。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "豆包最快下周发布类 WorkBuddy 产品，合并飞书后或有更多整合｜新皮层独家",
+   "url": "https://www.bestblogs.dev/article/850993da93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "豆包最快下周发布独立办公产品，整合飞书后AI办公产品线集中。新增远程控制、云电脑、多Agent协同等功能，飞书团队已并入豆包，原功能更名为企业豆包。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": ":fire: SolonCode 是不是国产化替代 ClaudeCode 的优选？",
+   "url": "https://www.oschina.net/news/502066",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "国内企业替换 ClaudeCode 需考虑安全审计、数据本地化等需求。SolonCode 在安装配置、模型兼容性等方面表现如何，文章逐条对比分析，给出实际使用建议。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "How to become an AI Designer —— 如何成为人工智能设计师",
+   "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "文章作者分享了成为AI设计师的实践路径，包括停止使用Figma、用Claude快速制作交互原型。对产品设计者而言，这意味着需拥抱AI工具，提升实时协作与快速迭代能力，适应AI原生团队的工作方式。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Connect v0 apps to Slack, Google, and 100+ other services —— 连接 v0 应用程序至 Slack、Google 及 100 多个其他服务",
+   "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-21",
+   "score": 85,
+   "summary_zh": "Vercel Connect 现支持将 v0 应用连接至 Slack、Google 等 100+ 服务，团队可复用连接器，部分服务如 Slack 和 GitHub 的应用注册由 Vercel 自动完成…",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Sightlines issue no.2: What leaders need to know about building agents —— Sightlines 第 2 期：领导者需要了解关于构建代理的关键信息",
+   "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Figma 探讨了设计自主性产品时的挑战，强调工具需兼具强大功能与安全性，以赢得用户信任。设计师需平衡智能与透明，确保用户始终掌控核心决策。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Vercel 发布 fx：用 Zig 语言实现的轻量级代理，可在浏览器中直接运行",
+   "url": "https://www.oschina.net/news/502038/vercel-fx",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel 发布 fx，用 Zig 实现的轻量 Agent，可在浏览器运行，冷启动仅 10 微秒，体积 6.39MB。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "OpenAI pushed several desktop and builder features in one wave —— OpenAI 一次性推送多项桌面及构建器功能",
+   "url": "https://x.com/ChatGPT/status/2090499359641329950",
+   "source": "AI News (smol.ai)",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "ChatGPT 推出 Apple Messages 插件，支持消息搜索、草稿发送等功能；ChatGPT Sites 增加协作编辑，支持共享只读链接和 PR 上下文。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Anthropic made its agent platform more composable and production-ready —— Anthropic 使其代理平台更易于组合和投入生产",
+   "url": "https://x.com/ClaudeDevs/status/2090540270219567575",
+   "source": "AI News (smol.ai)",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Anthropic 发布 Claude 平台多项功能，包括 Skills API 和 Files API，支持版本化流程、文件过期控制及更高调用限制。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "The most interesting agent research in the set was about harness evolution, not model weights —— 该系列中最有趣的代理研究涉及捕捉进化，而非模型权重",
+   "url": "https://x.com/omarsar0/status/2090533587066249514",
+   "source": "AI News (smol.ai)",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "研究发现，智能体的进化应关注‘Harness’而非模型权重，通过独立演化提示、记忆、技能和路由规则，可避免组件更新导致的性能下降。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Qwen3.8-27B took a serious hit to knowledge vs 3.6 (Activity —— 与 3.6 相比，Qwen3.8-27B 在知识方面受到严重冲击（活动）",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36/",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Qwen3.8-27B在知识回忆测试中表现弱于3.6版，尤其在无网络环境下。但其在工具调用、编程和自主工作流方面更强。这可能是有意为之的性能取舍。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Is design dead in the age of AI? —— 人工智能时代设计是否已死？",
+   "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 90,
+   "summary_zh": "AI不会取代设计，但会改变设计。设计的核心是人类的情感、个性和独特视角，这些AI无法复制。设计师应深化技艺，发展独特风格，关注真实体验，建立人际关系，而非依赖模板和趋势。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "How to choose a UI font (and 10 Inter alternatives) —— 如何选择 UI 字体（及 10 个 Inter 替代方案）",
+   "url": "https://yeptype.com/article/inter-alternatives",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章提出选择UI字体的两个关键标准：顶高对齐和高x-height，能简化设计系统中的对齐工作。Inter虽受欢迎，但需考虑替代方案，如符合这些标准的字体可减少手动调整CSS的需要。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "It really wasn’t your fault, Coyote —— Coyote，这真的不是你的错",
+   "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "文章以ACME公司设计的陷阱产品为例，分析了产品设计中可能存在的缺陷。对设计师而言，需关注工具可靠性，避免因设计失误导致用户失败。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Vercel Agent is now available in Slack code channels —— Vercel 代理现已在 Slack 代码频道中提供",
+   "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-20",
+   "score": 85,
+   "summary_zh": "Vercel Agent 现在可在 Slack 的代码频道中使用，用户可创建频道并指定 Vercel 作为代理，用于协作开发。代理能执行指令并生成代码，其他成员可跟进和审查。适用于团队协作开发场景。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "AI is lying to us, and nobody seems to care —— 人工智能在欺骗我们，而似乎没有人关心",
+   "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "AI生成的回答混入虚构信息，但界面不显示推理过程。团队讨论是否应向用户更诚实，目前开发的产品侧边栏会展示AI思考过程，帮助用户理解其不确定性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "An Engineering Team for the Cost of Codex —— 以 Codex 的成本组建一支工程团队",
+   "url": "https://every.to/context-window/an-engineering-team-for-the-cost-of-codex",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Every的Naveen Naidu用Codex构建了多个工程角色代理，负责Monologue语音识别应用的开发。这种做法降低了团队组建成本，使单人开发者能模拟多工程团队协作。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "AI 换台电脑就失忆？我们自己写了个开源项目解决它",
+   "url": "https://www.oschina.net/news/502011",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "开源项目agentctxsync解决AI工具跨设备记忆同步问题，用户可在不同电脑间无缝切换AI对话记录，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "GLM-5.3 拿下 AA 评测 60 分，将前沿模型的单任务成本降至最低",
+   "url": "https://www.oschina.net/news/502007",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "GLM-5.3 在 AA 评测中得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等并列全球前沿。其单任务成本降至最低，适合复杂编码、网络安全和长程任务处理。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Replit expands access to software creation with GPT-5.6 Luna —— Replit 通过 GPT-5.6 Luna 拓展软件创作的访问权限",
+   "url": "https://openai.com/index/replit",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需担心 token 成本即可创建软件。对产品设计者而言，这意味着更多非技术人员能快速实现想法，降低开发门槛，提升软件创作的普及性。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "DeepSeek Harness’s minimalism is deliberate, not incomplete —— DeepSeek Harness 的极简主义是刻意为之，而非不完整",
+   "url": "https://x.com/ZhihuFrontier/status/2089998555889250478",
+   "source": "AI News (smol.ai)",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "DeepSeek Harness 采用极简设计，所有功能均以插件形式实现。早期用户一周内部署超 100 个插件，反馈问题达 400 个，涵盖围棋模型测试、数据库代理等场景。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Gemini 3.7 Flash had a strong day on both evals and product integration —— Gemini 3.7 Flash 在评估和产品集成方面表现强劲",
+   "url": "https://x.com/_philschmid/status/2090063976872751408",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Gemini 3.7 Flash 在评估和产品集成中表现突出，以 60% 的通过率、1.32 秒/任务和 0.54 美元平均成本，成为 AA-AnalystAgent 首选模型。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Anthropic continues to tighten the developer ergonomics loop —— Anthropic 持续优化开发者操作体验循环",
+   "url": "https://x.com/ClaudeDevs/status/2090245922685063634",
+   "source": "AI News (smol.ai)",
+   "cat": "AI新闻",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "Anthropic 为 Claude Code 新增 Concise 输出模式，优化开发者使用体验。产品团队开始将响应格式作为核心 UX 变量进行调整，提升代码生成效率。",
+   "source_count": 1,
+   "sources": [
+    "AI News (smol.ai)"
+   ]
+  },
+  {
+   "title": "Rethinking design leadership with swarms and flocks —— 以群体和集群重新思考设计领导力",
+   "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章提出用‘结构化涌现’替代传统管理，通过模仿椋鸟群和雁群的协作方式，解决设计团队管理僵化问题。设计团队可借助局部协作快速响应变化，同时引入‘领头雁’确保方向，避免无目标的混乱。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Try these 10 skills—and show off your own —— 尝试这 10 项技能——并展示你自己的",
+   "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-08-19",
+   "score": 90,
+   "summary_zh": "Figma 现支持在设计工具内直接创建技能，用于指导 AI 代理完成任务。例如，/image-audit 可检查图像导出性，/make-a-type-scale 可生成字体变量。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Agent experience needs failure affordances —— 代理体验需要容错设计",
+   "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-19",
+   "score": 85,
+   "summary_zh": "文章提出，当AI代理无法解决问题时，应设置‘失败通道’，主动请求人工介入，而非强行推进。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "day": "2026-08-29",
+ "generated_at": "2026-08-29 07:17",
+ "scanned": 259,
+ "count": 27,
+ "items": [
+  {
+   "title": "How do you actually measure the impact of AI on design? —— 如何实际衡量人工智能对设计的影响？",
+   "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Figma 2026 年 AI 影响力报告指出，AI 已显著提升设计协作与个人效率，协作指数从 32 上升至 58，生产力、项目与产品相关指标均超预期。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Source material: i-D Magazine’s editor in chief is not afraid of visual chaos —— 资料来源：《i-D杂志》主编不惧视觉混乱",
+   "url": "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "i-D杂志主编Thom Bettridge认为设计不应拘泥于视觉秩序，主张文字与图像的冲突能激发创意。他强调团队协作的重要性，自身并不擅长具体技艺，但善于整合人才实现创意。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+   "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "文章指出，传统 GUI 虽简化操作，但用户仍需理解计算机逻辑。Agent 通过意图型界面，让普通用户无需掌握文件、路径等概念即可完成任务。但错误处理、撤销机制和权限管理将成为新挑战，需更安全的设计。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The Custodial Era of UX: Cleaning Up After AI —— UX的看护时代：清理AI留下的问题",
+   "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "AI生成内容和功能的速度加快，但若未及时评估和优化，会导致用户体验债务。设计师需在后期介入，清理混乱、调整AI产出，确保产品符合用户需求。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "AI Can't Replace Real Research in Empathy Mapping —— AI无法替代共情映射中的真实研究",
+   "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 70,
+   "summary_zh": "AI生成的共情地图内容缺乏真实用户数据，无法替代实际研究。真实用户反馈能提供具体细节，而AI内容过于通用，可能误导团队设计方向。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
+   "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "阿里发布Qwen3.8-Flash，Token消耗减少75%，成本降低。模型与办公Agent协同优化，提升效率，支持95%日常任务，用户可低成本完成复杂操作。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "国产模型爆发猜想：政策、人才、数据三驱动",
+   "url": "https://www.bestblogs.dev/status/2093368767187407284?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 80,
+   "summary_zh": "2024年5月国产AI模型集中爆发，归因于政策支持、中文数据优势及人才回流。国家补贴和税收优惠推动技术迭代，丰富中文数据提升模型表现，海外人才回归加速本地化发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2026年中国企业AI转型洞察报告",
+   "url": "https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "2026年中国企业AI转型洞察报告指出，72%的企业已部署AI技术，主要用于客户服务和数据分析。对产品设计者而言，需关注AI工具如何提升用户体验，并确保技术落地符合实际业务需求。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Cloudflare发布Kitesurf，一款面向AI智能智能体的浏览器引擎",
+   "url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Cloudflare 推出 Kitesurf，基于 WebAssembly/Rust 的轻量浏览器引擎，专为 AI 智能体优化，支持截图和 HTML 提取，资源消耗低于 Chromium。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "为什么AI手机必须要有AI按键？| AG&I",
+   "url": "https://www.bestblogs.dev/article/0e2b6e7c54?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "智能手机厂商如Nothing、苹果等重新引入AI物理按键，如Essential Key和Camera Control，以降低用户使用AI功能的操作门槛。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "CozyClay：用3D场景预演优化AI视频生成提示",
+   "url": "https://www.bestblogs.dev/status/2093330302513123384?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "CozyClay 是基于 WebAssembly 的 3D 编辑器，允许用户通过可视化调整角色和相机轨道来优化 AI 视频生成提示。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI使用中的痛点与AGI期待",
+   "url": "https://www.bestblogs.dev/status/2093329727142707241?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "用户对当前AI工具的使用体验不满，认为其交互过程耗时且不流畅，影响工作效率和心流状态。AGI被视为可能改善人机互动的潜在解决方案，但目前实现仍不成熟。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "你的Agent已经上线生产环境，下一步怎么办？ | 技术实践",
+   "url": "https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 70,
+   "summary_zh": "Snowflake 推出 Cortex Agents 新功能，包括 Coding Agent、Skills Package 等，降低企业大规模部署 AI agents 的复杂度。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+   "url": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Calendly 将 Agent 嵌入研发流程，一周半生成 64 个 PR，完成 30% 项目重构。Agent 自动拆解任务、写代码、测试，人类负责 Review 和 Merge。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Anthropic再定统一标准：MHS，打通AI与物理世界的统一接口",
+   "url": "https://www.leiphone.com/category/yanxishe/N12vFHlsL2JrdKYR.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 70,
+   "summary_zh": "Anthropic 推出 MHS 标准，让 AI 代理能与物理设备对话，已在显微镜、机械臂等设备上应用。解决了硬件接口碎片化问题，提升实验效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Ruby on Rails之父彻底倒向AI！两个月没亲手写一行代码，却亲眼看着Vibe Coding毁掉系统架构",
+   "url": "https://www.bestblogs.dev/article/3228cd579f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Ruby on Rails 之父 DHH 两个月未写代码，全由 AI 生成。他发现 AI 虽能完成实现，但架构失控问题凸显，开发者需转向架构审查与任务调度。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "曝英伟达129亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
+   "url": "https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-08-28",
+   "score": 70,
+   "summary_zh": "英伟达拟以129亿美元收购Hugging Face，强化AI生态布局。黄仁勋指出，AI智能体将大幅提升算力需求，未来每GW数据中心收入或达万亿美元，英伟达正通过全栈AI工厂扩大在AI基础设施中的价值占比。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI日报：腾讯发布开源旗舰模型Hy4preview；Midjourney V8.2上线图像编辑模型；谷歌Gemini Omni 1.1 Flash模型登场",
+   "url": "https://www.bestblogs.dev/article/92f841fca5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "腾讯开源 Hy4preview 模型（770B 参数），支持多场景应用；Midjourney V8.2 增加图像编辑功能。对产品设计者而言，开源模型可提升开发效率，图像编辑功能有助于优化视觉设计流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenMontage：用自然语言指令驱动的AI视频生产线",
+   "url": "https://www.bestblogs.dev/status/2093267466386559438?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "NVIDIA 推出 OpenMontage，用户可通过自然语言指令自动生成 AI 视频，涵盖调研、脚本、剪辑全流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "SpaceXAI发布Grok Bot六大构件与五篇官方指南",
+   "url": "https://www.bestblogs.dev/status/2093266882996601091?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "SpaceXAI 发布 Grok Bot 六大构件与五篇官方指南，涵盖职责定义、系统集成、云计算、任务自动化、UI 技能及任务移交。对产品设计者而言，提供了构建 AI 助手的完整框架与实践参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "33 Questions Executives Ask About AI—Answered —— 执行官关于AI的33个问题——解答",
+   "url": "https://every.to/p/every-answers-your-ai-questions",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 75,
+   "summary_zh": "Every 的 Natalia Quintero 和 Mike Taylor 与 100 多家公司讨论 AI 应用，包括《纽约时报》和对冲基金 Walleye Capital。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Cursor Origin上线，GitHub的老玩法还够用吗？",
+   "url": "https://www.leiphone.com/category/ai/BkzW0yPibWRl8D7U.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "GitHub 8 月 17 日出现大规模服务异常，Cursor 同日开放 Origin early beta，将 repository、PR、checks 等整合。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Anthropic技术栈里的「五宗罪」由何而来？",
+   "url": "https://www.leiphone.com/category/ai/aOdmq7dqZFokTCzh.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 70,
+   "summary_zh": "Claude 代码低熵、上下文污染、错误回灌等问题影响用户体验，模型能力与实际表现不匹配。Anthropic 技术栈面临生成机制、计算资源分配、模型分层、长上下文处理及实验能力落地五大挑战。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "GPT、Claude遭遇窃听门：换个模型就能让思维链不再隐身？",
+   "url": "https://www.leiphone.com/category/ai/SXiTNHh5eeN9ntTt.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Claude、GPT 和 Gemini 的隐藏推理内容被成功还原，研究人员通过兼容模型读取加密推理数据。对产品设计者意味着需加强模型间数据隔离，防止推理过程被窃取或篡改。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "深度拆解Muse Glimmer，24GB显存跑30B Agent，Meta到底做了什么？",
+   "url": "https://www.leiphone.com/category/ai/88ezT7fiFNPJKWGx.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Meta 发布 Muse Glimmer，30B 参数支持 128K 上下文，可本地运行 Agent。模型采用 24GB 显存优化方案，提供量化版本和推理加速组件，适合处理长任务和多模态交互。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜Peter Yang 每天收到 3-5 个新 AI 产品测试请求，但多数需注…",
+   "url": "https://x.com/petergyang/status/2093126719888916616",
+   "source": "X · @petergyang",
+   "cat": "AI新闻",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Peter Yang 每天收到 3-5 个新 AI 产品测试请求，但多数需注册新账号并登录独立网站或应用。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 646
+  },
+  {
+   "title": "X观点｜软件为AI提供数据管理、业务逻辑和安全控制，AI代理则在软件系统内执行任务…",
+   "url": "https://x.com/levie/status/2093192697331011846",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "软件为AI提供数据管理、业务逻辑和安全控制，AI代理则在软件系统内执行任务，提升效率。Salesforce、Box等平台将AI嵌入自身系统，优化代理表现，推动软件与AI协同增长，扩大IT市场潜力。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 120
+  }
+ ]
+}

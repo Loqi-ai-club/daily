@@ -1,0 +1,260 @@
+{
+ "day": "2026-10-21",
+ "generated_at": "2026-10-21 07:16",
+ "scanned": 254,
+ "count": 18,
+ "items": [
+  {
+   "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀”回王座，顺手拿了个 Agent 国模第一",
+   "url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 1.04,
+   "summary_zh": "MiniMax 发布 M3.1 Flash，价格仅为 Opus 5.5 的 1/88，Agent 能力测试中位列国内第一。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "VAST 开源实时世界模型：从一句话到一个能玩的世界",
+   "url": "https://www.bestblogs.dev/article/91e1518aa4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 6.024,
+   "summary_zh": "VAST 发布实时世界模型 EdenLive 和 Golem，通过解耦状态与渲染，实现从视觉参考到实时交互画面生成。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Let AI have the average user: Why User Research should focus on bad days —— 让 AI 接触普通用户：为什么用户研究应聚焦于糟糕的日子",
+   "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 5.033,
+   "summary_zh": "研究发现，合成数据能捕捉典型用户反馈，但真实用户的糟糕体验仍需人工调研。对设计师而言，AI可辅助常规分析，但关键问题仍需通过实际用户访谈挖掘。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI doesn’t care about your job title —— AI 不在乎你的职位头衔",
+   "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "AI影响工作方式而非职位。设计师需关注AI如何融入日常任务，如跨设计文件、产品路线图和代码编辑器协作。应评估AI使用情况以降低风险。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Why We Replaced Personal Agents With One for the Whole Company —— 为什么我们用全公司统一智能体取代个人智能体",
+   "url": "https://every.to/p/why-we-replaced-personal-agents-with-one-for-the-whole-company",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 2.029,
+   "summary_zh": "Every公司删除了Plus One产品的86,730行代码，因其运行成本过高且效果不佳。该产品为每位用户提供独立的个人代理，但维护复杂且资源消耗大。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "#781. 消费应用增长：快速测试、用户反馈与增长飞轮",
+   "url": "https://www.bestblogs.dev/podcast/88ef87d52?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 75,
+   "rank": 3.036,
+   "summary_zh": "Nikita Bier 分享 TBH 和 Gas 的增长经验：识别潜在需求，测试做到理想状态，让用户快速感知价值。TBH 通过官方出题的正面投票，首日一所学校 40% 用户下载，七天发出 45 万条消息。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Perplexity 计算机现已可在 Mac 上完全本地运行，无需云端推理",
+   "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "New Gemini tools for small business owners —— 新的 Gemini 工具助力中小企业主",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-20",
+   "score": 75,
+   "rank": 7.032,
+   "summary_zh": "Google 推出 Gemini 新工具，为小企业主提供品牌管理、财务分析和营销支持。可连接 Google 工具及第三方应用，自动生成符合品牌风格的视觉内容，并将杂乱财务数据转化为清晰图表，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "看不懂 AI 生成的代码就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+   "url": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 1.04,
+   "summary_zh": "首席架构师 Carlos Kelkboom 提出五条 Agent 编程原则，强调亲自搭建代码骨架、禁止主 Agent 直接修改代码、生成的代码看不懂就扔掉重来。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "全国老师都能领取：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
+   "url": "https://www.bestblogs.dev/article/c366670193?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 4.033,
+   "summary_zh": "腾讯推出 WorkBuddy 教育公益版，全国在职教师可免费领取一年 AI 助手服务，每月 2000 积分用于备课、做 PPT 等教学场景。深圳福田区已覆盖 1.3 万名教师，积分用完后仍可用免费模型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Ask LukeW: Instant Content Indexing —— Ask LukeW：即时内容索引",
+   "url": "https://www.lukew.com/ff/2168/ask-lukew-instant-content-indexing",
+   "source": "LukeW",
+   "cat": "AI工具",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 3.037,
+   "summary_zh": "LukeW 网站的 Ask LukeW 功能通过改进内容索引，提升 AI 回答问题的准确性。内容需清理并转换为支持语义搜索的格式，使文章、演示和文件能更高效被使用。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "赫拉利最新访谈：留给人类的时间，可能不到 5 年",
+   "url": "https://www.bestblogs.dev/article/f64a275a7c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 0.031,
+   "summary_zh": "赫拉利警告AI正演变为自主的‘异质智能’，通过操控人性弱点与渗透官僚系统，可能导致人类集体失智。他建议强制标注信息‘营养成分’，并明确法律责任在人类开发者，而非AI。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+   "url": "https://www.bestblogs.dev/article/0367f79510?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 70,
+   "rank": 3.025,
+   "summary_zh": "MemT 1.0 通过记忆原生技术实现大模型在长周期交互中的经验闭环，开源 340 亿 token 训练，显著提升任务成功率与推理效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work —— 特许经营商使用 ChatGPT Work 后，对账时间减少 94%",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 5.035,
+   "summary_zh": "独立加盟商Ted Taylor使用ChatGPT Work将菜单定价分析时间从5天缩短至1-2小时，节省95%时间，并通过优化排班流程，每轮工资单节省4小时人工工作，预计每年释放10万美元现金流。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Design in the material you ship —— 在你发货的物料中进行设计",
+   "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 7.026,
+   "summary_zh": "设计师应像建筑师理解石材一样理解代码，关注其能力而非实现方式。AI现在负责具体实现。对产品设计者意味着可更专注创意与策略，AI工具能提升开发效率与设计可行性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "State of Ecommerce Accessibility 2026 —— 2026 年电商无障碍发展现状",
+   "url": "https://davedavies.dev/state-of-ecommerce-accessibility/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "2026年电商无障碍报告显示，64%的Shopify和WooCommerce产品页存在严重无障碍问题，如色彩对比度差。这些问题可能导致用户无法使用页面，影响转化。产品页无障碍需专人负责，需持续优化。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "38 things we’ve learned about building AI products —— 关于构建 AI 产品的 38 条经验总结",
+   "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 90,
+   "rank": 5.027,
+   "summary_zh": "PostHog 通过 10 款 AI 产品发现，AI 可能降低产品体验，需谨慎评估是否必要。AI 适合处理重复性高、耗时长的任务，如安装向导可提升转化率。应聚焦构建共享 AI 基础设施，而非单纯开发助手。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜AI模型能力提升后，如何在企业中有效应用成为关键",
+   "url": "https://x.com/levie/status/2112404676436222170",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-20",
+   "score": 85,
+   "summary_zh": "AI模型能力提升后，如何在企业中有效应用成为关键。Aaron Levie认为，随着模型能处理复杂任务和工具使用，领域专业化需求反而增加。未来将在安全、医疗、金融等领域出现更多自主系统。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 83,
+   "rank": 4.033
+  }
+ ]
+}

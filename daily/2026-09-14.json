@@ -1,0 +1,112 @@
+{
+ "day": "2026-09-14",
+ "generated_at": "2026-09-14 07:12",
+ "scanned": 210,
+ "count": 8,
+ "items": [
+  {
+   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems —— Perplexity 信任 GPT-6 Astra 采用端到端系统",
+   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-14",
+   "score": 85,
+   "summary_zh": "Perplexity 使用 GPT-6 Astra 自动编写通讯、修改软件和监控系统，检查频率比旧模型低。Astra 能模拟其他服务生成测试数据，验证应用流程，提升搜索和代码质量。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "亚马逊夺笋，网站挂了，让小狗道歉",
+   "url": "https://www.bestblogs.dev/article/5e732a7dde?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-13",
+   "score": 85,
+   "summary_zh": "亚马逊网站故障时随机展示员工养的小狗图片及道歉文案，将错误页面转化为温暖互动，提升用户好感度。这种设计通过可爱元素缓解用户焦虑，强化品牌友善形象，同时体现亚马逊包容宠物的企业文化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "《Deep Agents 实战》项目正式发布，一起走向生产级 Agent！",
+   "url": "https://www.bestblogs.dev/article/cf7b562c47?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-13",
+   "score": 70,
+   "summary_zh": "Datawhale 与 LangChain 官方大使沧海九粟联合发起《Deep Agents 实战》开源教程，围绕 Agent Harness 讲解生产级智能体开发，已发布 8 章正文和 2 讲准备内…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "模型厂商呼吁踩刹车，类比香烟电视广告",
+   "url": "https://www.bestblogs.dev/status/2099140932428009514?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-13",
+   "score": 70,
+   "summary_zh": "模型厂商呼吁行业‘踩刹车’，类比香烟电视广告被限制的先例。暗示AI行业可能面临类似监管压力，需提前布局合规措施。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "书籍推荐：提升设计技能的实用指南",
+   "url": "https://www.bestblogs.dev/status/2099137148071055449?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-13",
+   "score": 85,
+   "summary_zh": "推荐《Refactoring UI》等书籍，实操内容丰富，可快速掌握设计要点。强调先培养审美再应用技巧，避免堆砌导致庸俗。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Figma 如何利用 AI 代理提升安全性",
+   "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-13",
+   "score": 85,
+   "summary_zh": "Figma 用 AI 代理处理安全警报，提升 70% 处理速度，减少 20% 值班通知。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态",
+   "url": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-13",
+   "score": 70,
+   "summary_zh": "绿联与后摩智能推出UGREEN HomeAgent HA100 Pro，搭载本地AI算力，整合家庭设备数据，实现本地化处理与联动。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "大模型牌桌上，蚂蚁如何出牌？",
+   "url": "https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-13",
+   "score": 85,
+   "summary_zh": "蚂蚁在2026外滩大会上展示AI助手和灵波机器人，实现无感身份核验与药房自动分拣。AI嵌入服务流程，无需改造环境。蚂蚁通过具身智能和场景化应用，探索AI在消费与产业场景的落地路径。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

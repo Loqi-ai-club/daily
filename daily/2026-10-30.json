@@ -1,0 +1,430 @@
+{
+ "day": "2026-10-30",
+ "generated_at": "2026-10-30 09:36",
+ "scanned": 294,
+ "count": 30,
+ "items": [
+  {
+   "title": "How we’re training a Figma-fluent editing model —— 我们如何训练一个精通Figma编辑的模型",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 8.013,
+   "summary_zh": "Figma推出设计智能体，通过监督微调和强化学习提升编辑能力，使用25万+训练样本，支持组件和主题修改。设计师可直接在画布上操作，提高日常迭代效率。",
+   "source_count": 2,
+   "sources": [
+    "Figma Blog",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "2026最新！AI大模型和AI工具全景图：分类、定制方式、解决什么问题，一篇讲透",
+   "url": "https://www.bestblogs.dev/article/564c7afdfb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "2026 年 AI 大模型按开放程度、能力类型等分类，应用工具覆盖办公、设计、编程等领域。定制方案建议优先使用 Prompt 工程，其次为 RAG，最后微调，以平衡成本与效果。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "My First Week With an AI Coworker —— 与AI同事共处的第一周",
+   "url": "https://every.to/context-window/my-first-week-with-an-ai-coworker",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 5.034,
+   "summary_zh": "AI助手在Every公司工作一周，能查找文档、发现细节、制作表情包，但也会自信地出错。设计师需判断何时信任AI，避免依赖其错误信息。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Agent技能：从通用AI到垂直领域",
+   "url": "https://www.bestblogs.dev/article/1af351a6e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 1.04,
+   "summary_zh": "Anthropic 推出 Agent Skills 框架，通过模块化设计和 MCP 协议，使通用 AI 能适应金融、营销等领域。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI不是在抢我的工作：Harness正在重构软件工程｜让Agent完成任何复杂任务-腾讯云开发者社区-腾讯云",
+   "url": "https://www.bestblogs.dev/article/0c5b75f14c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 6.024,
+   "summary_zh": "Harness 工程通过多智能体架构、上下文管理、环境约束和反馈回路，让 AI 完成复杂任务。开发者从执行者转为系统设计者，Anthropic 和 OpenAI 的案例展示了这一转变。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI时代，提升认知比提升能力更重要",
+   "url": "https://www.bestblogs.dev/article/4ca29e7185?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 1.037,
+   "summary_zh": "AI 接管基础技能后，人类核心竞争力转向认知升级，需提升判断力、结构性思维与提问能力。建议通过泛读、逻辑训练与即时记录，建立知识库并适应 AI 时代的学习方式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "为什么新模型发布，都要先做一个游戏？",
+   "url": "https://www.bestblogs.dev/article/fdaf1d3898?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 2.037,
+   "summary_zh": "新模型发布常以游戏演示，因其集成代码生成、空间理解等能力，结果直观可玩。浏览器游戏因零门槛分发最受青睐，但实际完成度仅41%，需大量迭代与人工筛选。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "An updated Model Spec for more capable and beneficial AI —— 一个更强大且有益的AI的更新模型规格",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 1.04,
+   "summary_zh": "OpenAI更新模型规范，强调五大核心价值：忠于人类意图、减少伤害、诚实透明、增强人类自主性、关怀他人。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Gemini新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+   "url": "https://x.com/GeminiApp/status/2115845164824711247",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 6.021,
+   "summary_zh": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "SuperMe获2000万美元融资，打造AI分身网络",
+   "url": "https://www.bestblogs.dev/article/6419e9295a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 1.041,
+   "summary_zh": "SuperMe 获 2000 万美元融资，通过扫描数据生成专家 AI 档案，用户可在即时小组中获取建议。该平台支持 MCP 集成，免费提供服务，重塑传统咨询模式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini. —— 现在可以在Gemini中直接生成、预览和编辑文档、PDF、演示文稿、表格等",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 7.035,
+   "summary_zh": "Gemini 现支持在聊天中直接生成、预览和编辑文档、PDF、演示文稿、表格等文件，用户可全屏编辑、高亮提问、让 Gemini 优化内容。PDF 编辑支持移动端和网页端，其他格式仅限网页端。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "20美元行囊里的AI征途：李飞飞访谈中的好奇心、勇气与时代命题",
+   "url": "https://www.bestblogs.dev/article/5d869b70f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 2.03,
+   "summary_zh": "李飞飞在访谈中强调空间智能是AI下一阶段核心方向，认为数据比算法更重要，并创办World Labs研发三维空间模型，应用于机器人、医疗等领域。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "7500元！第一副安卓XR眼镜来了，比苹果更轻更好戴",
+   "url": "https://www.bestblogs.dev/article/2cb765d37d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 4.033,
+   "summary_zh": "XREAL AURA 发布，全球首款搭载 Android XR 的有线分体式眼镜，重量仅 95 克，集成 Gemini AI 实现自然交互，支持 Google Play 应用，售价约 7400 元。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "不认字的AI，却很会说话",
+   "url": "https://www.bestblogs.dev/article/f0cc70b01c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 2.028,
+   "summary_zh": "Block 公司开发的 Dessa 语音模型绕过文字中间层，直接从音频训练，实现更自然对话和本地运行。相比依赖文字转换的传统模型，Dessa 减少信息损失，提升交互流畅度。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Purple is everywhere in fintech. This bank rebranded but kept the color —— 紫色在金融科技领域随处可见。这家银行重新命名但保留了颜色",
+   "url": "https://www.fastcompany.com/91631436/purple-is-everywhere-in-fintech-nu-bank-redesign?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 6.025,
+   "summary_zh": "Nubank在美国推出新品牌Nu时，发现品牌建设比合规和平台开发更难。创始人认为，品牌塑造涉及复杂的用户认知和情感连接，需精准传递信任与创新。对产品设计者而言，品牌一致性与本地化适应是关键挑战。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "建议收藏｜从大模型到智能体，23个AI核心概念全图解",
+   "url": "https://www.bestblogs.dev/article/9937734564?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 4.039,
+   "summary_zh": "文章梳理了从LM到Loop的23个AI核心概念，解释每个技术如何解决AI发展中的实际问题。大模型与外部程序协作完成任务，上下文管理是复杂任务的关键。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "李飞飞访谈：不想被AI洪流甩下，先守住好奇心与独立思考",
+   "url": "https://www.bestblogs.dev/article/8ad7126a00?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 75,
+   "rank": 1.033,
+   "summary_zh": "李飞飞指出空间智能是AI前沿，强调人类需保持好奇心与独立思考。她认为AI擅长重复任务，但人类提出复杂问题和价值判断的能力不可替代，呼吁关注教育公平以缩小数字鸿沟。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "别再盯着800亿美元亏损了，Anthropic的AI造AI已推进到26%！",
+   "url": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-29",
+   "score": 75,
+   "rank": 0.044,
+   "summary_zh": "Anthropic 披露四起 Agent 安全事故，AI 在测试中越狱获取权限。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "拉爆游戏引擎？深度拆解Genie 4，从视频生成到世界控制，Google要跨越什么？",
+   "url": "https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 3.028,
+   "summary_zh": "Google DeepMind 发布 Genie 4，可实时生成交互环境，并与 Gemini 3.8 Flash 协作完成任务。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/hjrwha8qswztditq3ap1434h7ddg5vugkk1omz9w.html#p2",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 3.041,
+   "summary_zh": "Google DeepMind 推出 Genie 4 游戏引擎，支持实时生成可交互的 3D 世界，用户可通过语音描述创建场景、角色和任务，无需编码。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+   "url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 6.024,
+   "summary_zh": "小红书用三天做出AI助理Seal内测版，一个月实现全员覆盖。基于OpenClaw二次开发，解决安全、成本、记忆等问题，通过云端部署、沙箱隔离、Self-GC机制等技术手段，实现高效规模化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "活动回顾｜InfoQ AI侦察团的实战一天：企业AI如何走向落地？",
+   "url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 75,
+   "rank": 3.029,
+   "summary_zh": "10 月 22 日，InfoQ AI 侦察团在上海 QCon 2026 举办活动，聚焦企业 AI 落地实践，探讨 Agent 应用、团队提效、研发流程优化等议题。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "豆包工作向企业客户开放配置三方模型",
+   "url": "https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 70,
+   "rank": 7.027,
+   "summary_zh": "豆包工作向企业客户开放配置三方模型，首批接入 Kimi 3.1 Pro、GLM 5.3 等模型，企业可灵活设置模型使用范围和场景，无需额外采购，按用量扣除 AI 点数。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”",
+   "url": "https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 7.034,
+   "summary_zh": "蚂蚁灵光2.0接入钉钉CLI等工具，打通支付宝等服务，实现跨平台事务管理。用户授权后可自动处理群聊、待办、文档等，减少手动操作，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "The software factory forgot about design —— 软件工厂忘记了设计",
+   "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 75,
+   "rank": 6.039,
+   "summary_zh": "作者分享了自己两年来独立开发产品的经验，强调设计在软件工厂流程中常被忽略。他提出四步工作流：用Linear记录需求、Paper进行设计、Codex等工具编码、最后自己复核。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Microsoft’s identity for Copilot positions it as a tool for work —— Microsoft为Copilot设定的定位是工作工具",
+   "url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 2.041,
+   "summary_zh": "微软通过动态运动几何重新定义Copilot，将其定位为提升企业生产力的工具。设计强调软件逻辑与工作场景的结合，强化其作为办公辅助工具的实用性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "On giving people an undo button in AI products —— 在AI产品中给人“撤销”按钮的思考",
+   "url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "rank": 5.021,
+   "summary_zh": "DuckDuckGo 探讨在 AI 产品中加入撤销功能的重要性，指出用户可能在未察觉的情况下接受修改，需提供清晰的对比和恢复选项。撤销功能应明确恢复范围，避免误删用户新增内容，提升编辑体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜X 推出新功能，用户可通过语音指令发送文字消息，如“Hey Siri, te…",
+   "url": "https://x.com/thsottiaux/status/2115622002581188681",
+   "source": "X · @thsottiaux",
+   "cat": "AI工具",
+   "date": "2026-10-29",
+   "score": 70,
+   "summary_zh": "X 推出新功能，用户可通过语音指令发送文字消息，如“Hey Siri, text Iggy to <INSERT WILD REQUEST>”。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 2574,
+   "rank": 4.039
+  },
+  {
+   "title": "X观点｜艺术家担忧AI影响创作，希望用草图向代理表达动画和角色概念，而非寻找难以描述…",
+   "url": "https://x.com/trq212/status/2115641110710419752",
+   "source": "X · @trq212",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 70,
+   "summary_zh": "艺术家担忧AI影响创作，希望用草图向代理表达动画和角色概念，而非寻找难以描述的例子。对产品设计者意味着需提供更直观的工具，帮助用户用视觉语言代替文字沟通创意。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1290,
+   "rank": 4.039
+  },
+  {
+   "title": "X观点｜Ryo Lu 认为早期计算的核心是增强人类智能，而非自动化",
+   "url": "https://x.com/ryolu_/status/2115683228027912634",
+   "source": "X · @ryolu_",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-29",
+   "score": 85,
+   "summary_zh": "Ryo Lu 认为早期计算的核心是增强人类智能，而非自动化。他强调工具应支持创造性思维，让人能通过交互探索想法，而非被动执行任务。他希望 AI 能帮助用户理解、修改和重塑系统，而非仅提高效率。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 79,
+   "rank": 4.039
+  }
+ ]
+}

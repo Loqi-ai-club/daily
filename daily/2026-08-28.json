@@ -1,0 +1,307 @@
+{
+ "day": "2026-08-28",
+ "generated_at": "2026-08-28 07:17",
+ "scanned": 280,
+ "count": 23,
+ "items": [
+  {
+   "title": "Run Claude Managed Agents with Chat SDK —— 使用Chat SDK运行Claude托管代理",
+   "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-28",
+   "score": 85,
+   "summary_zh": "Vercel 现支持通过 Chat SDK 运行 Claude 管理代理，处理模型、工具、会话状态和沙盒网络研究。开发者可构建 Slack 研究机器人，实现单线程持久会话和流式回复，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Our ChatGPT and OpenClaw Guides Just Got an Overhaul —— 我们的ChatGPT和OpenClaw指南刚刚进行了全面升级",
+   "url": "https://every.to/p/our-chatgpt-and-openclaw-guides-just-got-an-overhaul",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Every 更新了 ChatGPT 和 OpenClaw 指南，强调模型只是 AI 应用的一部分，实际效果取决于使用的工具、文件、指令和维护方式。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Google Flow brings new creative control features to enhance video editing. —— Google Flow推出新创意控制功能，提升视频编辑体验",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "Google Flow 更新 Gemini Omni 1.1 Flash，新增帧控制、1080p/4K 导出及 360p 快速预览功能，提升视频编辑精度与效率，适用于创作者在移动端快速制作并优化视频内容。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "3 new ways to plan and book travel in Search —— 搜索功能新增三种规划和预订旅行的方式",
+   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Google 搜索新增三种旅行规划与预订方式，用户可通过 AI 模式直接在搜索结果中预订酒店、机票和租车服务。此功能整合了多个旅行平台数据，使用户无需跳转至其他网站即可完成预订，提升搜索效率与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Partnering with Khan Academy on building AI tools for classrooms —— 与可汗学院合作开发课堂AI工具",
+   "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Google与Khan Academy合作，利用Gemini模型开发AI教学工具，新增互动图表和教师可控练习功能。学生可通过动态图示理解数学和科学概念，教师可自定义练习题并审核内容，提升教学效率与学生参与度。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Meta将支付170亿美元和解儿童隐私保护诉讼，将限制青少年在特定时间访问社媒",
+   "url": "https://www.solidot.org/story?sid=85215",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Meta 向美国多州支付 167 亿美元和解金，限制青少年每日使用 Facebook 和 Instagram 不超过两小时，并启用夜间屏蔽功能。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "OpenAI的中场战事",
+   "url": "https://www.bestblogs.dev/article/67ecc83e75?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "OpenAI 承认在产品方向与预训练研究上落后，正聚焦 Codex 和下一代模型 Astra，并强化安全措施。此举被质疑为商业竞争策略，其 AGI 蓝图涉及芯片、数据中心等，与聚焦主业说法矛盾。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Cursor is now available in the AI SDK harness layer —— Cursor现已在AI SDK harness层提供",
+   "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Vercel 的 AI SDK harness 层新增 Cursor 支持，通过 @ai-sdk/harness-cursor 适配器连接。开发者可通过统一接口切换不同编码代理，无需修改应用代码，提升开发效率。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Altman最关注的老登企业CEO，白天管理公司，晚上编写代码",
+   "url": "https://www.bestblogs.dev/article/3988facdd2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "Shopify CEO Tobi Lütke 亲自参与 AI 开发，推动组织变革，要求团队先用 AI 解决问题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Little Bits of Intelligence —— 一点智慧",
+   "url": "https://www.lukew.com/ff/entry.asp?2158",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "大模型如ChatGPT受关注，但小而快的AI模型正被嵌入软件中，提升智能化。传统软件逻辑固定，新趋势下UI可重新设计，使软件更灵活。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "性感产品的五重境界",
+   "url": "https://www.bestblogs.dev/article/117c491d95?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "文章从一见钟情到常见常新五个维度，分析优秀产品如何通过极致设计、深度共鸣和持续创新赢得用户。如乐高激发创造欲，胖东来以服务建立情感连接，强调专注用户价值是核心。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "这本书，凭什么让乔布斯、比尔盖茨、霍金都推荐？",
+   "url": "https://www.bestblogs.dev/article/e623953709?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "《禅与摩托车维修艺术》提出质量是人与事物互动的体验，乔布斯据此砍掉冗余产品，集中资源打造iMac、iPod和iPhone，强调技术与人文结合，提升苹果产品竞争力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准",
+   "url": "https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "百度搭子8月27日发布升级，新增个人版、企业版及专业套件，覆盖自媒体、金融等场景，支持选题策划、财报分析等任务，月活达674.30万，环比增长1063.79%。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+   "url": "https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "千问办公上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%。标准模式可完成95%日常任务，模型与Agent协同优化实现性能与成本平衡。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Agent协作工作空间Lody开源：共享、隔离与持久化",
+   "url": "https://www.oschina.net/news/502156/lody-is-now-open-source",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "Lody 开源 CLI 和桌面端，提供集中管理 Agent 会话、运行状态和代码改动的协作空间。团队成员可共享、隔离和持久化工作内容，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "Why this company ditched tech blue for construction yellow in its new logo —— 为什么这家公司的新标志弃用科技蓝，采用建筑黄",
+   "url": "https://www.fastcompany.com/91596360/samsara-rebrand-base-design?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "Samsara 将品牌色从科技蓝改为建筑黄，新标志更强调其产品在现实物理环境中的应用。此举反映公司从纯数字工具向连接实体运营的转变，有助于用户更直观理解其在车队管理和物理操作领域的业务。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "阿里发布全新Qoder，面向所有人的智能体工作台来了",
+   "url": "https://www.leiphone.com/category/industrynews/KvKr1b6gPOwqZW3f.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-08-27",
+   "score": 90,
+   "summary_zh": "阿里发布Qoder，支持自然语言生成代码、原型和数据处理，内置多款模型并提供智能调度。用户可通过编程或通用模式操作，接入40多个连接器和70多个插件，适合开发者和非技术人员使用。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Design’s legibility gap —— 设计的可读性鸿沟",
+   "url": "https://www.petermerholz.com/newsletter/designs-legibility-gap/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "文章提出‘可读性’概念，指出UX设计在组织中常因缺乏量化指标而被忽视。设计过程如研究、迭代等难以被量化，导致价值不被看见。企业重视可预测性，而设计的不确定性使其难以融入常规流程，需重新定义设计的可见性与价值。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Let me click —— 让我点击",
+   "url": "https://ilyabirman.net/meanwhile/all/let-me-click/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 85,
+   "summary_zh": "文章提出“Let me click”设计原则，强调用户应能自由点击操作。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜AI写作引发双标争议，用户对自身使用宽容，对他人使用苛刻",
+   "url": "https://x.com/zarazhangrui/status/2092773720112988366",
+   "source": "X · @zarazhangrui",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-27",
+   "score": 70,
+   "summary_zh": "AI写作引发双标争议，用户对自身使用宽容，对他人使用苛刻。对产品设计者意味着需关注用户对AI工具的伦理认知差异，设计时需平衡效率与公平性。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 71
+  },
+  {
+   "title": "X观点｜Claude 现已支持在 Chrome 浏览器中使用，所有付费用户均可开启",
+   "url": "https://x.com/claudeai/status/2092755574563741871",
+   "source": "X · @claudeai",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 70,
+   "summary_zh": "Claude 现已支持在 Chrome 浏览器中使用，所有付费用户均可开启。若用户已习惯在浏览器中使用 Claude，该设置将保持默认。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 247
+  },
+  {
+   "title": "X观点｜Claude 推出内置浏览器功能，集成于桌面应用中，独立于用户原有浏览器和登…",
+   "url": "https://x.com/claudeai/status/2092755573183828193",
+   "source": "X · @claudeai",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Claude 推出内置浏览器功能，集成于桌面应用中，独立于用户原有浏览器和登录状态。该功能将逐步向所有付费用户开放，无需额外安装。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 455
+  },
+  {
+   "title": "X观点｜Claude 现在在 Cowork 中集成浏览器，可直接在侧边栏打开网页，完…",
+   "url": "https://x.com/claudeai/status/2092755571455758427",
+   "source": "X · @claudeai",
+   "cat": "AI工具",
+   "date": "2026-08-26",
+   "score": 85,
+   "summary_zh": "Claude 现在在 Cowork 中集成浏览器，可直接在侧边栏打开网页，完成导航、填表等任务。对产品设计者而言，这种内嵌浏览器提升了 Claude 处理网页任务的效率和用户体验。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 7149
+  }
+ ]
+}

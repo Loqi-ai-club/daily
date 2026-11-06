@@ -1,0 +1,442 @@
+{
+ "day": "2026-11-04",
+ "generated_at": "2026-11-04 07:18",
+ "scanned": 277,
+ "count": 31,
+ "items": [
+  {
+   "title": "腾讯 AI 陪玩《鹅次元》首测：直接读懂游戏！“AI 美女陪你打魔渊”？_腾讯新闻",
+   "url": "https://www.bestblogs.dev/article/e7d88a2c4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "腾讯推出AI游戏陪伴产品《鹅次元》，支持《英雄联盟》等多款游戏实时陪玩，提供跨场景对话和情绪价值。通过游戏场景的互动锚点解决AI陪伴产品持久性问题，覆盖PC和手机多端，提升用户粘性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Everyone is building AI agents. Who’s designing the stop button? —— 每个人都在构建AI代理。谁在设计停止按钮？",
+   "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "AI模型在相同设置下生成80种不同结果，显示其输出不可预测。设计师需明确AI何时停止，确保用户可控。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "I let AI build. I don’t let AI decide. —— 我让AI构建，但不让AI决定。",
+   "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "设计师用AI生成内容但不依赖其决策，强调人工审核的重要性。AI工具已用于设计流程多年，但关键判断仍由人完成，确保质量与方向可控。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Agents struggle with the same bad UX we do —— 代理与我们一样在与糟糕的用户体验作斗争",
+   "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 8.034,
+   "summary_zh": "AI代理在使用产品时会像真实用户一样犯错，例如在有两个相同标签按钮的表单中选择错误。这揭示了产品设计中的可用性问题，帮助设计师发现隐藏的用户体验缺陷。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "What do you do when a design solution is already pre-built? —— 当设计方案已预先构建好时，你会怎么做？",
+   "url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 75,
+   "rank": 8.027,
+   "summary_zh": "当已有现成设计解决方案时，如何应对‘最快想法’带来的挑战？文章建议通过验证用户需求、评估现有方案的适用性，并结合团队协作优化方案，避免盲目采纳已有设计。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "BetterYeah - 企业级AI智能体平台",
+   "url": "https://www.bestblogs.dev/article/a7cc00e80c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "文章系统梳理了垂直领域AI智能体的类型、核心差异及选型部署方法，指出智能客服、营销销售等是主流类型，渗透率超70%。企业应将其视为数字员工，推动人机协同和数字化转型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "1.1 从大语言模型到智能体的快速过渡 | 智能体Harness工程指南 | Harness Engineering Guide",
+   "url": "https://www.bestblogs.dev/article/e60ed6f5cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 8.033,
+   "summary_zh": "Harness 作为工程化中间层，弥补 LLM 在生产环境中的可靠性、可控性与安全问题。LLM 负责推理与决策，Harness 提供工具调用、权限管理、结果验证等功能，实现智能体系统的完整能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "终极指南 – 2026年使用LLM构建AI智能体的最佳平台 - SiliconFlow – 用于LLMs和Multimodal模型的AI基础设施",
+   "url": "https://www.bestblogs.dev/article/a98bb9acd2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 5.032,
+   "summary_zh": "2026 年构建 AI 智能体的五大平台中，SiliconFlow 以 2.3 倍推理速度和 32% 延迟降低表现最佳，适合需要高效部署的团队；Hugging Face 适合依赖开源模型的项目。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI落地，先读懂这七个不是而是-36氪",
+   "url": "https://www.bestblogs.dev/article/302ba7a102?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "文章指出AI落地需对齐术语，避免立项混乱，并强调补齐模型短板、建立Agent六大能力等关键点。对产品设计者而言，需明确AI适用场景，重视数据治理与模型可控性，避免盲目建设。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "用AI代理解决生活杂事好方便 代价是出卖个人隐私？ | 世界新闻网",
+   "url": "https://www.bestblogs.dev/article/b25a8d6157?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 1.041,
+   "summary_zh": "旧金山兴起AI代理热潮，用户用ChatGPT、Muse等工具代订餐、买礼物、抢餐厅位，提升生活效率。但需授权AI访问信用卡、邮件等敏感信息，引发隐私与决策权风险。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "BrainArk - Google Play上的应用",
+   "url": "https://www.bestblogs.dev/article/2c2ec8569e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 2.029,
+   "summary_zh": "BrainArk 是基于 Neuro-AI 的儿童认知训练应用，通过临床验证的算法提供个性化训练，提升注意力、记忆力等能力。家庭版支持多账号和跨设备同步，适用于关注儿童认知发展的家庭及青少年用户。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "垂直类AI Agent智能体介绍 - 腾讯云开发者社区-腾讯云",
+   "url": "https://www.bestblogs.dev/article/6f88e36ec1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "文章系统介绍垂直类AI Agent的开发流程，强调其在医疗、金融等专业场景的应用。开发需整合领域知识库，采用RAG技术提升专业性，区别于通用Agent。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智能体应用 - Alibaba Cloud",
+   "url": "https://www.bestblogs.dev/article/00c3e5e599?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 7.027,
+   "summary_zh": "阿里云百炼智能体支持通过RAG知识库和插件调用外部工具，实现大模型与私有数据、实时信息连接。用户可零代码创建应用，配置参数并发布调用，适用于需要整合外部能力的场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "【Agent工程】05-智能体工程已来：所有AI团队必须掌握的新范式 - 知乎",
+   "url": "https://www.bestblogs.dev/article/b6873c5df1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 6.035,
+   "summary_zh": "文章提出智能体工程是将非确定性大语言模型优化为可靠应用的迭代过程，强调构建、测试、部署、观察、优化的循环流程。智能体工程融合产品思维、工程技术和数据科学，需通过六步开发节奏实现快速迭代，提升系统可靠性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "大语言模型智能体简介 | Prompt Engineering Guide",
+   "url": "https://www.bestblogs.dev/article/cc6d7b7477?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 4.038,
+   "summary_zh": "大语言模型智能体由用户请求、大脑、规划、记忆和工具五部分构成，支持无反馈和有反馈两种模式。规划模块通过思路链或树拆解任务，记忆模块分短期和长期，工具模块包含RAG、函数调用等技术。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一文带你读懂什么是AI智能体，和大语言模型有什么关系？",
+   "url": "https://www.bestblogs.dev/article/cde10cff0e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 2.037,
+   "summary_zh": "AI 智能体具备自主性、学习和推理能力，能独立执行任务，与大语言模型的区别在于行动能力。文章介绍了 NebulaAI 在制造业、金融等领域的应用案例，说明其通过感知、决策、执行形成闭环。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "批评T3 Code添加项目按钮位置不合理",
+   "url": "https://www.bestblogs.dev/status/2117673079719821732?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 5.027,
+   "summary_zh": "T3 Code 添加项目按钮被放在右上角，不符合用户习惯，影响操作效率。设计者应考虑人体工学，将常用功能按钮置于右下角，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "批评T3 Code不支持第三方API Key识别",
+   "url": "https://www.bestblogs.dev/status/2117672390633332917?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 4.02,
+   "summary_zh": "T3 Code 无法识别第三方 API Key，使用 Cloude Code 时强制要求登录官方账号，影响用户体验，暴露集成支持不足问题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How I Escaped AI Autopilot —— 我如何逃离AI自动驾驶",
+   "url": "https://every.to/working-overtime/how-i-escaped-ai-autopilot-rerun",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 1.036,
+   "summary_zh": "Every团队在Think Week期间举办Thesis: 2027会议，探讨AI与人类协作的未来。Katie Parrott的文章指出，更智能的AI可能降低人的谨慎程度，需警惕过度依赖。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/h7rlhsjctlj8ddkkr8h7upwzsn66uwvkif0zzlpu.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 90,
+   "rank": 4.029,
+   "summary_zh": "AI Valley推出AI员工Viktor，已服务70,000+团队，能连接3,200+工具，接受任务后自动执行并优化。用户可随时指导，重复任务会自动安排。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Design Feedback for AI Agents —— AI代理的设计反馈",
+   "url": "https://www.lukew.com/ff/2170/design-feedback-for-ai-agents",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 3.031,
+   "summary_zh": "AI代理在应用设计系统时面临产品实际使用中的复杂情况，需通过反馈机制不断优化。设计系统需适应AI生成代码的多样性和组合，确保符合规范。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "AI in the learning era —— 学习时代中的AI",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-03",
+   "score": 80,
+   "rank": 2.031,
+   "summary_zh": "Google 推出 Guided Learning 功能至 Classroom 和 Search，优化 Gemini 系列教育控制，新增 K-12 学生账户管理。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”",
+   "url": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 4.034,
+   "summary_zh": "百度Apollo推出Apollo World世界模型，用于无人驾驶虚拟训练，提升AI Driver学习与验证效率。该模型已应用于萝卜快跑，支持无人车在虚拟城市任意起终点通行，助力无人驾驶规模化落地。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+   "url": "https://www.qbitai.com/2026/11/507448.html",
+   "source": "量子位",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "海马云推出RH系列垂直模型，提升AI生成效率与质量，RunningHub访问量增长266%。平台通过算力调度与后训练模型，解决AI生产力系统落地难题，实现低成本高精度交付。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录",
+   "url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 6.026,
+   "summary_zh": "香港大学发布全球首个KYA报告，提出智能体信用体系框架，收录Stripe、蚂蚁数科等案例。报告指出，智能体需具备身份可确权、履约可核验等能力，才能获得经济授权，当前行业正从能力智能体向执行智能体演进。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "What I learned teaching AI prototyping at university —— 在大学教授AI原型设计所学到的",
+   "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "在大学教授学生使用AI工具进行原型设计，而非Figma，发现AI在创意生成上的潜力与局限。非技术人员也能用生成式AI开发应用，为产品设计提供新思路。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The pole and the stake —— 桩与桩柱",
+   "url": "https://uxdesign.cc/the-pole-and-the-stake-2cfba6c08bca?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 2.037,
+   "summary_zh": "文章探讨了设计师在顺应趋势与推动变革间的平衡。设计师常被要求在现有框架内创新，但需警惕盲目跟随潮流。对产品设计者而言，明确自身角色、在用户需求与商业目标间找到平衡点至关重要。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "从提效到扩能：AI驱动小团队的能力突破与组织演进｜AICon北京",
+   "url": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 3.026,
+   "summary_zh": "AI 正从辅助工具变为能执行任务的工作承担者，50+ 案例显示其可承担复杂任务。小团队借助 AI 扩展能力，如测试工程师转向客户项目经理，产品、研发、运营共同参与售前。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "要更真实，还是更动人？AI视频生成走到了分岔口 | CNCC 2026",
+   "url": "https://www.leiphone.com/category/industrynews/Huxl5GuqzEUo9CL9.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 1.035,
+   "summary_zh": "CNCC 2026论坛讨论AI视频生成的‘智’与‘情’。当前技术已能实现高画质、长时长视频，但情感表达和叙事连贯性仍是难点。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "GPT-6 Astra爆改Qwen大脑：只动0.016%参数，数学成绩疯涨",
+   "url": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 4.029,
+   "summary_zh": "MIT 研究团队用 GPT-6 Astra 修改 Qwen3.5-0.8B 的 0.016% 参数，使其数学成绩从 7.9% 提升至 48.1%。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "X观点｜Capy Captains使问题修复效率提升5倍，跨队长和子线程协调功能显著…",
+   "url": "https://x.com/garrytan/status/2117410016730964358",
+   "source": "X · @garrytan",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 85,
+   "summary_zh": "Capy Captains使问题修复效率提升5倍，跨队长和子线程协调功能显著提高团队协作效率。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 90,
+   "rank": 4.036
+  }
+ ]
+}

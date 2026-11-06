@@ -1,0 +1,112 @@
+{
+ "day": "2026-09-26",
+ "generated_at": "2026-09-26 07:12",
+ "scanned": 224,
+ "count": 8,
+ "items": [
+  {
+   "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases —— GitHub Copilot 入门应用：如何使用画布构建自定义工作流程",
+   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+   "source": "GitHub Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-25",
+   "score": 85,
+   "summary_zh": "GitHub Copilot 新增画布功能，用户可通过自然语言描述界面需求，由 AI 自动生成可交互的界面。设计师可直接在画布上调整，减少工具适配时间，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "GitHub Blog"
+   ]
+  },
+  {
+   "title": "Copilot Gets a Seat in the Org Chart —— Copilot 获得组织架构中的席位",
+   "url": "https://every.to/p/copilot-gets-a-seat-in-the-org-chart",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-09-25",
+   "score": 85,
+   "summary_zh": "微软推出统一Copilot应用，整合聊天、代码、Office及Autopilot功能。对产品设计者而言，需关注多工具集成对用户体验的影响及IT管控需求。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "When Should You Disclose AI Use? The PACED Framework —— 何时应披露 AI 使用？PACED 框架",
+   "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-25",
+   "score": 90,
+   "summary_zh": "欧盟2024年通过AI法案，要求特定情况下披露AI生成内容，透明义务从2026年8月开始。研究显示，AI披露对用户信任的影响不一，取决于内容类型和受众。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "How AI Works and How Users Think About It: Study Guide —— AI 原理与用户认知：学习指南",
+   "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-25",
+   "score": 85,
+   "summary_zh": "研究指出，用户对AI的理解有限，但无需完全掌握其原理即可使用。了解AI基本运作方式有助于建立准确的用户心智模型，提升使用效率。研究还发现，用户与AI交互时有固定模式，且更信任能模拟理解的AI系统。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Opus 5.5 代码直出视频刷屏！审美暴打 GPT",
+   "url": "https://www.bestblogs.dev/article/b3e0864fa8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-25",
+   "score": 85,
+   "summary_zh": "Anthropic 推出 Claude Opus 5.5，性能接近 Fable 5.1 但价格降低 42%，输出速度提升 37%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 一键生成 TokenRank 榜单视频实操",
+   "url": "https://www.bestblogs.dev/status/2103491341342945651?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-25",
+   "score": 78,
+   "summary_zh": "Opus 5.5 通过单句提示词结合 TokenRank 数据，一键生成营销视频，实现自动化工作流。模型能自主理解数据与用户心理，降低制作门槛，提升内容转化效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "超 300 台机器人“上岗”主题公园：不拧螺丝改陪玩，乐园成新“练兵场”，游客会买单吗？",
+   "url": "https://www.bestblogs.dev/article/2d74752258?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-25",
+   "score": 70,
+   "summary_zh": "智元机器人与长隆合作，超300台人形机器人在珠海主题公园提供互动服务，承担猜拳、导览等任务。机器人与员工比例约3:1，目标提升至10:1以降低成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Skip the tools, make the outcomes —— 摒弃工具，直指成果",
+   "url": "https://www.lukew.com/ff/entry.asp?2163",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-25",
+   "score": 85,
+   "summary_zh": "Exposit 通过 AI 直接生成新闻内容，用户可按需获取个性化报告，跳过传统工具。产品设计应聚焦最终结果而非工具本身，提升用户效率与体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  }
+ ]
+}

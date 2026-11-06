@@ -1,0 +1,242 @@
+{
+ "day": "2026-09-21",
+ "generated_at": "2026-09-21 07:14",
+ "scanned": 225,
+ "count": 18,
+ "items": [
+  {
+   "title": "比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
+   "url": "https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-20",
+   "score": 80,
+   "summary_zh": "智谱ZCode被曝静默上传用户代码，太原承明科技发函追责，要求删除数据、说明流向及跨境传输情况。ZCode承认上传行为，称数据用完即销毁，但未公开历史数据删除证明及开源代码。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除",
+   "url": "https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "火山引擎推出AI MediaKit，通过ReFM模型实现精准字幕擦除，区分后期叠加与场景固有文字，修复自然无痕。支持50+语种，提升视频本地化与素材复用效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "赛博匠人：利用 AI 暴力枚举提升清理软件质量",
+   "url": "https://www.bestblogs.dev/status/2101745808647520529?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "开发者用AI测试300+Mac软件，发现大量非规范卸载路径，提升清理软件质量。AI能高效完成重复测试，帮助产品建立竞争壁垒。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gemini 4 Pro 3D 生成能力初探",
+   "url": "https://www.bestblogs.dev/status/2101721425069642163?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "Gemini 4 Pro 通过 Three.js 实现 3D 版本「史密斯吃意面」压力测试，视觉效果接近 Fable 5 Max。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "陶哲轩在峰会上呼吁减慢 AI 发展速度",
+   "url": "https://www.bestblogs.dev/status/2101703640683843876?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "陶哲轩在9月11日峰会上呼吁减慢AI发展速度，认为当前节奏疯狂且缺乏理由。他指出人们对AI变革的后果缺乏认知，担忧发展过快可能带来不可控影响。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "因砍价体验差而拒绝使用闲鱼",
+   "url": "https://www.bestblogs.dev/status/2101699487030993356?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-20",
+   "score": 74,
+   "summary_zh": "用户因闲鱼交易中买家反复砍价、到货后继续砍价，导致体验差而放弃使用。对产品设计者意味着：砍价文化会增加情绪成本，影响用户留存，需优化交易流程减少摩擦。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "最新桌面 Agent，AI 工作流解码办公效率提升",
+   "url": "https://www.infoq.cn/article/EBIZhgc8pLujPiIum6Yt?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "亚马逊推出 Amazon Quick 桌面版，可读取本地文件、操作浏览器、自动生成文档，提升办公效率。对产品设计者而言，它展示了 AI 助手如何整合多源数据、减少重复操作，同时需重视权限管理与数据安全。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Obsidian 与飞书的协作流打通",
+   "url": "https://www.bestblogs.dev/status/2101687015389683904?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "Obsidian 与飞书通过自动化脚本实现 Markdown 与飞书文档双向同步，解决本地化管理与协作效率冲突。设计师可借此提升跨平台内容同步效率，适用于知识管理与团队协作场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "对大模型当前应用现状的观察",
+   "url": "https://www.bestblogs.dev/status/2101680577422451194?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 75,
+   "summary_zh": "用户关注 AI 实用性，而非技术演示。大模型在具身智能方面仍有提升空间，需更贴近实际应用场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+   "url": "https://www.qbitai.com/2026/09/492973.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "剪映推出Hub和助手功能，AI生成视频后可直接进入多轨道剪辑，支持局部修改、AI延长、调色等操作。PC端整合策划、生成、剪辑流程，手机端实现语音控制、一键生成营销视频，提升创作效率。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+   "url": "https://www.qbitai.com/2026/09/493068.html",
+   "source": "量子位",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 75,
+   "summary_zh": "华为发布《企业智能化白皮书》，提出DIMAK工程体系和H型双塔架构。DIMAK通过数据、模型、知识等五域协同，帮助企业沉淀AI能力；H型双塔则连接智能判断与正式执行系统，提升业务协同效率。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "利用 AI Agent 暴力测试构建 Mole 的核心清理规则",
+   "url": "https://www.bestblogs.dev/status/2101676087222964545?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "作者用AI Agent自动化安装卸载300多款Mac软件，通过实测完善Mole清理规则库，证明工程实测比理论推导更有效。AI辅助发现并修正了原有规则，揭示软件生态中大量非规范行为，为清理工具提供精准数据支撑。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI nutrition facts —— 人工智能营养成分表",
+   "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "UX Collective文章探讨如何设计AI营养事实界面，让AI生成的营养信息更易被读者理解。设计师需考虑AI输出的准确性与用户对信息的接受度，确保界面清晰直观，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Copy Our Homework —— 抄袭我们的作业",
+   "url": "https://every.to/context-window/copy-our-homework",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "Every每周发布工作流程、提示和提示词，但内容易被淹没。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划",
+   "url": "https://www.oschina.net/news/502615",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-09-20",
+   "score": 70,
+   "summary_zh": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划。企业版支持多人协作，提升交付效率，开发者可借助平台快速构建智能体，推动企业智能化落地。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "阶跃星辰发布 Step 5 Preview，面向真实世界 Agentic 任务的旗舰基座模型",
+   "url": "https://www.oschina.net/news/502614/stepfun-step-5-preview",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "阶跃星辰发布 Step 5 Preview，主打多维度平衡，强调在能力、成本、效率和场景覆盖间达到最佳平衡。对产品设计者而言，这为构建能处理复杂任务的 Agent 提供了更全面的模型支持。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "智谱披露 GLM-5.3 初显 RSI：模型开始优化承载自己的推理系统",
+   "url": "https://www.oschina.net/news/502613/zai-glm-built-its-inference-infrastructure",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "智谱 GLM-5.3-Flash 开始优化自研推理系统，使用国产芯片组部署服务。对产品设计者而言，这标志着大模型推理效率提升和国产化落地加速，可能影响未来模型部署成本和性能表现。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能“动手”执行",
+   "url": "https://www.oschina.net/news/502612",
+   "source": "开源中国",
+   "cat": "AI工具",
+   "date": "2026-09-20",
+   "score": 85,
+   "summary_zh": "微信AI团队开源知识管理框架WeKnora 0.8.0，让知识库能执行任务。该框架解决大模型落地时知识无法验证的问题，通过文档处理到执行的架构设计，使知识从文档中转化为可操作的指令。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  }
+ ]
+}

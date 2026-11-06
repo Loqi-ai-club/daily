@@ -1,0 +1,164 @@
+{
+ "day": "2026-10-06",
+ "generated_at": "2026-10-06 07:10",
+ "scanned": 176,
+ "count": 12,
+ "items": [
+  {
+   "title": "Is Meta’s new AI agent easier to trust because it’s cute? —— 元宇宙的新AI代理更容易被信任，因为它很可爱吗？",
+   "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI新闻",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "Meta 推出 AI 代理 Muse，用户可自定义虚拟形象和钥匙扣配件。尽管多数人不愿分享密码，但 Muse 在美国 App Store 排名靠前。对产品设计者而言，拟人化设计可能提升用户信任度和使用意愿。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI skill atrophy: Are we forgetting how to think? —— AI技能退化：我们是否忘记了如何思考？",
+   "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 75,
+   "summary_zh": "过度依赖AI可能导致人类思维能力退化。研究指出，频繁使用AI工具处理复杂任务，会使用户逐渐丧失独立思考和问题解决能力。这对产品设计者意味着，需在设计中平衡AI辅助与用户自主决策的空间，避免过度简化用户认知过程。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building —— 品味悖论：为什么人人都说重要的技能，恰恰是我们停止构建的那个",
+   "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "文章指出，尽管品味被视为人类优势，但当前工具和环境使培养品味变得困难，设计师和创意人认为在AI时代，识别潜力和判断好坏的能力仍至关重要。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Gemini helps me give a voice to students who cannot write. —— Gemini帮助我为无法书写的学生发声。",
+   "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "教师用Gemini为无法书写的学生生成视觉指南，帮助他们通过语音生成图像表达想法。AI技术让特殊教育学生能更自主学习，提升教学个性化效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI. —— 我用关于学生如何利用AI解决问题的真实对话，取代了传统的编程测试。",
+   "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
+   "source": "Google The Keyword",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 75,
+   "summary_zh": "教师用AI对话替代编程考试，学生通过Gemini在Colab中协作解决问题，教授通过口头面试评估判断力。AI辅助建模，学生需质疑建议并解释决策，Gemini Canvas和Notebook帮助评估。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼仪",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/q0rcrw8q111crr45jieh1zbea69kn2b957evpxkd.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "Diio AI 通过分析会议、通话和客户互动，识别客户需求、风险和下一步行动，帮助团队按既定方案执行。其 AI 可提取对话中的关键信息，发现大量互动中的模式，提升客户沟通效率。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Many Agents, Many Views —— 多种代理，多种视角",
+   "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "AI软件中代理层级复杂，传统管理视图难以应对。需用多种视角追踪代理行为，如计划、执行和引导。管理视图（如Slack邮箱）和监控仪表盘已显不足，需更灵活的观察方式。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer —— 提示即自画像，去除设计中的冗余，战略设计师",
+   "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "设计师通过提示词暴露自身思维和团队假设，提示词是自我画像。设计师需更清晰表达需求，避免模糊表述。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "X观点｜Peter Yang 认为 OpenAI 应简化 ChatGPT，合并 Wo…",
+   "url": "https://x.com/petergyang/status/2106926956554195018",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 70,
+   "summary_zh": "Peter Yang 认为 OpenAI 应简化 ChatGPT，合并 Work、Codex 等功能，减少产品线混乱。他指出 Work 的独立品牌可能是个错误，建议参考 Claude 的做法。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 67
+  },
+  {
+   "title": "X观点｜Granola 的联合创始人 Sam 表示，部分用户绕过其 UI 直接使用 …",
+   "url": "https://x.com/petergyang/status/2106897211766530299",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 85,
+   "summary_zh": "Granola 的联合创始人 Sam 表示，部分用户绕过其 UI 直接使用 MCP 完成任务，令 UI 设计师感到遗憾。但随着企业规模扩大，内部工具的使用不可避免。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 77
+  },
+  {
+   "title": "X观点｜Garry Tan 认为，当所有人都在构建相同的基础功能时，说明这些需求会持…",
+   "url": "https://x.com/garrytan/status/2106901111106097210",
+   "source": "X · @garrytan",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-05",
+   "score": 70,
+   "summary_zh": "Garry Tan 认为，当所有人都在构建相同的基础功能时，说明这些需求会持续增强，最终会汇聚成正确的操作系统。这提示产品设计者应关注基础功能的演进，把握行业趋势，提前布局可能成为标准的解决方案。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 310
+  },
+  {
+   "title": "X观点｜用户通过Alexa与AI交互，命名为Boo，未来可能转向ChatGPT的持续…",
+   "url": "https://x.com/danshipper/status/2106892868564431255",
+   "source": "X · @danshipper",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-04",
+   "score": 85,
+   "summary_zh": "用户通过Alexa与AI交互，命名为Boo，未来可能转向ChatGPT的持续代理模式。类似早期OpenClaw，用户偏好功能性强的交互方式，个性特征可能被舍弃。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 114
+  }
+ ]
+}
