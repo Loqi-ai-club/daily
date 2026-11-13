@@ -1,0 +1,162 @@
+{
+ "day": "2026-10-26",
+ "generated_at": "2026-10-26 07:13",
+ "scanned": 206,
+ "count": 11,
+ "items": [
+  {
+   "title": "48 张漂亮的网页界面设计欣赏(3)——探索视觉与体验的灵感余韵",
+   "url": "https://www.bestblogs.dev/article/94fe4b7eee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 78,
+   "rank": 5.026,
+   "summary_zh": "文章展示48个网页设计案例，涵盖律动组、北欧风等风格，强调功能与审美的结合。设计师可从中获取灵感，学习渐变色、流体形等元素的应用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "#007 DeepSeek 极速狂飙，AI游戏带来新机会，AI改造老旧家电",
+   "url": "https://www.bestblogs.dev/podcast/6c9df7afc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 75,
+   "rank": 7.034,
+   "summary_zh": "DeepSeek V4.1 Flash 降价并开源推理框架，推理速度提升至「秒回」，催生「许愿式编程」；搜索 API 能补中文信息缺口，可集成 Skill 并并发检索，为 AI 提供新工具。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "SpaceXAI工程师：Agent Harness已死？",
+   "url": "https://www.bestblogs.dev/podcast/3f91a5536?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 1.033,
+   "summary_zh": "SpaceXAI 工程师 Jediah Katz 在 AI Engineer 大会指出，Agent Harness 仍不可替代，尤其在云端运行、权限安全与成本效率方面。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "清华重磅揭晓改变未来 5 大 AI 技术！AI开始自我进化，院士一语点醒焦虑青年",
+   "url": "https://www.bestblogs.dev/article/a17fa9b2df?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 70,
+   "rank": 1.036,
+   "summary_zh": "清华揭示五大AI技术：多模态推理、可交互世界模型、长程智能体协同、具身智能、递归自我改进。强调技术落地需保障可靠性与伦理，推动AI从工具向独立执行者转变。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一文了解超火爆的 AI Agent 到底是什么？和 LLM 是什么关系？",
+   "url": "https://www.bestblogs.dev/article/b485bffc32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 3.031,
+   "summary_zh": "AI Agent 是基于大语言模型（LLM）的智能系统，具备自主理解、规划、记忆和执行任务的能力，能独立完成复杂操作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google前CEO：模型开发要6个月，发布后不到5个月就过时",
+   "url": "https://www.bestblogs.dev/podcast/a8987a6e9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 2.033,
+   "summary_zh": "Google前CEO Eric Schmidt指出，AI模型开发周期约6个月，发布后5个月即过时，开发成本高达数亿美元。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The context advantage of human UX —— 人类用户体验的上下文优势",
+   "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 75,
+   "rank": 3.037,
+   "summary_zh": "人类在情境理解上有优势，但AI正快速学习吸收情境信息。对产品设计者而言，需在AI与人类情境理解间找到平衡，以提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Nobody asked for the sparkle button —— 没有人要求那个闪光按钮",
+   "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 8.024,
+   "summary_zh": "多数产品在右上角设置‘ sparkle ’按钮，弹出AI面板，提供未请求的建议，用户常寻找关闭方式。AI功能易超前消费，实际需求未被满足，产品设计应聚焦用户真实需求，而非堆砌AI特性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Where to draw the line before AI reaches professional users —— 在AI触及专业用户之前，应该在哪里划定界限",
+   "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "多数B2B应用加入AI聊天框，但少有明确目标用户。需思考：是否让专家更高效，还是增加操作障碍？设计时应聚焦用户真实需求，避免华而不实。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Anthropic’s Duet Gets to Work —— Anthropic的Duet开始工作",
+   "url": "https://every.to/context-window/anthropic-s-duet-gets-to-work",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 2.039,
+   "summary_zh": "Anthropic 推出 Duet，作为始终在线的个人代理，Dan Shipper 认为这是目前最好的个人代理。Every 团队放弃早期个人代理实验，转而构建共享代理，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – October 25, 2026 —— 本周像素 – 2026年10月25日",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-october-25-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-25",
+   "score": 85,
+   "rank": 7.026,
+   "summary_zh": "本周讨论了“残疾适配器”问题、电商无障碍设计缺陷及AI原型的双刃剑效应。设计师需关注残障用户交互障碍与AI生成原型的潜在偏差，优化产品可及性与真实体验。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  }
+ ]
+}

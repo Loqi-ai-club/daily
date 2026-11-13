@@ -1,0 +1,86 @@
+{
+ "day": "2026-08-31",
+ "generated_at": "2026-08-31 07:11",
+ "scanned": 168,
+ "count": 6,
+ "items": [
+  {
+   "title": "Rethinking success beyond the corporate stairs in the world of design —— 重新定义成功：设计领域的职场阶梯之外",
+   "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-30",
+   "score": 70,
+   "summary_zh": "AI和绩效指标正在改变设计职业路径，传统线性晋升模式不再适用。设计师需关注实际能力而非单纯追求晋升，企业应重视员工的实际贡献而非表面成就。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "编程经验丰富的开发者对 AI 自动执行与验证的态度转变",
+   "url": "https://www.bestblogs.dev/status/2094133227627622605?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-30",
+   "score": 70,
+   "summary_zh": "开发者通过实践发现AI生成的代码质量可接受，逐步实现高层监控与快速放行。对产品设计者意味着：在架构设计阶段与AI协作，可提升开发效率，但关键决策仍需人工参与。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO",
+   "url": "https://www.bestblogs.dev/podcast/0124e4da2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-30",
+   "score": 70,
+   "summary_zh": "Pyromind 创始人 Kevin Ding 认为 AI 终局是分布式 Agent 蜂群，而非单一超级模型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "索尼华纳起诉 Anthropic 侵犯版权",
+   "url": "https://www.solidot.org/story?sid=85234",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-08-30",
+   "score": 70,
+   "summary_zh": "索尼和华纳起诉Anthropic，指控其非法使用数万首版权音乐训练AI模型，要求每首歌赔15万美元，总赔金或达数十亿。Anthropic员工还下载了超700万本盗版书。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Our Agents, Ourselves —— 我们的代理，即我们自身",
+   "url": "https://every.to/context-window/our-agents-ourselves",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-30",
+   "score": 85,
+   "summary_zh": "Every团队重新整理了ChatGPT使用指南，涵盖16个工作流程，适应合并后的Chat、Work和Codex功能。对产品设计者而言，展示了如何将AI工具整合进知识工作场景，提供实际应用参考。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – August 30, 2026",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-august-30-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI深度长文·观点",
+   "date": "2026-08-30",
+   "score": 85,
+   "summary_zh": "设计系统失败常因缺乏人员支持，需结合产品知识库与活体功能说明。Meta智能眼镜被讽刺用于企业监控，设计师应重视可读模式对无障碍的重要性。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  }
+ ]
+}

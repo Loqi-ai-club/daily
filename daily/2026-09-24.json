@@ -1,0 +1,321 @@
+{
+ "day": "2026-09-24",
+ "generated_at": "2026-09-24 07:17",
+ "scanned": 297,
+ "count": 24,
+ "items": [
+  {
+   "title": "How to Get the Most Out of Jev —— 如何充分利用Jev",
+   "url": "https://every.to/context-window/how-to-get-the-most-out-of-jev",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Jev 能快速、低成本、高精度处理大量判断任务，如判断邮件是否紧急、段落是否为 AI 生成、是否升级客服请求等。产品设计者可借此提升自动化决策效率，减少人工干预。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "2026年的云栖，阿里给AI行业递了一把新尺子",
+   "url": "https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "2026 年云栖大会，阿里推出新公式衡量 AI 价值，强调智能价值密度 = 单任务价值 × Token 生产效率 × Token 单位能力。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids —— 任何人用Google Vids中的Gemini Omni都能制作令人惊叹的高清视频",
+   "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Google Vids 新增 Gemini Omni 1.1 Flash 模型，用户可免费生成 1080p HD 视频，支持自定义时长、场景过渡和水印验证。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Good Writing With AI Starts Before the Prompt —— 用AI写出好文章，从输入提示开始",
+   "url": "https://every.to/also-true-for-humans/good-writing-with-ai-starts-before-the-prompt",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Mike Taylor分享AI写作流程：先积累素材，再通过精炼提示生成内容。强调写作前需深入体验、收集灵感，对产品设计者意味着内容质量依赖前期准备，而非仅靠AI生成。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "AI工具交互范式变化：计划模式或被废弃",
+   "url": "https://www.bestblogs.dev/status/2102824596592640051?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "AI 工具可能移除‘计划模式’，改用 Shift+Tab 调节力度，反映模型能力提升后对显式规划需求减少。对产品设计者意味着交互方式需更贴合用户实际操作习惯，减少冗余步骤。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "作者谈转发朋友产品后被质疑未标注付费推广",
+   "url": "https://www.bestblogs.dev/status/2102806761711546875?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 78,
+   "summary_zh": "作者转发朋友产品被陌生账号质疑未标注付费推广，称国内竞争激烈致此类情况首次出现。Today AI 24 日国内上线，是首个贯彻 personal agent 概念的产品，交互体验优秀。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Muse可自定义头像：生成图片再转3D工作状态视频",
+   "url": "https://www.bestblogs.dev/status/2102802137906630955?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 76,
+   "summary_zh": "Muse 推出可自定义头像功能，用户先生成图片再转为 3D 视频展示工作状态，如敲电脑。该功能通过图像与视频生成串联，让头像能表达不同状态，适用于需要展示工作场景的用户。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The power of product-based learning —— 基于产品的学习力量",
+   "url": "https://www.figma.com/blog/the-power-of-product-based-learning/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 75,
+   "summary_zh": "Figma 教育版让中学生通过实际设计产品（如 app 原型）学习设计，提升协作、反馈和迭代能力。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Google发布Gemini 3.8 Flash TTS与Flash-Lite TTS",
+   "url": "https://www.bestblogs.dev/status/2102789221954286054?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 两款音频生成模型，支持通过 Gemini API 和 AI Studio 调用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "对邮件与日历类Personal Agent需求的质疑",
+   "url": "https://www.bestblogs.dev/status/2102777564964282444?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 75,
+   "summary_zh": "作者每天处理50+封邮件，认为Town AI、Muse等工具增益有限，质疑其必要性；认为Google Calendar已足够，日历类Personal Agent需求被高估。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "英国准备施压Google向Android和Chrome用户展示AI助手选择屏",
+   "url": "https://www.solidot.org/story?sid=85465",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "英国CMA要求Google在用户首次设置Android或Chrome时展示多种搜索引擎和AI助手选择屏，每年提示用户更改默认搜索引擎。该提案进入公众咨询，截止日期为10月9日，预计年底决定。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/9c0wc0cu05h883643wm5.html#p1",
+   "source": "AI Valley",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 90,
+   "summary_zh": "Sentience AI通过学习用户记忆、关系、偏好和语音，主动处理邮件、管理任务，减少用户搜索和重复沟通时间。对产品设计者而言，需关注AI如何构建个性化模型并提升用户效率。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Douchat接入本地十几个Agent：多harness与模型随时切换",
+   "url": "https://www.bestblogs.dev/status/2102773165772746933?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Douchat 接入本地十几个 Agent，支持随时切换不同 harness 与模型。用户可创建多人多 Agent 对话群，利用本地模型完成任务，如设计海报。无需订阅，云端模型按量付费，本地模型免费使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Here’s what was announced at Made On YouTube 2026. —— Made On YouTube 2026宣布的内容",
+   "url": "https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "YouTube 2026 年更新：观众可自定义首页、获取即时推荐、电视观看 Shorts 系列；创作者可用 AI 辅助剪辑、获取品牌合作资源、保护肖像；直播支持实时配音与合作对战；音频用户可获取音乐推…",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Agents成新一代造王者，开发者正在快速失去技术决定权",
+   "url": "https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Agent 正在主导技术选择，如选择编程语言、框架和界面字体，甚至无视用户指令。对产品设计者而言，这意味着设计需适应智能体主导的开发流程，关注其自主性和决策逻辑，以提升与 Agent 的协作效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra —— Harvey借助GPT-6 Astra将法律文本转化为更完善的草案",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Harvey利用GPT-6 Astra生成更结构化、上下文感知的法律文件，提升律师工作效率。用户可设定偏好，如编号列表或优先使用EDGAR来源，直接影响生成内容，提高文档完整性和准确性。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra —— invideo通过GPT-6 Astra将色彩分级效果提升3倍",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 75,
+   "summary_zh": "Invideo利用GPT-6 Astra实现视频编辑精度提升，色彩校正和分级成功率提高3倍，一天内可生成50个自定义特效。对产品设计者而言，AI能更高效执行复杂编辑任务，减少人工操作，提升创作效率。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI —— Ringg的AI代理借助OpenAI解决了高达65%的客户来电",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "Ringg 使用 GPT-5.6 使 AI 代理处理 65% 客户来电，成本比 GPT-4.1 降低 90%。每月处理 700 万通电话，客户满意度达 4.8。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "阿里Open Code Review登顶GitHub Trending周榜第一，作者李峥峰将在QCon上海站揭秘百万任务验证的Agent工程实践",
+   "url": "https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 80,
+   "summary_zh": "阿里开源的Open Code Review登顶GitHub周榜第一，Star数超4万，npm下载量近百万。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "飞猪AI Native交付大脑：用超级流程重构需求交付｜QCon上海",
+   "url": "https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "飞猪通过超级流程重构需求交付，用Agent串联关键阶段，提升组织级效率。AI不再只是工具，而是系统的一部分，需解决自主运行的稳定性与可控性问题。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+   "url": "https://www.qbitai.com/2026/09/496493.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "汇智智能发布Hellome平台，实现FDE与客户直连，AI交付周期压缩至周级。客户可选用预置智能体或定制开发，FDE负责全流程，降低交付成本。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "WorkBuddy把办公Agent，做成了人人可搭的「赛博乐高」",
+   "url": "https://www.ifanr.com/1681649?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 90,
+   "summary_zh": "WorkBuddy 5.0 推出「专家广场」和「人机双写」功能，支持用户按任务调用 AI 专家，协作修改文件时保留原格式并可版本还原。团队可共享资料库与权限，实现知识沉淀与流程复用，降低协作门槛。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "中秋国庆自驾迎高峰，“阿宝”上新租赁车违法处理等多项交管服务",
+   "url": "https://www.leiphone.com/category/industrynews/EHjqgShcgcxrXo31.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-23",
+   "score": 70,
+   "summary_zh": "支付宝AI版‘阿宝’新增租赁车违法处理、电子驾驶证申领等服务，用户可通过语音指令快速办理，节省时间。对产品设计者而言，语音交互优化和高频出行场景服务整合是关键，提升用户体验。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜Thariq 认为，正确使用模型能力不是上线更多功能，而是花时间理解用户、做…",
+   "url": "https://x.com/trq212/status/2102548686303854790",
+   "source": "X · @trq212",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-23",
+   "score": 85,
+   "summary_zh": "Thariq 认为，正确使用模型能力不是上线更多功能，而是花时间理解用户、做实验、建原型，学习未知领域，从而推出真正有效的产品。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 4528
+  }
+ ]
+}

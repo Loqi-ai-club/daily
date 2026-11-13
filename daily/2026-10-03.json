@@ -1,0 +1,138 @@
+{
+ "day": "2026-10-03",
+ "generated_at": "2026-10-03 07:09",
+ "scanned": 189,
+ "count": 10,
+ "items": [
+  {
+   "title": "How to Get Better at AI by Asking AI —— 如何通过提问AI提升AI能力",
+   "url": "https://every.to/p/codex-graded-my-ai-habits-then-it-became-my-coach",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 75,
+   "summary_zh": "文章分享了如何通过与AI互动提升AI使用能力，强调提问技巧的重要性。对产品设计者而言，理解用户与AI的交互方式有助于优化产品功能和用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Empathy Mapping: The First Step in Design Thinking —— 共情地图：设计思维的第一步",
+   "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "同理心地图通过四个象限（说、想、做、感觉）记录用户行为与情绪，帮助设计团队直观理解用户需求。适用于敏捷团队，能整合多用户数据形成用户画像，提升产品设计的共情与精准度。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile —— 新的“大泥球”：为什么自主AI系统会变得脆弱",
+   "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 75,
+   "summary_zh": "Nielsen Norman Group研究发现，AI系统常因过度依赖大模型和缺乏架构规划，形成‘大泥球’，导致复杂难维护。设计师需警惕AI工具带来的‘过度工程’，重视系统可持续性与长期维护。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "A model guide for the GPT-6 family —— GPT-6系列模型指南",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 70,
+   "summary_zh": "OpenAI 发布 GPT-6 模型指南，介绍如何根据任务选择模型、调整提示词、使用缓存和压缩技术控制成本。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "The latest AI news we announced in September 2026 —— 2026年9月我们宣布的最新AI新闻",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "Google 9 月发布 Gemini 4 Argon，支持 100 万 token 输出，专攻网络安全与复杂任务。同时推出 Gemini 3.8 系列模型，提升代码与推理能力，并集成多款应用提升生产力。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/y1xfbrwtxgtmgzn54ui7.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "diio 通过分析会议、通话、WhatsApp 等多渠道对话内容及上下文，结合团队策略，识别客户需求、风险、进展等关键信息，构建持续增长的智能层，帮助产品设计者更精准理解用户意图与交互效果。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "In/tension modeling: what gives us the right? —— 张力建模：我们凭什么有这个权利",
+   "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 70,
+   "summary_zh": "设计师应反思是否有权代表用户做决策，需优先面对核心问题。文章强调在设计过程中需深入理解用户真实需求，避免主观假设，提升设计的伦理性和有效性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "X观点｜Andrej Karpathy展示用LLM判断坐标是陆地还是水域，测试162…",
+   "url": "https://x.com/karpathy/status/2105909609487872075",
+   "source": "X · @karpathy",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "Andrej Karpathy展示用LLM判断坐标是陆地还是水域，测试16200次后生成图像。模型能从压缩的互联网数据中学习地理信息，为AI地理识别提供新方法。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 346
+  },
+  {
+   "title": "X观点｜Andrej Karpathy 提出用 ASD-STE100 规范让 LLM…",
+   "url": "https://x.com/karpathy/status/2105819303471976479",
+   "source": "X · @karpathy",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "Andrej Karpathy 提出用 ASD-STE100 规范让 LLM 输出更清晰，建议生成图表、网页、视频解释内容。LLM 能力提升后，可自动完成更多基础工作，设计师可专注于高层次理解和监督。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 16925
+  },
+  {
+   "title": "X观点｜游戏原型开发者用 Claude 教学和参考素材提升动画质量，制作了可迭代的跳…",
+   "url": "https://x.com/trq212/status/2105849295580889208",
+   "source": "X · @trq212",
+   "cat": "AI工具",
+   "date": "2026-10-02",
+   "score": 85,
+   "summary_zh": "游戏原型开发者用 Claude 教学和参考素材提升动画质量，制作了可迭代的跳跃动画编辑器，效果满意。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1248
+  }
+ ]
+}

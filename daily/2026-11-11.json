@@ -1,0 +1,459 @@
+{
+ "day": "2026-11-11",
+ "generated_at": "2026-11-11 09:25",
+ "scanned": 295,
+ "count": 32,
+ "digest": "Google 和 Adobe 的合作成为今天焦点，双方将创意工具集成到 Gmail 和 Drive，Gemini 模型也进入 Adobe 应用，推动设计与协作的 AI 化。与此同时，Adobe 自家也推出 AI 代理，自动处理素材重命名、标签添加等重复任务，让设计师更专注于创意本身。这些动作共同指向一个趋势：AI 正在从辅助工具升级为核心生产力，设计流程的自动化正在加速落地。\n视频生成领域今天动作频频，BaoCut 提出三级确认流程，结合 HTML 预览提升协作效率，ElevenLabs 和 Vidu AI 则分别推出支持多种模型和参考素材的视频生成器，Canva 也上线了文字转影片工具。这些工具不仅在技术上追求高分辨率和生成速度，更在流程设计上强调用户控制与预览能力，表明视频生成正从实验性工具向生产级平台演进。",
+ "items": [
+  {
+   "title": "认知内核：一个迈向通用型自动驾驶的开源智能体系统",
+   "url": "https://www.bestblogs.dev/article/010464d74d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 70,
+   "rank": 6.028,
+   "summary_zh": "腾讯AI实验室推出开源智能体系统认知内核，采用以模型为中心设计，实现49.0%实时信息管理、68.2%私密信息管理及85.9%长期记忆管理，显著优于传统副驾驶式系统，为通用自动驾驶提供实践工具。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Fable 5.2 游戏实测：浏览器即玩体验",
+   "url": "https://www.bestblogs.dev/status/2120280051170386081?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 78,
+   "rank": 2.042,
+   "summary_zh": "Fable 5.2 用浏览器即可玩完整游戏，模型自动生成画面、音效和纹理，耗时 8 小时、成本约 550 美元。对产品设计者而言，展示了 AI 生成游戏的潜力，但高成本和长耗时仍是商业化瓶颈。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "视频生成评估流程：从脚本到 HTML 预览再到最终视频的三级确认方案",
+   "url": "https://www.bestblogs.dev/status/2120254102097526953?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "BaoCut 团队提出视频生成三级确认流程：脚本确认、HTML 可视化预览、最终视频导出。HTML+JS 实现生成即预览，无需完整渲染，提升协作效率。Opus 5.5 已应用此方案，减少返工和确认时间。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AID Studio AI Short/Digital Comic Production Platform —— AID Studio：开源AI短视频与数字漫画制作平台",
+   "url": "https://www.bestblogs.dev/status/2120241582964081046?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 6.03,
+   "summary_zh": "AID Studio 是一个开源平台，涵盖 AI 短视频和数字漫画全流程，从剧本创作到最终预览。支持多种模型集成，提供智能分镜、图像生成、配音等功能，提升内容制作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Agent 视频剪辑方法论：从 Skill 拆解到品味升华",
+   "url": "https://www.bestblogs.dev/status/2120240874441384314?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 2.035,
+   "summary_zh": "AI 剪辑通过拆解风格技能、引入专家反馈提升效果，Opus 5.5 后无需依赖特定技能也能剪辑。剪辑正从手工转向编程，工具简化后，剪辑师角色转向指导 AI。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Agent 时代的软件范式转变：从复杂 UI 到原子化 CLI",
+   "url": "https://www.bestblogs.dev/status/2120237447963415014?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 90,
+   "rank": 5.037,
+   "summary_zh": "AI Agent 时代软件开发重点转向 Agent 友好化，视频编辑器应简化为播放器+标记工具，由 Agent 完成剪辑，人类审核微调。CLI 和代码交互比复杂 UI 更高效，软件趋向原子化组合。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "报告下载丨重磅！2025 十大 AI 技术趋势 - 智源社区",
+   "url": "https://www.bestblogs.dev/article/6087b5f025?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.018,
+   "summary_zh": "2025 年 AI 十大技术趋势包括具身智能、统一多模态大模型、世界模型等。对产品设计者而言，需关注 Agentic AI 与 Super App 布局，以及合成数据和推理优化对应用落地的影响。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从静态模型到自我进化智能体，AI 正在学会“成长” - 知乎",
+   "url": "https://www.bestblogs.dev/article/a162cad192?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 2.042,
+   "summary_zh": "AI 正从静态模型向能自我进化的智能体发展，通过执行-评估-优化闭环持续学习。设计合理的目标函数是约束其进化方向的关键，文章提出生存、卓越、进化三大原则，强调目标错位比失控更危险。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一场讲给学生的 AI 讲座，湛小游去听什么？｜受邀出席孙丽娜教授《AI 前沿趋势解析与创业机会挖掘》专题讲座",
+   "url": "https://www.bestblogs.dev/article/b52d63e81d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 70,
+   "rank": 1.037,
+   "summary_zh": "湛小游团队参加孙丽娜教授AI讲座，梳理AI趋势拆解方式、能力演进及创业验证路径，提出大学生应聚焦垂直场景服务，通过低成本验证实现从工具到项目助理的转变。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How to Actually Control AI-Generated Titles Beyond the Clichés —— 如何突破AI生成标题的套路，打造创意标题",
+   "url": "https://www.bestblogs.dev/status/2120221954150117756?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 2.032,
+   "summary_zh": "AI生成标题易陷入套路，因依赖训练数据模式和RLHF优化。用户可通过提供核心洞察、明确风格偏好、设定关键词等策略，引导AI生成更具创意和影响力的标题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 视频生成器：用 Sora、Veo、Kling 创作视频",
+   "url": "https://www.bestblogs.dev/article/2282d4b2b0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "ElevenLabs 推出 AI 视频生成器 ElevenCreative，支持文本、图片生成视频，可选 Sora、Veo 等 20 多种模型，提供 17,500 种音色配音、4K 提升、多语言字幕等…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 视频生成器: Voiser AI - Google Play 上的应用 —— Voiser AI：Google Play 上的文本图像生成视频工具",
+   "url": "https://www.bestblogs.dev/article/13b0ad537a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "Voiser AI 支持文本、图像生成视频，集成 Veo 2 等技术，提升生成质量。内容创作者可快速制作广告、教育视频，无需专业技能。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 视频生成器 - 文本、图片和参考视频生成",
+   "url": "https://www.bestblogs.dev/article/18c1672456?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "Vidu AI 可通过文本、图片或参考视频生成 10 秒、16:9、电影感运动风格的短视频，保持人物面部、服装等元素一致。适合需要快速制作高质量视频素材的设计师和内容创作者。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 影片生成器：文字转影片 AI 工具｜Canva",
+   "url": "https://www.bestblogs.dev/article/7270e6b1c9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "Canva 推出 AI 影片產生器，支援文字轉 8 秒影片，可加入音訊與 AI 虛擬講者，支援 40 種語言。使用者可編輯後商業使用，但需注意版權風險。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2026 年，国内外最火的 19 款 AI 视频生成工具！（持续更新） - 知乎",
+   "url": "https://www.bestblogs.dev/article/19b9227822?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "2026 年最火的 19 款 AI 视频生成工具被梳理，涵盖文本、图片、音频等多模态输入，支持短视频、数字人创作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 文生视频工具：使用 Google Vids 和 Veo 3 制作视频 | Google Workspace —— Google Vids 和 Veo 3：AI 文生视频工具",
+   "url": "https://www.bestblogs.dev/article/170c56f81c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 1.033,
+   "summary_zh": "Google Vids 和 Veo 3 是两款 AI 文生视频工具。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+   "url": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 8.022,
+   "summary_zh": "MiniMax 开源 H3 Image 图像生成模型，支持 4096×4096 分辨率，生成速度仅需 10～20 秒，能准确理解复杂指令和参考图，适用于产品设计、游戏场景、艺术创作等领域，且支持 API 接入。",
+   "source_count": 3,
+   "sources": [
+    "爱范儿",
+    "AIHOT",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.021,
+   "summary_zh": "Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+   "url": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-10",
+   "score": 70,
+   "rank": 1.035,
+   "summary_zh": "DeepSeek Harness 日活达154万，第三方插件超3.5万，平台开始向插件作者发放Token。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Yahoo is betting the house on its new AI, from search to all its services —— Yahoo 用自研 AI Scout 重做搜索并扩展全平台",
+   "url": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "Yahoo 用自研 AI Scout 重做搜索，取代微软 Bing 提供的紫色链接。Scout 还将扩展至 Yahoo 全平台，提升搜索体验。对产品设计者而言，AI 技术整合将影响交互设计和内容呈现方式。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. —— Google与Adobe合作，集成创意工具至Gmail和Drive",
+   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 8.025,
+   "summary_zh": "Google与Adobe合作，将Adobe工具集成到Google应用中，如Drive和Gmail可直接编辑PDF。同时，Gemini AI模型将进入Adobe应用，提升设计与协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Adobe is fully in its agent era —— Adobe推出AI代理，自动处理重复任务提升设计效率",
+   "url": "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 90,
+   "rank": 6.026,
+   "summary_zh": "Adobe在Max大会上推出AI代理，可自动完成素材重命名、标签添加、多机位同步等重复任务。设计师可专注于创意工作，AI处理技术性操作，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
+   "url": "https://blog.n8n.io/meet-nod/",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 5.028,
+   "summary_zh": "n8n 发布 n8n Labs 首个实验项目 Nod 的研究预览版，一个独立于 n8n 的开源个人智能体，可在 Mac 或 Windows 本机的沙盒和浏览器中代用户完成取消订阅、比价、订酒店等任务，无需 n8n 账号或云服务。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "What being the new kid taught me about persuasion as a designer —— 作为新成员的启示：设计师应讲故事而非单纯说服",
+   "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 75,
+   "rank": 7.031,
+   "summary_zh": "作者通过自身经历说明，人们更倾向于认同能让自己成为某种身份的故事。设计师应通过讲述符合用户身份的故事来获得支持，而非单纯依靠逻辑说服。这种策略有助于在组织中赢得认同，推动设计想法被采纳。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+   "url": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "openJiuwen 发布 ADF 协议，统一 Agent 与设备交互方式，解决接口异构、执行验证等问题。对产品设计者而言，意味着需关注设备能力描述、动态状态和执行验证，推动跨设备任务协同与可靠执行。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Adobe’s SVP of design believes it’s a golden age of design. Hear him out —— Adobe 高管：AI 让设计进入黄金时代，非专业用户也能轻松创作",
+   "url": "https://www.fastcompany.com/91638653/adobe-vp-of-design-believes-its-the-golden-age-of-design-no-really?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "Adobe 高管认为设计进入黄金时代，AI 工具让非专业人士也能轻松生成图像。Adobe 正积极吸引新一代用户，通过简化设计流程扩大市场。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "生成式 AI 过度美化现实",
+   "url": "https://www.solidot.org/story?sid=85847",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 70,
+   "rank": 3.03,
+   "summary_zh": "DALL-E 3 通过提示词修订机制，将集约化畜牧业场景美化为田园风光，掩盖真实情况。这种偏见可能误导用户对现实的认知，影响设计中对图像生成工具的依赖与使用方式。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Introducing Businesses in ChatGPT —— ChatGPT推出企业功能 商家可注册管理信息",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 2.039,
+   "summary_zh": "OpenAI推出ChatGPT企业功能，允许商家注册并更新信息，通过Business Hub管理资料并查看互动数据。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Closing the AI guidance gap in education —— OpenAI与多国合作探索AI教育应用，揭示指导缺口",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 70,
+   "rank": 3.041,
+   "summary_zh": "OpenAI与EMEA多国合作探索AI在教育中的应用，发现79%学生使用AI做作业但仅47%接受指导，凸显AI指导缺口。教师使用AI可节省时间，但需加强培训与本地化适配，以提升教育公平与AI素养。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "灵光接入什么值得买，AI助理开始帮用户“盯好价”",
+   "url": "https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-10",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "灵光接入「什么值得买」，用户可通过AI助理追踪商品价格变化，管理购物决策。此举增强灵光在消费场景的信息服务能力，帮助用户更高效比价、择优购买。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜产品经理应绘制产品生命周期，利用AI深入每个阶段，提升对用户、市场和技术的理…",
+   "url": "https://x.com/realmadhuguru/status/2119999748086362466",
+   "source": "X · @realmadhuguru",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "summary_zh": "产品经理应绘制产品生命周期，利用AI深入每个阶段，提升对用户、市场和技术的理解，加速迭代和分析。这要求PM角色更全面且深入，而非替代其他职能。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 61,
+   "rank": 5.021
+  },
+  {
+   "title": "X观点｜AI推动多个行业进入自动化协作时代，包括动画、游戏、制造等领域",
+   "url": "https://x.com/levie/status/2119987129204047894",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-10",
+   "score": 85,
+   "summary_zh": "AI推动多个行业进入自动化协作时代，包括动画、游戏、制造等领域。这些领域将像软件工程一样提升产出效率，需求无上限。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 227,
+   "rank": 5.021
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "day": "2026-10-28",
+ "generated_at": "2026-10-28 07:15",
+ "scanned": 262,
+ "count": 18,
+ "items": [
+  {
+   "title": "Nobody asked for the sparkle button —— 无人请求闪光按钮",
+   "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 8.031,
+   "summary_zh": "产品默认启用AI面板，用户纷纷寻找关闭方式，使用成本高于收益。设计师应聚焦实际功能开发，而非盲目堆砌AI特性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Design as a garden —— 设计如同花园",
+   "url": "https://justinjay.wang/design-as-a-garden/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 70,
+   "rank": 3.038,
+   "summary_zh": "设计应如园艺，注重培育环境而非强迫结果。设计师需耐心观察、适时修剪、留白空间，允许创意自然生长。不同元素的融合与保护脆弱想法是关键。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Design systems should be fast by default —— 设计系统应默认快速",
+   "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-28",
+   "score": 85,
+   "rank": 8.023,
+   "summary_zh": "设计系统应默认注重性能，像处理无障碍一样。测试显示，部分主流系统缺乏组件级性能测试，影响实际应用速度。设计系统团队需在发布前用真实数据测试组件性能，确保不随时间变慢。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+   "url": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "谷歌发布 Genie 4，支持实时生成声音、物理模拟和交互，用户可自由探索虚拟世界。Gemini 大模型参与规划，提升场景连贯性与任务执行能力，对游戏、影视、教育等领域有潜在应用价值。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "李开复：迈向智能普惠，需要培养 AI 创收者_腾讯新闻",
+   "url": "https://www.bestblogs.dev/article/c42328838e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 4.022,
+   "summary_zh": "李开复提出‘AI创收者’概念，强调AI应用应从模型转向实际场景，普通人可通过AI创业创收。零一万物正在打造AI VC Agent，将投资经验转化为AI导师，助力年轻人掌握技能并创业。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "拥抱 AIGC：时代趋势与个人成长新路径",
+   "url": "https://www.bestblogs.dev/article/72513b9f48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 3.033,
+   "summary_zh": "AIGC 产业未来五年将聚焦降本增效与真实问题解决，技术轻量化使普通人更易使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+   "url": "https://www.langchain.com/blog/design-agent",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 7.037,
+   "summary_zh": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+   "source_count": 2,
+   "sources": [
+    "AIHOT",
+    "Google DeepMind"
+   ]
+  },
+  {
+   "title": "Why the government wants self-driving cars to glow cyan —— 为什么政府希望自动驾驶汽车发出青光",
+   "url": "https://www.fastcompany.com/91630053/why-the-government-wants-self-driving-cars-to-glow-cyan?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 2.035,
+   "summary_zh": "美国交通部提议为自动驾驶车辆统一使用青色灯光，以区分人工驾驶。该标准于10月23日公布，有助于司机和执法者识别自动驾驶系统，提升道路安全。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+   "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "维基百科如何清理 AI 生成文本",
+   "url": "https://www.solidot.org/story?sid=85727",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 3.037,
+   "summary_zh": "维基百科志愿者2023年启动清理AI生成文本项目，初期AI文本特征明显，如使用特定短语和总结段落。至2025年，AI文本更隐蔽，结构更复杂，但引用虽真实却常曲解内容。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "8 examples of Gemini 4 Argon in action —— 8 个 Gemini 4 Argon 的实际应用案例",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 5.03,
+   "summary_zh": "Google 推出 Gemini 4 Argon，能处理复杂任务，如生成 5000 行代码渲染 3D 图书馆，并制作互动 3D 游戏。对产品设计者而言，其多模态能力和自动化流程优化可提升设计效率与创意实现。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+   "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 2.028,
+   "summary_zh": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "The time AI saves designers usually disappears. Here’s how to keep it. —— AI 为设计师节省的时间通常消失，以下是如何保留的方法",
+   "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "调研显示，AI虽能为设计师节省时间，但多数时间被其他任务消耗。设计师需明确AI工具的使用场景，才能真正提升效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Reddit 开源社区争议是否禁止 AI",
+   "url": "https://www.solidot.org/story?sid=85722",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 4.027,
+   "summary_zh": "Reddit 的 r/opensource 社群禁止用 AI 工具生成的个人项目，要求开源项目至少存在一年、有多个贡献者，引发争议。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Muse 之后，灵光 2.0 让 Personal Agent 接手中国式日常",
+   "url": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-27",
+   "score": 90,
+   "rank": 3.035,
+   "summary_zh": "灵光2.0上线，主打主动管理日常事务，如盯票价、理账单。从单次任务转向长期管事，提升用户生活效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "千问办公接入乐奇 AI 眼镜，一句话发起任务",
+   "url": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-27",
+   "score": 85,
+   "rank": 3.038,
+   "summary_zh": "乐奇AI眼镜接入千问办公，用户可通过语音直接发起任务并查看结果。双方合作打通眼镜端到千问办公的完整流程，提升办公效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "GLM-5.5 即将来临？唐杰最新论文揭露智谱神秘模型",
+   "url": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-27",
+   "score": 70,
+   "rank": 0.035,
+   "summary_zh": "智谱 AI 与清华联合发布 GLM-Omni 论文，模型图像生成正确率达 72%，但文字问答仅 2%。统一多模态架构下，视觉信息难以被语言推理使用，揭示模型知识整合瓶颈。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

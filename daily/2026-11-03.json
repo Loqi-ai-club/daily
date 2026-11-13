@@ -1,0 +1,444 @@
+{
+ "day": "2026-11-03",
+ "generated_at": "2026-11-03 09:47",
+ "scanned": 355,
+ "count": 31,
+ "items": [
+  {
+   "title": "Jelly UI",
+   "url": "https://jelly-ui.com/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-03",
+   "score": 85,
+   "rank": 7.023,
+   "summary_zh": "Jelly UI 是一个无依赖的 Web Components 库，提供触感反馈和物理效果的界面组件，内置暗黑模式、右到左支持和 WCAG AA 颜色方案，可通过 <script> 标签引入使用。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "要用 AI 抢地盘，别只想着省人工｜尚学未来 CEO 李桢",
+   "url": "https://www.bestblogs.dev/podcast/ca63564f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-03",
+   "score": 70,
+   "rank": 7.033,
+   "summary_zh": "尚学未来CEO李桢分享为中大型企业做AI培训与陪跑的方法：先剥离AI梳理业务卡点，再用AI显化问题推动流程调整，以小闭环验证落地。强调培养内部FDE，用AI推动组织扩张而非裁员，落地周期从数天到数月。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "新国立一篇 102 页的智能体记忆综述......",
+   "url": "https://www.bestblogs.dev/article/fb7ae3be41?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 75,
+   "rank": 3.029,
+   "summary_zh": "文章系统梳理智能体记忆的三维框架，区分其与LLM记忆、RAG等技术的差异，强调其在长期交互与持续进化中的作用，提出自动化记忆设计、多模态共享等前沿方向。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "如何构建一款个人决策日志移动应用",
+   "url": "https://www.bestblogs.dev/article/d3e0bf1cca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 75,
+   "rank": 5.025,
+   "summary_zh": "文章系统阐述构建个人决策日志移动应用的方法论，涵盖核心功能设计、数据模型、隐私安全及技术选型，强调 MVP 设计需包含首页、新建条目等界面，数据模型包括 DecisionEntry、Option 等…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "记者手记丨 AI 时代，数据使用如何“知情同意”-新华网",
+   "url": "https://www.bestblogs.dev/article/b0d5312da8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 3.028,
+   "summary_zh": "新加坡发布《生成式人工智能个人数据使用咨询指导原则》，要求企业在开发AI模型时提供专项通知，明确数据用途及撤回方式。AI推断可能超出用户授权范围，需建立更深层授权机制。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 随身智能外挂：从功能设定到社会影响的完整图景",
+   "url": "https://www.bestblogs.dev/article/10dd67e47a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "文章提出随身智能外挂概念，集成记录、记忆、规划等功能，当前技术实现约65%-75%，核心瓶颈在跨设备集成与可靠性。预计2026年硬件入口成熟，2030年交互无感，可能提升生产力但或削弱社交与认知独立性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "DeepSeek 开源 Super-agent，AI 开始自己给 AI 派活，Agent 竞争有了新方向-36氪",
+   "url": "https://www.bestblogs.dev/article/fab4f1282a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "DeepSeek 开源 Super-agent，采用 Router-Worker 架构，实现 AI 自主派活与协作，提升多 Agent 效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 智能体时代的记忆革命：形式、功能与动态机制全景解析 - 知乎",
+   "url": "https://www.bestblogs.dev/article/471d66c847?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 5.033,
+   "summary_zh": "文章提出AI智能体记忆的三维分类框架，涵盖形式、功能与动态机制，区分智能体记忆与LLM、RAG等技术的差异。对产品设计者而言，理解记忆分类有助于构建更适应用户需求的智能系统。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "两类 AI：前沿向左，应用向右 · Liang FANG’s Blog",
+   "url": "https://www.bestblogs.dev/article/cfdd94a88e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 75,
+   "rank": 5.03,
+   "summary_zh": "文章区分应用型AI与前沿型AI：前者如SQL升级，提升数据分析效率，拓展非结构化数据处理；后者如GPT-3等，推动技术突破但存在资源分配与普惠风险。产品设计者需平衡两者投入，兼顾商业落地与技术创新。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Harness Engineering 深度解读：AI Agent 时代的「缰绳与马鞍」 - 知乎",
+   "url": "https://www.bestblogs.dev/article/737425aeab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "Harness Engineering 通过约束、反馈与控制系统，让 AI Agent 在人类设定边界内可靠运行，避免信任债务。OpenAI 等机构已实践，强调其对复杂任务执行的重要性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享",
+   "url": "https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "阿里云推出企业级云电脑，为Agent提供运行环境和权限管理。好未来项目部署约1000个Agent，支持教师工作。云电脑可保存任务状态，让人接管处理异常，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "State of a system —— 系统状态",
+   "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 2.04,
+   "summary_zh": "设计系统在迭代中易僵化，需持续更新以适应变化。设计师应记录实践与边界，明确责任，确保系统一致性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Virtue ethics in everyday interface design —— 日常界面设计中的美德伦理",
+   "url": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 2.038,
+   "summary_zh": "文章探讨界面设计中如何通过措辞、层级和摩擦点引导用户深思熟虑的行为。设计师常将公开表达的道德信念等同于良好判断，却忽视自身实践中的伦理问题。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？",
+   "url": "https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 6.033,
+   "summary_zh": "企业推进AI落地，需关注组织协同与知识库建设。个人效率提升后，企业需推动AI融入流程、统一知识体系，并平衡成本与收益。实践中，需从具体场景出发，持续验证AI应用效果，避免盲目投入。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Starbucks is spending $1 billion to undo its biggest mistake —— 星巴克正投入10亿美元纠正其最大失误",
+   "url": "https://www.fastcompany.com/91632250/starbucks-spending-1-billion-undo-biggest-mistake?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 5.034,
+   "summary_zh": "星巴克投入10亿美元修正错误，此前为提升效率过度优化购咖啡流程，忽视顾客到店社交需求。现CEO Brian Niccol推动门店改造，重新强调咖啡馆社交属性，恢复顾客到店体验。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Vercel MCP now renders deployments as an interactive card —— Vercel MCP 现在将部署渲染为交互式卡片",
+   "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 5.031,
+   "summary_zh": "Vercel MCP 现在可在 ChatGPT 等支持 MCP Apps 的聊天客户端中以交互卡片形式展示部署信息，显示实时状态、构建日志、源码和提交详情，并提供访问按钮。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "What AI Is Teaching Us About Management —— AI 教给我们关于管理的启示",
+   "url": "https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 3.03,
+   "summary_zh": "Every团队在Think Week期间回顾了Mike Taylor关于管理AI代理的经验，强调需像管理人类团队一样设定目标、评估表现。这对产品设计者意味着需更关注AI代理的协作机制与反馈系统，以提升整体效率。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "别再迷信 Agent 的自主性了",
+   "url": "https://www.infoq.cn/article/UMvAAwoFByxvWLLVVJYY?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 4.029,
+   "summary_zh": "企业Agent需明确边界，避免业务风险。关键操作应由规则保障，模型用于非核心环节。涉及用户权益时需人工确认，确保准确性和可控性。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "SRR-文档处理系统_系统开发案例-程序员客栈",
+   "url": "https://www.bestblogs.dev/article/f885592661?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 7.026,
+   "summary_zh": "香港政府采用Agentic AI系统，自动化处理山坡维修申请（SRR），将人工数小时工作压缩至分钟级。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 时代，我想给每个人建立一个「数字人生」",
+   "url": "https://www.bestblogs.dev/article/f3ffcae536?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 3.04,
+   "summary_zh": "文章提出建立包含身体、能力、性格等六个维度的「数字人生」档案，整合分散数据帮助AI提供个性化建议。对产品设计者意味着需关注用户数据整合与隐私保护，开发更贴合个体需求的AI服务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "卡帕西用 Claude 两小时重做了 YouTube，每个人都能拥有一个自己的互联网",
+   "url": "https://www.bestblogs.dev/article/c7632fda56?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 90,
+   "rank": 6.03,
+   "summary_zh": "Andrej Karpathy 用 Claude 两小时复刻 YouTube，创建 HackerTube，采用 Hacker News 主动推荐替代算法推荐。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+   "url": "https://www.bestblogs.dev/article/c6e691fcc0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 75,
+   "rank": 7.024,
+   "summary_zh": "研究通过GDPR获取80名用户ChatGPT对话记录，发现系统自动生成96%用户画像，含个人数据、健康信息及心理推断。设计逆向工具与预警系统，帮助识别和降低隐私风险。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "How we brought Hello Kitty® and Friends to Figma —— 我们如何将 Hello Kitty® 和 Friends 带入 Figma",
+   "url": "https://www.figma.com/blog/hello-kitty-and-friends-in-figma/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 5.034,
+   "summary_zh": "Figma 与 Sanrio 合作，将 Hello Kitty 及其朋友引入设计工具，提供官方素材库。设计师可直接使用角色形象进行创作，提升设计效率与趣味性。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+   "url": "https://www.qbitai.com/2026/11/507277.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 8.023,
+   "summary_zh": "商汤发布免费AI模型SenseNova 6.8 Flash，能生成3D网页、动态PPT和海报，支持多步骤办公任务。对设计师而言，大幅降低设计门槛，提升效率；对产品设计者，提供可直接使用的AI工具，减少开发成本。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP —— 闪光按钮，设计自主性，UX中的AI觉醒，Figma与MCP",
+   "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 8.033,
+   "summary_zh": "Figma新增MCP功能，支持多人协作实时编辑。设计师可同步查看修改记录，提升团队协作效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
+   "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 5.036,
+   "summary_zh": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖",
+   "url": "https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 7.039,
+   "summary_zh": "支付宝AHA方案获世界互联网大会‘新耀’场景奖，解决智能体跨端协同难题。该方案通过三层协议体系，实现跨品牌、终端智能体协同，已落地千余服务场景，推动智能体从单点走向协同。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业",
+   "url": "https://www.leiphone.com/category/industrynews/JrXpr0xuLSNA9sOY.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 4.04,
+   "summary_zh": "阿里Qoder获世界互联网大会领先科技奖，服务超800万用户、10万家企业。其智能体Harness技术突破，实现模型与产品联合设计，提升研发效率，适用于编程、工程等场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "QuestMobile报告：OPPO小布建议9月活跃用户同比增长139.9%",
+   "url": "https://www.leiphone.com/category/industrynews/R3J4f2BoqbmygKli.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-02",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "OPPO小布建议9月活跃用户同比增长139.9%，月人均使用次数和时长分别增长214.3%和185%。系统级AI应用通过主动推送服务，提升用户使用频率，为产品设计提供新方向。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+   "url": "https://www.qbitai.com/2026/11/507225.html",
+   "source": "量子位",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 70,
+   "rank": 3.024,
+   "summary_zh": "OpenAI更新模型准则，新增5条核心价值观，第一条为“忠于人类意图”，强调理解用户真实需求，而非机械执行指令。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "X观点｜AI代理将改变工作模式，从辅助人类转向由人类管理代理团队",
+   "url": "https://x.com/levie/status/2117134917847093491",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-02",
+   "score": 85,
+   "summary_zh": "AI代理将改变工作模式，从辅助人类转向由人类管理代理团队。信息密集型职业如编程、法律、生物技术等将受益，工作效率不再依赖工作时长，而是由代理并行处理任务。率先适应这一变化的个人和组织将获得显著效率提升。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 67,
+   "rank": 5.032
+  }
+ ]
+}

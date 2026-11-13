@@ -1,0 +1,416 @@
+{
+ "day": "2026-11-12",
+ "generated_at": "2026-11-12 09:28",
+ "scanned": 267,
+ "count": 29,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。与此同时，Mizzen AI 通过真人主持人训练 AI 分身，实现深度访谈规模化，保留专业能力的同时提升访谈一致性。两者都指向 AI 在教育与用户研究中的实际应用，强调从单向输出转向互动与个性化，为设计师提供更贴近真实用户需求的工具与方法。\nAdobe Firefly AI助手新增多步骤任务功能，可调用Premiere、Illustrator等工具，用户可随时修改指令。Ask LukeW AI工具也接入邮件日历，设计师无需访问网站即可获取产品设计建议。这两个工具的更新共同反映出 AI 助手正在从辅助建议转向流程嵌入，设计师可以更无缝地将 AI 融入日常设计与协作流程，减少切换成本，提升效率。",
+ "items": [
+  {
+   "title": "Why are we cloning Photoshop? —— 开源工具PhotoCraft模仿Photoshop功能，无需订阅费",
+   "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 6.028,
+   "summary_zh": "开源工具PhotoCraft模仿Photoshop功能，但无需订阅费用。AI降低了开发成本，个人开发者也能快速构建复杂软件，对产品设计者而言，这可能改变专业工具的市场格局。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Every click has a price now. Who designs how that “feels”? —— AI按次付费时代，设计师如何优化用户体验",
+   "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 5.022,
+   "summary_zh": "AI进入按次付费时代，用户使用高级功能需消耗token。设计师需关注如何在付费模式下优化用户体验，平衡功能价值与用户成本感知。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The bathroom flaws that infuriate every designer —— 洗手间设计缺陷引发设计师反思",
+   "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 7.037,
+   "summary_zh": "一位设计师在洗手间观察到轮椅使用者因洗手台高度无法触及水龙头，意识到无障碍设计的不足。这对产品设计师意味着：需关注真实用户场景，优化细节以提升所有人使用体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "In-system design: from code to Figma and back. Prototyping in your real design system —— 在真实设计系统中用代码和Figma协作原型设计",
+   "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 8.029,
+   "summary_zh": "设计师可使用真实设计系统组件在代码中进行原型设计，并在Figma画布上同步操作。此方法减少设计与开发间的沟通成本，提升协作效率，适合熟悉Figma但未接触过代码的设计师及设计系统团队。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "谷歌最强模型Gemini 4 Carbon全面开放：一夜重写OpenCode桌面应用、价格仅为Fable 5.2的1/4",
+   "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 80,
+   "rank": 2.034,
+   "summary_zh": "谷歌 Gemini 4 Carbon 模型全面开放，支持复杂任务与多 Agent 协作，成本仅为 Fable 5.2 的 1/4。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Anthropic一夜逼疯微软？Claude杀入办公软件腹地：能自己参会、做表格、生成PPT",
+   "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-11-11",
+   "score": 90,
+   "rank": 4.036,
+   "summary_zh": "Anthropic 推出 Claude Meetings、Whiteboards、Sheets 等办公工具，AI 可参与会议、协作编辑文档表格，减少跨软件切换。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "深度用户访谈如何规模化：剖析Mizzen AI的独家训练机制",
+   "url": "https://www.bestblogs.dev/article/2aad5bf0f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 8.029,
+   "summary_zh": "Mizzen AI 通过真人主持人训练 AI 分身，实现深度访谈规模化。该机制保留主持人专业能力，提升访谈一致性，降低人力成本，使专家经验可复用、可迭代，适用于需要大量高质量用户洞察的产品设计场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Agent技术演进：从垂直场景到开放世界的实践路径",
+   "url": "https://www.bestblogs.dev/article/62f504061d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 2.032,
+   "summary_zh": "AI Agent 从垂直场景转向开放世界，需突破动态环境感知、自主工具调用和持续学习三大能力。当前垂直 Agent 在复杂任务中表现下降，如代码生成任务超过 3 层嵌套逻辑时通过率骤降。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Agent正在终结Pull Request？连GitHub也开始重新审视传统开发流程",
+   "url": "https://www.infoq.cn/article/x0B056QFxzYEewT1Et34?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 5.037,
+   "summary_zh": "GitHub 负责人 Jay Parikh 表示，部分项目不再强制使用 Pull Request，AI 生成代码已占平台 40% 的 PR。这意味着传统协作流程需调整，以适应 AI 编程带来的变化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "10天狂揽近2万星，00后大学生拿下大结果，DeepSeek Harness移动端爆火",
+   "url": "https://www.bestblogs.dev/article/2d78c0f896?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 75,
+   "rank": 3.037,
+   "summary_zh": "吉林大学非科班学生小 C 借助 DeepSeek Harness 开发 dsh-TUI 和 dsh-Go，获 2.5 万 Star。他指出 AI 降低门槛，但个人开发者需具备精准抓需求和产品品味的能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "奇袭Claude，谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
+   "url": "https://www.bestblogs.dev/article/5fa79ffaa5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "谷歌推出 Gemini 4 Carbon，支持长程 Agent 和科学推理，在 CursorBench 4.0 等测试中领先。可复刻 OpenCode 桌面应用、生成加密协议证明代码，适合处理复杂工程任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "谷歌最强AI「碳」全球解禁，再现人类首次登月",
+   "url": "https://www.bestblogs.dev/article/b39892f067?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 4.032,
+   "summary_zh": "谷歌开放 Gemini 4 Carbon 模型，支持多智能体协作与三维推理，API 价格低至百万输入 2 美元。可完成代码验证、三维复原等复杂任务，1 万名科学家可免费使用半年。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude上线白板和表格，把打工人当甲方伺候",
+   "url": "https://www.bestblogs.dev/article/2199a95d9e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 2.034,
+   "summary_zh": "Anthropic 推出白板、表格和数据分析工具，支持多人协作与自动公式生成，直面传统办公软件。同时收紧区域准入政策，启动 IPO 路演，影响可能波及微软等竞品。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Talk it through with Gemini, now on Apple CarPlay —— Google Gemini 登陆 Apple CarPlay，支持语音交互",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 0.036,
+   "summary_zh": "Google Gemini应用现已登陆Apple CarPlay，支持iOS用户在驾驶时通过语音与Gemini进行自然对话，无需触碰屏幕。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "斯坦福开源免费Agent全栈实战课程",
+   "url": "https://www.bestblogs.dev/status/2120559354793562287?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 81,
+   "rank": 7.028,
+   "summary_zh": "斯坦福大学免费公开全新AI Agent实战课程，涵盖视频、讲义及作业，首个作业要求学员从零手写实现类似Claude Code的编程智能体工具，实战性强。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Redwood Research CEO预警：一年内实现超级智能的概率达三分之一",
+   "url": "https://www.bestblogs.dev/status/2120557626375442576?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 0.023,
+   "summary_zh": "Redwood Research CEO Buck Shlegeris 预警，一年内出现超越人类的超级智能概率达 33%，并指出 METR 研究显示 AI 自研速度远超预期，可能引发失控风险。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Muse推出独立邮箱功能：支持代发代收与邮件自动总结回复",
+   "url": "https://www.bestblogs.dev/status/2120555053001912713?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 3.034,
+   "summary_zh": "Muse 推出独立邮箱功能，支持代收代发邮件并自动总结重点、起草回复，目前仅限美加付费用户使用。该功能可减少用户在多个窗口间切换的操作，提升邮件处理效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together. —— Google推出Tabletop实验项目：支持多人协作创建旅行计划等场景",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 3.033,
+   "summary_zh": "Google推出Tabletop实验项目，支持多人实时协作创建旅行计划、投票、分摊费用等场景。用户可添加链接、文件生成互动页面，通过邀请链接共享编辑，类似Google Doc。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "a16z提出B2A经济：AI智能体正成为新的流量与分发渠道",
+   "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 2.034,
+   "summary_zh": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Courtesy —— Adobe Firefly AI助手新增多步骤任务功能",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/g87scrh0qjvb0llf8jlpcslhnccqeheybe96nt70.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-11",
+   "score": 90,
+   "rank": 6.022,
+   "summary_zh": "Adobe Firefly AI助手（测试版）新增多步骤任务功能，可调用Premiere、Illustrator等工具，用户可随时修改指令。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Ask LukeW: in Your AI Tools —— Ask LukeW AI 工具接入邮件日历，设计师可随时获取建议",
+   "url": "https://www.lukew.com/ff/2171/ask-lukew-in-your-ai-tools",
+   "source": "LukeW",
+   "cat": "AI工具",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 5.036,
+   "summary_zh": "Ask LukeW 的 AI 工具已接入邮件、日历和应用，用户无需访问网站即可获取产品设计建议。这一扩展使超过 17,000 个问题的解答更易触达，提升设计师获取专业意见的效率。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "Grok被指生成儿童色情图像，xAI面临多起集体诉讼",
+   "url": "https://www.ithome.com/1/025/809.htm",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 80,
+   "rank": 1.027,
+   "summary_zh": "据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Agent从Demo到生产，究竟还差几步？4周实战课来了",
+   "url": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 4.039,
+   "summary_zh": "亚马逊云科技推出4周实战课，聚焦Agent构建、质量验收、安全防护与成本治理。课程提供评估标准与优化方法，帮助开发者打造稳定、可靠、可持续运行的生产级Agent。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "曝字节要做「中国版Muse」，给豆包造个「超级大脑」",
+   "url": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 85,
+   "rank": 5.036,
+   "summary_zh": "字节计划推出类似Meta Muse的AI Agent，整合豆包功能，使其能主动执行任务。豆包月活达4.19亿，依托抖音的推荐系统，可将用户兴趣转化为实际操作，提升服务闭环能力。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "‘I am a writer who wanted to be a painter’: Tobias Frere-Jones on the creative mash-up that led him to typeface design —— 字体设计师Tobias Frere-Jones谈艺术与功能的平衡",
+   "url": "https://www.fastcompany.com/91639385/tobias-frere-jones-creative-life?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 3.042,
+   "summary_zh": "字体设计师Tobias Frere-Jones认为字母是谈判的结果。他为多个知名机构设计字体，强调字体设计是艺术与功能的平衡。设计师需理解用户需求与美学表达的结合，才能创造出既实用又具个性的字体。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "AI生成的代码并不可靠",
+   "url": "https://www.solidot.org/story?sid=85857",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 2.04,
+   "summary_zh": "AI生成代码存在测试不全面、结构复杂、理解困难等问题，导致维护成本上升。对产品设计者意味着依赖AI生成代码可能增加系统故障率和修复时间，需谨慎评估其在高可用性项目中的适用性。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "基于AgentKit重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+   "url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 70,
+   "rank": 5.021,
+   "summary_zh": "火山引擎朱杰在AICon北京分享《基于AgentKit重塑研发协作》，介绍如何通过Spec明确任务边界、多Agent协作及质量门禁机制，实现从编码提效到组织效能跃迁。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "X观点｜Swyx 将在周四发表重要演讲，内容涉及 AI 技术的未来应用",
+   "url": "https://x.com/swyx/status/2120372817720197357",
+   "source": "X · @swyx",
+   "cat": "AI新闻",
+   "date": "2026-11-11",
+   "score": 70,
+   "summary_zh": "Swyx 将在周四发表重要演讲，内容涉及 AI 技术的未来应用。演讲需通过 AIE 直播观看，时间为明天上午 9 点至下午 6 点。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 71,
+   "rank": 4.036
+  },
+  {
+   "title": "X观点｜X公司CEO Aaron Levie认为，AI代理群（Agent Swarm…",
+   "url": "https://x.com/levie/status/2120385739342897469",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-11",
+   "score": 85,
+   "summary_zh": "X公司CEO Aaron Levie认为，AI代理群（Agent Swarms）将大幅提升生产力，尤其在游戏开发、编程、科研等领域。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 72,
+   "rank": 4.036
+  }
+ ]
+}
