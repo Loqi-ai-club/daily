@@ -1,0 +1,288 @@
+{
+ "day": "2026-10-22",
+ "generated_at": "2026-10-22 07:16",
+ "scanned": 264,
+ "count": 20,
+ "items": [
+  {
+   "title": "Can you take AI at its word? —— 你能相信AI的话吗？",
+   "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 1.038,
+   "summary_zh": "AI代理能流畅解释自身工作，但可能错误。设计师早已不信任人类的类似解释。AI的自我说明可能不可靠，需谨慎对待。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Vibe Check: Duet—Anthropic's Always-on Agent —— 氛围检测：Duet—Anthropic的始终在线代理",
+   "url": "https://every.to/vibe-check/vibe-check-duet-anthropic-s-always-on-agent",
+   "source": "Every",
+   "cat": "AI工具",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 4.041,
+   "summary_zh": "Anthropic 推出 Duet，一个持续运行的代理工具，可帮助用户管理日常任务。对产品设计者而言，这提供了新的交互方式，可能影响未来 AI 工具的使用场景和用户体验设计。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
+   "url": "https://www.bestblogs.dev/article/824c26c39a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-21",
+   "score": 75,
+   "rank": 3.041,
+   "summary_zh": "用 iPhone Duo 远程控制 Mac Studio，通过适配 App 实现任务管理。Duo 的三种形态分别对应不同界面，提升交互效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "利用“人物居中”来始终将你置于相机取景框中间 - 官方 Apple 支持 (中国)",
+   "url": "https://www.bestblogs.dev/article/6c12be867b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 1.033,
+   "summary_zh": "Apple 推出“人物居中”功能，通过超广角摄像头和机器学习算法，自动跟踪并居中显示用户，适用于 iPhone 17 系列、iPad Pro 及 Mac。该功能提升视频通话和拍照体验，使用户始终处于画面中心。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Agent 带来的新攻击面：制造业不可忽视的端点风险 | TO Talk EP175",
+   "url": "https://www.bestblogs.dev/video/f9e3b9a328?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 4.036,
+   "summary_zh": "TeamT5 分析代理式 AI 在制造业的端点风险，指出权限过大可能导致数据删除等操作风险。建议盘点工具使用情况，控制权限范围，防范提示词注入和技能供应链攻击。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智能体手机加速爆发？换机困境、端侧 AI 与下一代入口之争",
+   "url": "https://www.bestblogs.dev/video/c8531b4dd6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 3.024,
+   "summary_zh": "智能体手机因换机周期延长、端侧算力提升和模型小型化加速发展，努比亚展示跨应用操作体验，高通解释芯片协同对多步骤任务的支持，当前系统级 Agent 体验优于第三方生态。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenAI 说 AI 研究实习生已经诞生。还能从它的笔记看出它在做什么吗？",
+   "url": "https://www.bestblogs.dev/video/e5e87b5a1e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 0.032,
+   "summary_zh": "OpenAI 研究实习生工时增长不等于研究产出增加，需人工介入。推理笔记用于监控，但可靠性下降。安全限制与监督能力需同步提升，强调标准化报告与算力管理。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The new, handmade Apple Music logo leans into the science of sound —— 新的、手工打造的 Apple Music 标志融入声音科学",
+   "url": "https://www.fastcompany.com/91627164/for-the-new-apple-music-logo-designers-lean-into-the-science-of-sound?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 5.027,
+   "summary_zh": "Apple Music 推出全新品牌，包含由声音设计的字标和视觉语言，与 TBWA\team、Fred again.. 等合作。新品牌将用于原创内容和活动，强调声音科学。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "多模态推理与 Agent 工程化：小模型与上下文工程引领 AI 落地",
+   "url": "https://www.bestblogs.dev/article/8bc4f36e7f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 75,
+   "rank": 3.032,
+   "summary_zh": "多模态模型推理能力提升，小模型成本降低，工程化能力成AI落地关键。MCP生态简化工具接入，Agent平台组件明确，制造业、医疗、教育案例验证落地价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 致谢",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/tbtrm9odtskfnzfsw44x6ah1mdd5p82sjj1h1v8l.html#p1",
+   "source": "AI Valley",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 7.026,
+   "summary_zh": "Atlassian报告显示，87%开发者用AI写代码更快，但仅28%觉得更省事。65%开发者需修正AI漏掉的意图，49%每周花4小时以上管理AI工具和审查代码。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+   "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-21",
+   "score": 80,
+   "rank": 5.029,
+   "summary_zh": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "记忆不是存历史，而是治理未来行动｜KDC 系列 04",
+   "url": "https://www.bestblogs.dev/article/94cd388edb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 1.032,
+   "summary_zh": "AI 记忆应治理未来行动，而非单纯存储历史。KDC 提出四类记忆对象，强调生命周期管理与反馈验证，确保系统修正偏差、保持一致性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "万字复盘 Codex：一个在模型公司如何做产品的「典型」故事",
+   "url": "https://www.bestblogs.dev/article/b9dda9ee70?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "Codex 从 ChatGPT 的编程标签页发展为独立桌面应用，最终成为 ChatGPT 的底层框架。OpenAI 通过内部赛马、跨学科协作和快速迭代，实现了 AI 编程领域的突破。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 7.029,
+   "summary_zh": "美团研发总监李凯在QCon上海分享企业级Agent平台化实践，介绍‘手脑分离’架构与Catpaw Studio，通过Skill、MCP、CLI等构建能力底座，结合AI SDLC与袋鼠管家案例，展示如何…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Your product is not the center of the universe —— 你的产品并不是宇宙的中心",
+   "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 75,
+   "rank": 5.034,
+   "summary_zh": "传统产品以自身为中心，要求用户围绕其使用。未来产品应以用户和其代理为中心，提供无缝体验。用户代理可跨工具获取数据和上下文，产品需开放能力、提供专业技能和独特资源，而非孤立运作。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Toolcraft",
+   "url": "https://toolcraft.sh/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 8.028,
+   "summary_zh": "Toolcraft 是一个开源工具包，提供 UI 组件和应用架构，支持 AI 生成设计工具。包含画布、时间轴、图层系统等，可与 Codex、Claude 等 AI 代理配合使用，提升设计效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "EditUI",
+   "url": "https://www.editui.app/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 7.035,
+   "summary_zh": "EditUI 允许用户在 Chrome 中点击运行中的应用界面，直接标注修改需求并发送给 Claude Code、Cursor 等编码代理。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "A simple guide to calm UI —— 一份关于冷静UI的简单指南",
+   "url": "https://maxschmitt.me/posts/calm",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "文章通过对比示例，提出简化UI的两个核心规则：避免连续加载状态和不使用Toast提示，改用直接反馈。例如添加或删除项目时，应保持加载状态在保存按钮上，或直接在列表中体现操作结果。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Design v ADHD —— 设计 v ADHD",
+   "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 70,
+   "rank": 2.035,
+   "summary_zh": "文章指出，当前所谓的‘ADHD友好设计’（如减少杂乱、避免干扰）并不真正满足ADHD用户需求。作者认为，真正有效的设计应更深入理解ADHD的认知模式，但实现难度大。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "X观点｜AI系统正向自主执行特定任务的方向发展，能更高效地使用工具和处理复杂数据",
+   "url": "https://x.com/levie/status/2112769686798832013",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-21",
+   "score": 90,
+   "summary_zh": "AI系统正向自主执行特定任务的方向发展，能更高效地使用工具和处理复杂数据。模型能力提升使它们在法律、生物研究等领域表现更佳，配合完善基础设施后，将广泛应用于企业流程中。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 89,
+   "rank": 4.036
+  }
+ ]
+}

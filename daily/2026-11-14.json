@@ -1,0 +1,318 @@
+{
+ "day": "2026-11-14",
+ "generated_at": "2026-11-14 07:18",
+ "scanned": 279,
+ "count": 22,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。与此同时，快手在电商场景中应用智能互动 Agent，解决动态知识库构建、用户模拟训练与成交归因等技术难题。两者共同指向一个趋势：AI Agent 正在从辅助角色转向主动参与用户任务流程，通过对话和行为闭环提升交互效率与完成度。\n李飞飞团队开放世界模型 Atlas，支持用图片或文字生成可交互的 3D 场景，甚至能一键生成重庆山城。Perplexity AI 团队则用 48 个沙盒并行渲染，3 小时内生成罗马万神殿的高精度 3D 模型。这两项技术展示了 AI 在复杂空间建模与并行处理上的新能力，为产品设计者提供了从概念草图到沉浸式体验的快速实现路径。",
+ "items": [
+  {
+   "title": "Long-Horizon Agent Failure Analysis: Why Tests Mislead and How to Fix Evaluation —— 长周期AI代理失败分析：简单测试误导，需改进评估方式",
+   "url": "https://www.bestblogs.dev/status/2121337555652346243?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 0.034,
+   "summary_zh": "长周期AI代理在复杂任务中常因过度依赖简单测试而失败，Mercor的OWE-Bench基准显示，多数代理在4-18小时项目中表现不佳，需改进评估方式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智能互动 Agent 在快手商业场景的落地实践",
+   "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 4.032,
+   "summary_zh": "快手在电商场景中应用智能互动 Agent，解决动态知识库构建、用户模拟训练与成交归因等技术难题。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Perplexity Agent Recreates Roman Pantheon in 3 Hours with 48 Sandboxes —— Perplexity Agent 3小时用48沙盒生成罗马万神殿3D模型",
+   "url": "https://www.bestblogs.dev/status/2121313395207294977?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 6.029,
+   "summary_zh": "Perplexity AI团队用48个沙盒并行渲染，3小时内生成罗马万神殿的高精度3D模型。展示了AI代理在多环境并行处理复杂任务的能力，对产品设计者意味着可利用类似技术提升大规模3D渲染效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "T3 Code 跨主机管理智能体，夯爆了？！｜T3 Code 能力解析和实战｜多主机任务编排与运行时资源调度｜手机看模拟器、审核 PR｜通过 ACP 接入 oh-my-pi",
+   "url": "https://www.bestblogs.dev/video/c2d8eb5b1c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 6.022,
+   "summary_zh": "T3 Code 将智能体任务分派到 MacBook 和树莓派，手机可查看模拟器并审阅代码变更。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "DeepSeek Harness（DSH）拆解：27 万星却写着不能上生产，做 AI Agent 最值得学的 5 条设计｜番外",
+   "url": "https://www.bestblogs.dev/video/7a315b81b0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 3.024,
+   "summary_zh": "DeepSeek Harness（DSH）通过容器演示插件启停、会话分叉和权限控制，强调日志追加、授权由宿主执行。框架仍处预览阶段，隔离和提示注入边界需进一步验证。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "【大師對談】李開復 x 簡立峰：面對 AI 浪潮，企業該如何佈局才不踩雷？《AI 未來已來》",
+   "url": "https://www.bestblogs.dev/video/37de0dce31?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 2.032,
+   "summary_zh": "李开复建议企业负责人亲自使用AI，通过重复项目提醒和季度财报检验效果；简立峰强调专业人员需将判断和流程带入AI代理，法律起草等执行可加快，但最终判断仍需人负责。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Journey Mapping 101 —— 用户旅程图入门：定义、组成与使用方法",
+   "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 8.031,
+   "summary_zh": "文章解释了用户旅程图的定义、关键组成部分及使用方法。用户旅程图通过可视化用户完成目标的过程，帮助设计者理解用户行为、情绪和需求。设计时应聚焦单一用户角色，明确场景与阶段，便于发现优化机会。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed —— Research-In-The-Loop：如何让 UXR 适应 AI 时代的开发速度",
+   "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "AI加速开发使产品迭代更快，传统用户研究方式难以跟上。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "ChatGPT Wallet launched with secure payment capabilities —— ChatGPT Wallet上线，支持Face ID和指纹验证支付",
+   "url": "https://www.bestblogs.dev/status/2121296090150707202?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 3.025,
+   "summary_zh": "ChatGPT Wallet上线，支持Face ID或指纹验证支付，使用一次性令牌替代真实卡号，提升安全性。代理无需接触实际卡信息，现有积分和争议保护功能保留。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "再转引 Lance Martin 在 AIE CODE 2026 的演讲内容",
+   "url": "https://www.bestblogs.dev/status/2121295486175138141?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 75,
+   "rank": 0.045,
+   "summary_zh": "Anthropic 的 Lance Martin 在 AIE CODE 2026 上展示：1000 个 Claude agent 用 28.7 小时完成费马大定理证明，以及 Claude 的记忆与‘做…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Meeting 误判客户为外部访客导致 AI 在关键会议中“划水”",
+   "url": "https://www.bestblogs.dev/status/2121290779427520520?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 2.043,
+   "summary_zh": "Claude Meeting 将客户误判为外部访客，导致 AI 在关键会议中不作为。AI 安全机制与实际业务场景脱节，使 AI 在用户需要时选择性沉默，影响功能价值和用户信任。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Connect Google Wallet to Gemini for personal finance insights —— Google Wallet 接入 Gemini，提供个性化财务洞察",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 4.04,
+   "summary_zh": "Google Wallet 现已接入 Gemini，用户可通过连接钱包获取个性化财务洞察，如查看消费趋势、发现遗忘订阅、制定节日预算等。Gemini 不会管理资金，仅读取数据，用户可随时关闭连接。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Sierra 发布 Personal Agent Protocol（Poppy）v1.0",
+   "url": "https://sierra.ai/blog/releasing-poppy",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 3.03,
+   "summary_zh": "Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买",
+   "url": "https://x.com/ChatGPT/status/2121283151729496235",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 3.038,
+   "summary_zh": "ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Courtesy —— AI Valley推出AI员工Viktor，集成9800+工具提升协作效率",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/1q6g4ehuuuhhx7ug59v28sfrfim1ickd8mvrpzlj.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 4.026,
+   "summary_zh": "AI Valley推出AI员工Viktor，已服务79,000+团队，集成9,800+工具，可自动生成报告、广告审核等任务。用户可直接请求仪表盘并获取实时链接，提升跨部门协作效率，减少信息断层。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Introducing ChatGPT Wallet —— OpenAI 推出 ChatGPT Wallet：代理支付无需真实卡信息",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 1.034,
+   "summary_zh": "OpenAI 推出 ChatGPT Wallet，允许代理在无需用户真实卡信息的情况下完成支付，需每次交易进行安全验证。用户可授权代理代购，保留原有卡权益。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "The crooked plate that felt more human than the algorithm —— 不完美盘子传递人性化触感，设计细节增强情感连接",
+   "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 7.027,
+   "summary_zh": "用户在选购餐具时，发现一款不完美的盘子，其边缘和杯柄的细微不规则设计，让使用者感受到真实的人性化触感。这提示产品设计师，刻意保留的不完美细节，能增强产品的温度与情感连接。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+   "url": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 7.023,
+   "summary_zh": "李飞飞团队开放世界模型 Atlas，支持用图片或文字生成可交互的 3D 场景，甚至能一键生成重庆山城。对产品设计者而言，这提供了从草图到完整 3D 世界的工具链，可直接用于游戏、影视等制作流程。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+   "url": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "英伟达博客发声：她不一样，她懂显卡 (bushi)，她懂端到端！",
+   "url": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 4.027,
+   "summary_zh": "英伟达发布Alpamayo 2 Edge自动驾驶模型，端到端闭环表现提升48.9%，结合因果推理与扩散动作。模型运行于DRIVE AGX Thor芯片，强调在车载算力限制下实现高效推理与自主驾驶决策。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "京博控股集团与千问办公达成战略合作，共创化工行业 AI Native 标杆",
+   "url": "https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 70,
+   "rank": 4.041,
+   "summary_zh": "京博控股与千问办公达成战略合作，将基于千问办公打造AI Native组织，重点在科研、生产、经营等场景推动化工行业智能化升级。京博将借助千问办公优化流程、提升效率，双方共同探索AI在化工领域的应用。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "谷歌的遗憾，被高德弥补了",
+   "url": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-13",
+   "score": 85,
+   "rank": 6.032,
+   "summary_zh": "高德发布全球首个‘飞行街景’，支持用户沉浸式俯瞰店铺及街区，精准识别门头并穿门入室。该功能免费向商家开放，标志着AI技术在空间智能领域的规模化落地成为竞争关键。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

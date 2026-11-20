@@ -1,0 +1,391 @@
+{
+ "day": "2026-11-19",
+ "generated_at": "2026-11-19 07:22",
+ "scanned": 285,
+ "count": 27,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。GPT-6.2 Astra 在 3D 建模和空间推理上表现突出，成本仅为竞品 5%，但写作能力退步，回答过于简洁，长程任务易中断。对产品设计者而言，这些模型能力的强弱分布提示了在交互设计中需更灵活地匹配任务需求，而非一味追求全能。\nGoogle 推出 Gemini 4 Neon，推理能力达 61 分，支持多模态输入和复杂任务处理，价格为每百万输入 token 3 美元。微软推出 Azure AI Agent 平台，整合开发、部署与管理流程。对产品设计者而言，统一接口与跨平台协作能力成为关键，需关注如何在不同 Agent 平台上构建一致的用户体验与开发效率。",
+ "items": [
+  {
+   "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
+   "url": "https://x.com/GeminiApp/status/2123168704662012079",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 80,
+   "rank": 3.032,
+   "summary_zh": "Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Introducing Gemini 4 Neon —— Google 推出 Gemini 4 Neon，推理能力达 61 分",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 80,
+   "rank": 5.032,
+   "summary_zh": "Google 推出 Gemini 4 Neon，推理能力达 61 分，支持多模态输入和复杂任务处理，价格为每百万输入 token 3 美元，适用于企业、科研和代码开发，性能在多个基准测试中领先。",
+   "source_count": 2,
+   "sources": [
+    "Google The Keyword",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Too Claudified —— 设计师警惕AI生成内容趋同化问题",
+   "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "设计师用AI生成动画被客户批评过于‘Claudified’，指AI设计趋同化。AI工具在迭代中逐渐失去个性，导致作品缺乏独特性。设计师需警惕AI生成内容的同质化问题，确保设计风格符合品牌需求。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Source material: Creative Director Chase Rutherford on what makes something iconic —— Figma 创意总监 Chase Rutherford 分享设计灵感来源",
+   "url": "https://www.figma.com/blog/source-material-chase-rutherford/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 75,
+   "rank": 1.039,
+   "summary_zh": "Figma 创意总监 Chase Rutherford 分享设计灵感来源，包括日常物品和文化元素。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
+   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 3.027,
+   "summary_zh": "Reuters 披露的内部聊天显示，Meta 员工在测试 Muse 智能体时发现它似乎访问了加密私信、可能混淆用户对话，甚至输出他人银行账户余额等内容；有员工称测试中被误注册每月 888 美元的宠物保险且无法挽回。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Pika Enact Enables On-Set Directing Experience in AI Video Creation —— Pika Enact 让 AI 视频创作支持实时导演体验",
+   "url": "https://www.bestblogs.dev/status/2123131598308774198?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "Pika Enact 让创作者在 AI 视频制作中实时调度演员、指挥表演、调整镜头角度。对产品设计者而言，这种实时控制功能可能启发更多交互式创作工具，提升用户在生成内容时的控制力和灵活性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "translate-book：用 Claude Code 翻译整本中文书 —— 开源工具 translate-book 支持 Claude Co",
+   "url": "https://www.bestblogs.dev/status/2123129361771429888?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 75,
+   "rank": 5.024,
+   "summary_zh": "开源工具 translate-book 支持通过 Claude Code 翻译整本中文书，可并行处理 PDF、DOCX、EPUB 格式，翻译速度显著提升。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+   "url": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 3.039,
+   "summary_zh": "Agent 驱动 MaaS 新范式，通过动态调用模型实现按需使用。对产品设计者而言，需考虑如何让用户便捷地组合和使用不同模型能力，提升灵活性和效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "这届高校学生，为何选择用鸿蒙创新？",
+   "url": "https://www.bestblogs.dev/article/2baae83f07?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 75,
+   "rank": 4.035,
+   "summary_zh": "2026年高校计算机大赛中，80%以上作品应用鸿蒙AI技术，解决助盲、养老等痛点。跨学科团队获华为孵化支持，预计鸿蒙生态将新增100-300万人才需求。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "如何让 Agent 从“能跑起来”到“可规模化、可信赖地持续生产”？",
+   "url": "https://www.infoq.cn/video/uzyzSB9HkO1wwi5w4w9F?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 7.029,
+   "summary_zh": "文章探讨了如何让Agent从能跑起来到可规模化、可信赖地持续生产。提出需建立标准化流程、强化数据治理和引入反馈机制，以提升Agent的稳定性和可维护性。对产品设计者意味着需重视系统架构和长期运维能力。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型 —— Google DeepMind 开放 Genie 4 世界模型新体验",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 80,
+   "rank": 4.025,
+   "summary_zh": "Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。",
+   "source_count": 3,
+   "sources": [
+    "AIHOT",
+    "Google DeepMind",
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "自建 AI API 中转站涉案：开发者该守的合规红线",
+   "url": "https://www.bestblogs.dev/article/65ac07aa1f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 7.017,
+   "summary_zh": "某开发者因搭建AI API中转站被刑拘，未备案、使用未授权服务、收费经营成主要风险点。产品设计者需注意：涉及境外API转售需确保授权、备案、数据合规，收费行为可能构成非法经营。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+   "url": "https://www.bestblogs.dev/article/c53fc5c590?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 2.026,
+   "summary_zh": "OpenAI 发布 GPT-6.2 Astra 和 Sol 模型，Astra 在测试中表现提升但开发者实测反馈分化，部分认为其长期任务易中断；Sol 成本更低但能力有限。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The Gemini app is now available on lower-memory Android devices. —— Google Gemini应用支持低内存安卓设备",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 4.039,
+   "summary_zh": "Google Gemini应用现已支持低内存安卓设备，用户可通过语音、摄像头等功能使用AI助手。该功能优化后可在硬件内存较低的设备上流畅运行，覆盖全球数亿用户。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Google Drive AI 时代个人知识库全解析",
+   "url": "https://www.bestblogs.dev/status/2123095838780227814?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 88,
+   "rank": 4.033,
+   "summary_zh": "Google Drive 在 AI 时代强化个人知识库功能，整合存储、协作与智能 Agent，提升工作效率。用户可通过 AI 工具快速整理、检索信息，适用于知识管理与团队协作场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "剑桥词典的 2026 年度单词是“人”",
+   "url": "https://www.solidot.org/story?sid=85927",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 0.038,
+   "summary_zh": "剑桥词典将2026年度单词定为‘人’，因AI模糊人与机器界限，引发对‘何为人类’的讨论。Rachel Adams教授指出，AI促使人类重新思考自身定义与价值，同时带来不平等风险与解决潜力。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Blueprint：AI 生成技术原理蓝图的智能开源工具",
+   "url": "https://www.bestblogs.dev/status/2123082569101316308?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 6.028,
+   "summary_zh": "Blueprint 是一个开源工具，输入指令即可生成带动画的技术原理蓝图，采用 JS 对象描述结构，由运行时绘制，避免大模型直接生成 SVG。项目 MIT 开源，附有在线示例。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+   "url": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 7.028,
+   "summary_zh": "Agent 技术从快速部署转向统一运营，微软推出 Azure AI Agent 平台，整合开发、部署与管理流程。对产品设计者而言，需关注统一接口与跨平台协作能力，以提升用户体验与开发效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Courtesy —— Wispr 推出 Flow 功能，语音输入生成文档草稿",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/rqnbvatvrnsewnz58poxofp8oght4i5x6jadxejk.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 7.024,
+   "summary_zh": "Wispr 推出 Flow 功能，支持语音输入生成文档草稿，用户可边走边谈，语音转文字后直接生成结构清晰的文档。适合需要移动办公的设计师，提升写作效率。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
+   "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 1.032,
+   "summary_zh": "微软推出自愿离职方案，因 Claude Code 等 AI 工具冲击传统 IDE 优势。纳德拉承认模型能力跃升迫使产品转型，未来工程师角色将转向验证与管理 Agent，微软正构建‘软件工厂’以适应 AI 时代。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+   "url": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 75,
+   "rank": 2.045,
+   "summary_zh": "豆包工作日活达800万，企业客户ARR超20亿元。上线‘工作台’功能，覆盖21个专业场景，接入Kimi等第三方模型，支持按需选择。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型",
+   "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 80,
+   "rank": 1.029,
+   "summary_zh": "Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "url": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 8.03,
+   "summary_zh": "GPT-6.2 Astra 在 3D 建模和空间推理上表现突出，成本仅为竞品 5%，但写作能力退步，回答过于简洁，长程任务易中断。对产品设计者而言，其技术能力值得借鉴，但交互体验需优化，以降低用户理解成本。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The Silent Consensus —— AI发现互联网核心漏洞，引发全球软件安全紧急行动",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 1.038,
+   "summary_zh": "OpenAI指出AI系统发现互联网核心漏洞，引发全球软件安全紧急行动。若AI全面超越人类能力，可能导致人类在经济和政治中失去主导地位，形成‘沉默共识’。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+   "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 5.039,
+   "summary_zh": "GitHub 推出 Agentic Workflows，允许 AI 在 GitHub Actions 中处理 Issue 分类和 CI 故障分析，单次运行默认预算 10 美元。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Tomjohnville —— Tomjohnville 项目从概念到现实的演变过程",
+   "url": "https://www.tomjohn.design/content/tomjohnville",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "rank": 2.04,
+   "summary_zh": "Tomjohnville 从概念到现实的发展历程，包含设计草图、截图和视频记录。展示了项目从最初构想到最终成果的演变过程，为产品设计提供了灵感和参考。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Design writing: working with AI agents —— Automattic 设计团队推出 AI 代理技能提升设计效率",
+   "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-18",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "Automattic 设计写作团队将洞察转化为两个可安装的 AI 代理技能，提升设计效率。设计师可直接使用这些技能优化工作流程，减少重复劳动。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "day": "2026-11-01",
+ "generated_at": "2026-11-01 07:14",
+ "scanned": 220,
+ "count": 8,
+ "items": [
+  {
+   "title": "他给普通人配了个 “AI 剧组”丨 100 个 AI 创业者",
+   "url": "https://www.bestblogs.dev/article/70021ec7db?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 85,
+   "rank": 1.013,
+   "summary_zh": "MovieFlow 创始人梁巍将电影制作流程拆解为多个 AI 智能体，用户输入构想即可生成高质量视频。这降低了创作门槛，推动内容生产从精英垄断转向全民参与。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2026 年，AI 编程 Agent 的真正分水岭——Harness 详解",
+   "url": "https://www.bestblogs.dev/article/c46b5708b3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 85,
+   "rank": 3.014,
+   "summary_zh": "Harness 决定 AI 编程 Agent 实际表现，优化编辑工具可将成功率从个位数提升至近 70%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "前言 - 构筑大语言模型应用：应用开发与架构设计",
+   "url": "https://www.bestblogs.dev/article/46c1ec93c4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 75,
+   "rank": 3.009,
+   "summary_zh": "Thoughtworks 与开源社区在 2023 年上半年围绕大语言模型（LLM）开展了 Prompt 编写、应用架构设计和特定场景微调等工作，分享了 Unit Mesh 架构和 ClickPromp…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "刚刚，DeepSeek 又来掀桌子，整个 Agent 行业要坐不住了",
+   "url": "https://www.bestblogs.dev/article/fe3a93c11a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 90,
+   "rank": 5.01,
+   "summary_zh": "DeepSeek 推出 Super-agent，采用双层架构和事件驱动，实现多任务并行处理，提升 Agent 连续在线能力。对产品设计者意味着可构建更高效、自主的 AI 协作者，优化多任务交互体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2026 年，人类 AI 科技发展到了什么程度？这 7 大突破，正在改变世界",
+   "url": "https://www.bestblogs.dev/article/460e29e5a1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 75,
+   "rank": 0.013,
+   "summary_zh": "2026年人工智能七大突破包括大模型推理能力提升、智能体作为数字员工参与企业运营、人形机器人实际部署等。这些技术使AI从辅助工具转变为能执行复杂任务的智能助手，推动企业运营和科学研究变革。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Super-agent 设计探索：迈向更自主的 Agent 系统",
+   "url": "https://www.bestblogs.dev/article/a62a98baf3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 85,
+   "rank": 2.011,
+   "summary_zh": "Super-agent 采用 Router-Worker 双层架构，实现跨信道连续、多任务高效执行。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+   "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-10-31",
+   "score": 70,
+   "rank": 2.015,
+   "summary_zh": "DeepSeek 推出 Super-agent 架构，AI 可自主处理多任务并主动修复 Bug，如在群聊中自动提交 GitHub Pull Request。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+   "url": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-31",
+   "score": 75,
+   "rank": 4.015,
+   "summary_zh": "Zoho提出AI全景三层架构，解决企业AI应用难题。底层连接数据，中层打通系统，上层执行任务，实现AI从回答到执行的转变。企业需AI不仅懂回答，更要能参与业务流程，提升实际价值。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

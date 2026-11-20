@@ -1,0 +1,205 @@
+{
+ "day": "2026-11-08",
+ "generated_at": "2026-11-08 07:15",
+ "scanned": 215,
+ "count": 14,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。这一变化不仅体现了 AI 在教育场景中的深度应用，也呼应了 X 平台推出的生成式 UI 技术，后者通过 AI SDK 与 JSON-render 工具直接生成 Slack、Teams 等平台的 UI 界面，提升了人机交互的效率。两者都指向一个趋势：AI 不再只是辅助工具，而是逐步成为设计流程和用户交互的核心驱动。\n光湖第五代语言人格系统提出人格与记忆需同步成长，通过 TCS 存在、HLDP 记忆等机制实现 AI 身份延续，而 EverMind 推出的 EverOS 记忆操作系统和 EverMe 个人记忆中心，则从技术层面解决了 AI 记忆缺失问题。这两项进展共同说明，AI 人格与记忆的结合正在从概念走向实用，产品设计者需要开始思考如何在长期协作中构建 AI 的身份、关系与责任。",
+ "items": [
+  {
+   "title": "EverMind | 为 AI 智能体提供无限记忆与长期一致性",
+   "url": "https://www.bestblogs.dev/article/35a8e24436?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 2.019,
+   "summary_zh": "EverMind 推出 EverOS 记忆操作系统和 EverMe 个人记忆中心，解决 AI 记忆缺失问题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Otherwise you’re just a machine —— AI时代设计师需强化创意与策略能力",
+   "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 3.018,
+   "summary_zh": "AI设计能力提升，优秀设计师需强化创意与策略能力。文章指出，AI使设计差异更难辨识，但设计师应更注重想法转化与解决方案的深度。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "人工智能是让我们变得更聪明还是仅仅让我们显得聪明？",
+   "url": "https://www.bestblogs.dev/article/86beae36fe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 75,
+   "rank": 1.02,
+   "summary_zh": "AI生成内容可能让学生显得聪明却未真正学习，需合理设计与教师引导才能提升学习效果。研究显示，设计良好的AI配合训练有素的教师，可使学生学习效率提升数倍。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2025 年 UI 设计师必看的 15 个网站_摹客设计云-站酷 ZCOOL",
+   "url": "https://www.bestblogs.dev/article/fcca58bb2c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 5.014,
+   "summary_zh": "文章推荐了15个UI设计网站，涵盖灵感、工具和素材，如Dribbble、摹客资源社区等。设计师可通过这些平台获取全球设计趋势、案例和资源，提升设计能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Day 11｜智能体的“人格与风格系统” - 知乎",
+   "url": "https://www.bestblogs.dev/article/be9c3c656d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 6.02,
+   "summary_zh": "文章提出三层Persona架构（角色基线、人格系统、风格系统），用于构建稳定AI人格系统，并提供可复用模板和验证方法。对产品设计者而言，明确人格系统能提升AI输出一致性与可控性，减少风格漂移，增强用户体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 的人格与记忆为什么不能分开？——光湖第五代语言人格系统-腾讯云开发者社区-腾讯云",
+   "url": "https://www.bestblogs.dev/article/a60df78207?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 4.014,
+   "summary_zh": "光湖第五代语言人格系统提出人格与记忆需同步成长，通过TCS存在、HLDP记忆等机制实现AI身份延续。对产品设计者而言，需考虑AI长期协作中身份、关系与责任的持续性构建。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "读懂 AI Agent：基于大模型的智能体（类 openclawd 的框架通解） - 知乎",
+   "url": "https://www.bestblogs.dev/article/c8b2d7bcf1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 85,
+   "rank": 4.017,
+   "summary_zh": "文章系统梳理了AI Agent的构建框架，包括大脑、感知、行动模块，指出LLM作为核心大脑提供推理、记忆能力，适用于软件开发、科研等场景，但面临幻觉、上下文限制等挑战。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude 暂停新用户注册公告",
+   "url": "https://www.bestblogs.dev/status/2119113271487922530?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-07",
+   "score": 70,
+   "rank": 0.02,
+   "summary_zh": "Claude 暂停新用户注册，官方称正在扩容和安全审核，预计尽快恢复。对产品设计者而言，说明平台在优化服务容量和用户体验，可能影响竞品策略和用户增长预期。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Agent Security Best Practices: Logging， Permissions， and Verification —— AI代理安全实践：日志检查、权限限制与数据备份",
+   "url": "https://www.bestblogs.dev/status/2119093510414737439?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 70,
+   "rank": 5.019,
+   "summary_zh": "文章提出六项AI代理安全实践：检查日志和截图、限制权限、验证文件和插件、备份数据等，防止数据泄露和未授权操作。对产品设计者意味着需在开发中嵌入安全机制，如权限控制和日志审计，保障用户数据安全。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "读《解密 Instagram》：从产品设计看人性与生活本质",
+   "url": "https://www.bestblogs.dev/status/2119084245893472656?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 75,
+   "rank": 1.017,
+   "summary_zh": "Instagram 以「为美而生」为核心，通过滤镜引导用户表达自我，形成增长闭环。但过度强调视觉美学，使普通用户陷入比较与自卑，影响真实生活体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "广电总局整治 AI 低俗微短剧",
+   "url": "https://www.solidot.org/story?sid=85821",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-07",
+   "score": 80,
+   "rank": 4.018,
+   "summary_zh": "广电总局开展两个月专项治理，重点整治AI微短剧中的低俗、同质化内容，包括儿童不良、软色情、盗脸等问题。对产品设计者而言，需关注内容合规性，避免使用未备案素材，优化算法推荐多样性。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+   "url": "https://www.ithome.com/1/023/765.htm",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-07",
+   "score": 70,
+   "rank": 1.02,
+   "summary_zh": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "X观点｜X平台推出生成式UI技术，结合AI SDK与JSON-render工具，实现…",
+   "url": "https://x.com/rauchg/status/2118856239719608353",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 90,
+   "summary_zh": "X平台推出生成式UI技术，结合AI SDK与JSON-render工具，实现从LLM直接生成Slack、Teams等平台的UI界面。该技术将改变人机交互方式，提升对话代理的开发效率与用户体验。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1147,
+   "rank": 4.014
+  },
+  {
+   "title": "X观点｜X平台开发者Garry Tan提出，通过评估驱动开发循环提升AI代理技能",
+   "url": "https://x.com/garrytan/status/2118920030243139596",
+   "source": "X · @garrytan",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-07",
+   "score": 85,
+   "summary_zh": "X平台开发者Garry Tan提出，通过评估驱动开发循环提升AI代理技能。他移除了/investigate技能，因新模型Opus 5.5已能更好完成该任务。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 217,
+   "rank": 4.014
+  }
+ ]
+}

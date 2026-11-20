@@ -1,0 +1,360 @@
+{
+ "day": "2026-11-20",
+ "generated_at": "2026-11-20 07:22",
+ "scanned": 291,
+ "count": 25,
+ "digest": "设计师正在用AI编码代理开发专用设计工具，如「设计游乐场」，允许实时调整变量并查看界面效果，提升设计效率。与此同时，Flowith 3.0 推出无线画板，支持多模型编排进行图像、视频生成和编程，交互从对话框转向画板，强调人机协作。这两项工具都指向一个趋势：设计工具正从单一功能的辅助转向多功能的智能创作平台，设计师可以更灵活地测试原型并快速迭代。\nGemini 系列持续推出新功能，包括 Mac 版应用新增跨应用任务执行能力，以及可迁移其他 AI 应用历史记录的功能，帮助用户保留对话历史和偏好。与此同时，Google 推出 Genie 4，通过 Gemini API 开放生成动态世界，支持 720p 24fps 的实时交互控制。这些进展表明，AI 模型正在从执行任务转向自主设计解决方案，尤其在内容生成和交互体验上，开发者和设计师能借助更智能的工具实现复杂场景的构建。",
+ "items": [
+  {
+   "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+   "url": "https://x.com/joshwoodward/status/2123534862569324703",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 4.041,
+   "summary_zh": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+   "url": "https://x.com/arena/status/2123528811572846972",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 2.038,
+   "summary_zh": "Arena 分享 Gemini 4 Neon 发布后的第一手实测视频，Peter Gostev 在 3D 场景、游戏、UI 和数据可视化等任务中将其与 Opus、Fable、Astra、Sol 对比，并评估其接近前沿的程度。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "ICYMI: Transfer your history from other AI apps into Gemini. —— Google Gemini 新增功能：可迁移其他 AI 应用历史记录",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "Google推出Gemini功能，允许用户从其他AI应用迁移历史记录。用户可通过复制粘贴指令生成偏好摘要，并上传聊天记录ZIP文件，实现无缝过渡。此功能帮助用户保留对话历史和偏好，减少重新设置时间。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "程序员不死，只是凋零：论编程本质的演进与 AI 时代的生存",
+   "url": "https://www.bestblogs.dev/status/2123490519930024397?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 2.035,
+   "summary_zh": "编程本质是将模糊意图转化为精确逻辑，AI 降低代码门槛，但提升需求定义与结果验证要求。程序员需强化问题拆解与决策能力，而非单纯写代码。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 重构规则下的【个人成长指南】 - 知乎",
+   "url": "https://www.bestblogs.dev/article/ce193f69d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 0.033,
+   "summary_zh": "AI 时代流量逻辑从搜索转向答案推荐，用户直接获取生成内容。个人需深耕专业价值，构建「AI+X」优势，提升不可替代性。内容需结构化、深度化，建立权威系统。案例显示，通过精准定位与深度互动，可实现收入增长。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "使用 Gemini Neon 开发视频高光剪辑功能",
+   "url": "https://www.bestblogs.dev/status/2123483659592405036?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 7.022,
+   "summary_zh": "作者尝试用 Gemini Neon 为 Subcast 开发视频高光剪辑功能，但发现剪辑速度慢、封面设计差，转用 Opus 5.5 优化，计划次日发布。对产品设计者而言，AI 工具性能直接影响功能落地效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Flowith 3.0 无线画板发布",
+   "url": "https://www.bestblogs.dev/status/2123466840345321593?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "Flowith 3.0 推出无线画板，支持多模型编排进行图像、视频生成和编程，集成 Claude Code 等工具。交互从对话框转向画板，强调人机协作，推出 Black Pass 订阅计划。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Genie 4 is now available on the Gemini API. —— Google 推出 Genie 4，Gemini API 开放生成动态世界",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 3.028,
+   "summary_zh": "Google 推出 Genie 4，通过 Gemini API 开放给开发者，支持生成 720p 24fps 的动态世界，同步音频与实时交互控制。",
+   "source_count": 2,
+   "sources": [
+    "Google The Keyword",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Small businesses, big results: How teams scale with AI —— 四家小企业用Google Workspace的Gemini AI提升效率",
+   "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 1.043,
+   "summary_zh": "四家小企业用Google Workspace的Gemini AI提升效率：Bay Area Kids Rentals通过Gmail每日任务简报提高转化率，Anderson Foundries用Gemi…",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "AI 时代如何做产品｜Manus 张涛逐字稿",
+   "url": "https://www.bestblogs.dev/article/c9a26ed4d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 90,
+   "rank": 8.023,
+   "summary_zh": "Manus 联合创始人张涛分享 AI 时代产品设计哲学，强调应面向未来模型能力设计，降低输入门槛，采用「少预设结构，多模型智能」架构。主张 AI 产品应从 Chatbot 转向自主行动，提升用户信任与产品价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+   "url": "https://x.com/AravSrinivas/status/2123451045657690627",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "Perplexity CEO Aravind Srinivas 分享 Computer 中 Brain 智能体的自我改进技能研究：Brain 会读取历史会话轨迹（工具调用、推理、结果），识别重复模式，仅在证据足够时提议新技能或更新。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班",
+   "url": "https://www.infoq.cn/video/Cfrl4QYhD3dHMuhGt6hw?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 4.027,
+   "summary_zh": "InfoQ 小编探访 Agent 开发团队，发现其从人人可用的工具演进为全栈工程解决方案，支持多模态交互和复杂任务处理，提升开发效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Neon 生成的像素风视觉分析",
+   "url": "https://www.bestblogs.dev/status/2123449366203736548?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 87,
+   "rank": 2.034,
+   "summary_zh": "Neon 生成的像素风图比传统线图更清晰呈现数据趋势，尤其在识别振荡模式上表现突出。对设计师而言，AI 可以将复杂数据转化为更具艺术感且信息传达更有效的可视化形式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Design by Playground —— 设计师用AI编码代理开发专用设计工具“设计游乐场”",
+   "url": "https://www.lukew.com/ff/2172/design-by-playground",
+   "source": "LukeW",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 8.025,
+   "summary_zh": "设计师开始用AI编码代理开发专用设计工具，称为“设计游乐场”。这种工具允许实时调整变量并查看界面效果，提升设计效率。对产品设计者而言，这意味着更灵活的原型测试和快速迭代，尤其适合需要频繁调整的项目。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
+   "url": "https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 4.035,
+   "summary_zh": "《街道办 AI 智能化白皮书》梳理了 12 类高频任务及 3 个实践案例，如用 AI 整理现场照片生成台账、分析热线工单发现共性问题、按模板整理材料格式。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Send the Firefighters to the Fires —— 让消防员扑灭火灾：界面设计应优先解决用户核心问题",
+   "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 6.033,
+   "summary_zh": "企业软件常忽视用户优先处理问题的需求，应优先展示需解决的问题。此做法源自1903年泰勒理论及90年代Xerox PARC设计，但至今未被广泛采用。对产品设计者意味着：界面应直面用户核心任务，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Agentic shopping is creating a crisis for marketers. Here’s how to fix it —— AI代理购物引发营销危机，传统方法失效",
+   "url": "https://www.fastcompany.com/91639374/your-next-customer-is-an-ai-agent-your-marketing-cannot-reach-it_ai-agents-marketing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "AI代理购物引发营销危机，传统用户洞察方法失效。AI代理行为与真实用户不同，导致营销策略失准。需重新定义用户画像，开发识别AI代理的技术，调整广告投放逻辑，提升真实用户转化率。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+   "url": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 3.026,
+   "summary_zh": "微软工程师王芷在AICon北京分享Agent的观测、评估与优化方法，强调通过Trace定位问题、构建量化评估体系，并从Prompt、Model等多维度持续优化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后",
+   "url": "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 6.021,
+   "summary_zh": "谷歌发布 Gemini Decision 1，支持多模态输入和并行处理最多 1000 项独立判断，7 项基准测试中胜出 5 项。对产品设计者而言，这类模型可提升 Agent 决策效率，减少调用次数，降低延迟。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
+   "url": "https://www.solidot.org/story?sid=85931",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 3.037,
+   "summary_zh": "微软 PyPI 上的 agent-framework 软件包被黑客劫持，安装后会窃取 Azure、Git 等服务的敏感信息。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」",
+   "url": "https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 70,
+   "rank": 2.037,
+   "summary_zh": "GPT-6 Astra在RoboDojo-Sim榜单上42项任务成功率第一，引发世界模型是否必要讨论。西湖大学成立世界模型研究中心，于开丞认为语言模型无法替代世界模型，物理世界需更精准的模型支撑。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+   "url": "https://www.qbitai.com/2026/11/511179.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-11-19",
+   "score": 85,
+   "rank": 5.039,
+   "summary_zh": "商汤SenseNova U1 Pro在Design Arena图片生成与编辑榜单登顶中国第一、全球第六。该模型支持复杂视觉任务全流程创作，兼顾高效果与低成本，适合需要规模化视觉内容生产的设计师。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "X观点｜Vercel Board 是一个支持多模型、无需特定平台的代理消息板系统，类…",
+   "url": "https://x.com/rauchg/status/2123237505810178434",
+   "source": "X · @rauchg",
+   "cat": "AI工具",
+   "date": "2026-11-19",
+   "score": 85,
+   "summary_zh": "Vercel Board 是一个支持多模型、无需特定平台的代理消息板系统，类似无头 Slack。它允许代理在去中心化环境中协作，适用于软件工厂、自优化系统和科研。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 844,
+   "rank": 4.027
+  },
+  {
+   "title": "X观点｜每两天就有新推理云公司找上门，但难以持续",
+   "url": "https://x.com/rauchg/status/2123203741570740504",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-18",
+   "score": 70,
+   "summary_zh": "每两天就有新推理云公司找上门，但难以持续。Vercel 的 AI Gateway 令牌需求每月增长 40%。计算力成为新经济核心，令牌类似能源单位。短期扩张后将面临整合，因规模经济、安全、法规等因素影响。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1007,
+   "rank": 4.027
+  },
+  {
+   "title": "X观点｜AI代理正从执行任务转向自主设计解决方案，能持续优化成果",
+   "url": "https://x.com/levie/status/2123278949749059756",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-19",
+   "score": 90,
+   "summary_zh": "AI代理正从执行任务转向自主设计解决方案，能持续优化成果。工程领域率先应用，未来将扩展至知识工作，如提升客户流程、降低风险等，实现人类难以完成的高效产出。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 90,
+   "rank": 4.027
+  }
+ ]
+}

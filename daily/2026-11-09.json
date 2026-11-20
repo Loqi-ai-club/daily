@@ -1,0 +1,135 @@
+{
+ "day": "2026-11-09",
+ "generated_at": "2026-11-09 07:11",
+ "scanned": 178,
+ "count": 9,
+ "digest": "设计师开发的测试工具 Site Seeing 与设计系统 AI 就绪的讨论共同指向了设计与 AI 更深度融合的趋势。Site Seeing 通过模拟真实用户场景，帮助团队提前发现体验问题，而设计系统 AI 就绪则强调结构化数据和机器可读文档，让 AI 能更高效地参与设计流程。两者都试图让 AI 从辅助工具变成设计链中的主动参与者。\nAI 生成视频的优化实践与 Agent 应用的扩展反映了企业在 AI 应用落地中的现实挑战。腾讯云通过白模前置和局部修复技术，将视频生成效率提升 30%，而阿里云 CIO 蒋林泉则指出，尽管 AI 生码率上升，但组织内部的 AI 原生转型仍未完成，端到端交付速度没有显著提升。这说明 AI 落地不仅依赖技术优化，更需要流程与协作方式的同步调整。",
+ "items": [
+  {
+   "title": "Otherwise you’re just a machine —— AI 提升效率，优秀设计师仍需深度思考与判断",
+   "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 1.026,
+   "summary_zh": "AI让设计效率提升，但真正优秀设计师仍需深度思考与判断。文章以马拉松选手为例，强调工具无法替代人的耐力与决策力。设计师应提升专业素养与实践能力，将知识转化为高质量作品。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "What does design system AI readiness mean, anyway? —— 设计系统AI就绪：如何让AI有效使用设计系统",
+   "url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 5.012,
+   "summary_zh": "设计系统AI就绪意味着系统能被AI有效使用。目前多数团队通过机器可读文档、结构化设计数据等方法提升AI兼容性，但AI就绪标准仍不明确。设计系统应被视为AI的一部分，而非仅作为基础设施。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Site Seeing —— Site Seeing：测试网页在不同使用场景下的表现",
+   "url": "https://ishadeed.com/article/beyond-the-viewport/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 6.016,
+   "summary_zh": "设计师开发了一个名为Site Seeing的工具，用于测试网页在不同使用场景下的表现，如打开开发者工具、垂直标签页等。该工具帮助设计师、产品经理和开发者更全面地考虑真实用户在不同情境下的使用体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Agent应用日益广泛，企业为何仍未实现AI原生？",
+   "url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 5.012,
+   "summary_zh": "阿里云CIO蒋林泉指出，AI生码率提升但端到端交付未加快，AI工具使用不等于组织AI Native。他提出通过测试与观测左移、用Live Demo确认需求，减少返工与误解。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "中国 AI 与生成式 AI 战略、技术和解决方案（中文版）",
+   "url": "https://www.bestblogs.dev/en/article/d75a516587?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-08",
+   "score": 70,
+   "rank": 3.016,
+   "summary_zh": "IDC 报告分析中国 AI 与生成式 AI 市场，涵盖五大技术层面及用户采购行为，涉及阿里、华为等企业。报告提供定量数据与定性洞察，帮助识别增长领域与技术趋势，对产品设计者理解市场布局与用户需求有参考价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "伊利亚·苏茨克维大胆预测：AI将学习人类一切能力",
+   "url": "https://www.bestblogs.dev/en/status/2119559543227080837?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-08",
+   "score": 85,
+   "rank": 0.026,
+   "summary_zh": "OpenAI 联合创始人 Ilya Sutskever 在多伦多大学演讲中预测，AI 将最终掌握人类所有学习能力，从神经网络到超级智能。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "萨蒂亚·纳德拉展示AI智能体蓝图：2000万智能体共筑劳动力",
+   "url": "https://www.bestblogs.dev/en/status/2119558641145819206?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-08",
+   "score": 70,
+   "rank": 2.016,
+   "summary_zh": "微软计划部署2000万个自主AI智能体，用于自动完成工作任务。目前已开发管理100个并发智能体会话的应用，75%的token消耗在重复阅读旧对话。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+   "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-08",
+   "score": 70,
+   "rank": 5.012,
+   "summary_zh": "AI生成视频常需多次尝试才能符合要求，导致成本增加。腾讯云WAND通过优化模型、白模前置和局部修复技术，将短剧制作成本降低30%，提升效率30%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "What You May Have Missed at Thesis: 2027 —— Every 举办 Thesis:2027 会议，探讨自动化后的人类工作形态",
+   "url": "https://every.to/context-window/what-you-may-have-missed-at-thesis-2027",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-11-08",
+   "score": 70,
+   "rank": 0.026,
+   "summary_zh": "Every 举办 Thesis: 2027 会议，探讨自动化后的人类工作形态，400 人线下参与，数千人在线观看。会议内容已上线 Every TV 和 YouTube，供付费用户观看。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  }
+ ]
+}

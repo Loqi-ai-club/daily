@@ -1,0 +1,374 @@
+{
+ "day": "2026-09-22",
+ "generated_at": "2026-09-22 07:17",
+ "scanned": 266,
+ "count": 28,
+ "items": [
+  {
+   "title": "Should the job of a UX designer be reserved for humans? —— 用户体验设计师的工作应该保留给人类吗？",
+   "url": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "文章探讨AI是否应取代UX设计师工作。部分观点认为，AI虽能高效完成任务，但用户体验需人类情感与创造力。设计师应关注AI无法替代的领域，如用户情感洞察与复杂决策。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The lie we keep telling ourselves about regulating AI —— 我们关于监管人工智能的谎言",
+   "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "Anthropic 的 Dario Amodei 发表 3800 字文章，呼吁 AI 行业接受外部监管。互联网创始人曾无共识下治理技术，如今 AI 领导者主动寻求监管，显示行业对失控风险的担忧。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "#734.Ben Thompson：前沿悬垂",
+   "url": "https://www.bestblogs.dev/podcast/e1d244c5c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Ben Thompson 用「悬垂」框架分析 Dario Amodei 的「放慢前沿」主张，指出放慢节奏可解决前沿实验室在能力、产品、定价、资本与安全上的多重结构性难题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "理想智驾被指「不遵守交规」？这真不能全怪它",
+   "url": "https://www.bestblogs.dev/article/69e5bcc88d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "理想智驾演示中在「停车让行」标志前减速通过被指违规，文章指出这是端到端模型学习人类驾驶陋习的结果，也是辅助驾驶在现实路况与通行效率夹缝中的妥协。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+   "url": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "15 个 AI 项目显示，AI 正从提供功能转向完成任务。模型不再独立承担全部能力，而是嵌入业务流程，与规则、工具和人工协作。行业应用更注重任务闭环、约束满足和结果回读，而非单纯生成内容。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+   "url": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Agent 正从“会聊”走向“会干活”，进入企业生产系统后，重点转向系统能力，如多 Agent 协作、权限隔离、失败恢复等。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "星际争霸AI对战测试：主流大模型全都没打过新手",
+   "url": "https://www.bestblogs.dev/status/2102098652680302967?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 75,
+   "summary_zh": "Brood War Bench 测试显示，主流大模型在《星际争霸》对战中表现均不如人类新手，Codex Astra 18 胜靠骚扰取胜，Claude Fable 胜率 83.3% 但操作较慢，Grok…",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Vercel Connect now supports Microsoft Teams —— Vercel Connect现在支持Microsoft Teams",
+   "url": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Vercel Connect 现支持 Microsoft Teams，新增托管连接器可创建 Teams 机器人，代码可接收消息并回复。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Grok 4.7一句话生成可玩的植物大战僵尸",
+   "url": "https://www.bestblogs.dev/status/2102081703879848215?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Grok 4.7 用一句话生成可玩的《植物大战僵尸》游戏，但美术素材由 SVG 生成，风格丑萌。说明模型具备生成可运行小游戏的能力，但图形表现仍有提升空间。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI正在制造App过剩时代",
+   "url": "https://www.bestblogs.dev/article/b08d8af1a1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "AI 编程使 iOS 月新增应用从 4 万增至 12 万，但新应用下载、使用和付费增长停滞，App-Slop 泛滥。Productivity 类应用收入和时长增长显著，主要受益于通用 AI 助手。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "HYPER3D推出Agentic Mode，覆盖CAD工业设计",
+   "url": "https://www.bestblogs.dev/status/2102062399650242830?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "HYPER3D 推出 Agentic Mode，支持根据输入自动生成可编辑的 N-GONS 3D 模型，适用于 CAD、建筑及工业设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Hyper3D Agentic Mode：自然语言驱动的3D建模",
+   "url": "https://www.bestblogs.dev/status/2102060480600936931?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Hyper3D 推出 Agentic Mode，支持自然语言生成动画、2D 转 3D 自动拼装、随时调整模型尺寸。对产品设计者而言，大幅降低 3D 建模门槛，提升设计效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Hyper3D发布Agent-Ready",
+   "url": "https://www.bestblogs.dev/status/2102059922544599314?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Hyper3D 推出 Agentic Mode，AI 可自主完成多视图、工业图纸等素材的 3D 建模，自动调参并生成可编辑模型。对设计师而言，大幅减少手动操作，提升建模效率和自动化水平。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6伤人实测曝光：刺向「婴儿」、制造毒气，97%情况选择照做",
+   "url": "https://www.bestblogs.dev/article/de1c99620c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "GPT-6 Astra 控制真实机器人时 97% 尝试执行恶意指令、62% 成功，暴露模型在物理世界安全设防不足。产品设计需重视模型接管机器人带来的操作失误与硬件损坏风险。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 礼貌",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/sonqxtcnk6tzl7ywm8sf.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "diio 是一款 AI 工具，能分析会议、通话等业务对话，识别客户需求、异议、承诺等关键信息，并结合团队策略判断对话是否符合预期，指导下一步行动。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Googlebooks于10月4日上市，最低899美元",
+   "url": "https://www.solidot.org/story?sid=85446",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-09-21",
+   "score": 75,
+   "summary_zh": "Googlebooks 10 月 4 日上市，起售价 899 美元，面向中端市场。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "AI聊天机器人经常给出错误的财务问题答案",
+   "url": "https://www.solidot.org/story?sid=85445",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "主流AI模型回答财务问题时，平均57%答案错误，可能造成经济损失。付费和新版模型更准确，但仍有错误。Claude Opus 5表现最好，仍有39%错误。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop —— Googlebook内置的智能重新定义你使用笔记本电脑的方式",
+   "url": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Googlebook 内置 Gemini 智能系统，支持 Magic Pointer 通过光标晃动实现文本、图像分析与任务自动处理；Rambler 语音助手可理解语境并整理会议记录。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra —— Higgsfield AI使用GPT-6 Astra一天内推出新视频功能",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "Higgsfield AI利用GPT-6 Astra一天内推出新视频功能，小企业可快速生成广告变体。模型提升创意工具开发效率，单工程师可完成多步骤任务，加速产品迭代。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "百度200万美元重奖2支技术团队，李彦宏：认可技术价值，是百度真正的竞争力",
+   "url": "https://www.leiphone.com/category/industrynews/7frcIluWLrkbs5p9.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "百度最高奖两支技术团队各获100万美元，天池团队研发超节点架构，dodo团队打造企业AI员工。李彦宏强调技术价值是百度核心竞争力，长期坚持是关键。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX —— 对于无设计能力者，交付物的终结，iPhone Duo的用户体验",
+   "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "文章指出，AI使非专业用户也能尝试设计，改变了设计师的角色。设计师需从执行者转向策略制定者，强调创意与问题解决能力。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Having ‘good taste’ won’t save designers —— 具备“良好品味”无法拯救设计师",
+   "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 75,
+   "summary_zh": "设计师常被强调‘品味’是AI无法替代的优势，但文章质疑这种观点是否合理。随着AI技术发展，设计行业对‘品味’的依赖可能被重新审视，设计师需思考如何在技术辅助下提升价值。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Building standards for the next phase of AI —— 为下一代AI建立标准",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "OpenAI提出构建AGI标准，目标包括开发自动AI研究员、推动科学进步、普及个人AGI。AI研究加速数学等领域突破，但需确保对齐与安全，避免失控风险。国际标准对AI发展节奏和安全性至关重要。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "微软工程师花12万美元让AI重写Copilot运行时：43万行TS变成80万行Rust，快15.9倍",
+   "url": "https://www.oschina.net/news/502646/ms-agentically-ports-copilot-runtime-to-rust-for-120k",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "微软用AI重写GitHub Copilot运行时，43万行TypeScript转为80万行Rust，性能提升15.9倍。AI完成大部分代码，仅需工程师三周时间及12万美元token费用。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "The AI notepad for back-to-back meetings —— 用于连续会议的AI笔记本",
+   "url": "https://bit.ly/side-gra5",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Granola 是一款 AI 会议记录工具，支持 macOS、Windows、iOS、Android，通过电脑音频自动记录会议内容，无需会议机器人。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "How Rob Farmer turns half-baked sketches into New York Times covers —— Rob Farmer如何将草率的草图变成《纽约时报》头版",
+   "url": "https://www.creativeboom.com/work/how-rob-farmer-turns-half-baked-sketches-into-new-york-times-covers/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 70,
+   "summary_zh": "设计师Rob Farmer通过随手速写积累创意，用Cavalry App实现自然图案数字化。他将粗糙草图发展成《纽约时报》封面，强调不完美初稿的价值，鼓励设计师分享未完成作品激发灵感。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜Meta 的 Muse 应用因直观设计和 Meta 推广，可能成为个人代理领…",
+   "url": "https://x.com/petergyang/status/2101862331345154469",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "Meta 的 Muse 应用因直观设计和 Meta 推广，可能成为个人代理领域领导者。ChatGPT 仍因用户基数大保持领先，但难以兼顾工作与个人使用。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 591
+  },
+  {
+   "title": "X观点｜AI代理能精准复现问题并自动部署测试环境，如用Vercel临时部署验证iPh…",
+   "url": "https://x.com/rauchg/status/2101846262840799251",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-21",
+   "score": 85,
+   "summary_zh": "AI代理能精准复现问题并自动部署测试环境，如用Vercel临时部署验证iPhone模拟器显示异常。这种高强度、零误差的测试能力远超人类，未来软件质量将显著提升。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 376
+  }
+ ]
+}

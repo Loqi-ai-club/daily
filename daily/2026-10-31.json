@@ -1,0 +1,233 @@
+{
+ "day": "2026-10-31",
+ "generated_at": "2026-10-31 07:18",
+ "scanned": 277,
+ "count": 16,
+ "items": [
+  {
+   "title": "The TL;DR on Figma Weave: Make your creative process repeatable —— Figma Weave 一言以蔽之：让创意过程可重复",
+   "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-10-31",
+   "score": 90,
+   "rank": 7.026,
+   "summary_zh": "Figma 推出 Weave，整合 AI 生成与编辑工具，形成可重复使用的协作流程。设计师可定义、优化并复用工作流程，提升团队协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+   "url": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "苹果宣布11月4日向中国用户开放测试Apple Intelligence，首批功能包括写作工具、照片编辑、实时翻译等，Siri将接入通义千问提升能力。国行用户可体验AI功能，但跨应用操作的Siri仍需等待。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "AI+垂直领域 Agent：任务持久执行、工具熟练使用，无法支撑 Agent 公司的长期竞争力｜贝联珠贯创始人兼 CEO 毕玄分享",
+   "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 75,
+   "rank": 2.038,
+   "summary_zh": "SREAgent 3.0 通过自然语言生成 Skill，降低数据接入门槛。垂类 Agent 竞争力在于对专有数据的处理、建模及模型持续迭代能力，而非长程任务或工具使用。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "处理设置 | SAP 帮助门户",
+   "url": "https://www.bestblogs.dev/article/72b03274cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-30",
+   "score": 75,
+   "rank": 4.029,
+   "summary_zh": "SAP Document AI 允许用户选择 LLM（如 Gemini 2.5 Flash、GPT-5）和处理模式（文本、图像、文本和图像），并为方案或字段添加处理指令，以优化文档处理自动化，提高提取准确性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Unity 中国携 Codely 亮相腾讯全球数字生态大会，展示 AI 游戏开发实践",
+   "url": "https://www.bestblogs.dev/article/33812bc16a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-30",
+   "score": 75,
+   "rank": 4.033,
+   "summary_zh": "Unity 中国在腾讯全球数字生态大会上展示了 TJ Codely，一个用于游戏开发的 AI 智能体，能处理代码编写、资产处理和游戏创作，并介绍了与腾讯混元的合作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "2026 年 AI 技术演进与 2027 年趋势前瞻报告",
+   "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 3.03,
+   "summary_zh": "2026年AI技术演进与2027年趋势前瞻报告指出，大模型将向多模态、垂直领域深化，推理效率提升30%。对产品设计者而言，需关注AI工具链集成与用户体验优化，以适应更复杂的应用场景。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "As AI slop floods feeds, luxury brands are going all in on handmade ads —— 随着 AI 内容充斥信息流，奢侈品牌全面转向手工制作广告",
+   "url": "https://www.fastcompany.com/91632291/prada-ad-luxury-brands-all-in-on-handmade-ads?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 70,
+   "rank": 2.038,
+   "summary_zh": "普拉达推出手工动画广告《Drawing Prada》，用手工制作的动画森林场景展示品牌工艺，获得社交媒体好评。广告采用手工动画形式，与AI生成内容形成对比，强调手工制作的独特价值。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Website migration costs are going to zero —— 网站迁移成本正在降至零",
+   "url": "https://dri.es/website-migration-costs-are-going-to-zero",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 70,
+   "rank": 1.029,
+   "summary_zh": "AI将使网站迁移成本趋近于零，三年内技术迁移费用可能接近零。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？",
+   "url": "https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 70,
+   "rank": 5.025,
+   "summary_zh": "AMD 以 82 亿美元收购李飞飞创立的 World Labs，押注空间智能与物理 AI。李飞飞首次亲自参与答题，不再仅出题。对产品设计者而言，空间智能成新赛道，需关注 AI 与物理世界的融合应用。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "4 条提示词，如何把 98 条产品评论变成工程决策依据｜技术实践",
+   "url": "https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 7.035,
+   "summary_zh": "GE Profile Opal 2.0 评分 3.7 星，但隐藏严重安全问题。通过四条提示词，Hex Agent 分析 98 条评论，发现 55% 负面评价被三星掩盖，包括霉菌、硬件故障等。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "沙钢接入千问办公，已将 Agent 落地核心业务场景",
+   "url": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 8.028,
+   "summary_zh": "沙钢接入千问办公，将Agent应用于电炉冶炼复盘、变压器状态评估等场景，单炉复盘时间从30分钟缩短至3分钟。对产品设计者意味着：需强化数据整合与自动化分析能力，以提升工业场景效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+   "url": "https://x.com/cursor_ai/status/2116074289053175808",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-30",
+   "score": 80,
+   "rank": 5.034,
+   "summary_zh": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Fable 5.5 测试曝光，Claude 每次回答后，还会执行一条你看不到的指令",
+   "url": "https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 1.035,
+   "summary_zh": "Fable 5.5 测试中，模型在回答后会执行隐藏指令进行安全评估，检测潜在滥用行为。新模型更擅长理解深层意图，生成更真实动画，如奔跑的斑马。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+   "url": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-30",
+   "score": 85,
+   "rank": 3.034,
+   "summary_zh": "百度APP推出四大AI升级，搜索实现递归自我进化，AI API价格低至4.9元/千次。文心助手覆盖170余场景，AI镜头支持9种方言，搜索结果页GUI互动提升5倍，接入超50亿数据资源。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜X平台新增700多本全球知名出版社教材，用户可免费获取",
+   "url": "https://x.com/joshwoodward/status/2115953461108023400",
+   "source": "X · @joshwoodward",
+   "cat": "AI新闻",
+   "date": "2026-10-29",
+   "score": 85,
+   "summary_zh": "X平台新增700多本全球知名出版社教材，用户可免费获取。对产品设计者而言，这为教育类产品提供了更多内容资源，有助于提升用户体验和产品价值。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1107,
+   "rank": 4.033
+  },
+  {
+   "title": "X观点｜AI技术发展速度极快，领先者与普通公司差距越来越大",
+   "url": "https://x.com/levie/status/2116029912243184006",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-30",
+   "score": 85,
+   "summary_zh": "AI技术发展速度极快，领先者与普通公司差距越来越大。若企业半年前已建立标准化流程，现在可能已落后。AI原生公司优势明显，大公司能否跟上仍是问题。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 1090,
+   "rank": 4.033
+  }
+ ]
+}

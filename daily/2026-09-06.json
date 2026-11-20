@@ -1,0 +1,99 @@
+{
+ "day": "2026-09-06",
+ "generated_at": "2026-09-06 07:13",
+ "scanned": 210,
+ "count": 7,
+ "items": [
+  {
+   "title": "利用 GPT-6 Astra 将复杂技术文章转化为互动教学网页",
+   "url": "https://www.bestblogs.dev/status/2096344663904891115?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-05",
+   "score": 83,
+   "summary_zh": "宝玉用 GPT-6 Astra 将《逆向工程 Linear 同步引擎》转化为互动教学网页，降低理解门槛。设计师可参考其提示词，将复杂技术内容结构化、可视化，提升学习效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "模型与 Harness 的关系辨析：为什么 Harness 无法被「内化」",
+   "url": "https://www.bestblogs.dev/status/2096336200902627583?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-05",
+   "score": 70,
+   "summary_zh": "宝玉指出，模型内化的是操作工具的策略知识，而非工具本身。Harness 负责执行命令、管理权限与状态，二者是相辅相成的关系，模型越强，对 Harness 的执行能力要求越高。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "颜值即正义：“好看”成了这个时代最贵的产品力",
+   "url": "https://www.bestblogs.dev/article/bf969384e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-05",
+   "score": 85,
+   "summary_zh": "颜值经济崛起，好看成为产品核心竞争力。本能吸引、情感联结、社交裂变是三大驱动力，苹果、星巴克等案例表明，设计需植入情感温度与可分享性，提升用户认同与传播力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱",
+   "url": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-09-05",
+   "score": 85,
+   "summary_zh": "GPT-6 Astra 全量上线，支持 ChatGPT Work 及 Codex Pro 用户，调用额度有限。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "X观点｜Astra 让团队效率大幅提升，原定明年中发布的功能提前至 DevDay 发…",
+   "url": "https://x.com/thsottiaux/status/2096101429832552872",
+   "source": "X · @thsottiaux",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-05",
+   "score": 70,
+   "summary_zh": "Astra 让团队效率大幅提升，原定明年中发布的功能提前至 DevDay 发布。对产品设计者意味着内部工具能显著加速开发进度，需关注工具对项目节奏的影响。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 7364
+  },
+  {
+   "title": "X观点｜Peter Yang 建议 OpenAI 开发 Apple Watch 应用…",
+   "url": "https://x.com/petergyang/status/2096086845159563476",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-05",
+   "score": 70,
+   "summary_zh": "Peter Yang 建议 OpenAI 开发 Apple Watch 应用，支持语音输入和输出，用于与 Codex 交互，减少对手机依赖。若实现，可能减少屏幕使用时间，提升效率。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 58
+  },
+  {
+   "title": "X观点｜WebMCP 提升 Web 开发效率，Next.js 可直接在页面内调试，无…",
+   "url": "https://x.com/rauchg/status/2096065378598441431",
+   "source": "X · @rauchg",
+   "cat": "AI工具",
+   "date": "2026-09-05",
+   "score": 75,
+   "summary_zh": "WebMCP 提升 Web 开发效率，Next.js 可直接在页面内调试，无需额外服务器。开发者可在特定标签页访问调试工具，提升问题定位速度。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 550
+  }
+ ]
+}

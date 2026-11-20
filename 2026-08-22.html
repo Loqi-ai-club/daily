@@ -1,0 +1,1359 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>每日 AI 简报 · RS PRODUCT EXPERIENCE GROUP</title>
+<meta name="color-scheme" content="dark">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#000; --fg:#fff; --dim:#8a8a8a; --faint:#4a4a4a;
+  --line:#1f1f1f; --line-strong:#2e2e2e;
+  --pad:clamp(20px,4.5vw,72px);
+  /* 三列栅格的列宽，顶栏和每一行共用同一套定义 ——
+     分开写迟早会不同步，分类 tab 就对不齐标题了。
+     大屏上左两列各占 18vw，标题起点落在页面 40% 左右，
+     栅格感才立得住；小屏靠 min 值兜底不至于挤没。 */
+  --c1:clamp(96px,18vw,300px);
+  --c2:clamp(112px,18vw,300px);
+  --gap:clamp(14px,2.4vw,44px);
+  --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+  --sans:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Inter,
+         "PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+html{-webkit-text-size-adjust:100%}
+body{
+  background:var(--bg); color:var(--fg); font-family:var(--sans);
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  font-feature-settings:"kern" 1;
+}
+a{color:inherit;text-decoration:none}
+
+/* ── 首屏格言 ───────────────────────────────────── */
+.hero{padding:clamp(56px,11vh,150px) var(--pad) clamp(40px,7vh,84px)}
+.epigraph{
+  font-size:clamp(30px,5.6vw,78px);
+  line-height:1.06; letter-spacing:-.025em; font-weight:500;
+  max-width:19em;
+}
+.epigraph .zh{
+  display:block; margin-top:.75em;
+  font-size:clamp(13px,1.35vw,19px); line-height:1.55;
+  letter-spacing:.01em; color:var(--dim); font-weight:400;
+}
+.hero-foot{
+  display:flex; justify-content:space-between; align-items:flex-end;
+  gap:24px; margin-top:clamp(32px,6vh,72px); flex-wrap:wrap;
+}
+.attrib{font-family:var(--mono);font-size:11px;letter-spacing:.14em;color:var(--faint)}
+.tag-bracket{
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.16em; color:var(--dim);
+  white-space:nowrap;
+}
+
+/* ── 日期导航条 ─────────────────────────────────── */
+/* 日期与筛选器合成一栏，整栏吸顶：滚动时两者一起跟随，
+   翻天和切分类始终触手可及，也少一条横线让版面更安静 */
+.topbar{
+  position:sticky; top:0; z-index:20;
+  border-top:1px solid var(--line-strong); border-bottom:1px solid var(--line);
+  padding:clamp(12px,1.5vw,18px) var(--pad);
+  display:grid;
+  grid-template-columns:var(--c1) var(--c2) 1fr;
+  gap:var(--gap);
+  align-items:center;
+  background:rgba(0,0,0,.92); backdrop-filter:blur(14px);
+}
+/* 日期横跨左边两列，筛选器落在第三列 —— 与标题同一条起始线 */
+.daybar{grid-column:1 / 3; display:flex; align-items:center; gap:clamp(10px,1.2vw,16px)}
+.daynav{display:flex;align-items:center;gap:clamp(12px,1.6vw,20px)}
+.daybtn{
+  background:none; border:1px solid var(--line-strong); color:var(--dim);
+  width:34px; height:34px; cursor:pointer; transition:.16s;
+  font-family:var(--mono); font-size:13px; line-height:1;
+  display:flex; align-items:center; justify-content:center;
+}
+.daybtn:hover:not(:disabled){border-color:#666;color:var(--fg)}
+/* 禁用时仍然常驻、仍然看得见 —— 藏起来会让日期左右跳动，
+   下面那条竖直的栅格线也就对不上了 */
+.daybtn:disabled{color:#3a3a3a;border-color:#1c1c1c;cursor:default}
+.dayval{
+  font-family:var(--mono); font-weight:500;
+  font-size:clamp(16px,1.7vw,22px); letter-spacing:.02em; color:var(--fg);
+  min-width:6.4em; text-align:center; font-variant-numeric:tabular-nums;
+}
+
+/* ── 筛选器 ─────────────────────────────────────── */
+.filters{
+  grid-column:3;                    /* 与标题对齐，不再靠右 */
+  display:flex; gap:8px; flex-wrap:wrap;
+}
+.chip{
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.11em;
+  padding:7px 13px; border:1px solid var(--line-strong); color:var(--dim);
+  cursor:pointer; transition:.16s; white-space:nowrap; background:none;
+}
+.chip:hover{border-color:#555;color:#ddd}
+.chip[aria-pressed="true"]{background:var(--fg);color:#000;border-color:var(--fg)}
+.chip .n{opacity:.5;margin-left:6px}
+
+/* ── 列表 ───────────────────────────────────────── */
+.row{
+  display:grid;
+  /* 来源 | 标签 | 内容 —— 与顶栏同一套列宽，竖直的秩序线才连得起来 */
+  grid-template-columns:var(--c1) var(--c2) 1fr;
+  gap:var(--gap);
+  padding:clamp(24px,3.2vw,40px) var(--pad);
+  border-bottom:1px solid var(--line);
+  transition:background .18s;
+}
+.row{position:relative}
+.row:hover{background:#0b0b0b}
+.row.is-hidden{display:none}
+
+/* 整行都是点击热区：把标题链接的伪元素铺满整行。
+   用伪元素而不是把整行包成 <a>，是为了让摘要文字仍然能选中复制，
+   也不至于让屏幕阅读器把一整行读成一个巨大的链接。 */
+.title a::after{
+  content:""; position:absolute; inset:0; z-index:1;
+}
+.row .summary, .row .col-source, .row .col-badges{position:relative; z-index:2}
+.title a{position:static}
+
+.col-source{padding-top:.5em}
+.source{
+  font-family:var(--mono); font-size:11px; letter-spacing:.06em;
+  /* 和右边的分类标签用同一个灰阶（--faint）：两者是同级信息，
+     深浅不同会让人误以为有主次。改过一次又被合并顶栏的改动覆盖回去了，
+     动这块时注意别再改回 --dim。 */
+  color:var(--faint); line-height:1.5;
+}
+.col-badges{padding-top:.45em}
+.badges{display:flex;gap:6px;flex-wrap:wrap}
+.badge{
+  font-family:var(--mono); font-size:9.5px; letter-spacing:.1em;
+  padding:4px 8px; border:1px solid var(--line-strong); color:var(--faint);
+  white-space:nowrap;
+}
+.title a:hover{text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:1px}
+.title .zh{
+  display:block; margin-top:.34em; color:var(--dim);
+  font-size:clamp(15px,1.5vw,21px); line-height:1.32; font-weight:400;
+}
+.summary{
+  margin-top:14px; max-width:56em;
+  font-size:clamp(13.5px,1.05vw,15.5px); line-height:1.72; color:#9a9a9a;
+}
+.arrow{
+  font-style:normal; display:inline-block; margin-left:.45em; color:var(--faint);
+  font-family:var(--mono); font-size:.62em; vertical-align:.22em;
+}
+.row:hover .arrow{color:var(--dim)}
+
+/* ── 入场动效：文字从裁切框下沿升起，停在原位 ─────────────
+   .reveal 是裁切框，.reveal > span 是真正位移的那一层。
+   padding/margin 那对相反的值是为了给 g y p 这些下伸笔画留出空间，
+   否则 overflow:hidden 会把字母尾巴切掉。 */
+.reveal{
+  display:block; overflow:hidden;
+  padding-bottom:.14em; margin-bottom:-.14em;
+}
+.reveal > span{
+  display:block;
+  transform:translateY(110%);
+  transition:transform .9s cubic-bezier(.16,1,.3,1);
+  transition-delay:var(--d,0s);
+}
+/* 中文译名在英文之后再迟一点：两者相差固定值，
+   跟着整行的 --d 一起往后推 */
+.title .zh.reveal > span{transition-delay:calc(var(--d,0s) + .15s)}
+.is-in .reveal > span, .reveal.is-in > span{transform:translateY(0)}
+
+/* 摘要和左栏不做升起，只做轻淡入 —— 每个元素都动会很闹，
+   让标题独占这个动作，节奏才立得住 */
+/* 从下往上切入只留给格言和新闻标题；其余元素纯渐显，不带位移 ——
+   位移的元素一多，视线就不知道该跟谁走 */
+.row .col-source, .row .col-badges, .row .summary{
+  opacity:0;
+  transition:opacity .7s ease;
+  transition-delay:var(--d2,.24s);
+}
+.row.is-in .col-source, .row.is-in .col-badges, .row.is-in .summary{
+  opacity:1;
+}
+
+/* 关掉动效偏好：直接给最终状态，不做任何位移 */
+@media (prefers-reduced-motion:reduce){
+  .reveal > span{transform:none!important;transition:none!important}
+  .row .col-source, .row .col-badges, .row .summary{
+    opacity:1!important;transition:none!important}
+}
+
+/* ── 页脚 ───────────────────────────────────────── */
+.foot{
+  padding:clamp(40px,7vh,84px) var(--pad);
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.12em; color:var(--faint);
+  display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap;
+}
+.empty{padding:80px var(--pad);color:var(--faint);font-family:var(--mono);font-size:12px}
+
+@media(max-width:860px){
+  .topbar{display:flex;flex-wrap:wrap}
+  .daybar{grid-column:auto}
+  .filters{grid-column:auto;margin-left:auto}
+  .row{grid-template-columns:auto 1fr;gap:10px clamp(12px,3vw,22px)}
+  .col-source{grid-column:1;padding-top:0}
+  .col-badges{grid-column:2;padding-top:0}
+  .col-main{grid-column:1 / -1;margin-top:4px}
+}
+@media(max-width:720px){
+  .epigraph{font-size:clamp(27px,7.6vw,42px)}
+  .topbar{display:flex;flex-wrap:wrap;gap:10px;padding:10px var(--pad)}
+  .daybar{grid-column:auto}
+  .filters{grid-column:auto;width:100%;overflow-x:auto;flex-wrap:nowrap;
+           padding-bottom:2px;-webkit-overflow-scrolling:touch}
+  .filters{padding:13px var(--pad);gap:6px;overflow-x:auto}
+}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <h1 class="epigraph"><span class="reveal" style="--d:0.00s"><span>We are drowning in information,</span></span><span class="reveal" style="--d:0.18s"><span>while starving for wisdom.</span></span></h1>
+  <div class="hero-foot">
+    <span class="attrib">— E. O. Wilson</span>
+    <span class="tag-bracket">[ RS PRODUCT EXPERIENCE GROUP ]</span>
+  </div>
+</header>
+
+<div class="topbar">
+  <div class="daybar">
+    <button class="daybtn" id="dayprev" title="前一天（←）" aria-label="前一天">&#8249;</button>
+    <span class="dayval" id="dayval">2026-08-22</span>
+    <button class="daybtn" id="daynext" title="后一天（→）" aria-label="后一天">&#8250;</button>
+  </div>
+  <nav class="filters"><button class="chip" data-cat="ALL" aria-pressed="true">全部<span class="n">30</span></button><button class="chip" data-cat="AI新闻" aria-pressed="false">AI新闻<span class="n">7</span></button><button class="chip" data-cat="AI工具" aria-pressed="false">AI工具<span class="n">7</span></button><button class="chip" data-cat="AI深度长文·观点" aria-pressed="false">AI深度长文·观点<span class="n">16</span></button></nav>
+</div>
+
+<main>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://adobe.design/ideas/is-design-dead-in-the-age-of-ai" target="_blank" rel="noopener">
+          <span class="reveal"><span>Is design dead in the age of AI?<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>人工智能时代设计是否已死？</span></span>
+        </a></h2>
+        <p class="summary">AI不会取代设计，但会改变设计。设计的核心是人类的情感、个性和独特视角，这些AI无法复制。设计师应深化技艺，发展独特风格，关注真实体验，建立人际关系，而非依赖模板和趋势。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Try these 10 skills—and show off your own<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>尝试这 10 项技能——并展示你自己的</span></span>
+        </a></h2>
+        <p class="summary">Figma 现支持在设计工具内直接创建技能，用于指导 AI 代理完成任务。例如，/image-audit 可检查图像导出性，/make-a-type-scale 可生成字体变量。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Nielsen Norman Group</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication" target="_blank" rel="noopener">
+          <span class="reveal"><span>Artificial Intelligence: Glossary<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>人工智能：术语表</span></span>
+        </a></h2>
+        <p class="summary">文章提供AI术语表，解释了如AI代理、AI工程、AI洗白等概念，帮助设计者理解AI产品中的专业术语和设计挑战。设计者需注意AI系统的自主性、内容质量及用户信任问题。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">InfoQ 中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&amp;utm_medium=article" target="_blank" rel="noopener">
+          <span class="reveal"><span>视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">内容团队面临视频生成需求激增与人工筛选压力，MiniMax Design 通过 Agent 驱动的工作流，实现从需求描述到成片的全流程自动化，提升批量生成效率与一致性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">InfoQ 中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&amp;utm_medium=article" target="_blank" rel="noopener">
+          <span class="reveal"><span>不跟风、不堆模型，百度靠什么突围AI办公赛道？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">百度文库网盘推出库库 AI 独立客户端、小程序、Web 三端产品，整合优化办公、素材处理等能力，依托百度网盘技术基建，实现多端同步、记忆解耦，解决任务中断、卡顿等行业痛点，C 端已成熟，B 端重点覆盖…</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/article/045d1880ee?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>AutoResearch 神话破灭：大模型离真正自主科研还有多远？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">斯坦福与Prentis AI研究发现，当前大模型在科研任务中92.1%的失败源于认知问题，如缺乏自我修正能力。这提示产品设计需强化Agent的元认知闭环，提升其对科研过程的反思与调整能力。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">InfoQ 中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&amp;utm_medium=article" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Vercel 推出 v0 API，允许开发者通过编程方式生成和修改应用，并在 Sandbox 中运行。该 API 支持同步、异步和流式请求，可集成 GitHub 仓库、设计系统和外部工具。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/article/850993da93?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>豆包最快下周发布类 WorkBuddy 产品，合并飞书后或有更多整合｜新皮层独家<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">豆包最快下周发布独立办公产品，整合飞书后AI办公产品线集中。新增远程控制、云电脑、多Agent协同等功能，飞书团队已并入豆包，原功能更名为企业豆包。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502066" target="_blank" rel="noopener">
+          <span class="reveal"><span>:fire: SolonCode 是不是国产化替代 ClaudeCode 的优选？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">国内企业替换 ClaudeCode 需考虑安全审计、数据本地化等需求。SolonCode 在安装配置、模型兼容性等方面表现如何，文章逐条对比分析，给出实际使用建议。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205" target="_blank" rel="noopener">
+          <span class="reveal"><span>How to become an AI Designer<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>如何成为人工智能设计师</span></span>
+        </a></h2>
+        <p class="summary">文章作者分享了成为AI设计师的实践路径，包括停止使用Figma、用Claude快速制作交互原型。对产品设计者而言，这意味着需拥抱AI工具，提升实时协作与快速迭代能力，适应AI原生团队的工作方式。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services" target="_blank" rel="noopener">
+          <span class="reveal"><span>Connect v0 apps to Slack, Google, and 100+ other services<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>连接 v0 应用程序至 Slack、Google 及 100 多个其他服务</span></span>
+        </a></h2>
+        <p class="summary">Vercel Connect 现支持将 v0 应用连接至 Slack、Google 等 100+ 服务，团队可复用连接器，部分服务如 Slack 和 GitHub 的应用注册由 Vercel 自动完成…</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Figma Blog</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.figma.com/blog/sightlines-issue-no2/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Sightlines issue no.2: What leaders need to know about building agents<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Sightlines 第 2 期：领导者需要了解关于构建代理的关键信息</span></span>
+        </a></h2>
+        <p class="summary">Figma 探讨了设计自主性产品时的挑战，强调工具需兼具强大功能与安全性，以赢得用户信任。设计师需平衡智能与透明，确保用户始终掌控核心决策。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502038/vercel-fx" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel 发布 fx：用 Zig 语言实现的轻量级代理，可在浏览器中直接运行<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Vercel 发布 fx，用 Zig 实现的轻量 Agent，可在浏览器运行，冷启动仅 10 微秒，体积 6.39MB。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ChatGPT/status/2090499359641329950" target="_blank" rel="noopener">
+          <span class="reveal"><span>OpenAI pushed several desktop and builder features in one wave<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>OpenAI 一次性推送多项桌面及构建器功能</span></span>
+        </a></h2>
+        <p class="summary">ChatGPT 推出 Apple Messages 插件，支持消息搜索、草稿发送等功能；ChatGPT Sites 增加协作编辑，支持共享只读链接和 PR 上下文。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ClaudeDevs/status/2090540270219567575" target="_blank" rel="noopener">
+          <span class="reveal"><span>Anthropic made its agent platform more composable and production-ready<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Anthropic 使其代理平台更易于组合和投入生产</span></span>
+        </a></h2>
+        <p class="summary">Anthropic 发布 Claude 平台多项功能，包括 Skills API 和 Files API，支持版本化流程、文件过期控制及更高调用限制。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/omarsar0/status/2090533587066249514" target="_blank" rel="noopener">
+          <span class="reveal"><span>The most interesting agent research in the set was about harness evolution, not model weights<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>该系列中最有趣的代理研究涉及捕捉进化，而非模型权重</span></span>
+        </a></h2>
+        <p class="summary">研究发现，智能体的进化应关注‘Harness’而非模型权重，通过独立演化提示、记忆、技能和路由规则，可避免组件更新导致的性能下降。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Qwen3.8-27B took a serious hit to knowledge vs 3.6 (Activity<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>与 3.6 相比，Qwen3.8-27B 在知识方面受到严重冲击（活动）</span></span>
+        </a></h2>
+        <p class="summary">Qwen3.8-27B在知识回忆测试中表现弱于3.6版，尤其在无网络环境下。但其在工具调用、编程和自主工作流方面更强。这可能是有意为之的性能取舍。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://yeptype.com/article/inter-alternatives" target="_blank" rel="noopener">
+          <span class="reveal"><span>How to choose a UI font (and 10 Inter alternatives)<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>如何选择 UI 字体（及 10 个 Inter 替代方案）</span></span>
+        </a></h2>
+        <p class="summary">文章提出选择UI字体的两个关键标准：顶高对齐和高x-height，能简化设计系统中的对齐工作。Inter虽受欢迎，但需考虑替代方案，如符合这些标准的字体可减少手动调整CSS的需要。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>It really wasn’t your fault, Coyote<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Coyote，这真的不是你的错</span></span>
+        </a></h2>
+        <p class="summary">文章以ACME公司设计的陷阱产品为例，分析了产品设计中可能存在的缺陷。对设计师而言，需关注工具可靠性，避免因设计失误导致用户失败。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel Agent is now available in Slack code channels<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Vercel 代理现已在 Slack 代码频道中提供</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 现在可在 Slack 的代码频道中使用，用户可创建频道并指定 Vercel 作为代理，用于协作开发。代理能执行指令并生成代码，其他成员可跟进和审查。适用于团队协作开发场景。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>AI is lying to us, and nobody seems to care<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>人工智能在欺骗我们，而似乎没有人关心</span></span>
+        </a></h2>
+        <p class="summary">AI生成的回答混入虚构信息，但界面不显示推理过程。团队讨论是否应向用户更诚实，目前开发的产品侧边栏会展示AI思考过程，帮助用户理解其不确定性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Every</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://every.to/context-window/an-engineering-team-for-the-cost-of-codex" target="_blank" rel="noopener">
+          <span class="reveal"><span>An Engineering Team for the Cost of Codex<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>以 Codex 的成本组建一支工程团队</span></span>
+        </a></h2>
+        <p class="summary">Every的Naveen Naidu用Codex构建了多个工程角色代理，负责Monologue语音识别应用的开发。这种做法降低了团队组建成本，使单人开发者能模拟多工程团队协作。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-22">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502011" target="_blank" rel="noopener">
+          <span class="reveal"><span>AI 换台电脑就失忆？我们自己写了个开源项目解决它<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">开源项目agentctxsync解决AI工具跨设备记忆同步问题，用户可在不同电脑间无缝切换AI对话记录，提升工作效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502007" target="_blank" rel="noopener">
+          <span class="reveal"><span>GLM-5.3 拿下 AA 评测 60 分，将前沿模型的单任务成本降至最低<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">GLM-5.3 在 AA 评测中得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等并列全球前沿。其单任务成本降至最低，适合复杂编码、网络安全和长程任务处理。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">OpenAI</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://openai.com/index/replit" target="_blank" rel="noopener">
+          <span class="reveal"><span>Replit expands access to software creation with GPT-5.6 Luna<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Replit 通过 GPT-5.6 Luna 拓展软件创作的访问权限</span></span>
+        </a></h2>
+        <p class="summary">Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需担心 token 成本即可创建软件。对产品设计者而言，这意味着更多非技术人员能快速实现想法，降低开发门槛，提升软件创作的普及性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ZhihuFrontier/status/2089998555889250478" target="_blank" rel="noopener">
+          <span class="reveal"><span>DeepSeek Harness’s minimalism is deliberate, not incomplete<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>DeepSeek Harness 的极简主义是刻意为之，而非不完整</span></span>
+        </a></h2>
+        <p class="summary">DeepSeek Harness 采用极简设计，所有功能均以插件形式实现。早期用户一周内部署超 100 个插件，反馈问题达 400 个，涵盖围棋模型测试、数据库代理等场景。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/_philschmid/status/2090063976872751408" target="_blank" rel="noopener">
+          <span class="reveal"><span>Gemini 3.7 Flash had a strong day on both evals and product integration<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Gemini 3.7 Flash 在评估和产品集成方面表现强劲</span></span>
+        </a></h2>
+        <p class="summary">Gemini 3.7 Flash 在评估和产品集成中表现突出，以 60% 的通过率、1.32 秒/任务和 0.54 美元平均成本，成为 AA-AnalystAgent 首选模型。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-22">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ClaudeDevs/status/2090245922685063634" target="_blank" rel="noopener">
+          <span class="reveal"><span>Anthropic continues to tighten the developer ergonomics loop<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Anthropic 持续优化开发者操作体验循环</span></span>
+        </a></h2>
+        <p class="summary">Anthropic 为 Claude Code 新增 Concise 输出模式，优化开发者使用体验。产品团队开始将响应格式作为核心 UX 变量进行调整，提升代码生成效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2" target="_blank" rel="noopener">
+          <span class="reveal"><span>Rethinking design leadership with swarms and flocks<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>以群体和集群重新思考设计领导力</span></span>
+        </a></h2>
+        <p class="summary">文章提出用‘结构化涌现’替代传统管理，通过模仿椋鸟群和雁群的协作方式，解决设计团队管理僵化问题。设计团队可借助局部协作快速响应变化，同时引入‘领头雁’确保方向，避免无目标的混乱。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-22">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://blog.ronbronson.com/agent-experience-needs-failure-affordances" target="_blank" rel="noopener">
+          <span class="reveal"><span>Agent experience needs failure affordances<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>代理体验需要容错设计</span></span>
+        </a></h2>
+        <p class="summary">文章提出，当AI代理无法解决问题时，应设置‘失败通道’，主动请求人工介入，而非强行推进。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/article/cb4842675a?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>关于 AI，新手 UI 设计师问得最多的十个问题<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">资深设计讲师酸梅干超人针对新手 UI 设计师的 10 个 AI 应用问题给出回答，建议组合使用工具，强调设计思维与流程理解的重要性，AI 无法替代专业设计的前期规划与执行。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>豆包上线侧边工作台，支持对话与操作同屏进行<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">豆包上线侧边工作台，支持对话与操作同屏进行。用户可在右侧直接打开文件、网页、代码等，提升办公效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://adobe.design/ideas/is-design-dead-in-the-age-of-ai" target="_blank" rel="noopener">
+          <span class="reveal"><span>Is design dead in the age of AI?<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>AI时代，设计是否已死？</span></span>
+        </a></h2>
+        <p class="summary">AI不会取代设计，但会改变设计。设计的核心在于人类的情感、个性和独特视角，这些是AI无法复制的。设计师应深入研究自身风格，注重工艺，拥抱不完美，并从多元领域获取灵感，以建立真实的人际关系和独特价值。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/status/2090451525726294225?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>人类审美、模型选择与设计系统是避免 AI 味的关键<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">宝玉指出，避免AI味需重视人类审美，Claude模型优于GPT，建立个性化设计系统是关键。设计系统应包含规范和可复用组件，而非僵化规则。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Figma Blog</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.figma.com/blog/sightlines-issue-no2/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Sightlines issue no.2: What leaders need to know about building agents<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>视点第2期：领导者在构建代理时需要了解的内容</span></span>
+        </a></h2>
+        <p class="summary">Figma 讨论了设计自主代理产品时的挑战，如何在保持工具强大和知识的同时确保信任与安全。对产品设计者而言，需平衡自主性与用户控制，明确安全边界和透明度。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/podcast/e94dc3a07?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">DeepSeek 发布 Harness，提供类似造车工厂的开放平台，允许用户自定义开发 agent 应用。但主播指出，多数企业缺乏技术能力与合规资源，可能导致落地困难。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/article/3b8b890afb?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">MiniMax 推出 H3 三段式视频模型，结合 Design Agent 实现多模态任务自动执行，支持动态网页、角色 PV 等场景。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/article/41d4020a18?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>信息量太大！Datawhale 对谈 Google 高管最新实录<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Google 高管 David McLaughlin 访谈中指出，Agentic Development 时代开发者需转向定义问题、管理 Agent 团队，工程思维与对人的理解是核心竞争力。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>What nobody tells you about AI ethics<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>没人告诉你的AI伦理问题</span></span>
+        </a></h2>
+        <p class="summary">AI决策责任归属影响伦理判断，实验显示解释方式改变公众道德反应。设计时需明确系统决策逻辑，避免模糊表述，提升用户信任与合规性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502038/vercel-fx" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel 发布 fx：Zig 语言实现的轻量 Agent，能直接在浏览器里跑<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Vercel 发布 fx，用 Zig 编写的轻量 Agent，可在浏览器运行，冷启动仅 10 微秒，二进制文件仅 6.39MB。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>跨境圈爆火的 AI，潜入了淘宝商家的后台<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">淘宝商家开始使用AI工具Accio，该工具已拥有1000万用户，可同时管理淘宝、天猫、拼多多等多个平台，帮助商家应对内外贸一体化带来的复杂运营问题。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-21">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>中国信通院联合淘宝闪购发布首份即时零售智能体可信规范<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">中国信通院与淘宝闪购发布即时零售智能体可信规范，明确简单任务准确率超95%，复杂任务超90%。规范覆盖数据安全、执行效率等六大领域，为AI在即时零售应用提供评估标准。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://yeptype.com/article/inter-alternatives" target="_blank" rel="noopener">
+          <span class="reveal"><span>How to choose a UI font (and 10 Inter alternatives)<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>如何选择UI字体（以及10个Inter的替代方案）</span></span>
+        </a></h2>
+        <p class="summary">文章提出选择UI字体的两个关键标准：顶高对齐和高x-height。顶高对齐使文字在按钮中居中，减少手动调整CSS的需要；高x-height使文字更饱满，视觉效果更均衡。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>It really wasn’t your fault, Coyote<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Coyote，这真的不是你的错</span></span>
+        </a></h2>
+        <p class="summary">文章以ACME公司设计的工具为例，指出产品设计缺陷可能导致用户失败。对设计师意味着：需确保工具可靠，避免因设计问题让用户无法达成目标。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">中科通量推出OmniMate移动AI数字员工，基于本地边缘智能架构，替代或辅助线下网点高频、重复服务职能。产品覆盖迎宾讲解、培训赋能等场景，已在通信营业厅等部署验证，提升服务一致性与效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">爱范儿</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.ifanr.com/1675657?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener">
+          <span class="reveal"><span>MiniMax Design 来了，视频模型也有了自己的 Codex<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">MiniMax 推出 Design 产品，整合 H3 视频模型与多种 AI 工具，实现从需求输入到视频生成的全流程自动化。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel Agent is now available in Slack code channels<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Vercel Agent 现已在Slack代码频道上线</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 现在可在 Slack 的代码频道中使用，用户可在频道内跟踪、指导和审查 Agent 编写的代码。创建频道时选择 Vercel 作为代理，并描述需求即可开始。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>AI is lying to us, and nobody seems to care<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>AI在欺骗我们，但没人似乎在意</span></span>
+        </a></h2>
+        <p class="summary">AI生成的回答掺杂虚构信息，界面不显示推理过程。团队讨论是否应更诚实，正在开发的AI产品侧边栏展示推理过程，让用户了解AI如何得出结论。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Every</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://every.to/context-window/an-engineering-team-for-the-cost-of-codex" target="_blank" rel="noopener">
+          <span class="reveal"><span>An Engineering Team for the Cost of Codex<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>一支工程团队，价格等同于Codex</span></span>
+        </a></h2>
+        <p class="summary">Every的Naveen Naidu用Codex构建了多个工程角色代理，管理一个虚拟工程师团队开发Monologue。这种做法降低了团队组建成本，使单人也能高效完成复杂工程任务。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-21">
+      <div class="col-source"><span class="source">OpenAI</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://openai.com/index/replit" target="_blank" rel="noopener">
+          <span class="reveal"><span>Replit expands access to software creation with GPT-5.6 Luna<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Replit通过GPT-5.6 Luna扩大软件创建的访问权限</span></span>
+        </a></h2>
+        <p class="summary">Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需付费即可创建软件。此举降低技术门槛，让更多人能快速将想法变为产品，推动软件开发普及。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ZhihuFrontier/status/2089998555889250478" target="_blank" rel="noopener">
+          <span class="reveal"><span>DeepSeek Harness’s minimalism is deliberate, not incomplete<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>DeepSeek Harness 的极简主义是有意为之，并非不完整</span></span>
+        </a></h2>
+        <p class="summary">DeepSeek Harness 采用极简设计，核心是插件架构 Cordis，所有功能包括代理循环均可作为插件实现。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-21">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/_philschmid/status/2090063976872751408" target="_blank" rel="noopener">
+          <span class="reveal"><span>Gemini 3.7 Flash had a strong day on both evals and product integration<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Gemini 3.7 Flash在评估和产品集成方面都表现强劲</span></span>
+        </a></h2>
+        <p class="summary">Gemini 3.7 Flash在评估和产品集成中表现突出，以60%的五次通过率、70.5%的一次通过率和1.32秒/任务的速度，成为AA-AnalystAgent第一名。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI新闻" data-date="2026-08-21">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI新闻</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/ClaudeDevs/status/2090245922685063634" target="_blank" rel="noopener">
+          <span class="reveal"><span>Anthropic continues to tighten the developer ergonomics loop<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Anthropic持续优化开发者的人体工程学循环</span></span>
+        </a></h2>
+        <p class="summary">Anthropic 为 Claude Code 新增 Concise 输出模式，优化开发者使用体验。产品团队开始将响应格式作为核心 UX 变量进行调整，提升开发效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2" target="_blank" rel="noopener">
+          <span class="reveal"><span>Rethinking design leadership with swarms and flocks<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>用蜂群和鸟群重新思考设计领导力</span></span>
+        </a></h2>
+        <p class="summary">文章提出用‘结构化涌现’替代传统管理，通过模仿椋鸟群和雁群的协作模式，解决设计团队管理僵化、领导力枯竭问题。设计师应与小队紧密协作，避免过度依赖单一领导者，减少瓶颈与冗余产出。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Try these 10 skills—and show off your own<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>尝试这10项技能——并展示你自己的</span></span>
+        </a></h2>
+        <p class="summary">Figma 现支持在设计界面内直接创建技能，提升协作效率。例如，/image-audit 可检查图像导出性，/camera-pan-and-zoom 可生成动态镜头效果，设计师可自定义工具，优化工作流程。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://blog.ronbronson.com/agent-experience-needs-failure-affordances" target="_blank" rel="noopener">
+          <span class="reveal"><span>Agent experience needs failure affordances<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>代理体验需要容错设计</span></span>
+        </a></h2>
+        <p class="summary">文章提出，当AI代理无法解决问题时，应设置‘失败通道’，主动请求人工介入，而非强行推进。设计中可引入‘判断路由’机制，在执行、升级或终止动作前评估风险，确保操作合规。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/blog/introducing-vercel-for-slack" target="_blank" rel="noopener">
+          <span class="reveal"><span>Introducing Vercel for Slack<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>推出Vercel for Slack</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 现在支持 Slack，可在频道内直接调用，根据讨论内容自动响应并执行部署。Pro 和 Enterprise 团队可参与公测。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI工具" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI工具</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/changelog/vercel-for-slack-now-in-public-beta" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel for Slack now in public beta<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Vercel for Slack现在已进入公开测试阶段</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 在 Slack 公测，可在任何频道提及 @Vercel，Agent 会提供项目部署、构建、日志等信息。可用来排查部署失败原因、审查代码等，提升团队协作效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270" target="_blank" rel="noopener">
+          <span class="reveal"><span>How to make your design system agent-ready<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>如何让你的设计系统兼容代理</span></span>
+        </a></h2>
+        <p class="summary">文章指出，将设计系统拆分成结构化Markdown和Figma文件，能帮助AI更准确理解设计规范。团队尝试用AI生成前端代码，但发现细节如颜色、间距、交互状态常不符合设计系统要求，需明确文档指引AI。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI深度长文·观点" data-date="2026-08-21">
+      <div class="col-source"><span class="source">AI News (smol.ai)</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI深度长文·观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://x.com/masondrxy/status/2089861640770527512" target="_blank" rel="noopener">
+          <span class="reveal"><span>Harnesses are becoming the real product surface<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Harnesses 正在成为真正的产品界面</span></span>
+        </a></h2>
+        <p class="summary">多个产品如LangChain、Tiller和Vercel引入HarnessAgent，强化模型与工具链整合。产品设计需重视Harness对模型应用的实际影响，而非仅依赖模型质量。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="设计工作与方法" data-date="2026-08-20">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">设计工作与方法</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/podcast/73a5ab579?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>OpenAI 设计负责人 Ian Silber：现在是历史上当设计师最好的时代<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">OpenAI 设计负责人 Ian Silber 认为，AI 时代设计师应专注好奇心与系统思维，强调快速原型与少做设计。他指出，当前是设计师最好的时代，因技术尚处早期，角色定义尚不明确，带来机遇。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/3ldIRLLRue7anIFz.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">华尔街投行杰富瑞测试8款AI Agent，阿里千问办公综合得分第一，超过Claude Cowork和Codex。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/status/2090268932548526123?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>Claude Code 内置 Claude Design，使用体验良好<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Claude Code 新增内置 Claude Design 功能，用户可通过 /design + 内容直接使用，无需切换工具，提升设计效率。该功能支持本地项目无缝对接，适合需要频繁设计的开发者。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502038/vercel-fx" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel 发布 fx：用 Zig 语言实现的轻量级 Agent，可在浏览器中直接运行<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Vercel 开源了 fx，一个用 Zig 编写的轻量级 Agent，可在浏览器中运行，冷启动仅需 10 微秒。其设计风格接近 Unix shell，强调简洁和高效，适合需要快速响应和低资源消耗的场景。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="设计工作与方法" data-date="2026-08-20">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">设计工作与方法</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>It really wasn’t your fault, Coyote<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>狐狸，这真的不是你的错</span></span>
+        </a></h2>
+        <p class="summary">文章以ACME公司设计的陷阱产品为例，分析了产品设计中可能存在的缺陷。对设计师而言，需关注工具可靠性，避免因设计失误导致用户失败。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">中科通量推出OmniMate移动AI数字员工，采用本地边缘智能架构，可替代或辅助线下实体场景中高频、重复性服务工作。产品已在通信营业厅等场景部署验证，覆盖迎宾讲解、培训赋能等环节，提升服务一致性与效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">爱范儿</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.ifanr.com/1675657?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener">
+          <span class="reveal"><span>MiniMax Design 来了，视频模型也有了自己的 Codex<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">MiniMax 推出 Design 产品，集成 H3 视频模型与多种 AI 能力，实现从需求输入到完整视频生成的自动化流程。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/podcast/a086f9a34?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>E249｜Token 经济转点：OpenClaw、Hermes 到本地自研的 Agent 进化之路<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">2026 年 AI 行业从「模型能力」转向「Agent 工程」，OpenClaw、Hermes 等产品演进显示，本地开源模型与云端模型混合部署可大幅降低 Token 成本。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>AI is lying to us, and nobody seems to care<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>AI 正在对我们撒谎，而似乎没人关心</span></span>
+        </a></h2>
+        <p class="summary">AI生成的回答混入虚构信息，界面不显示推理过程。团队讨论是否应向用户更诚实，正在开发的AI产品侧边栏展示推理过程，帮助用户理解AI的思考路径。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">BestBlogs</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.bestblogs.dev/podcast/ed3a495ba?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=resources&amp;entry=rss_article_item" target="_blank" rel="noopener">
+          <span class="reveal"><span>E15.宋亚宸：为世界进文明，为人类造幸福｜北坡计划<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">VAST 创始人宋亚宸认为，AI 将使生成式 3D 创作门槛降至接近零，进入类似「剪映」的 UGC 时代。他提出「两步走」战略：先解决生产力问题，再通过平台实现内容分发与商业化。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/502011" target="_blank" rel="noopener">
+          <span class="reveal"><span>AI 换台电脑就失忆？我们自己写了个开源项目解决它<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">开源项目 agentctxsync 解决 AI 工具跨设备记忆同步问题。用户在不同电脑上使用 AI 工具时，对话记录无法共享，影响效率。该项目通过同步上下文，实现多设备无缝切换，提升 AI 工具使用体验。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">InfoQ 中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.infoq.cn/article/vrlSsJUrdpfGqsj3CTZK?utm_source=rss&amp;utm_medium=article" target="_blank" rel="noopener">
+          <span class="reveal"><span>让 Agent 真正驱动销售增长——FDE 模式下的业务流重构实战｜AICon深圳<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">AICon深圳大会将探讨FDE模式下Agent如何重构销售业务流，提升效率与增长。阿里云专家分享汽车销售与医药履职案例，展示Agent如何嵌入高价值场景，驱动业务结果。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">支付宝“晓政”联合民政部推出婚姻登记智能服务，用户可通过语音指令快速预约、查询登记信息，减少重复操作。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/industrynews/yOzZ6pmXf7KOsYYc.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>豆包“工作任务”新增支持本地电脑、云电脑双模式<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">豆包工作任务新增本地与云电脑双模式，用户可按需选择执行方式。云电脑适合处理耗时任务，如数据采集、文件转换等，支持手机远程操作。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">量子位</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.qbitai.com/2026/08/475476.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">updream推出预演台功能，利用AI生成3D白模辅助视频创作，提升镜头控制精度。创作者可先设计运镜与场景，减少生成阶段反复调整，专业团队与个人创作者均可降低试错成本。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">OpenAI</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://openai.com/index/replit" target="_blank" rel="noopener">
+          <span class="reveal"><span>Replit expands access to software creation with GPT-5.6 Luna<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Replit 通过 GPT-5.6 Luna 扩展软件创作的访问权限</span></span>
+        </a></h2>
+        <p class="summary">Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需付费即可创建软件。此举降低技术门槛，让更多人能快速将想法变为产品，提升软件开发的普及性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="新模型与能力" data-date="2026-08-20">
+      <div class="col-source"><span class="source">雷峰网</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">新模型与能力</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.leiphone.com/category/private/XVXWtcCNFb4PP233.html" target="_blank" rel="noopener">
+          <span class="reveal"><span>英伟达 Cosmos 3 深度拆解：它想做具身智能时代的「安卓系统」| RSS 2026<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">英伟达发布Cosmos 3，首次在单一Transformer架构下整合文本、视觉、音频和动作模态，实现全模态世界模型。对产品设计者而言，这提供了更统一的具身智能开发平台，降低多模态集成难度，加速机器人应用落地。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="设计工作与方法" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">设计工作与方法</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2" target="_blank" rel="noopener">
+          <span class="reveal"><span>Rethinking design leadership with swarms and flocks<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>用蜂群和鸟群重新思考设计领导力</span></span>
+        </a></h2>
+        <p class="summary">文章提出用‘结构化涌现’替代传统管理，借鉴椋鸟群聚和雁群飞行的模式。设计团队可减少层级依赖，提升灵活性，但需避免‘独鹅’模式导致的领导疲劳与团队惰性。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/" target="_blank" rel="noopener">
+          <span class="reveal"><span>Try these 10 skills—and show off your own<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>尝试这些10项技能——并展示你自己的</span></span>
+        </a></h2>
+        <p class="summary">Figma 现支持在设计界面内直接创建技能，用于指导 AI 代理执行任务。例如，/image-audit 可检查图像导出性，/camera-pan-and-zoom 可生成动态镜头效果。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://blog.ronbronson.com/agent-experience-needs-failure-affordances" target="_blank" rel="noopener">
+          <span class="reveal"><span>Agent experience needs failure affordances<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Agent 体验需要容错设计</span></span>
+        </a></h2>
+        <p class="summary">文章讨论了智能代理在无法解决问题时应触发‘ distress_call ’，请求人工介入，而非强行推进。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/blog/introducing-vercel-for-slack" target="_blank" rel="noopener">
+          <span class="reveal"><span>Introducing Vercel for Slack<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>推出适用于 Slack 的 Vercel</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 现在支持 Slack，可在频道内直接调用，根据讨论内容自动执行部署。Pro 和 Enterprise 团队可参与公测。设计者可直接在 Slack 内完成部署流程，无需跳转其他平台。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Vercel</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://vercel.com/changelog/vercel-for-slack-now-in-public-beta" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel for Slack now in public beta<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>Vercel for Slack 现已开放公测</span></span>
+        </a></h2>
+        <p class="summary">Vercel Agent 现在可在 Slack 公共测试，提及 @Vercel 即可获取项目部署、构建、日志等信息。可用来排查部署失败原因、审查代码、修复 CI 错误。对开发者而言，提升协作效率，快速定位问题。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Solidot 奇客</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.solidot.org/story?sid=85128" target="_blank" rel="noopener">
+          <span class="reveal"><span>苹果开发配备摄像头的耳机 AirPods<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">苹果正在研发配备摄像头的 AirPods，代号 B790，可利用 AI 识别物体并传输信息至 Visual Intelligence，Siri 可回答环境问题。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">爱范儿</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.ifanr.com/1675518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener">
+          <span class="reveal"><span>一台诞生于 AI 时代的电脑，该是什么样？<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">鸿蒙电脑生态应用超19000款，应用开始围绕折叠屏、跨设备协同和系统级AI重新设计工作流，AI时代电脑需适应多设备全场景交互。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">爱范儿</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.ifanr.com/1675514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener">
+          <span class="reveal"><span>支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">支付宝推出AHA协议，让手机、汽车、大模型等终端的AI Agent协同完成任务，如一键叫车、点咖啡、开电子发票。商家和服务接入后，用户需求可自动触发多个Agent接力处理，提升效率。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="行业与观点" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Solidot 奇客</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">行业与观点</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.solidot.org/story?sid=85123" target="_blank" rel="noopener">
+          <span class="reveal"><span>Meta 面临修改社媒算法和设计的诉讼<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">30 个美国州起诉 Meta，要求修改 Instagram 和 Facebook 的算法及功能，如取消点赞数、无限滚动、自动播放视频等，以减少对未成年人的影响。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="设计工作与方法" data-date="2026-08-20">
+      <div class="col-source"><span class="source">Sidebar 每日精选</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">设计工作与方法</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270" target="_blank" rel="noopener">
+          <span class="reveal"><span>How to make your design system agent-ready<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>如何使你的设计系统具备 Agent 能力</span></span>
+        </a></h2>
+        <p class="summary">文章指出，将设计系统拆分为结构化Markdown文件，而非集中在一个文件中，有助于AI代理理解。团队通过Figma、tokens和结构化文档，使AI能依据设计系统生成符合规范的界面，减少重复修正。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">爱范儿</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.ifanr.com/1675465?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" target="_blank" rel="noopener">
+          <span class="reveal"><span>Claude 给所有 AI 文字加了水印，全球用户彻底怒了！<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Anthropic 强制给 Claude 生成文字加水印，全球用户不满。水印采用统计方式，通过特定词频组合标记 AI 内容，但不区分使用场景，影响用户创作与使用体验。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="AI产品与交互" data-date="2026-08-20">
+      <div class="col-source"><span class="source">开源中国</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">AI产品与交互</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://www.oschina.net/news/501972/vercel-labs-zerolang" target="_blank" rel="noopener">
+          <span class="reveal"><span>Vercel 开发了专门给 AI Agent 用的编程语言 Zero<i class="arrow">↗</i></span></span>
+          
+        </a></h2>
+        <p class="summary">Vercel 开发了专为 AI Agent 设计的编程语言 Zero，用图结构替代传统文本作为代码源头。这种新语言可能改变人与 AI 协作开发的方式，让 Agent 更自主地处理任务。</p>
+      </div>
+    </article>
+    <article class="row" data-cat="设计工作与方法" data-date="2026-08-20">
+      <div class="col-source"><span class="source">UX Collective</span></div>
+      <div class="col-badges"><span class="badges"><span class="badge">设计工作与方法</span></span></div>
+      <div class="col-main">
+        <h2 class="title"><a href="https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4" target="_blank" rel="noopener">
+          <span class="reveal"><span>The feature was fine. So why did users keep hiding it?<i class="arrow">↗</i></span></span>
+          <span class="zh reveal" style="--d:.15s"><span>这个功能本身没有问题，那为什么用户一直隐藏它？</span></span>
+        </a></h2>
+        <p class="summary">用户持续隐藏某功能，虽符合需求文档但与品牌形象不符。研究显示，用户认为该功能与自身形象不符，导致使用意愿降低。设计师需关注用户自我认知与产品定位的匹配度，避免功能与用户身份脱节。</p>
+      </div>
+    </article></main>
+
+<footer class="foot">
+  <span>[ RS PRODUCT EXPERIENCE GROUP ]</span>
+  <span>每个工作日早晨更新 · 本页生成于 2026-08-22 09:54</span>
+</footer>
+
+<script>window.__DAYS__=[{"date": "2026-08-22", "scanned": 545}, {"date": "2026-08-21", "scanned": 659}, {"date": "2026-08-20", "scanned": 775}];</script>
+<script>
+(function(){
+  var DAYS = window.__DAYS__ || [];          // 由服务端内联，新的在前
+  var rows  = [].slice.call(document.querySelectorAll('.row'));
+  var chips = [].slice.call(document.querySelectorAll('.chip'));
+  var elVal = document.getElementById('dayval');
+  var elPrev= document.getElementById('dayprev');
+  var elNext= document.getElementById('daynext');
+  var elCount=document.getElementById('shown');
+  var elScan =document.getElementById('scanned');
+
+  var di = 0;        // 当前在 DAYS 里的下标，0 = 最新一天
+  var cat = 'ALL';
+
+  // 支持用 ?d=YYYY-MM-DD 直接打开某一天。
+  // 飞书简报里的链接带这个参数，好处有两个：
+  //   1. 明天再点开今天那条群消息，看到的还是今天的内容，不会串到最新一天
+  //   2. 参数不同天天变，顺带绕开 CDN 缓存（否则点进来常常是上一版页面）
+  try {
+    var want = new URLSearchParams(location.search).get('d');
+    if (want) {
+      for (var k = 0; k < DAYS.length; k++) {
+        if (DAYS[k].date === want) { di = k; break; }
+      }
+    }
+  } catch (e) { /* 老浏览器不支持就算了，退回最新一天 */ }
+
+  function render(){
+    var day = DAYS[di] || {};
+    var n = 0, perCat = {};
+    rows.forEach(function(r){
+      var sameDay = r.dataset.date === day.date;
+      var sameCat = (cat === 'ALL' || r.dataset.cat === cat);
+      if (sameDay) perCat[r.dataset.cat] = (perCat[r.dataset.cat]||0) + 1;
+      var show = sameDay && sameCat;
+      r.classList.toggle('is-hidden', !show);
+      if (show) n++;
+    });
+
+    if (elVal)  elVal.textContent = day.date || '—';
+    if (elCount) elCount.textContent = n;
+    if (elScan) elScan.textContent = (day.scanned != null ? day.scanned : '—');
+    // DAYS 新的在前，所以「上一天」是往下标大的方向走
+    if (elPrev) elPrev.disabled = (di >= DAYS.length - 1);
+    if (elNext) elNext.disabled = (di <= 0);
+
+    var dayTotal = Object.keys(perCat).reduce(function(a,k){return a+perCat[k];},0);
+    chips.forEach(function(c){
+      var k = c.dataset.cat;
+      var num = (k === 'ALL') ? dayTotal : (perCat[k] || 0);
+      var slot = c.querySelector('.n');
+      if (slot) slot.textContent = num;
+      c.disabled = (num === 0 && k !== 'ALL');
+      c.style.opacity = c.disabled ? '.32' : '';
+      c.setAttribute('aria-pressed', String(k === cat));
+    });
+  }
+
+  function go(step){
+    var next = di + step;
+    if (next < 0 || next >= DAYS.length) return;
+    di = next; cat = 'ALL'; render();
+  }
+  if (elPrev) elPrev.addEventListener('click', function(){ go(1); });   // 往回翻
+  if (elNext) elNext.addEventListener('click', function(){ go(-1); });  // 往回走
+  chips.forEach(function(c){
+    c.addEventListener('click', function(){ if(!c.disabled){ cat = c.dataset.cat; render(); } });
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'ArrowLeft')  go(1);
+    if (e.key === 'ArrowRight') go(-1);
+  });
+  render();
+
+  // ── 入场动效 ───────────────────────────────────────────────
+  // 首屏格言立刻播；列表项滚到视口里才播，避免一进页面全部动完，
+  // 往下滚时就没有任何反馈了。
+  var reduce = window.matchMedia &&
+               window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function playHero(){
+    var hero = document.querySelector('.hero');
+    if (hero) requestAnimationFrame(function(){ hero.classList.add('is-in'); });
+  }
+
+  if (reduce || !('IntersectionObserver' in window)) {
+    // 不支持或用户关了动效：直接给最终状态
+    document.querySelectorAll('.hero, .row').forEach(function(el){
+      el.classList.add('is-in');
+    });
+  } else {
+    playHero();
+    // 同一批进入视野的行之间也要错开，否则一屏里好几条会齐刷刷一起动。
+    // 只对「同时被观察到」的这一批排队，所以慢慢滚时每条都是即时响应的。
+    var STAGGER = 130;   // 毫秒，相邻两行的间隔
+    var io = new IntersectionObserver(function(entries){
+      var hit = entries.filter(function(e){ return e.isIntersecting; });
+      hit.forEach(function(e, k){
+        var el = e.target;
+        io.unobserve(el);            // 只播一次，来回滚不重复
+        var d = (k * STAGGER) / 1000;
+        el.style.setProperty('--d', d + 's');
+        el.style.setProperty('--d2', (d + 0.24) + 's');
+        el.classList.add('is-in');
+      });
+    }, {rootMargin: '0px 0px -12% 0px', threshold: 0.05});
+
+    document.querySelectorAll('.row').forEach(function(r){ io.observe(r); });
+
+    // 切换日期后，新露出来的行要重新纳入观察 ——
+    // 它们之前是 display:none，观察器看不到，不接管就会一直停在初始位置
+    var origRender = render;
+    render = function(){
+      origRender();
+      document.querySelectorAll('.row:not(.is-hidden):not(.is-in)').forEach(function(r){
+        io.observe(r);
+      });
+    };
+  }
+})();
+</script>
+</body>
+</html>

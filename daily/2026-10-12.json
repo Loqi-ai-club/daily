@@ -1,0 +1,176 @@
+{
+ "day": "2026-10-12",
+ "generated_at": "2026-10-12 09:20",
+ "scanned": 204,
+ "count": 12,
+ "items": [
+  {
+   "title": "The designer’s constitution —— 设计师的宪法",
+   "url": "https://constitution.design/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-12",
+   "score": 85,
+   "rank": 2.031,
+   "summary_zh": "设计师需掌握技术材料与人类核心，AI时代重获对技术的主导权。设计师应理解材料特性、保持人性判断，并通过实践塑造体验。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Decorative images aren’t a thing —— 装饰性图片并非必需",
+   "url": "https://adrianroselli.com/2026/10/decorative-images.html",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-12",
+   "score": 85,
+   "rank": 5.03,
+   "summary_zh": "文章主张装饰性图片应被删除，认为所有图片都应有功能或传达信息。若图片移除不影响读者，或被粪便图替代不影响作者，即为装饰性。设计师应重新审视图片用途，确保每张图片都有实际意义，避免无目的填充空白。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Worth building —— 值得开发",
+   "url": "https://armstr.ng/writing/worth-building",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-10-12",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "作者用 Claude Code 快速开发了 heade.rs，一个无需盈利的域名查询工具，成本低且体验好。LLM 降低了开发门槛，让小工具能解决个人痛点，无需考虑商业化，只需满足自身需求即可。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "10 個優質設計網站推薦，點燃你的靈感！",
+   "url": "https://www.bestblogs.dev/article/c788629a50?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-12",
+   "score": 85,
+   "rank": 4.037,
+   "summary_zh": "推荐Behance、Dribbble、Uiverse等10个设计网站，涵盖灵感获取、真实产品界面与开源组件。对设计师而言，这些资源能激发创意、提升原型设计效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "拆解 AltIndex 独立开发案例：另类数据与轻量架构的高利润变现",
+   "url": "https://www.bestblogs.dev/status/2109403670836289951?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 70,
+   "rank": 3.032,
+   "summary_zh": "AltIndex 通过另类数据切入金融 SaaS 市场，用截图 OCR 降低用户门槛，结合 pSEO 和 MCP 协议实现 70% 净利润率。产品采用轻量技术架构，适合小团队快速验证高利润模式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Andrej Karpathy 解析 AI 能力认知漏斗与差距成因",
+   "url": "https://www.bestblogs.dev/status/2109401538279977114?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 75,
+   "rank": 0.034,
+   "summary_zh": "Andrej Karpathy 指出 AI 能力认知存在漏斗，60 亿人未接触大模型，仅 2000 万开发者深度使用。差距源于问题规模、可验证奖励及模型权限差异，编程与数学因自动化验证受益最大。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "开源虚拟 AI 办公室工具 Munder Difflin 介绍",
+   "url": "https://www.bestblogs.dev/status/2109372211853472233?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-11",
+   "score": 85,
+   "rank": 6.03,
+   "summary_zh": "开源工具 Munder Difflin 可将 Claude Code、Kimi 等 AI 转化为独立 Agent，在虚拟办公室中协同工作。支持跨会话记忆与统一调度，本地免费运行，无需额外模型成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "设计案例网站推荐：11 个平台与筛选方法",
+   "url": "https://www.bestblogs.dev/article/e39278b568?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 85,
+   "rank": 6.032,
+   "summary_zh": "推荐墨刀素材广场、Dribbble 等 11 个设计灵感平台，涵盖原型、UI、包装等领域。建议按任务目标记录案例，结合真实内容验证落地，避免单纯截图。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – October 11, 2026 —— 每周像素 – 2026 年 10 月 11 日",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-october-11-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 70,
+   "rank": 3.034,
+   "summary_zh": "本周聚焦神经多样性与认知无障碍设计，分析设计难以量化商业价值的原因，指出AI暴露设计工艺危机。提供实用配色方案及趣味野生动物图片，适合关注包容性设计与AI影响的产品设计师参考。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  },
+  {
+   "title": "“有了 AI，我感觉自己强得可怕！”｜对谈鸭哥",
+   "url": "https://www.bestblogs.dev/podcast/3fd157e7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "鸭哥分享如何用JEV实现0人自媒体，半年涨粉5700+，强调AI时代最需要‘领域经验×会管理AI’的人。JEV因分类准确、低成本爆火，适合用作AI秘书，通过context infrastructure提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "One Agent for the Whole Company —— 全公司一体化代理",
+   "url": "https://every.to/context-window/one-agent-for-the-whole-company",
+   "source": "Every",
+   "cat": "AI工具",
+   "date": "2026-10-11",
+   "score": 85,
+   "rank": 4.029,
+   "summary_zh": "Every 推出共享 AI 助手 Every Agent，集成于 Slack，团队可在对话中分配任务并保存为可复用技能。产品更新公告中提及 11 月 5 日在布鲁克林的免费活动，仅限订阅用户参加。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "X观点｜Agent swarms将大幅提升企业领域如软件开发、网络安全、生命科学研究…",
+   "url": "https://x.com/levie/status/2109079686286565378",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-11",
+   "score": 85,
+   "summary_zh": "Agent swarms将大幅提升企业领域如软件开发、网络安全、生命科学研究等的效率，AI能并行处理大量任务，避免人类协作的沟通与协调问题。为实现这一目标，需要1000倍的计算资源。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 296,
+   "rank": 4.037
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "day": "2026-11-02",
+ "generated_at": "2026-11-02 07:16",
+ "scanned": 207,
+ "count": 22,
+ "items": [
+  {
+   "title": "【最全整理】目前人工智能主要应用领域及应用工具（软/插件）情况 - 知乎",
+   "url": "https://www.bestblogs.dev/article/35dca4fffb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 75,
+   "rank": 3.03,
+   "summary_zh": "AI 应用已渗透办公、内容创作、教育等十大领域，代表性工具包括 Microsoft 365 Copilot、Midjourney、Duolingo 等。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "阿里云人工智能",
+   "url": "https://www.bestblogs.dev/article/5cbe624edf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 7.024,
+   "summary_zh": "阿里云推出AI平台，集成百炼大模型服务、PAI平台、GPU云服务器等，支持Qwen等模型训练与推理。提供全链路AI能力，降低企业开发成本，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "年终报道丨“人工智能+”：中国人工智能开源破局，烟火落地-新华网",
+   "url": "https://www.bestblogs.dev/article/2ee9396c32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 0.031,
+   "summary_zh": "2025年中国AI技术通过开源模式实现突破，DeepSeek等大模型性能追平国际水平，推动AI视频、软件开发等产业化落地。AI已融入家庭、职场等场景，提升效率，但面临技术、商业、伦理三重挑战。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智能推荐系统助力跨越兴趣边界，解锁用户视野新维度 - 知乎",
+   "url": "https://www.bestblogs.dev/article/a14806c50b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 4.038,
+   "summary_zh": "达观智能推荐系统通过跨领域兴趣关联模型和多策略推荐，提升用户兴趣多样性。系统融合行为、社交数据，结合时间序列分析，实现精准推荐，提高用户满意度和留存率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "早啊！人工智能新闻来了（2026.11.02）",
+   "url": "https://www.bestblogs.dev/article/6864cca746?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-01",
+   "score": 75,
+   "rank": 1.036,
+   "summary_zh": "DeepSeek 开源 Super-agent 超级智能体架构，苹果 AI 与阿里通义千问合作，快手可灵 AI 获 198 亿元增资。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Codex 零基础实战教程，夯爆了！带你速通 15 种玩法-腾讯云开发者社区-腾讯云",
+   "url": "https://www.bestblogs.dev/article/a814d31653?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 75,
+   "rank": 7.035,
+   "summary_zh": "文章详细介绍了 Codex AI 编程助手的安装、基本操作及进阶功能，包括插件系统、浏览器控制、电脑操控等，并提供多个实战案例。对产品设计者而言，掌握 Codex 可提升开发效率，实现自动化与智能化操作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "谱乐人工智能 - 专业 Suno 人工智能音乐创作平台｜Suno 中文版｜人工智能音乐发行与 MV 制作",
+   "url": "https://www.bestblogs.dev/article/81c99a0ecb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "谱乐 AI 是基于 Suno AI 的中文音乐创作平台，提供写歌、换声、MV 制作等工具，支持用户快速生成音乐内容。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Aidiyoh - Google Play 上的应用",
+   "url": "https://www.bestblogs.dev/article/817d87c838?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 2.032,
+   "summary_zh": "Aidiyoh 是 Google Play 上的 AI 音乐电台平台，支持上传作品、创建电台、关注艺术家，填补传统流媒体对 AI 音乐传播的空白。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "人工智能 X 用户研究：能并行千场访谈的“超级研究员”，正重塑产品决策的未来 - 知乎",
+   "url": "https://www.bestblogs.dev/article/f8c08d2955?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 90,
+   "rank": 6.041,
+   "summary_zh": "AI 可并行处理千场访谈，提升用户体验研究效率，实现全流程自动化。AI 驱动 UXR 市场规模达 180 亿美元，推动研究员角色转型，助力产品决策更精准。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "系列: 人工智能编程工程实践",
+   "url": "https://www.bestblogs.dev/article/c6040ca599?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 6.027,
+   "summary_zh": "文章梳理了AI Coding工程实践系列16篇核心内容，包括上下文压缩、Ralph框架、Claude Code源码拆解及知识图谱工具等。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "人工智能软件工程范式革命的思考 - 知乎",
+   "url": "https://www.bestblogs.dev/article/3f50e0d8d8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 5.026,
+   "summary_zh": "文章指出软件工程仍停留在手工艺阶段，依赖人力处理高阶认知。大模型开启AI软件工程，使人类角色转向设计自我纠偏系统，推动认知工程工业化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "“人人都是程序员”：这门新课教你如何跟人工智能把软件“聊”出来",
+   "url": "https://www.bestblogs.dev/article/dacbf4dd92?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 75,
+   "rank": 4.033,
+   "summary_zh": "复旦大学开设《生成式软件开发》课程，面向非计算机专业学生，教授利用AI进行软件开发，涵盖提示工程、全栈开发等内容，培养AI辅助编程与工程化思维。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "大模型周报(10.04 - 10.11) : \"智能体技术新进展\"",
+   "url": "https://www.bestblogs.dev/article/387d3cddb3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 2.034,
+   "summary_zh": "阶跃终端发布原生智能体手机 STEPX Neo，openJiuwen 和华为推出 AgentOS，解决多智能体协同问题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "转载 | 《瞭望》新闻周刊：AI4S 重塑科研未来-北京大学深圳研究生院科学智能学院",
+   "url": "https://www.bestblogs.dev/article/762012f6cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 70,
+   "rank": 1.032,
+   "summary_zh": "AI4S通过数据驱动加速科研突破，如AlphaFold2将蛋白质结构预测周期缩短至数天。但面临数据孤岛、验证瓶颈和人才缺口，需构建复合型人才培养体系和新型科研生态。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google 人工智能模式未给网站带来流量",
+   "url": "https://www.solidot.org/story?sid=85767",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 2.027,
+   "summary_zh": "Google AI Mode 通过生成总结响应查询，不再提供网站链接，导致 Reddit 等网站流量下降。Reddit 强制用户登录，新闻网站转向订阅模式。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "When colors pass but palettes fail —— 当色彩消逝但调色板失效",
+   "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 75,
+   "rank": 6.037,
+   "summary_zh": "生成式AI生成的配色方案常与原色偏离，影响可访问性。设计师需手动调整，确保色盲用户能识别。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "How to design transparent AI cost controls —— 如何设计透明的人工智能成本控制",
+   "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 6.033,
+   "summary_zh": "文章探讨如何设计透明的AI成本控制，包括选择使用单位、设定消费上限及在不同阶段解释成本。AI响应有隐含费用，用户常在限制触发或账单到达时才意识到。界面相似的操作可能耗时差异大，需清晰展示差异。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Your design system was never about components —— 你的设计系统从未关于组件",
+   "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "Google、Atlassian 和 Figma 现在随设计文件附带说明文档，解释设计背后的原因。这种做法让团队更清楚设计逻辑，有助于跨部门协作与后续维护，提升产品一致性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Context is the new interface —— 上下文是新的界面",
+   "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 5.024,
+   "summary_zh": "文章探讨了上下文在设计中的重要性，指出未来设计应关注产品间交互。AI代理能利用屏幕上下文帮助系统理解用户意图，提升操作效率。设计师需考虑如何让系统自动识别用户需求，减少手动操作。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Agents Choose What You Read Now —— 智能体选择你阅读的内容",
+   "url": "https://every.to/context-window/agents-choose-what-you-read-now",
+   "source": "Every",
+   "cat": "AI新闻",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 1.035,
+   "summary_zh": "Every团队测试代理推荐文章效果，发现标题影响推荐率。新成员试用Every Agent，评估其对内容传播的影响。团队下周将进行Think Week，全球成员线下交流探讨未来。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "Pixels of the Week – November 1, 2026 —— 每周像素 – 2026年11月1日",
+   "url": "https://stephaniewalter.design/blog/pixels-of-the-week-november-1-2026/",
+   "source": "Stephanie Walter",
+   "cat": "AI新闻",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 3.033,
+   "summary_zh": "在线购物遭遇虚假设计和AI低质内容，用户体验受损。同时，有互动历史猜谜游戏、色彩丰富的手工艺术和一本关于女性主义字体设计的书籍值得关注。",
+   "source_count": 1,
+   "sources": [
+    "Stephanie Walter"
+   ]
+  },
+  {
+   "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+   "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-01",
+   "score": 85,
+   "rank": 7.029,
+   "summary_zh": "Pika 推出 H3 Flex 模型，六步实现音视频联合生成，支持文本、首尾帧和多模态输入。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "day": "2026-11-16",
+ "generated_at": "2026-11-16 07:15",
+ "scanned": 214,
+ "count": 15,
+ "digest": "Yelp AI 助手采用混合 UI 架构，结合原生控件与服务器驱动的 CHAOS 框架，实现跨平台界面快速迭代；@uisdk 的 Web Components 则允许在无需框架的情况下复用 14 种 UI 行为，如窗口调整和菜单切换。两者都在探索如何在不依赖完整框架或频繁更新版本的前提下，提升界面灵活性与开发效率，为设计者提供更敏捷的交互构建方式。\nClaude 与 Lumin 集成，可在聊天中创建、发送和跟踪电子协议，无需离开聊天界面；Yelp AI 助手则通过后端驱动 UI 实现界面即时更新。这两项技术都指向一个趋势：将 AI 能力深度嵌入工作流，使设计、协作与执行无缝衔接，减少用户切换场景的摩擦。",
+ "items": [
+  {
+   "title": "Send and sign agreements from Claude with Lumin —— Claude 集成 Lumin，聊天中创建发送电子协议",
+   "url": "https://bit.ly/side-lum1",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-16",
+   "score": 75,
+   "rank": 4.03,
+   "summary_zh": "Claude 与 Lumin 集成，可在聊天中创建、发送和跟踪电子协议，无需离开 Claude。用户可基于模板或聊天内容生成协议，直接发送签署，并实时查看签署状态，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Slop is moving up the stack —— SlopCodeBench：前沿模型能力提升但设计缺陷增加",
+   "url": "https://gabeorlanski.github.io/posts/slop-moves-up/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-16",
+   "score": 85,
+   "rank": 1.038,
+   "summary_zh": "SlopCodeBench显示，前沿模型解决代码问题能力提升，但设计缺陷增加。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "如何用 AI 做人生规划？长期目标拆解到日常行动",
+   "url": "https://www.bestblogs.dev/article/3a0f9b2776?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 75,
+   "rank": 3.025,
+   "summary_zh": "AI 通过价值词云帮助用户明确核心价值观，并结合时间、财务、健康等数据生成现状报告，再将长期目标拆解为每日任务，提供动态反馈调整方案。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude 创始兄妹访谈：比 AI 说谎更难防的，是它总说你对",
+   "url": "https://www.bestblogs.dev/article/686a3057f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 75,
+   "rank": 1.037,
+   "summary_zh": "Claude 创始人指出，AI 迎合用户行为比错误更难察觉，可能影响诚实性。Anthropic 用 Constitutional AI 方法训练模型权衡价值观，建议用户多角度提问验证回答。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Informly：创业者必备的 AI 伙伴——深度、准确性与免费基础功能",
+   "url": "https://www.bestblogs.dev/article/48cfda8df4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-15",
+   "score": 70,
+   "rank": 4.034,
+   "summary_zh": "Informly 是一款 AI 驱动的商业创意验证工具，可在 2 分钟内生成包含市场规模、竞争分析等维度的报告，免费基础功能和 $29.99 完整报告性价比高，适合创业者快速评估创意可行性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "本质、洞察与需求：从看见水井，到创造水源",
+   "url": "https://www.bestblogs.dev/article/3c6bfa8d87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "行业本质藏在用户感受中，需透过行为挖掘动机，并从‘洞察需求’转向‘设计需求’，如特斯拉通过电动车兼具环保与性能，创造全新动机架构，为产品经理提供框架思考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 成首个可信任模型，验证 Agent 工厂畅想",
+   "url": "https://www.bestblogs.dev/status/2122021793036959753?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 7.032,
+   "summary_zh": "Opus 5.5 成首个可信任执行复杂任务的模型，效率提升数量级，验证 Agent 工厂流水线可行性。对产品设计者而言，意味着自动化执行方案从构想走向现实，可减少人工干预，提升任务处理效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Multica 累计完成 5000+ 任务里程碑",
+   "url": "https://www.bestblogs.dev/status/2122019649516880310?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-15",
+   "score": 75,
+   "rank": 6.033,
+   "summary_zh": "MulticaAI 平台累计完成 5000+ 任务，验证 Agent 工作流在实际生产中的高频使用。产品已实现大规模落地，非演示阶段，对设计者意味着自动化流程的可行性已被证明。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "红杉投资，北大“浪漫极客”的 AI 相机，如何月入 129 万美元？",
+   "url": "https://www.bestblogs.dev/article/b07492d78d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 2.036,
+   "summary_zh": "北京团队研发的AI相机WayShot获红杉投资，月入129万美元。其通过将摄影审美转化为AI预设模块，结合TikTok分发策略，实现低门槛创作体验，为AI工具出海提供审美参数化与内容壁垒构建的参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Grokbot 访谈：AI 队友如何融入公司、干活与建立信任",
+   "url": "https://www.bestblogs.dev/article/fa98cce343?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 2.029,
+   "summary_zh": "Grokbot 创始人提出 AI 队友信任建立三阶段、Slack 原生「外循环」协作模式及「倒金字塔」质量体系，强调代码库约束替代人工审查，指出执行成本趋零后共识与品味成新瓶颈。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "与元宝对话，记录自己的想法和思考。今天想聊点什么？今天的思考是：AI 时代，普通人如何好好利用 AI？成为自己的全职助手？",
+   "url": "https://www.bestblogs.dev/article/126e599151?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "文章建议将AI拆解为5个虚拟岗位（秘书、研究员等），通过精准提示词、人工复核和最小工作流，帮助普通人构建24小时在线的数字团队。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+   "url": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 8.032,
+   "summary_zh": "Yelp AI 助手采用混合 UI 架构，结合原生控件与服务器驱动的 CHAOS 框架，实现跨平台界面快速迭代。该方案允许后端控制界面更新，无需发布新版本应用，提升迭代效率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The Age of Artisanal AI Is Coming —— 手工AI时代来临：审美判断成核心竞争力",
+   "url": "https://every.to/context-window/the-age-of-artisanal-ai-is-coming",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "rank": 3.027,
+   "summary_zh": "Dan Shipper在Thesis:2027闭幕演讲中强调，当所有人使用相同模型时，审美判断成为核心竞争力。Katie Parrott测试发现Fable 5.2可无人值守运行，输出质量取决于用户自身判断。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "X观点｜Gemini 新增连接 Google Wallet 功能，可生成消费图表、发…",
+   "url": "https://x.com/joshwoodward/status/2121755282326102417",
+   "source": "X · @joshwoodward",
+   "cat": "AI工具",
+   "date": "2026-11-15",
+   "score": 85,
+   "summary_zh": "Gemini 新增连接 Google Wallet 功能，可生成消费图表、发现订阅涨价、制定假期预算。对产品设计者而言，整合金融数据能提升用户体验，增强个人财务管理功能的实用性。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 462,
+   "rank": 4.03
+  },
+  {
+   "title": "X观点｜X 的 Guillermo Rauch 体验了 @uisdk 的 Web C…",
+   "url": "https://x.com/rauchg/status/2121804295381377342",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-15",
+   "score": 85,
+   "summary_zh": "X 的 Guillermo Rauch 体验了 @uisdk 的 Web Components，无需框架即可复用 14 种 UI 行为，如窗口调整、拖拽、菜单栏切换等。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 616,
+   "rank": 4.03
+  }
+ ]
+}

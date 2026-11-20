@@ -1,0 +1,282 @@
+{
+ "day": "2026-09-12",
+ "generated_at": "2026-09-12 07:17",
+ "scanned": 272,
+ "count": 21,
+ "items": [
+  {
+   "title": "“我们在拿生命做赌注”：造AI的人为何开始密集预警？",
+   "url": "https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "Paul Christiano 加入 OpenAI 基金会董事会后警告，若缺乏协调机制，超级智能可能失控，人类或永久失去控制。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Courtesy —— 鸣谢",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/u7u2tcnsd8e0o4vmyejf.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "Wispr 推出语音输入工具 Flow，可在 Slack、文档、邮件等场景中直接语音输入，无需切换工具或复制粘贴。产品设计者可关注其提升多任务处理效率的交互方式。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "银行智能体上岗：4200万小微经营者可用，信贷、票据、财税一站式服务",
+   "url": "https://www.qbitai.com/2026/09/487631.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "网商银行推出AI Agent百灵2.0，4200万小微商家可在线办理信贷、票据、财税等业务，10分钟完成40万融资。AI深入风控、审批、营销等环节，提升效率与精准度，实现个性化金融服务。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "在外滩大会上，我看到下一代健康 AI +硬件的样子",
+   "url": "https://www.bestblogs.dev/article/ad60283be3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "蚂蚁阿福在外滩大会展示连接18个品牌健康硬件的AI生态，覆盖体脂秤、手环等设备，用户达1.5亿。AI通过解读数据指导行动，如分析血糖变化，推动健康管理从‘知道’到‘做到’。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "“数据比模型重要”成了共识，接下来拼什么？",
+   "url": "https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "Snowflake 全球产品总裁 Christian Kleinerman 与多位行业专家达成共识：当前企业 AI 落地的瓶颈在于数据和语义层，而非模型。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Test Complex Interactions Earlier with AI Prototyping —— 利用AI原型设计提前测试复杂交互",
+   "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "AI工具让复杂交互原型制作更快更真实，Ramp团队用Cursor设计费用政策编辑器和对话式AI报销流程，用户测试发现界面逻辑问题。普渡大学用AI原型帮助交通工程师分析交通数据，提升测试效率。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "AI Can Help Write an Article, but It Can’t Stand Behind It —— AI能协助撰写文章，但无法为此负责",
+   "url": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "欧盟2024年AI法案要求AI生成的公共利益文本需披露来源，但经人工审核的内容除外。NN/G在编辑过程中使用AI辅助写作，但最终由人类负责内容准确性。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "打造行业智能，升级三大 AI 服务！来了→",
+   "url": "https://www.bestblogs.dev/article/b6b2f06e7a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "蚂蚁保升级三大AI服务：AI保险帮选、AI保险快查、AI保险顾问，解决用户选择难、查找难、理解难问题。基于深度用户理解，推动AI从通用智能向行业智能落地，提升保险信息平权。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "使用 Gemini 3.8 Flash Review 优化项目国际化翻译",
+   "url": "https://www.bestblogs.dev/status/2098420171962736849?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "作者用 Gemini 3.8 Flash 校准 AI 翻译的中文结果，发现直接从英文机器翻译的文本保留了英文句式结构，不够自然。Gemini 能将其转化为更符合中文习惯的表达，提升翻译质量。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+   "url": "https://www.bestblogs.dev/article/30e8693d08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "百度秒哒升级为企业级无代码平台，支持组织协作与权限管理，辽丝锦、蓝海黑石等企业已用其搭建业务系统。用户增长200倍，日活近20万人，87%用户无编程基础。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "量子位"
+   ]
+  },
+  {
+   "title": "瞄准老年人，「AI 相框」融了千万人民币",
+   "url": "https://www.bestblogs.dev/article/c4ae92ce0a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "HeyBondi 推出 AI 相框，针对北美独居老人推出免操作语音交互和智能照片推送功能，定价 299 美元。产品通过硬件带动软件模式切入老龄化市场，完成千万级融资，为设计师提供硬件+AI 的家庭场景创新案例。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Building A UX ROI Case That Survives The Boardroom —— 构建一个能经受董事会审视的用户体验ROI案例",
+   "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "文章通过案例说明如何用数据证明用户体验投资的价值，包括定义商业价值、计算成本、测试因果关系，帮助设计师在高层会议上争取支持。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "半世纪前的AI画作到AI歌手线下开唱，2026外滩大会AI艺术节勾勒人机共创新图景",
+   "url": "https://www.leiphone.com/category/industrynews/9kc5LWEjsnYINmQO.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 75,
+   "summary_zh": "2026外滩大会AI艺术节设立AI概念艺术展、影像展映和音乐会，AI歌手线下开唱。AI深度参与创作，激发人类想象力、感受力等独特能力，推动人机共创艺术新形式。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "AI新经济走向真实商业，蚂蚁APASS构建智能体信任基础设施",
+   "url": "https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "蚂蚁集团发布APASS信任基础设施，基于KYA理念，提供智能体身份注册、持续核验、意图安全等能力，为Agent参与支付等商业活动建立信任基础。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Acrobat's AI transforms documents into interactive summaries and polished deliverables. —— Acrobat的AI将文档转化为交互式摘要和精炼的交付成果",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/f083wfwpipxkukjq29nd.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "Acrobat 新增 AI 功能，可将文档转为可视化摘要、互动报告、播客和音频，提升理解效率。Stylize 功能一键美化文档，保留原文数据且不训练模型。适合需要快速整理和分享文档内容的设计师与用户。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "不简单，“吃货快乐榜”也全面AI化了",
+   "url": "https://www.qbitai.com/2026/09/487282.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "高德扫街榜2026版全面AI化，基于空间智能和ABot-Earth 0.7生成3D城市模型，提升榜单精准度。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0",
+   "url": "https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "蚂蚁密算开源HOP 3.0，推出智能体原生语言，提升金融、医疗等场景的可靠性。该版本解决智能体失控问题，增强AI执行的可控性与数据安全性，为开发者提供更可信的技术框架。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "金融领域首个智能体安全标准发布",
+   "url": "https://www.leiphone.com/category/industrynews/tyenZtjsxcp3OzDb.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "北京金融科技产业联盟发布国内首个金融智能体安全标准，要求第三方智能体操作金融App需同时获得用户与机构授权。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "豆包工作新增本地Office编辑、浏览器录制与回放等功能",
+   "url": "https://www.leiphone.com/category/industrynews/yxQfJirnLSi8BOoA.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "豆包工作新增本地Office编辑、浏览器录制与回放功能，支持PPT、Excel文件直接调用AI处理，操作流程可生成Skill复用。任务执行环境可自由切换本地与云电脑，提升AI处理复杂任务能力。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜X 推出可快速部署的 AI 代理服务，基于 ChatGPT Work 的基础…",
+   "url": "https://x.com/thsottiaux/status/2098238138334548260",
+   "source": "X · @thsottiaux",
+   "cat": "AI工具",
+   "date": "2026-09-11",
+   "score": 85,
+   "summary_zh": "X 推出可快速部署的 AI 代理服务，基于 ChatGPT Work 的基础设施，通过 API 在 1 分钟内启动。产品设计者可借此快速构建 AI 应用，降低开发门槛。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 2715
+  },
+  {
+   "title": "X观点｜多位科技领袖讨论企业中代理技术的应用，指出AI安全、模型选择、流程重构、架构…",
+   "url": "https://x.com/levie/status/2098218284139311615",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-11",
+   "score": 70,
+   "summary_zh": "多位科技领袖讨论企业中代理技术的应用，指出AI安全、模型选择、流程重构、架构调整等是当前重点。企业普遍采用多个前沿模型，但标准化困难。AI评估和遗留系统仍是挑战，需持续优化。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 220
+  }
+ ]
+}

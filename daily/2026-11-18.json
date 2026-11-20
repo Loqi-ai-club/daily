@@ -1,0 +1,445 @@
+{
+ "day": "2026-11-18",
+ "generated_at": "2026-11-18 07:19",
+ "scanned": 292,
+ "count": 31,
+ "digest": "Netflix 推出 AI Discover 功能，基于用户观看历史优化推荐，同时 Replit 发布 Missions，用智能体集群按目标完成复杂工作，这两项进展共同指向 AI 在个性化与自动化流程中的应用深化。设计师可以从 Netflix 的推荐逻辑中学习如何将用户行为数据转化为体验优化，而 Replit 的智能体协作模式则提供了如何通过 AI 分解并执行复杂任务的参考案例。\nUIST 2026 最佳论文提出的声明式拖拽技术 D2，以及 Vercel 推出的 AI 设计组件库，都在尝试降低交互设计的复杂度。前者通过定义拖拽状态自动生成交互逻辑，后者则提供标准化的 AI UI 模块，两者结合说明设计工具正在向「声明式」和「模块化」演进，让设计师更专注于体验本身，而非底层实现。",
+ "items": [
+  {
+   "title": "Claude Code 推出实验性 Code Mode 工具调用方式",
+   "url": "https://x.com/ClaudeDevs/status/2122801681939234950",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "Claude Code 推出实验性 Code Mode，一种新的工具使用方式：Claude 会编写脚本以复杂方式串联多个工具，并能在长命令仍在运行时回复用户。可通过设置环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 开启，文档见 http://code.claude.com/docs/en/code-mode。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "规范驱动开发（Spec-driven development） | Technology Radar | Thoughtworks China —— Thoughtworks 评估三款规范驱动开发工具",
+   "url": "https://www.bestblogs.dev/article/7024829d56?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 3.038,
+   "summary_zh": "Thoughtworks 评估了 Kiro、spec-kit 和 Tessl Framework 三款规范驱动开发工具，指出其通过结构化规范推动开发，但流程繁琐、生成内容冗长，可能难以规模化。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布",
+   "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 2.03,
+   "summary_zh": "Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "AI 生成字体功能测试",
+   "url": "https://www.bestblogs.dev/status/2122757967552606222?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 75,
+   "rank": 6.026,
+   "summary_zh": "AI 工具能从达芬奇手稿提取笔迹生成字体，也可通过语言描述生成字体。对设计师而言，这提供了新的字体创作方式，节省时间并拓展创意可能性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Product Plus: AI Product Photo - Apps on Google Play —— Product Plus：AI 生成电商产品图，支持多平台",
+   "url": "https://www.bestblogs.dev/article/d3bf4343d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 6.03,
+   "summary_zh": "Product Plus 是基于 AI 的产品图片生成工具，支持 Amazon、Etsy、Shopify 等平台，提供背景移除、模型试穿、多角度拍摄等功能，可快速生成专业电商图片，提升转化率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The AI workspace that works for you. | Notion —— Notion 推出 AI 工作空间，提升团队协作效率",
+   "url": "https://www.bestblogs.dev/article/25612c685a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.028,
+   "summary_zh": "Notion 推出 AI 工作空间，支持智能捕获、查找与自动化，提升团队协作效率。OpenAI、Figma 等企业已使用，覆盖 1 亿用户，50% YC 公司和 62% 福布斯 100 强企业均在使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "手写转字体 AI 工具体验",
+   "url": "https://www.bestblogs.dev/status/2122756978216976509?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 4.03,
+   "summary_zh": "AI 工具可将手写字体照片转为英文字体，操作简便但不支持中文。对设计师而言，可快速生成英文风格字库，适用于需要个性化字体的 UI 设计场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Building the Agent Host Protocol for sessions that continue across devices —— 构建跨设备会话持续的 Agent 主机协议",
+   "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+   "source": "GitHub Blog",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 5.028,
+   "summary_zh": "GitHub推出Agent Host Protocol协议，支持代理会话在编辑器、应用、手机和云端跨设备同步。该协议为开发者提供更灵活的开发环境，提升多设备协作效率。",
+   "source_count": 1,
+   "sources": [
+    "GitHub Blog"
+   ]
+  },
+  {
+   "title": "GPT-6.2 Astra 发布 —— GPT-6.2 Astra 模型发布，专业任务表现领先",
+   "url": "https://www.bestblogs.dev/status/2122754691088126109?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 1.041,
+   "summary_zh": "GPT-6.2 Astra 模型在专业任务和科研评测中表现领先，单任务成本仅为上一代 GPT-6 Astra 的三分之一。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Zoom AI PPT 功能评测",
+   "url": "https://www.bestblogs.dev/status/2122754446023401868?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "Zoom 推出 AI PPT 功能，支持文本、语音、图片输入，生成的演示稿可直接在 Zoom 演示并支持多人协作。该功能有助于提升会议效率，设计师可借此快速制作演示内容。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat",
+   "url": "https://replit.com/blog/introducing-replit-missions",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Vercel AI 设计组件库",
+   "url": "https://www.bestblogs.dev/status/2122749977281835500?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.043,
+   "summary_zh": "Vercel 推出 AI 设计组件库，支持查看技术栈并生成对应 Prompt。该工具可帮助开发者快速构建 AI 应用，提升开发效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 界面设计避免 Slop 风格",
+   "url": "https://www.bestblogs.dev/status/2122749798348698021?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 83,
+   "rank": 6.028,
+   "summary_zh": "文章建议用 Vercel 风格的黑白灰配色和专为 Agent 设计的组件库，提升 AI 生成界面的专业感。设计师可参考此方案优化 AI 生成的 UI，使界面更符合用户预期。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Introducing GPT-6.2 Astra and Sol —— OpenAI发布GPT-6.2 Astra和Sol，专业与日常使用各有优势",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 80,
+   "rank": 5.025,
+   "summary_zh": "OpenAI发布GPT-6.2 Astra和Sol，Astra在专业任务中表现更优，成本降低；Sol效率提升，适合日常使用。Astra在科学、法律等专业领域表现突出，输出更符合行业标准。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Engineering AI Discover —— Netflix 推出 AI Discover，基于观看历史优化推荐",
+   "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+   "source": "Netflix Tech",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 8.035,
+   "summary_zh": "Netflix 推出 AI Discover 功能，基于用户观看历史提供个性化推荐。该功能通过机器学习算法优化内容发现方式，提升用户体验。设计师可参考其推荐逻辑，优化产品中的内容推荐机制。",
+   "source_count": 1,
+   "sources": [
+    "Netflix Tech"
+   ]
+  },
+  {
+   "title": "X 平台 AI 内容检测机制争议：速度与复制粘贴被误判为垃圾机器人",
+   "url": "https://www.bestblogs.dev/status/2122736525373042757?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 75,
+   "rank": 4.041,
+   "summary_zh": "X 平台 AI 内容检测机制误判用户快打字或复制粘贴为垃圾机器人，引发争议。该机制影响真实用户使用体验，对产品设计者提示需优化 AI 检测逻辑，避免误伤正常用户行为。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Put Gemini to work for you —— Google推出Gemini 4 Hydrogen模型 免费支持",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "Google推出Gemini 4 Hydrogen模型，免费向多国用户开放，支持处理日程、预约、购物等任务。",
+   "source_count": 2,
+   "sources": [
+    "Google The Keyword",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Temporary threads are now available in AI Mode in Search. —— Google搜索AI模式新增临时对话功能",
+   "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 3.025,
+   "summary_zh": "Google搜索AI模式新增临时对话功能，用户可匿名提问且不保存记录，适合处理隐私敏感查询。该功能已全球上线，支持所有AI模式语言，无需调整设置即可使用。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost. —— Google Vids 免费开放个人数字人像创建功能",
+   "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 2.027,
+   "summary_zh": "Google Vids 现开放免费创建个人数字人像功能，用户可通过扫描二维码生成专属虚拟形象，并用于视频创作。该功能支持自定义外观与声音，且形象可跨场景重复使用，适用于内容创作者快速制作视频。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Courtesy —— Adobe Firefly AI助手新增多步骤任务功能",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/njd1e77opjykxow0twh9h0vr1dkfvwjqktr0rcu3.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "Adobe Firefly AI助手（测试版）新增多步骤任务功能，可调用Premiere、Illustrator等工具，用户可随时修改指令。同时预览本地MCP集成，让创意专业人士更直接控制第三方代理。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉",
+   "url": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 5.036,
+   "summary_zh": "SAP指出企业部署AI Agent面临数据分散、规则不统一等挑战，需先实现数据标准化和语义就绪。Agent需理解业务上下文，协调多系统，但自主权有限，执行层任务更易落地，管理层仍需人工干预。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Suno 发布 Visuals：为歌曲生成视频与图像",
+   "url": "https://suno.com/blog/introducing-visuals",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 3.043,
+   "summary_zh": "Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Meet AI 2027 Conference (Dec 1) —— AI 2027 会议聚焦 AI 设计系统与 Figma 集成",
+   "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+   "source": "Smashing Magazine",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.028,
+   "summary_zh": "AI 2027 会议聚焦 AI 设计系统与 Figma 集成，探讨 2027 年 AI 设计趋势及最佳实践。设计师可了解 AI 设计模式，学习如何构建 AI 就绪的设计系统。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+   "url": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 4.028,
+   "summary_zh": "宝洁中国将AI融入研发全流程，尝试用Agent串联需求到运维环节，推动组织向ADLC转型。流程重构需重新设计分工与协作，技术负责人需亲自实践验证方案，团队协作依赖知识库共享思考过程。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
+   "url": "https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 4.025,
+   "summary_zh": "阿里发布Qwen4-Max，参数2.4T，前端编程全球第六，单任务成本降58%。模型采用稀疏注意力架构，提升效率，支持长周期任务，适用于汽车制造、金融投研等领域。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The young rebel alliance trying to get people to love technology again —— 旧眼镜店变身科技体验空间，展示人性化交互设计",
+   "url": "https://www.fastcompany.com/91641387/the-young-rebel-alliance-trying-to-get-people-to-love-technology-again?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 75,
+   "rank": 5.031,
+   "summary_zh": "旧眼镜店变身科技体验空间，展示卡通青蛙电脑、触感按钮的电子墨水笔记本和肩上AI鹦鹉。这些设计强调人性化交互，为产品设计师提供新思路：技术应更贴近生活，而非冷冰冰的工具。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Band-aid accessibility —— 残障用户用LLM开发无障碍工具，质量与可持续性引关注",
+   "url": "https://yatil.net/blog/band-aid-accessibility",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 70,
+   "rank": 7.035,
+   "summary_zh": "越来越多残障人士使用LLM工具自行开发无障碍功能或应用，但质量参差不齐，长期可持续性存疑。对产品设计者意味着：需重视残障用户真实需求，避免依赖临时解决方案，推动主流软件提升无障碍设计。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Declarative dragging —— UIST 2026最佳论文提出声明式拖拽技术D2",
+   "url": "https://declarative-dragging.github.io/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 75,
+   "rank": 8.027,
+   "summary_zh": "UIST 2026最佳论文提出声明式拖拽技术D2，通过定义元素拖拽后的状态自动生成交互，无需手动处理几何和动画。该技术已实现为Dragology库，适用于SVG界面，提升教育、游戏等场景的交互设计效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up? —— AI加速开发，无障碍测试如何跟上？",
+   "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 85,
+   "rank": 6.033,
+   "summary_zh": "AI加速了产品开发，但无障碍测试未能同步。Andrew Chung指出，部分团队通过结合人工判断与AI流程，保持了无障碍测试质量。产品设计者需重视AI工具与人工审核的结合，确保无障碍标准不被忽视。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "Introducing ChatGPT for Sales —— 推出面向销售的 ChatGPT",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-11-17",
+   "score": 75,
+   "rank": 3.024,
+   "summary_zh": "OpenAI推出ChatGPT for Sales，集成30余个插件，帮助销售团队缩短销售周期。提供客户信息整合、会议准备、跟进邮件生成等功能，提升销售效率。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "X观点｜员工使用AI令牌数量持续增长，AI模型在编码等领域逐渐实用化，推动知识工作自…",
+   "url": "https://x.com/levie/status/2122508098351038532",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-17",
+   "score": 85,
+   "summary_zh": "员工使用AI令牌数量持续增长，AI模型在编码等领域逐渐实用化，推动知识工作自动化。未来代理将处理更多任务，企业工作流程中令牌消耗将大幅上升。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 192,
+   "rank": 4.041
+  }
+ ]
+}

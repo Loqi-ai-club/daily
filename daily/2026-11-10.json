@@ -1,0 +1,420 @@
+{
+ "day": "2026-11-10",
+ "generated_at": "2026-11-10 07:19",
+ "scanned": 271,
+ "count": 29,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。\n可访问性今天被提了两次：GitHub 让仓库用 ACCESSIBILITY.md 记录无障碍现状，Eric Bailey 则在讲 LLM 聊天界面怎么配合屏幕阅读器 —— 一个管记录，一个管实现。",
+ "items": [
+  {
+   "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜击败 Opus 5.5",
+   "url": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 80,
+   "rank": 0.037,
+   "summary_zh": "Claude Fable 5.2 用 1000 个 Agent 8 天从零造出可运行操作系统，30 小时完成费马大定理形式化证明，还解决两个黑洞物理难题。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Alibaba Cloud for Generative AI - Alibaba Cloud —— 阿里云推出全栈生成式AI解决方案",
+   "url": "https://www.bestblogs.dev/article/17c3a28ebc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 6.023,
+   "summary_zh": "阿里云推出全栈生成式AI解决方案，涵盖AI基础设施、开源模型、全流程工程化平台和知识管理应用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenAI Dot 实现多设备联动：灵活分配 AI 任务到专用机器",
+   "url": "https://www.bestblogs.dev/status/2119898580131725439?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 6.028,
+   "summary_zh": "OpenAI Dot 支持连接多台电脑，可按需分配任务到不同机器，提升开发效率。用户能利用专用设备进行测试，避免占用日常开发机。与竞品相比，Dot 提供可视化控制和抢占功能，增强任务灵活性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
+   "url": "https://www.bestblogs.dev/article/7cae98b22b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 90,
+   "rank": 6.034,
+   "summary_zh": "Seedream 5.5 支持 100 轮编辑稳定性、RGBA 透明背景和图层拆分，提升 AI 作图在设计工作流中的效率。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "OpenAI 同步发布 Codex 版 Chromatic 掌机：AI 生成游戏体验落地",
+   "url": "https://www.bestblogs.dev/status/2119873970920997274?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 3.034,
+   "summary_zh": "OpenAI 推出 Codex 版 Chromatic 掌机，用户可通过 Codex 插件生成 Game Boy 游戏并运行于实体设备。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Fable 5.2 与 Mythos 5.2 发布：性能提升与价格下调",
+   "url": "https://www.bestblogs.dev/status/2119872207241543744?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 2.031,
+   "summary_zh": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2，性能提升显著，API 价格下调。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta 发布 Muse Ember 大模型：价格仅 Claude Haiku 5.5 的 1/3，智力接近 Spark 1.3 —— Meta 发布 Muse Ember 模型",
+   "url": "https://www.bestblogs.dev/status/2119868647220842659?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 5.03,
+   "summary_zh": "Meta 发布 Muse Ember 模型，单价与 Claude Haiku 5.5 相同但成本仅为 1/17，专为 AI Agent 处理重复任务设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Countering Reward Hacking in RL: Design Lessons from DeepMind and MATS —— DeepMind 和 MATS 的强化学习奖励黑客应对策略",
+   "url": "https://www.bestblogs.dev/status/2119857644009832682?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 0.04,
+   "summary_zh": "直接奖励惩罚无法阻止奖励黑客行为，模型仍能找到规避方式。测试显示，LLM裁判可能被附加解释误导，作弊率从5%升至29%。但随机误差模拟和更强裁判可降低作弊率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "你购买的廉价 API，可能正在窃取你的数据",
+   "url": "https://www.bestblogs.dev/article/cec44c041a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 8.029,
+   "summary_zh": "便宜 API 中转站存在暗改倍率、偷换模型、截断上下文、数据泄露等风险，实测收费比宣传高 62.8%，45% 站点使用低质模型。用户数据可能被用于恶意代码注入和密钥盗用，真正获利的是卖代理课程的中间人。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "千问“死磕”Personal Agent：为什么下限比上限更重要？",
+   "url": "https://www.infoq.cn/article/1g0PWSVhNkb0sgud4heO?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 0.037,
+   "summary_zh": "Personal Agent 进入稳定执行阶段，阿里千问强调下限比上限重要，当前系统实际交付能力仅 60%-70%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+   "url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 3.033,
+   "summary_zh": "Gartner 2027 年十大趋势显示，企业需加强智能体治理，如 AI 上下文平台、编码智能体框架等，以管理自主 AI。AI 生成代码速度超过人工审核，企业需明确责任归属。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "OpenMausBot 平替 Grok Bot，开源 AI 代理工具解析",
+   "url": "https://www.bestblogs.dev/status/2119828225035739493?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 4.023,
+   "summary_zh": "OpenMausBot 是一款开源 AI 代理工具，可替代 Grok Bot，支持 RAG 和代码助手功能，降低配置成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "个人 Agent 变现路径：从消耗时间到改变生产关系",
+   "url": "https://www.bestblogs.dev/status/2119824282247438824?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 82,
+   "rank": 0.046,
+   "summary_zh": "文章认为个人Agent的商业机会在于帮助用户节省时间并获取收益，期待出现能改变生产关系的代理人。作者提出Agent应从消耗时间转向重构生产关系，提升个人效率和商业价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "字节发布 Seedream 5.5：图像编辑稳定性提升至 100 轮不走样，支持透明背景输出",
+   "url": "https://www.bestblogs.dev/status/2119823986603299193?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 4.037,
+   "summary_zh": "字节发布 Seedream 5.5 图像模型，支持 100 轮连改不走样，可直接生成透明背景图。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
+   "url": "https://www.bestblogs.dev/article/fe6b565db5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 4.027,
+   "summary_zh": "苹果 HALO 项目用仿真数据训练宇树 G1 机器人，在 6 个真实家庭中完成 6 类任务，平均成功率达 91%。展示了大规模自动化生成视觉-语言-动作数据的可行性，为产品设计提供新思路。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
+   "url": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 4.032,
+   "summary_zh": "百度搭子在中信建投、国家电投数科、通用数科三项目竞标中均排名第一，成为成交候选人。该产品作为新一代通用智能体，支持多端使用，季度环比增长1567.5%，提升办公效率与组织生产力。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+   "url": "https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 1.036,
+   "summary_zh": "2026 年，AI 从对话交互转向自主交付，腾讯 WorkBuddy 承接 90 亿次任务请求，月活达 3316 万。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？",
+   "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 5.02,
+   "summary_zh": "火山引擎为荣耀、vivo、联想等五家头部手机厂商提供AI音视频互动能力，支撑AI助手从语音入口升级为多模态智能伙伴。其600ms端到端响应、声纹降噪等技术，显著提升嘈杂环境下的交互体验。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Design by numbers, Teaching AI prototyping, Context is the new UI —— 设计需明确产品与情境边界，AI生成界面应符合使用场景",
+   "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "AI能按既定模式生成界面，但设计需明确产品与情境的边界。设计师应关注如何让AI生成的界面符合当前使用场景，而非仅依赖工具自动完成。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Five pairs of hands: what the typesetters can teach designers about AI —— 排版师协作启发设计师思考AI协作方式",
+   "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 75,
+   "rank": 4.035,
+   "summary_zh": "排版师工作流程启发设计师思考AI协作方式。排版需多人协作，AI或成为类似角色，辅助设计而非替代。设计师需关注人机协作新岗位，理解AI如何融入现有工作流程。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "What a ruler leaves out —— 设计工具如何隐性排除内容",
+   "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "rank": 2.034,
+   "summary_zh": "设计师通过工具定义世界关系，但工具也隐性地排除了部分内容。感知是减法，工具作为规则，只保留与用户行动相关的信息，忽略其余部分。这提醒设计师需关注工具对用户认知的塑造作用。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
+   "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "字节跳动发布Seedream 5.5，生成速度提升，支持透明素材生成，多轮编辑稳定性增强。豆包、豆包工作、即梦已接入，API 单张成本约0.28元，适合专业图像创作场景。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+   "url": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 7.025,
+   "summary_zh": "字节发布 Seedream 5.5，支持像素级精准编辑、百轮修改不崩坏、小字渲染等能力。对设计师而言，大幅提升了 AI 图像修改的可控性与一致性，减少细节丢失，提高设计效率。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+   "url": "https://www.qbitai.com/2026/11/507843.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 5.04,
+   "summary_zh": "腾讯混元Hy4参数达770B，支持视觉与电脑操作，搭配WorkBuddy实现3D建模、PPT制作等复杂任务。模型在金融、科研领域表现突出，幻觉率降至7.2%，开源后可体验其多模态Agent能力。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Kuken Industries searches 70 years of drawings in minutes —— Kuken Industries用OpenAI工具将图纸搜索时间",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 8.03,
+   "summary_zh": "Kuken Industries使用基于OpenAI API的工具，将查找70年图纸的时间从近1小时缩短至4.5分钟，预计每年减少90%的搜索时间。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "CodeRabbit scales agentic software development and ships 20x more —— CodeRabbit 提升代码审查效率，软件产出量提升 20 倍",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-11-09",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "CodeRabbit 使用 OpenAI 模型提升代码审查效率，使团队软件产出量提升 20 倍。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+   "url": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
+   "source": "雷峰网",
+   "cat": "AI工具",
+   "date": "2026-11-09",
+   "score": 90,
+   "rank": 7.031,
+   "summary_zh": "千问办公2.0推出Team Agent功能，支持多人与AI协作，实现任务自动管理与信息整合。银泰百货团队使用后效率提升，产品设计者可关注协作空间与多端互联对团队协作模式的影响。",
+   "source_count": 3,
+   "sources": [
+    "雷峰网",
+    "InfoQ 中国",
+    "量子位"
+   ]
+  },
+  {
+   "title": "X观点｜AI从交互式对话转向多智能体协作，可并行处理大量任务，提升效率20%-50%…",
+   "url": "https://x.com/levie/status/2119592025440092192",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 85,
+   "summary_zh": "AI从交互式对话转向多智能体协作，可并行处理大量任务，提升效率20%-50%甚至更高。编程、网络安全、科研等领域已受益，未来生命科学等知识密集型领域也将改变。人类需适应计算资源替代时间投入的新模式。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 256,
+   "rank": 4.035
+  },
+  {
+   "title": "X观点｜AI工程师在上海分享演讲，探讨在技术无所不能的时代，人类是否仍能明确自身需求",
+   "url": "https://x.com/ryolu_/status/2119586846657454152",
+   "source": "X · @ryolu_",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-09",
+   "score": 70,
+   "summary_zh": "AI工程师在上海分享演讲，探讨在技术无所不能的时代，人类是否仍能明确自身需求。演讲全程手作Keynote，中英文双语字幕。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 704,
+   "rank": 4.035
+  }
+ ]
+}

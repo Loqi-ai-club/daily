@@ -1,0 +1,164 @@
+{
+ "day": "2026-09-09",
+ "generated_at": "2026-09-09 07:14",
+ "scanned": 243,
+ "count": 12,
+ "items": [
+  {
+   "title": "Most AI problems are really human problems —— 大多数AI问题实际上是人类问题",
+   "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "AI问题多源于人类环节，如意图未明、缺乏评估等。Anthropic增加产品经理以优化AI应用，Claude Code通过团队协作提升效率。产品设计需关注AI与人类协作的流程与工具匹配。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Persistent lessons in human-centered automation —— 以人类为中心的自动化中的持续教训",
+   "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "研究发现，自主机器人在超市执行任务时，常因人类行为中断。对产品设计者而言，需重视人机协作中的干扰因素，优化交互设计以减少冲突。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "OpenAI 官方推文：Navier-Stokes 千禧年难题解决方案",
+   "url": "https://www.bestblogs.dev/status/2097383207607902218?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-08",
+   "score": 82,
+   "summary_zh": "OpenAI 宣布使用下一代模型解决 Navier-Stokes 千禧年难题，证明过程由 Agent 完成。该问题涉及三维流体运动是否崩溃，悬而未决近 90 年。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "To Read—Or Not to Read the Code? —— 读代码，还是不读代码？",
+   "url": "https://every.to/source-code/to-read-or-not-to-read-the-code",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 70,
+   "summary_zh": "Kieran Klaassen在Every的专栏中讨论了如何通过Compound Engineering方法，用技能、框架或数据源替代自己完成编码任务。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "那些 AI 做不出来的复杂组件要怎么设计?",
+   "url": "https://www.bestblogs.dev/article/18a5dbfda9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 90,
+   "summary_zh": "文章指出AI无法生成复杂UI组件，设计师需掌握排版、间距、图标等基础要点，并运用异形轮廓、渐变、毛玻璃等六种进阶技巧。这些能力是AI难以替代的核心竞争力，有助于应对高阶设计需求。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Always Asking People to Ask —— 总是要求人们提出问题",
+   "url": "https://www.lukew.com/ff/entry.asp?2160",
+   "source": "LukeW",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "LukeW 提出，AI 应用不应以提问开场，而应以回答开始。他网站的 Ask LukeW 功能尝试用问候语和开放文本框替代传统引导问题，让用户直接输入需求。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "The Work Now Within Reach —— 现在触手可及的工作",
+   "url": "https://openai.com/index/the-work-now-within-reach",
+   "source": "OpenAI",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 70,
+   "summary_zh": "OpenAI发布GPT-6 Astra，提升AI在专业领域能力，如软件工程和科学。模型进步使企业能承担更复杂任务，用户使用量增长显著，推动产品与研究同步发展。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Introducing ChatGPT Images 2.5 —— 介绍ChatGPT图像2.5",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "ChatGPT Images 2.5提升图像细节和编辑精度，生成速度加快50%。新增绘图参考、模板和评论功能，开发者可使用GPT-Image-2.5 Flare和Sunburst模型，支持更精准的创意工作。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "If you can externalize your design process, you can win back your time —— 如果你能将设计流程外部化，就能赢回时间",
+   "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "Skill.MD 通过外部化设计过程，帮助设计师明确工作深度。AI 生成界面不一致，因依赖简短提示词。设计师需建立统一标准，确保设计判断可被团队理解与复用。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+   "url": "https://sspai.com/prime/story/sidecar-optimizations",
+   "source": "少数派",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "iPadOS 27 和 macOS Golden Gate 更新后，iPad 可通过触控完整操控随航中的 macOS，延迟几乎不可察觉。",
+   "source_count": 1,
+   "sources": [
+    "少数派"
+   ]
+  },
+  {
+   "title": "百度搭子全面接入小度硬件，百度智能体进驻家庭空间",
+   "url": "https://www.leiphone.com/category/industrynews/pCuoyLeIaqbo1J0L.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-08",
+   "score": 85,
+   "summary_zh": "百度搭子全面接入小度硬件，超能小度升级为智能体，支持家庭日程管理、儿童陪学、看护等功能。家长可通过微信创建日程，任务自动同步至设备，提升家庭场景智能化体验。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜AI能力快速提升，产品设计需预见数个数量级的改进",
+   "url": "https://x.com/levie/status/2097189559712837770",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-08",
+   "score": 75,
+   "summary_zh": "AI能力快速提升，产品设计需预见数个数量级的改进。当前最佳机会是能为客户提供目前仅勉强可行价值，但目标却近乎不可能实现的产品。这类产品通常需要大量数据处理或模型能力远超当前水平。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 101
+  }
+ ]
+}

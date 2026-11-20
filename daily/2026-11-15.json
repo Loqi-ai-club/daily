@@ -1,0 +1,177 @@
+{
+ "day": "2026-11-15",
+ "generated_at": "2026-11-15 07:12",
+ "scanned": 181,
+ "count": 12,
+ "digest": "AI在内容创作和任务执行上的能力持续扩展，OpenMontage通过Claude Code和Cursor实现全流程视频制作自动化，而Google Gemini则新增个人财务分析功能，直接接入用户的银行账户和信用卡数据。这两项进展都指向AI从辅助角色向核心执行者的转变，尤其在设计与开发流程中，AI不再只是提效工具，而是承担起完整任务链的构建与执行。\nAI助手的个性化与长期记忆机制成为研究重点，斯坦福课程探讨如何通过检索增强生成和ReAct框架将大模型转化为智能代理，而另一篇文章则提出三层记忆体系，通过纯文本Markdown实现跨模型迁移，提升AI对用户偏好的理解。与此同时，Claude Code新增自定义主题功能，让开发者能更灵活地调整界面体验，这些变化共同指向一个趋势：AI助手正在从通用工具向高度定制化的协作者演进。",
+ "items": [
+  {
+   "title": "游戏设计概述：游戏设计的流程及基本方法，包教包会！（下）",
+   "url": "https://www.bestblogs.dev/article/8f670bc12a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 70,
+   "rank": 2.015,
+   "summary_zh": "游戏设计乐趣源于挑战、体验和生物本能，挑战包括操作性和策略性，体验通过身份扮演和情感代入实现。设计师需通过数据、访谈、问卷和自我体验验证设计效果，确保满足玩家需求。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenMontage: AI-Driven Full-Pipeline Video Editing Agent —— OpenMontage：AI 自动完成全流程视频制作",
+   "url": "https://www.bestblogs.dev/status/2121707373865910700?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-14",
+   "score": 85,
+   "rank": 6.017,
+   "summary_zh": "OpenMontage 是一个拥有 85k+ 星标的人工智能视频编辑框架，能通过 Claude Code 和 Cursor 等工具，自动完成从剧本创作到最终渲染的全流程视频制作，大幅降低制作成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Stanford Fall Large Model Open Course CMES295 Lesson 6: Transformers & LLMs Agents —— 斯坦福课程第六讲：大模型转智能代理实践与安全考量",
+   "url": "https://www.bestblogs.dev/status/2121683146978804013?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 70,
+   "rank": 4.012,
+   "summary_zh": "斯坦福课程第六讲讲解如何通过检索增强生成、工具调用和ReAct/A2A框架将大模型转化为智能代理，使用Claude Code进行实践，并涉及安全考量。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "科技产品宣传画册设计 图品汇全套广告设计方案 产品大全 上海三麦至立广告有限公司",
+   "url": "https://www.bestblogs.dev/article/c754490482?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-14",
+   "score": 75,
+   "rank": 2.023,
+   "summary_zh": "图品汇推出科技产品宣传画册与广告设计方案，强调理性与感性平衡，构建统一视觉体系，并与多渠道营销协同。设计通过深蓝、银灰主色调及模块化版式，提升品牌信任与商业价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从长期记忆到自我进化：打造真正懂你的 AI 编码助手",
+   "url": "https://www.bestblogs.dev/article/6da78f1896?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 85,
+   "rank": 2.017,
+   "summary_zh": "AI 编码助手通过长期记忆机制，存储用户偏好、历史经验和工程知识，实现持续学习和自我进化。该方法能减少重复错误，提升编码效率，使助手更懂用户需求。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google 为 Gemini 推出个人财务分析功能 接入银行账户和信用卡 帮用户分析收支",
+   "url": "https://www.bestblogs.dev/article/b672a0e9bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-14",
+   "score": 85,
+   "rank": 4.021,
+   "summary_zh": "Google 为 Gemini 新增个人财务分析功能，用户可连接银行账户和信用卡，AI 分析消费习惯并制定预算。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "记忆是撬动 AI 杠杆最根本的底层数据，分享一下我打磨近一年的三层记忆体系",
+   "url": "https://www.bestblogs.dev/article/621050b4ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 75,
+   "rank": 2.017,
+   "summary_zh": "作者提出三层记忆体系：raw层存原始数据，summary层结构化提炼，macro层提炼核心身份与偏好。该体系以纯文本Markdown私有部署，实现跨AI模型迁移，强调个性化记忆数据是AI时代个人竞争壁垒。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The most important shopper of the future isn’t human —— 未来最重要的消费者不是人类",
+   "url": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 85,
+   "rank": 2.017,
+   "summary_zh": "AI助手已开始筛选商品和酒店推荐，影响消费者选择。对产品设计者而言，需考虑如何让AI更精准识别用户需求，提升推荐相关性，以增强用户体验和转化率。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Claude Code 支持自定义主题功能上线",
+   "url": "https://www.bestblogs.dev/status/2121634927288766465?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-14",
+   "score": 72,
+   "rank": 3.02,
+   "summary_zh": "Claude Code 桌面端新增 Mod 自定义主题功能，用户可修改颜色、添加动画背景，官方提供 theme-examples 插件降低使用门槛。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "个人思考，未来的 AI 发展趋势",
+   "url": "https://www.bestblogs.dev/article/24ca5d34be?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 70,
+   "rank": 1.02,
+   "summary_zh": "文章提出信任公开机制，要求租房等场景由真实互动者确认信用，避免平台掩盖差评；AI撮合用户通过标签自动匹配兴趣圈谱，实现无需平台费的局部聚合，推动互联网向去中心化协议演进。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+   "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-14",
+   "score": 75,
+   "rank": 4.018,
+   "summary_zh": "50+ 案例显示，AI 正从辅助工具转向任务执行者，开发重心转向上下文与执行环境设计。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "A New York Times writer spent an hour trying to reach Walmart. Then she deleted her account and told the world —— 纽约时报记者因Walmart AI客服体验差注销账户并公开",
+   "url": "https://www.fastcompany.com/91635147/new-york-times-writer-spent-an-hour-trying-to-reach-walmart?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-11-14",
+   "score": 85,
+   "rank": 4.019,
+   "summary_zh": "纽约时报记者因Walmart客服AI工具使用困难，最终注销账户并公开此事。Walmart需改进AI客服体验，避免用户流失。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  }
+ ]
+}
