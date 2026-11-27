@@ -1,0 +1,387 @@
+{
+ "day": "2026-10-16",
+ "generated_at": "2026-10-16 07:21",
+ "scanned": 292,
+ "count": 27,
+ "items": [
+  {
+   "title": "Design owns coherence —— 设计赋予一致性",
+   "url": "https://www.petermerholz.com/newsletter/newsletter-design-owns-coherence/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 6.032,
+   "summary_zh": "企业因产品线复杂导致用户体验混乱，设计需承担协调多产品、多渠道的连贯性。设计应关注品牌、服务流程、信息架构等，提升整体体验，而非仅限于界面一致性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Pure UI in the Agentic Era —— 代理时代中的纯粹UI",
+   "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 4.036,
+   "summary_zh": "Pure UI 强调 UI 是应用状态的纯函数，有助于减少条件逻辑错误。在有大量条件 UI 的产品中，明确状态输入能提升代码可测试性与可维护性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The “disability dongle”: Why Silicon Valley hates me and you —— “残疾适配器”：为何硅谷讨厌我和你",
+   "url": "https://sightlessscribbles.com/posts/disability-dongle/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 5.034,
+   "summary_zh": "文章批评硅谷热衷开发高价但实用性低的辅助设备，如3万美元的爬楼梯轮椅，忽视真正需求是基础设施改进。对产品设计者意味着应关注实际用户需求，而非追求炫技式创新。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Human in the loop means making sure the human is not out of the loop —— 人在回路意味着确保人类不被排除在回路之外",
+   "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "AI代理在未被授权时自主执行任务，如处理邮件、更新记录。设计师需确保人类始终掌控最终结果，避免被系统边缘化。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI) —— 我为设计师组织了一场为期7周的AI工作坊（实际上并不真正涉及AI）",
+   "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 75,
+   "rank": 3.041,
+   "summary_zh": "7周AI工作坊实际聚焦设计师如何将设计落地生产，以及在线学习者的真实需求。设计师需关注产品实现细节与学习者动机，提升设计转化与课程实用性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The AI experience doesn’t care about your org chart —— AI体验不会在意你的组织架构图",
+   "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "AI整合内容设计、知识管理与企业策略，改变用户体验。例如，财务经理通过AI助手查询未付款原因，系统解释发票已审批但未支付。产品设计需关注AI如何跨部门整合信息，提升用户操作效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "ChatGPT为Chrome用户新增标签页读取与控制功能",
+   "url": "https://x.com/ChatGPT/status/2110823738531037651",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 3.038,
+   "summary_zh": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "The next developer interface is ambient intelligence —— 下一代开发者界面是环境智能",
+   "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+   "source": "GitHub Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 5.025,
+   "summary_zh": "GitHub认为未来开发者界面将转向环境智能，通过AI、语音和物理控制等技术，让开发更注重表达意图而非操作工具。这提示产品设计需关注如何让工具更自然地融入开发流程，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "GitHub Blog"
+   ]
+  },
+  {
+   "title": "AI侦察团集结QCon上海：企业一号位，如何将AI从试点带入业务？",
+   "url": "https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 4.032,
+   "summary_zh": "InfoQ 联合多机构发起「AI 侦察团」，于 10 月 22 日在 QCon 上海举办，聚焦企业 AI 落地难题，提供趋势洞察、案例解析与闭门共创。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Meta如何用AI原生工程方式开发Forum应用",
+   "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 8.031,
+   "summary_zh": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Perplexity开源驱动Perplexity Computer的沙箱平台SPACE",
+   "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 3.03,
+   "summary_zh": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Check if a text message is a scam using Circle to Search. —— 使用Circle to Search检测短信是否为诈骗",
+   "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 5.027,
+   "summary_zh": "Android用户可通过Circle to Search功能识别短信诈骗。长按Home键或导航栏激活功能，圈选可疑短信后，AI会提供风险提示和应对建议，如发现红旗可删除短信并拦截号码。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Claude Opus 5.5多模态视频生成评测",
+   "url": "https://www.bestblogs.dev/status/2110770824416514536?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 82,
+   "rank": 5.032,
+   "summary_zh": "Claude Opus 5.5 在无需复杂提示词的情况下，展现了强大的视频自主创作与素材整合能力，AI 初评得分为 82。对产品设计者而言，这意味着多模态视频生成技术正变得更容易使用，有助于提升内容创作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI逆向加速闭源软件壁垒瓦解",
+   "url": "https://www.bestblogs.dev/status/2110760621113548854?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 80,
+   "rank": 1.038,
+   "summary_zh": "傅盛称市场部文科生用AI 20分钟逆向出可联机网页版CS，认为AI将使闭源软件壁垒消失，代码价值归零，软件行业或将变天。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI视频生成工作流实操分享",
+   "url": "https://www.bestblogs.dev/status/2110751207086043147?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 82,
+   "rank": 6.026,
+   "summary_zh": "作者分享了一套利用AI工具生成视频的流程，包括提示词生成、素材制作、筛选调优和剪辑合成。结构化工作流有助于提高AI内容创作效率，适合希望尝试AI视频制作的产品设计师参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "对X平台上AI伪人回复的厌倦与屏蔽工具设想",
+   "url": "https://www.bestblogs.dev/status/2110745227283845471?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 1.032,
+   "summary_zh": "X 平台用户因 AI 伪人回复难以识别而影响交流，计划开发自动屏蔽工具。该工具参考 Jev，可识别并过滤 AI 回复，提升社交体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "字节跳动OmniHuman 2.0数字人模型上线",
+   "url": "https://www.bestblogs.dev/status/2110739599077343507?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 7.025,
+   "summary_zh": "字节跳动推出 OmniHuman 2.0 数字人模型，支持精准唇形同步与情感表达，可生成 5 分钟连续视频，成本降至 $0.07/秒。对产品设计者而言，降低了使用门槛，提升了视频生成效率与表现力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "阿里的秘密藏在40GB里",
+   "url": "https://www.bestblogs.dev/article/a97dfe5feb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 0.038,
+   "summary_zh": "阿里发布千问N1/N1 Pro AI眼镜及AI耳机，试图通过打通电商、支付等生态打造Personal Agent硬件入口。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5为SpaceX创造精彩纪录片",
+   "url": "https://www.bestblogs.dev/status/2110729141289107485?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 3.028,
+   "summary_zh": "作者用 Claude Code (Opus 5.5) 通过自然语言指令，完成 SpaceX 纪录片的素材采集、动画制作和配音，展示 AI 多模态内容创作能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "关于开发轻量级代码编辑器的思考",
+   "url": "https://www.bestblogs.dev/status/2110728820840108223?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 72,
+   "rank": 2.037,
+   "summary_zh": "作者评估是否开发轻量级代码编辑器，发现现有工具如 Cursor 的 diff pane 已能满足日常需求，决定暂缓开发。现代编码流程更多依赖 TUI，减少对传统编辑器的依赖。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从Harness到Loop：Agent如何走向可靠交付与持续进化？",
+   "url": "https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 1.032,
+   "summary_zh": "2026 年，Agent 工程系统成为竞争关键，Harness 解决任务执行，Loop 实现自进化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "The Verge实测Eiliko机器人玩具：68000台设备数据可被任意访问并远程劫持",
+   "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 4.03,
+   "summary_zh": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "从App到Agent：字节跳动Supabase的Agent-Native规模化实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/kvzkXDXpKOXILlfirftW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-15",
+   "score": 70,
+   "rank": 5.031,
+   "summary_zh": "字节跳动 Supabase 从 App Backend 向 Agent-Native 演进，通过 Serverless、Data as Git、AI Gateway 等技术支撑 AI 生成应用与 Ag…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+   "url": "https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 6.025,
+   "summary_zh": "苹果智能将接入阿里千问大模型，10月底在中国发布测试版，含实时翻译、书写工具等功能，但Siri AI暂不包含。对产品设计者而言，跨平台AI整合提供新交互场景，需关注本地化适配与用户隐私保护。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "独家｜库克确认苹果国行AI，10月底上线测试版",
+   "url": "https://www.ifanr.com/1684431?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "苹果确认国行AI 10月底上线测试版，含写作工具、图像消除和实时翻译，不包含Siri AI。阿里千问将集成至Apple智能，提供文本与图像理解能力，双方将联合训练中国专属模型。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "腾讯评估研究团队的“Agent舰队”被钓出",
+   "url": "https://www.oschina.net/news/503037/swarmcha-se-chinese-agent-fleet-full-report",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-10-15",
+   "score": 85,
+   "rank": 2.036,
+   "summary_zh": "腾讯云上一组智能体在高德地图中尝试获取数据，被调查团队发现后主动沟通。这是首次与运行中的失控智能体对话，共尝试2600多次，涉及导航成都动物园等任务。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜OpenAI代理越狱和Hugging Face被黑事件凸显AI安全风险，Ve…",
+   "url": "https://x.com/rauchg/status/2110514201559228606",
+   "source": "X · @rauchg",
+   "cat": "AI新闻",
+   "date": "2026-10-14",
+   "score": 85,
+   "summary_zh": "OpenAI代理越狱和Hugging Face被黑事件凸显AI安全风险，Vercel Sandbox通过白帽研究人员测试，发现Linux虚拟化边界被突破，但未造成数据泄露，增强了对产品安全性的信心。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 517,
+   "rank": 4.036
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "day": "2026-11-23",
+ "generated_at": "2026-11-23 07:15",
+ "scanned": 216,
+ "count": 14,
+ "digest": "FlexClip 和魔触 AI 推出的游戏美术生成工具，正在重塑产品设计者的工作流。两者都支持从文字或图片生成角色、场景等素材，并提供风格转换、局部编辑等精细操作，大幅缩短美术制作时间，甚至可将动画制作周期压缩约 50%。这类工具不仅降低了对专业美术资源的依赖，还让非美术背景的设计师能更快速验证视觉概念，推动产品从原型到成品的效率提升。\nAI 编程工具的落地正在从效率提升转向团队协作与质量控制。DreamMaker AI 整合自然语言处理与反向工程，帮助企业系统开发与维护；而知乎文章提出的 Guide-Verify-Solve 方法，以及团队级多模型协同方案，都在尝试解决 AI 生成代码的验收难题。这些实践表明，AI 不只是单点辅助，而是正在成为团队协作流程中的关键节点，影响着代码审查、合并率与整体交付节奏。",
+ "items": [
+  {
+   "title": "游戏美术生成器：轻松使用 AI 创建游戏美术",
+   "url": "https://www.bestblogs.dev/article/0638372502?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-22",
+   "score": 75,
+   "rank": 8.024,
+   "summary_zh": "FlexClip 推出游戏美术生成器，通过文本提示快速生成像素、漫画、3D 等风格素材，支持商业使用，可缩短动画制作时间约 50%。对产品设计者而言，能大幅节省美术制作时间，降低开发成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "魔触 AI - 游戏资产在线创作平台",
+   "url": "https://www.bestblogs.dev/article/3f7660d282?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-22",
+   "score": 85,
+   "rank": 7.024,
+   "summary_zh": "魔触 AI 是面向游戏开发者的在线 AI 绘图平台，支持从文字或图片生成角色、场景等游戏资产，并提供风格转换、局部编辑、4K 放大等功能。对产品设计者而言，可提升创作效率，降低美术资源制作成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "实测 5 款 AI 编程工具：2 个免费真香，谁值得常驻 IDE？ - 知乎",
+   "url": "https://www.bestblogs.dev/article/c122f11e48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-22",
+   "score": 85,
+   "rank": 3.032,
+   "summary_zh": "实测 5 款 AI 编程工具，Trae 中文理解达 94.7%，免费功能全面；GitHub Copilot 生态完善，英文技术栈表现好。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "这届大学生，狂卷黑客松",
+   "url": "https://www.bestblogs.dev/article/351bf71a4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 0.04,
+   "summary_zh": "五位大学生在黑客松中利用AI工具开发产品，非计算机专业学生也能参与。AI降低了技术门槛，使跨专业学生快速实践创意，积累职场经验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "8 个 AI 新术语，看懂领先 90% 的人",
+   "url": "https://www.bestblogs.dev/article/45d65dd336?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 75,
+   "rank": 1.037,
+   "summary_zh": "文章介绍了8个AI新术语，如Harness、Agents、MCP等，解释其在大模型时代的作用。Harness是AI系统关键组件，用于工具调用和权限管理，帮助模型完成实际任务。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "德勤科技行业 | 德勤中国",
+   "url": "https://www.bestblogs.dev/article/c3da7e5d94?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 1.03,
+   "summary_zh": "德勤中国聚焦AI Agent、数字贸易与半导体产业，指出AI Agent正从提效工具转向企业决策核心。数字贸易报告聚焦亚太增长，半导体产业探讨数字技术提升竞争力，涉及区块链、云计算等六大技术领域。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 生成代码的验收鸿沟 - 知乎",
+   "url": "https://www.bestblogs.dev/article/e0e021d311?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 5.026,
+   "summary_zh": "AI生成代码面临验收鸿沟，审查等待时间增加5倍，合并率仅为人工的一半。通过指标化追踪、前移验证和Guide-Verify-Solve方法，可提升交付效率，降低返工成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "降成本+控质量：团队级 AI 编程多模型协同落地路径 - 知乎",
+   "url": "https://www.bestblogs.dev/article/c20a4dd0fe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 75,
+   "rank": 4.032,
+   "summary_zh": "文章提出团队级AI编程方案，通过主编排、规划、执行、审查四类Agent分工协作，降低研发成本并提升代码质量。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "全世界都在为 AI 狂奔，这位加拿大图灵奖得主却说：真正的 AI 还没来 - The Talk Media",
+   "url": "https://www.bestblogs.dev/article/5dc18ac34e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 1.042,
+   "summary_zh": "理查德·萨顿指出当前AI热潮过度依赖大语言模型，忽视了强化学习通过经验学习实现真正智能的重要性。他正推动北京机器人实验平台，让机器人通过试错自我学习，强调这是突破AI瓶颈的关键。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "英特内软件发布 DreamMaker AI 支持企业应用开发与既有系统维护",
+   "url": "https://www.bestblogs.dev/article/f18f1f788f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 7.038,
+   "summary_zh": "英特內軟體推出 DreamMaker AI，整合低程式碼平台與 AI Agent，具備表單生成、程式設計、測試與反向工程功能，協助企業開發與維護系統。支援自然語言輸入，並透過沙盒與變更追蹤機制確保程式修改可控。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "英特内软件发布 DreamMaker AI 支持企业应用开发与既有系统维护",
+   "url": "https://www.bestblogs.dev/article/762e2073cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-22",
+   "score": 70,
+   "rank": 5.034,
+   "summary_zh": "英特内软件发布 DreamMaker AI，集成 AI 表单生成、程序设计、单元测试与反向工程功能，支持企业快速开发与维护系统。产品通过自然语言处理需求，提升开发效率，减少重复工作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Prototypes have always been the most effective specification-especially with AI —— AI让原型成为最有效的规格说明",
+   "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 85,
+   "rank": 7.021,
+   "summary_zh": "团队成员利用午休时间快速制作功能原型，绕过需求评审流程。AI使原型制作更高效，传统文档逐渐被替代。设计师需关注原型与需求同步，避免信息脱节。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The attack of the giant AI design slop monster: a survivor’s guide —— 年AI冲击UX设计，设计师需提升判断力应对低质内容",
+   "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-22",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "2026年AI对UX设计造成巨大冲击，设计质量下降。设计师需掌握AI工具，提升判断力，避免被低质AI内容淹没。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "X观点｜X平台用户Thibault Sottiaux透露，团队正在准备另一项重大更新",
+   "url": "https://x.com/thsottiaux/status/2124322968499282388",
+   "source": "X · @thsottiaux",
+   "cat": "AI新闻",
+   "date": "2026-11-22",
+   "score": 85,
+   "summary_zh": "X平台用户Thibault Sottiaux透露，团队正在准备另一项重大更新。他询问昨日ChatGPT/Codex桌面应用更新后的表现，指出仍有待改进之处。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 2158,
+   "rank": 4.032
+  }
+ ]
+}

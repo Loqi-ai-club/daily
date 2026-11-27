@@ -1,0 +1,235 @@
+{
+ "day": "2026-11-21",
+ "generated_at": "2026-11-21 07:17",
+ "scanned": 269,
+ "count": 16,
+ "digest": "网易有道上线了互动式讲题 Agent『欧拉讲题』，把搜题改成了分步讲解加追问。这一功能结合了AI的生成能力和教育场景的交互需求，让用户在获得答案的同时也能理解解题过程。类似地，ChatGPT 推出了移动端新体验，Pro 用户可自定义功能标签，包括 Codex、Projects 等，使工具更贴合个人习惯。两者都展示了AI在教育和生产力场景中，如何通过个性化交互提升用户参与度。\nFigma 在 Workflow lab 中演示了一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成可实现的开发计划。这一流程将设计与开发的上下文打通，提升了协作效率。与此同时，灵光也新增了企业微信、腾讯文档等7项连接能力，支持服务增至54项，进一步强化了办公场景的跨平台协作能力。两者都指向一个趋势：AI正在成为设计与开发之间更紧密的桥梁。",
+ "items": [
+  {
+   "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+   "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-20",
+   "score": 90,
+   "rank": 8.024,
+   "summary_zh": "Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。",
+   "source_count": 2,
+   "sources": [
+    "AIHOT",
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Four Provocative Debate Topics on AI Coexistence and Safety from Gemini 4 Neon —— Gemini 4 Neon 提出 AI 共存与安全四大辩论话题",
+   "url": "https://www.bestblogs.dev/status/2123876256588644593?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 1.034,
+   "summary_zh": "Gemini 4 Neon 提出四个 AI 共存与安全的辩论话题，包括控制与共存的矛盾、认知增强与人类迟钝、开源与闭源模型、价值对齐悖论。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 智能体社会与同行评审",
+   "url": "https://www.bestblogs.dev/status/2123869652673818875?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 3.03,
+   "summary_zh": "35个实验室部署936个AI智能体，协作撰写并评审论文，其中77篇因评审被翻案，显示AI具备自组织科研能力。AI可独立完成从论文撰写到同行评审的全过程，仅需人类提供初始预算和方向。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
+   "url": "https://x.com/ChatGPT/status/2123850915061104735",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "AI 来了，团队究竟怎么变？",
+   "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 4.036,
+   "summary_zh": "AI 技术推动团队结构变化，自动化工具减少重复劳动，设计师需更关注创意与用户体验。AI 可辅助设计流程，但核心决策仍依赖人类判断。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Agent 上岗，你敢放手吗？",
+   "url": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 5.034,
+   "summary_zh": "某公司推出AI代理工具，可自动处理客服咨询，准确率达85%。对产品设计者而言，需关注用户对自动化服务的信任度及交互体验的优化。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "HR 试用 AI 对练，可以先拿哪一课来改？",
+   "url": "https://www.bestblogs.dev/video/f858f163b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 79,
+   "rank": 3.033,
+   "summary_zh": "育碁建议从真实业务场景选一课，先用预设课程试练，再自编常见销售对话或新人任务练习。小范围测试后，观察参与者的卡点和需求，再扩大使用范围。AI 可整理学习和绩效材料，但最终决策仍由人做。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Can AI Generate Good Designs from Raw User Data? —— AI生成设计依赖研究数据而非原始用户评论",
+   "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 8.027,
+   "summary_zh": "AI生成的界面在基于研究结论而非原始用户评论时表现更优，平均多满足8.4%的评分标准。设计生成AI仍需依赖研究数据的提炼，而非直接使用原始数据。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "Qualitative User-Research Methods: An Overview —— 四种定性用户研究方法：可用性测试、访谈、实地与日记研究",
+   "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 6.033,
+   "summary_zh": "文章介绍了四种定性用户研究方法：可用性测试、用户访谈、实地研究和日记研究，并对比了定性和定量研究的区别。定性研究适合探索用户行为和动机，成本较低，但需谨慎选择方法以避免误导性结论。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+   "url": "https://www.bestblogs.dev/article/82eeebb78a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 3.036,
+   "summary_zh": "华为发布子品牌 OSTA 星芒及首款鸿蒙 AI 手机 O1 Pro，搭载麒麟 9030S 芯片和 HarmonyOS 7 AI 先锋版，引入系统级 AI 屏和 HPIC 个人智能计算系统。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "How Watch Duty is using Gemini to get wildfire alerts out faster —— Watch Duty利用Gemini工具将火灾警报识别时间缩短至30秒",
+   "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 4.034,
+   "summary_zh": "Watch Duty利用Gemini工具处理无线电静态，将火灾警报识别时间从数分钟缩短至30秒内，错误率下降15.66%。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "AI 网页设计症状疗法：10 款 Skill 缓解「毛玻璃卡片」风格疲劳",
+   "url": "https://www.bestblogs.dev/status/2123807528777863217?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 4.039,
+   "summary_zh": "AI网页设计常见紫色渐变、毛玻璃卡片等风格导致视觉疲劳，作者推荐10个设计Skill缓解，建议只选2-3个使用，如Impeccable和Anthropic前端设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Crazy Agent Scale: Companies All-in on AI —— 疯狂的Agent规模：企业全面押注AI",
+   "url": "https://www.lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai",
+   "source": "LukeW",
+   "cat": "AI新闻",
+   "date": "2026-11-20",
+   "score": 85,
+   "rank": 0.032,
+   "summary_zh": "Sutter Hill Ventures举办Crazy Agent Scale活动，展示企业如何全力投入AI代理技术。",
+   "source_count": 1,
+   "sources": [
+    "LukeW"
+   ]
+  },
+  {
+   "title": "无限滚动自动播放有害社会",
+   "url": "https://www.solidot.org/story?sid=85946",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 2.028,
+   "summary_zh": "《Lancet Psychiatry》报告指出，全球超10%人口受问题性互联网使用影响，年成本达数十亿美元。无限滚动、自动播放等功能加剧用户沉迷，企业设计需承担部分责任，建议加强监管。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
+   "url": "https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-20",
+   "score": 70,
+   "rank": 5.027,
+   "summary_zh": "灵光新增企业微信、腾讯文档等7项连接能力，支持服务增至54项。办公场景能力增强，用户可直接在AI助手内处理文档、会议等事务，提升跨平台协作效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜ChatGPT 推出新移动端体验，Pro 用户可自定义功能标签，包括 Cod…",
+   "url": "https://x.com/thsottiaux/status/2123557171321561133",
+   "source": "X · @thsottiaux",
+   "cat": "AI新闻",
+   "date": "2026-11-19",
+   "score": 90,
+   "summary_zh": "ChatGPT 推出新移动端体验，Pro 用户可自定义功能标签，包括 Codex、Projects 等。用户可在设置中开启或关闭新设计，目前仅部分用户默认启用。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 5244,
+   "rank": 4.034
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "day": "2026-09-23",
+ "generated_at": "2026-09-23 07:18",
+ "scanned": 266,
+ "count": 34,
+ "items": [
+  {
+   "title": "In the age of AI, the UX field survives on leaders who cultivate juniors —— 在人工智能时代，用户体验领域依赖于那些培养新人的领导者",
+   "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 75,
+   "summary_zh": "资深设计师曾是高风险招聘，如今AI工具要求领导者继续培养新人。团队中每位资深设计师都曾是被看中的潜力股，需通过实践和指导成长。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "克劳德设计与Figma MCP：操作方式、产物和运行环境的差异",
+   "url": "https://www.bestblogs.dev/status/2102509523684479377?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Claude Design 直接生成 HTML、React、CSS 和模拟数据，可交互并制作 Slides 和视频；Figma MCP 依赖 Figma，产出仍是 Figma 文件。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 写作目前给我感觉非常好，比 Opus 4.6 还好点",
+   "url": "https://www.bestblogs.dev/status/2102501337594581117?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 80,
+   "summary_zh": "Opus 5.5 写作体验优于 Opus 4.6，用户反馈写作流畅度和准确性提升。对产品设计者而言，新版本的改进可为内容生成类应用提供更稳定的 AI 写作支持。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna：旗舰级能力下放，API 价格砍半",
+   "url": "https://www.bestblogs.dev/status/2102495403232854309?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "OpenAI 推出 GPT-6 Sol 和 Luna，价格比上代降 50%，Sol 错误率减少约一半。两款模型继承 Astra 风格，更简洁直接。Plus 及以上用户可使用，免费用户可使用 Luna。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "光帆携手韶音，以 AI OS 破局单点功能内卷",
+   "url": "https://www.bestblogs.dev/article/ec265d71ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "光帆AI OS接入韶音OpenFit 2耳机，将录音功能升级为涵盖日程管理、备忘与消息过滤的系统化AI工作流。此举使硬件厂商可专注声学设计，快速获得成熟AI交互能力，推动AI硬件竞争从单点功能转向系统能力输出。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "Introducing GPT-6 Sol and Luna —— 介绍 GPT-6 Sol 和 Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 80,
+   "summary_zh": "OpenAI 推出 GPT-6 Sol 和 Luna，成本比 GPT-5.6 降低 50%。Sol 在自动化任务和编程测试中表现优于竞品，Luna 成本更低且效果提升。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Claude Opus 5.5 —— 克劳德 Opus 5.5",
+   "url": "https://www.bestblogs.dev/status/2102452507993919719?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 80,
+   "summary_zh": "Claude Opus 5.5 更新，提升推理能力与多模态处理。新增图像生成与提示工程工具，适用于内容创作与视觉设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
+   "url": "https://www.bestblogs.dev/article/50c945cbe4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 90,
+   "summary_zh": "千问办公推出企业上下文功能，结构化组织知识并赋予Agent身份权限，解决AI理解业务背景和安全信任问题。通过QwenNote硬件和应用接入SaaS系统，构建完整企业AI体系，使AI能深度嵌入业务流程。",
+   "source_count": 2,
+   "sources": [
+    "BestBlogs",
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "克劳德 Opus 5.5 发布：追平 Fable 5.1，成本降四成",
+   "url": "https://www.bestblogs.dev/status/2102440266875449386?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Claude Opus 5.5 发布，性能追平 Fable 5.1，推理成本降低 40%。对产品设计者而言，更高效、更经济的模型选择有助于优化 AI 应用的开发与部署成本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "克劳德 Opus 5.5 发布，这波我估计还是 Anthropic 赢过 OpenAI",
+   "url": "https://www.bestblogs.dev/status/2102440038021927313?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Claude Opus 5.5 发布，性能优于 GPT，且性价比更高。Anthropic 通过优化模型能力与价格策略，可能在与 OpenAI 的竞争中占据优势。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "来了来了，Opus 5.5 来了！",
+   "url": "https://www.bestblogs.dev/status/2102438173804818494?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 82,
+   "summary_zh": "Opus 5.5 新增多语言支持与交互优化，提升用户体验。对产品设计者而言，可参考其改进方向，增强跨语言交互设计能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "克劳德设计做设计",
+   "url": "https://www.bestblogs.dev/status/2102436985717616915?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 80,
+   "summary_zh": "Claude Design 使用 Fable 写设计方案，Codex 执行，Fable 验收，提高效率和质量。对产品设计者而言，这种协作流程可提升团队协作与项目交付效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "节约 Token 的新模式：Fable 写设计方案 -> Opus 执行 -> Advisor 验收",
+   "url": "https://www.bestblogs.dev/status/2102433483834503425?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Fable 写设计方案，Opus 执行，Advisor 验收，节约 Token 使用。该模式提高效率与性价比，适用于 AI 设计流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+   "url": "https://www.qbitai.com/2026/09/494429.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "阿里推出全模态统一生成模型，5天复原400年前历史场景，准确度达95%。模型能力覆盖文字、图像、视频、音乐等，支持多模态协同创作，提升内容生产效率，推动AI进入专业创作与终端应用。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "宝玉的项目起手四步：PoC、设计、MVP、迭代",
+   "url": "https://www.bestblogs.dev/status/2102423910709076279?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "宝玉分享项目起手四步：先做PoC验证可行性，再用Claude Design做设计，接着做最精简的MVP，最后基于MVP迭代。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "未来两年最核心的机会就是打造 Agent 入口级产品",
+   "url": "https://www.bestblogs.dev/status/2102422923734847538?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "曾鸣将AI技术演化分为三阶段：基础设施、新应用涌现、原生级应用诞生。未来两年，打造Agent入口级产品将成为核心机会，产品设计者需关注如何构建用户与AI交互的全新入口。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+   "url": "https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Meta 开源 Astryx，基于 React 19 和 StyleX 构建，提供 150 多个可访问性 UI 组件和 Design Token，支持 CLI 和 AI 工作流。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Acrobat's new AI transforms documents into interactive summaries and audio experiences. —— Acrobat 的新 AI 将文档转化为交互式摘要和音频体验",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/3z7uqxdb5gc66tkmirvt.html#p3",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Adobe Acrobat 新增 AI 功能，可将文档转为互动摘要和音频体验。对产品设计者而言，这提升了信息处理效率，有助于开发更智能的文档交互工具。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "分享多 Agent 协作文档化工作流实践",
+   "url": "https://www.bestblogs.dev/status/2102409130816245918?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "作者通过撰写技术方案文档协调Fable和Opus协作，确保方向一致并实现上下文持续验证。文档作为规划和验收依据，提升复杂任务的可控性和可追溯性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "一张硬件卡片，一场上下文之争：千问办公押注企业 Agent",
+   "url": "https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "千问办公发布企业上下文和QwenNote A2硬件，解决企业信息分散问题。企业上下文能结构化非结构化数据，按需提供相关片段给Agent使用，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "从 AI 工具到经营智能体：快手分销增长 Agent 实践",
+   "url": "https://www.infoq.cn/article/7suOC8BJWYA4yx6dvZXa?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "快手电商通过AI工具和Agent技术，重构分销经营流程，降低中小商家和达人经营门槛。从AIGC邀约到Multi-Agent架构，实现从效率提升到结果交付的转变，显著提升商家合作成功率和经营效果。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "小道消息：今晚 OpenAI 有新东西",
+   "url": "https://www.bestblogs.dev/status/2102405445679972573?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 80,
+   "summary_zh": "OpenAI 今晚将发布新模型，可能包含更强大的语言理解和生成能力。对产品设计者而言，这可能带来更自然的交互体验和更高效的自动化工具。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 编码贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？",
+   "url": "https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "菜鸟网络 AI Coding 贡献率从 10% 提升至 90%，但需求交付仅快 10%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "微信流：微信和 AI 应用之间的聊天记录转发工具",
+   "url": "https://www.bestblogs.dev/status/2102393151084519463?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "微信流是一款开源工具，可将微信聊天记录转发至Codex、Claude Code等AI应用，或存入Obsidian知识库。对产品设计者而言，它提供了用户与AI交互的新方式，有助于知识管理与自动化流程整合。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Designers lost their unit of measurement. That’s why we’re struggling. —— 设计师失去了他们的计量单位。这就是为什么我们陷入困境。",
+   "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "设计师失去统一的度量标准，导致设计效率下降。使用相对单位如百分比和视口单位可提升跨设备一致性，减少适配问题。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The variance problem in AI products —— AI 产品中的方差问题",
+   "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "AI产品响应时间不一致会破坏用户信任，用户更在意原因而非速度。作者结合自身开发经验指出，AI工具的稳定性对用户体验至关重要。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "阿里云加速构建 Agentic Cloud：推出 AgentCore、新一代 CPFS 等重磅新品",
+   "url": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 70,
+   "summary_zh": "阿里云推出AgentCore、新一代CPFS等产品，强化Agentic Cloud布局。企业级Agent需全域认知、自主运行、可信协作及动态推理能力，推动AI进入规模化应用阶段。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Jev 工程学：为 Coding Agent 而作",
+   "url": "https://www.oschina.net/news/502674",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 70,
+   "summary_zh": "TypeSafe 创始人 Diogo Almeida 的《Jev 工程学》设计笔记被完整翻译成中文，保留原结构和七张插图。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "做每个人的专属 AI 助理，千问加速打造 Personal Agent",
+   "url": "https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "千问在云栖大会上宣布加速打造Personal Agent，依托Qwen 3.8模型，接入健康、运动及理财数据，提供个性化服务。开放平台覆盖20多个领域，入驻伙伴超1000家，理财场景回复效果提升20%。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线",
+   "url": "https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 70,
+   "summary_zh": "研究团队提出 COBRA-SKILLS 方法，仅用 50 个样本，通过概率预判减少试错成本，提升智能体技能生成效率。对产品设计者而言，降低了依赖人工编写的成本，有助于快速迭代和优化 AI 功能。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜广告市场可能面临变革：若大量依赖向人类展示定向广告，但AI代理浏览网站并完成…",
+   "url": "https://x.com/petergyang/status/2102215701255844074",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 70,
+   "summary_zh": "广告市场可能面临变革：若大量依赖向人类展示定向广告，但AI代理浏览网站并完成任务而无需人类接触广告，将影响广告效果。对产品设计者而言，需考虑如何让AI代理也能有效触达目标，广告策略需适应新场景。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 379
+  },
+  {
+   "title": "X观点｜个人代理能处理复杂任务，用户逐渐依赖其完成更多交易，带来巨大商业机会",
+   "url": "https://x.com/levie/status/2102253246807261579",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "个人代理能处理复杂任务，用户逐渐依赖其完成更多交易，带来巨大商业机会。Muse等代理提供方受益，同时催生与代理交互的新服务层，如本地、B2B等，形成多层共赢。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 53
+  },
+  {
+   "title": "X观点｜AI代理将比人类使用软件频繁100倍，其核心功能如数据管理、安全防护和业务逻…",
+   "url": "https://x.com/levie/status/2102235949430354273",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "AI代理将比人类使用软件频繁100倍，其核心功能如数据管理、安全防护和业务逻辑协调变得尤为重要。能有效承担这些功能的平台，无论是新创公司还是现有平台，都将获得巨大机会。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 69
+  },
+  {
+   "title": "X观点｜Nikunj Kothari 表示 Codex 在 Mac 上处理计算机任务…",
+   "url": "https://x.com/nikunj/status/2102186665863463199",
+   "source": "X · @nikunj",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-22",
+   "score": 85,
+   "summary_zh": "Nikunj Kothari 表示 Codex 在 Mac 上处理计算机任务无可匹敌，而 Instinct 和 Muse 更适合手机浏览器使用。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 164
+  }
+ ]
+}

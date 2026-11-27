@@ -1,0 +1,164 @@
+{
+ "day": "2026-09-28",
+ "generated_at": "2026-09-28 07:13",
+ "scanned": 198,
+ "count": 12,
+ "items": [
+  {
+   "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this. —— 在AI时代如何拯救初学者的UX工作，我们的领域依赖于此。",
+   "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 85,
+   "summary_zh": "UX Collective提出七种方法，让初级设计师在AI时代仍能学习核心技能。例如，AI已能自动标注访谈转录文本，但团队仍需人工复核，以保留人类视角并培养未来人才。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI RSS 插件新功能与创意工作流演示",
+   "url": "https://www.bestblogs.dev/status/2104244123196887214?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-27",
+   "score": 78,
+   "summary_zh": "AI RSS 插件新增黑色护眼模式，支持与 Qiaomu Agent 插件联动，实现从文章中自动提取歌曲并在 Spotify 播放，还可生成信息图分享。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta 发布 Horizon Create 和 Studio 游戏开发工具",
+   "url": "https://www.bestblogs.dev/status/2104221431701840317?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-27",
+   "score": 70,
+   "summary_zh": "Meta 推出 Horizon Create 和 Studio 游戏开发工具，支持自然语言生成游戏。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 写作风格的纯粹性：目的决定文风",
+   "url": "https://www.bestblogs.dev/status/2104220707479830865?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 70,
+   "summary_zh": "dbskill 工具通过教学目的生成自然文字，无 AI 味。提示词意图决定内容质量，纯粹目的让文字更清晰实用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "谷歌视频制作工具 Vids 体验反馈",
+   "url": "https://www.bestblogs.dev/status/2104216832869822590?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-27",
+   "score": 70,
+   "summary_zh": "谷歌推出基于 Gemini Omni 1.1 的视频工具 Vids，但用户试用后认为其易用性和效果不如 Opus 5.5，缺乏详细指引。对产品设计者而言，说明 AI 工具需更注重用户体验和功能引导。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "社交媒体的自我表达困境与微信群归宿",
+   "url": "https://www.bestblogs.dev/status/2104216261718892560?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 75,
+   "summary_zh": "公共社交平台因算法和商业规则限制用户真实表达，用户转向微信群寻求更自由的交流空间。这对产品设计者意味着需关注封闭社交圈的表达需求，平衡开放与隐私的矛盾。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "微信无接口环境下 AI 长链任务成功",
+   "url": "https://www.bestblogs.dev/status/2104209485489430644?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 86,
+   "summary_zh": "GPT-6 在无 API 的微信环境中，通过视觉识别和模拟点击完成长链条任务，显示多模态与 Agent 技术成熟。对产品设计者意味着 AI 可自主执行复杂流程，可能推动 AGI 发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Spiralist：浏览器端单线艺术生成与可视化创作工具",
+   "url": "https://www.bestblogs.dev/status/2104201921880043625?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-27",
+   "score": 82,
+   "summary_zh": "Spiralist 是一款在浏览器本地运行的单线画生成工具，支持螺旋、游走等四种算法及 12 种画材，可生成 8K 图片、视频及 3D 打印模型。无需上传照片，保障隐私，适合注重创意与隐私的设计师使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 私人助理的记忆与进化特性(2/)",
+   "url": "https://www.bestblogs.dev/status/2104198624678924717?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 85,
+   "summary_zh": "傅盛指出，AI 助理应具备记忆能力，能通过用户反馈持续优化交互体验。AI 可记录用户偏好、情绪等信息，实现个性化服务，这是传统工具无法做到的。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 突破平台限制维护人际关系(3/)",
+   "url": "https://www.bestblogs.dev/status/2104198634036400628?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 79,
+   "summary_zh": "AI 能模拟人类操作绕过平台限制，完成社交任务。这使 AI 从内容生成转向关系维护，如发送祝福，体现其情感价值。对产品设计者意味着需考虑 AI 在社交场景中的新角色与功能。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6 接管微信中秋祝福实战(1/)",
+   "url": "https://www.bestblogs.dev/status/2104198521461289160?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 82,
+   "summary_zh": "傅盛用 GPT-6 完成 120 条微信中秋祝福任务，涵盖搜索、撰写、发送等步骤，展示其长链条交互稳定性与中断恢复能力，体现 AI 在真实社交场景中的应用潜力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "MoMA explores the useful beauty of information design —— MoMA探索信息设计的实用之美",
+   "url": "https://www.fastcompany.com/91612965/moma-explores-the-useful-beauty-of-information-design?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-27",
+   "score": 70,
+   "summary_zh": "MoMA 将举办名为《Full Disclosure: The Edge of...》的展览，聚焦信息设计的美感与实用性。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  }
+ ]
+}

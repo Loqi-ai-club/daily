@@ -1,0 +1,318 @@
+{
+ "day": "2026-11-05",
+ "generated_at": "2026-11-05 07:17",
+ "scanned": 279,
+ "count": 22,
+ "items": [
+  {
+   "title": "2024年人工智能十大前沿技术趋势展望发布-新华网",
+   "url": "https://www.bestblogs.dev/article/c082465c28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 75,
+   "rank": 4.024,
+   "summary_zh": "2024 年 AI 十大前沿技术趋势发布，涵盖小数据、人机对齐、具身智能等方向。强调数据质量、伦理约束和可解释性，对产品设计者意味着需关注 AI 伦理框架与用户信任构建。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Workflow lab: Test ideas with code layers and the Figma agent —— 工作流实验室：通过代码层和Figma代理测试创意",
+   "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-11-04",
+   "score": 90,
+   "rank": 8.021,
+   "summary_zh": "Figma 新增代码图层和 Figma Agent 功能，设计师可在设计画布上直接测试代码，与团队并行对比原型、优化方向。该流程展示如何通过代码图层和 Figma Agent 探索新功能，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "What AI has changed in Design Systems, and what is still up to us —— 人工智能在设计系统中的变革以及仍需我们努力的领域",
+   "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 90,
+   "rank": 7.031,
+   "summary_zh": "AI工具如Gemini和Claude能快速生成设计系统，缩短开发时间。设计师需转向策略制定与质量把控，确保系统符合品牌与用户需求。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI can generate the interface. What makes it worth caring about? —— 人工智能可生成界面，其价值体现在何处？",
+   "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "AI能生成符合设计规范的界面，如任务完成状态包含对勾、提示信息和动画。但不同任务下，AI生成的界面缺乏情感差异，设计师需判断何时让AI自动生成，何时需人工干预以增强用户体验。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Token暴涨5000倍之后，企业Agent落地仍面临哪些瓶颈？",
+   "url": "https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 1.038,
+   "summary_zh": "我国日均 Token 调用量两年增长 5000 倍，企业 Agent 落地面临连接、数据、安全与成本等断点。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "月入200万的Token转发生意：MaaS聚合平台，到底是风口还是灰色套利？",
+   "url": "https://www.bestblogs.dev/article/fd5146cd54?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 2.042,
+   "summary_zh": "MaaS聚合平台通过统一API整合多模型服务，实现模型切换与数据监控，但面临合规、上游依赖和同质化风险。企业级私有化部署是长期机会，而套利型SaaS模式风险较高。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "又来了？这次详情页设计惊艳全场，满屏都是视觉密码！（95期） - 知乎",
+   "url": "https://www.bestblogs.dev/article/ccbc97761d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 4.026,
+   "summary_zh": "三款详情页案例展示C4D建模、色彩心理学与排版设计，提升品牌体验。设计师可参考其三维渲染、色彩搭配与独特构图，适用于春节送礼等场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "红点设计概念大奖",
+   "url": "https://www.bestblogs.dev/article/0741132798?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 1.042,
+   "summary_zh": "2026年红点设计概念大奖在新加坡举办，56国500余项作品参赛，Bloomy和Walk Me分获年度奖项。获奖作品将全球巡展，提升品牌价值，奖项设10,000新元奖金，鼓励年轻设计师创新。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "与AI创业者对话 - 播客摘要与转录 | Podwise",
+   "url": "https://www.bestblogs.dev/article/22f414df9e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 75,
+   "rank": 0.042,
+   "summary_zh": "彩云科技 CEO 袁行远分享 AI 写作工具彩云小梦的技术演进，从 DC Former 结构改进到 AI 工作流构建，提升写作质量与效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智源发布2026年人工智能十大技术趋势-新华网",
+   "url": "https://www.bestblogs.dev/article/8c6b2270ed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "智源发布《2026 十大 AI 技术趋势》报告，指出 AI 正从语言学习转向物理世界建模，世界模型、具身智能、多智能体协同成重点。对产品设计者而言，需关注物理交互与多智能体协作的用户体验设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI Can Be Shaped by Invisible Symbols It Doesn’t Recognize —— 人工智能可被其无法识别的隐形符号塑造",
+   "url": "https://www.bestblogs.dev/status/2118047164366729231?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "谷歌研究发现，视觉符号会显著影响AI判断，但模型可能未意识到这种影响。提示词设计和界面布局需考虑视觉语境，避免因未识别的符号导致输出偏差。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "实测iPhone国行AI：亮点与槽点并存，还有一个惊喜",
+   "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 1.032,
+   "summary_zh": "iPhone 国行 AI 开放测试，与阿里千问合作，支持照片消除、实时翻译等功能。Siri 交互提升但复杂任务仍弱，视觉智能可调用第三方应用搜索。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "可灵Kling 4.0 Flash全面开放，支持官网、API、MCP和Adobe插件接入",
+   "url": "https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 8.032,
+   "summary_zh": "可灵AI 宣布 Kling 4.0 Flash 现已向所有用户全面开放，可通过 Kling AI 官网和 API 使用。同时支持通过 MCP、CLI 及 AI 插件接入，创作者还可在 Adobe Photoshop、Premiere Pro 和 After Effects 中通过可灵插件调用该模型，体验入口为 klingai.com。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "People are using Claude Opus 5.5 to rebuild big, well-known software from scratch, then open-sourcing it —— 人们正在使用Claude Opus 5.5从零重建知名软件并开源",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/3xu9nwrlx0g847ig2qpdl9bsjkfy5kevyyyljq5s.html#p3",
+   "source": "AI Valley",
+   "cat": "AI新闻",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "用户用 Claude Opus 5.5 从零重构知名软件并开源，显示大模型在代码生成上的强能力。对产品设计者而言，开源项目可能带来新工具和协作机会，需关注其对开发流程和生态的影响。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "We're sharing our framework for building safer and more helpful AI for health. —— 我们分享构建更安全、更有益于医疗健康的AI的框架",
+   "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+   "source": "Google The Keyword",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 5.03,
+   "summary_zh": "谷歌发布医疗AI评估框架，从准确性、安全性和实用性三方面评估模型。结合基准测试、自动评分和专家评审，用于检测常见及高风险健康场景。该框架帮助开发者提升AI工具可靠性，促进医疗AI透明化。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "为AI业务单独划分领域：帆软如何重新安排事务、人员与组织｜AICon北京",
+   "url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 3.028,
+   "summary_zh": "帆软将AI业务独立核算，推动组织重构，探索AI与人、流程的协作模式。AI从辅助工具转向任务承担者，需重新划分职责、建立质量保障机制、识别创新人才，并通过独立预算与授权容忍试错。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "苹果开始在中国推出Apple Intelligence",
+   "url": "https://www.solidot.org/story?sid=85793",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-04",
+   "score": 90,
+   "rank": 3.031,
+   "summary_zh": "苹果11月4日起在中国推出Apple Intelligence，基于阿里千问模型，含实时翻译、写作工具、照片消除、Siri接入等功能，12月随iOS 27.3正式上线。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
+   "url": "https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 5.032,
+   "summary_zh": "11月4日，乌镇峰会发布智能体身份注册与解析平台，蚂蚁集团参与建设。平台解决身份编码、跨域解析及可信互通问题，助力智能体跨平台协作，提升用户权限控制与服务方信任验证能力。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+   "url": "https://www.qbitai.com/2026/11/507567.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 4.033,
+   "summary_zh": "虎鲸文娱推出鲸锐AI平台，集成50余个AI视频模型，单分钟视频成本降低30%。平台支持精准控制、银幕级成片及百人协作，降低创作门槛，提升影视制作效率与质量。",
+   "source_count": 2,
+   "sources": [
+    "量子位",
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "0.016%的Astra微创手术解决了Qwen的3万Token死循环",
+   "url": "https://www.leiphone.com/category/ai/0F072La1etrUN0Tr.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 70,
+   "rank": 2.029,
+   "summary_zh": "MIT CSAIL 用 Astra 模型修改 Qwen3.5-0.8B 的 0.016% 权重，使其 MATH-500 成绩从 7.9% 提升至 48.1%。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+   "url": "https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-11-04",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "蚂蚁灵光新增微信读书、夸克、哈啰打车、麦当劳等连接器，覆盖信息管理、出行及消费场景。用户使用AI处理财务、健康管理占比达45.29%，显示AI助手正从工具转向生活服务入口。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜Claude Code 的 /insights 和 /playground …",
+   "url": "https://x.com/nikunj/status/2117773647868018897",
+   "source": "X · @nikunj",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-04",
+   "score": 85,
+   "summary_zh": "Claude Code 的 /insights 和 /playground 功能被用于定期分析代码优化和可视化工作流。用户结合 X 书签和 Codex 进行自动化升级与性能改进，形成自我优化的开发循环。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 80,
+   "rank": 4.033
+  }
+ ]
+}

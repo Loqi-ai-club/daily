@@ -1,0 +1,387 @@
+{
+ "day": "2026-09-18",
+ "generated_at": "2026-09-18 07:18",
+ "scanned": 279,
+ "count": 29,
+ "items": [
+  {
+   "title": "Rethinking writing in the world of design and AI —— 重新思考设计与人工智能时代中的写作",
+   "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 75,
+   "summary_zh": "作者完成第100篇设计文章，反思AI时代写作与设计思维的演变。文章强调设计思考的重要性，指出AI虽带来挑战，但也推动设计领域不断探索与创新。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Nothing has changed other than how we talk about it —— 唯一改变的只是我们谈论的方式",
+   "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "文章探讨AI与设计思维的结合，指出AI未改变设计思维的核心问题，但改变了回答问题的主体。设计思维仍关注‘解决什么问题’，而AI使更多主体能参与解答，提升设计效率与创新性。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The evidence at work —— 工作中的证据",
+   "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 75,
+   "summary_zh": "亚马逊高管称远程办公效果不佳，要求员工回办公室。CEO称多数同行也要求员工到岗，但未提供数据支持。此举引发争议，部分员工质疑决策依据。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI —— 实践的未来：通过生成式用户界面帮助教师创建互动学习内容",
+   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+   "source": "Google Research",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "Google Research 推出基于生成式 UI 的学习互动工具，教师可自定义生成互动模拟教学内容。",
+   "source_count": 1,
+   "sources": [
+    "Google Research"
+   ]
+  },
+  {
+   "title": "法庭文件曝光：OpenAI、微软高管承认AI正在对新闻业构成威胁",
+   "url": "https://www.bestblogs.dev/article/9bb3deaf33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 80,
+   "summary_zh": "OpenAI 和微软高管承认 AI 产品正在替代新闻访问，可能构成大规模劳动力盗窃。微软 CEO 认为付费墙内容需授权，OpenAI 高管称产品具有替代性，引发版权与合理使用的法律争议。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "百度智能云首发产业智能体操作系统，要实现AI的商业和技术飞轮",
+   "url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 80,
+   "summary_zh": "百度发布产业智能体操作系统，整合通用、专业和定制智能体，解决企业任务协同问题。系统连接企业数据、工具和业务流程，提升效率，降低开发成本。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Grok 4.7模型核心参数与能力解析",
+   "url": "https://www.bestblogs.dev/status/2100653206028325343?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 82,
+   "summary_zh": "Grok 4.7 模型参数达 2.1 万亿，引入 SpaceX 和 Starlink 工程数据，性能优于 4.6 版本，但响应速度略慢，多模态能力仍需完善。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The new CC, an AI agent built for families —— 新版CC：面向家庭的AI代理",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "Google推出家庭AI助手CC，支持最多6人共享日程、任务和邮件信息，自动整理家庭日程并生成简报，减少协调时间。用户可选择共享内容，CC通过独立Google账户管理权限，提升家庭协作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "The skills CLI now supports Notion hosted skills —— 技能CLI现已支持Notion托管技能",
+   "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "Vercel 的 skills CLI 1.7.0 版本新增支持从 Notion 数据库安装 Agent 技能。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "Claude Code推出Projects功能：AI进化为项目经理",
+   "url": "https://www.bestblogs.dev/status/2100637124760576196?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "Anthropic 为 Claude Code 推出 Projects 功能，允许 AI 自行拆分任务、并行运行云端会话并共享记忆，将 AI 角色从执行者推向项目管理层。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon —— 实时更新的客人旅程：通过Chronon扩展Airbnb的序列推荐系统",
+   "url": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+   "source": "Airbnb Engineering",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 70,
+   "summary_zh": "Airbnb 推出 Chronon 的 Push Mode 和 NRT Model Transform，使搜索结果能实时更新，提升用户体验。设计者可借此优化推荐逻辑，提高搜索即时性与相关性。",
+   "source_count": 1,
+   "sources": [
+    "Airbnb Engineering"
+   ]
+  },
+  {
+   "title": "利用竖屏显示器双开AI对话提升剪辑效率",
+   "url": "https://www.bestblogs.dev/status/2100623608263639468?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 81,
+   "summary_zh": "利用竖屏显示器上下分屏同时与两个 Codex 对话，避免单线程等待，提升剪辑效率。多线程并行对话可消除 AI 工具的等待空窗，提高个体生产力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "边说话边推理、边聊天边调用工具，谷歌Gemini 3.8 Live要攻克语音Agent的沉默时刻",
+   "url": "https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "谷歌发布Gemini 3.8 Live和Extended Thinking两款实时对话模型，前者专注低延迟，后者支持后台多步骤推理并异步调用工具。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "聊聊最近落地WorkBuddy的一些观察",
+   "url": "https://www.bestblogs.dev/video/c228ac90b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "晓辉博士与 WorkBuddy 负责人德远指出，兼具审美与 AI 指挥力的复合人才稀缺，企业 AI 落地需一号位推动工作流资产沉淀，否则难以形成复利。设计师若同时懂 AI 与设计尤为稀缺。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OPPO Find X10体验：想得周到，拍得好看",
+   "url": "https://www.bestblogs.dev/article/f64d6133d1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 70,
+   "summary_zh": "OPPO Find X10 搭载 ColorOS 17，通过「小布记忆」构建个人上下文，实现主动式 AI 交互；哈苏超清原相机下放「大师模式」影调，默认体验更自然。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "用Seedance 2.5拍《沙丘3》，我们替你把AI短片的坑全都踩过了",
+   "url": "https://www.bestblogs.dev/article/db75730c1c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "爱范儿团队用 Seedance 2.5 和 Codex 制作 6 分钟《沙丘 3》风格短片，耗时 12 天、3000 多元积分，完整复盘剧本打磨、资产库搭建、提示词拆解与后期剪辑流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "多模态AI在App开发与视频解说中的应用",
+   "url": "https://www.bestblogs.dev/status/2100589909136523770?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "多模态AI能将产品演示录屏转化为Mac App代码，还可一键生成3分钟电影解说。对设计师而言，大幅缩短开发与内容制作时间，提升效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "对话vivo高管：端侧大模型、Harness与「个人化AI」的下一步",
+   "url": "https://www.bestblogs.dev/article/0a46b515c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "vivo 开发者大会后详解 AI Phone 技术路线：端侧 30B MoE 模型、Harness 执行中枢、6000 项原子能力构成技术底座，预计 2028 年端侧能力成熟。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "vivo把Agent做进操作系统：6000多项原子技能开放调用，AgentOS预览版亮相",
+   "url": "https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 90,
+   "summary_zh": "vivo 在开发者大会上发布原系统 7 和蓝河操作系统 4，其中原系统 7 引入蓝心小 V Pro，支持跨应用任务执行，AI 功能深入系统级高频操作；蓝河操作系统 4 全链路采用 Rust，推出 Ag…",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
+   "url": "https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 70,
+   "summary_zh": "360纳米Work启动‘双城千店上岗计划’，首站落地798艺术区，目标在千家实体门店推广AI应用。计划采用‘少量深做、批量支持’策略，将单店需求转化为可复用工作流，提升AI工具在实体商业的落地效率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+   "url": "https://www.qbitai.com/2026/09/491649.html",
+   "source": "量子位",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "vivo在2026开发者大会上推出「蓝心大模型端云矩阵」，通过端云协同实现AI助理个性化服务。系统利用BlueLM系列模型，结合Harness平台，提升任务执行效率与用户体验，让AI更懂用户习惯与需求。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+   "url": "https://www.qbitai.com/2026/09/491454.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "中国电信推出TeleAgent，IDC测评中任务表现满分、成本效率最高。产品上线仅一个多月用户达120万，通过上下文管理、智能路由和安全机制提升性能与可靠性，适合企业办公场景。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+   "url": "https://www.qbitai.com/2026/09/491391.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "Anthropic合并Claude双入口，推出Docs和Slides，用户可在对话中直接生成文档和PPT。此举缩短了信息搬运流程，提升办公效率，对产品设计者意味着需关注AI原生办公工具的整合与用户体验。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "我用Vidu S2找来了「乔布斯」，跟他聊了聊iPhone Duo",
+   "url": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "生数科技发布 Vidu S2，支持实时生成和编辑视频，可创建交互数字人，如乔布斯形象，并实时换装、换背景。对产品设计者而言，这意味着直播、虚拟人等场景可实现即时视觉调整，提升互动体验。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "ColorOS 17发布，OPPO想让AI往前一步，主动一些聪明一些",
+   "url": "https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "ColorOS 17 推出主动式 AI 功能，如小布空间整合日程提醒、AI 一键闪记自动整理信息，提升用户效率。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "华为给智能世界列了10个必答题：从AGI、超节点到Agent OS",
+   "url": "https://www.oschina.net/news/502546/huawei-hc-intelligent-world-2035",
+   "source": "开源中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "华为提出智能世界十大关键命题，涵盖AGI、超节点和Agent OS等方向，强调以Token为核心推动变革。对产品设计者而言，需关注AI代理系统与分布式架构的融合，把握数智化转型中的技术突破口。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "蚂蚁集团全员接入千问办公，打造大型企业办公标杆",
+   "url": "https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "蚂蚁集团全员接入千问办公，采用K8S私有化部署，确保数据不出域。该方案融合蚂蚁自有的Agent能力，打通内部服务，形成完整的办公Agent基建，助力企业智能化转型。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
+   "url": "https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 85,
+   "summary_zh": "百度智能云推出产业智能体操作系统，目标是让AI深入销售、研发等业务流程。这标志着AI应用从办公场景向产业核心环节延伸，为产品设计者提供更全面的智能化解决方案。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "X观点｜AI在数据分类、流程决策、安全判断等领域有巨大潜力，能显著提升企业效率",
+   "url": "https://x.com/levie/status/2100448648672993540",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-17",
+   "score": 75,
+   "summary_zh": "AI在数据分类、流程决策、安全判断等领域有巨大潜力，能显著提升企业效率。Aaron Levie指出，当前AI创新仍有许多未被发掘的领域，尤其在代理工作流中应用前景广阔。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 102
+  }
+ ]
+}

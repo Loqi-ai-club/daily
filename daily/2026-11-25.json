@@ -1,0 +1,374 @@
+{
+ "day": "2026-11-25",
+ "generated_at": "2026-11-25 07:17",
+ "scanned": 262,
+ "count": 26,
+ "digest": "阿里千问办公 AI 推出 30 天免费会员活动，提供 PPT 生成、Excel 分析、自动化办公等功能，让设计师有机会体验 AI 在内容创作与流程优化中的实际价值。与此同时，AI 在电商剪辑中的实践也值得关注，通过标签优先、模型提示与执行校验等手段提升准确性，强调了模型、规则与人工协作的边界问题，这与办公 AI 的自动化逻辑形成呼应，共同指向 AI 如何在设计与业务流程中提升效率。\n设计师正在重新审视传统 MVP 理念，AI 能快速生成原型并探索用户旅程，使设计流程更灵活、约束更少。与此同时，AI 助手已能自主比较商品、预订服务并完成购买，这对产品策略提出了新要求：既要适应 AI 客户的决策逻辑，又要兼顾背后的人类用户。这种双重需求在设计实践中变得愈发明显，促使设计师在体验设计中提前规划 AI 影响下的新功能与交互方式。",
+ "items": [
+  {
+   "title": "Futures thinking as an everyday design practice —— 未来思维融入日常设计：用‘Three Horizons’框架应对变化",
+   "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 6.022,
+   "summary_zh": "文章探讨了如何将未来思维融入日常设计实践，提出通过‘Three Horizons’框架组织团队应对变化。设计师需关注AI对设计流程的影响，提前规划新功能与体验，以适应技术变革。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "If you want to grow beyond Senior Designer, you have to address this one thing —— 资深设计师突破晋升瓶颈需转变视角",
+   "url": "https://uxdesign.cc/if-you-want-to-grow-beyond-senior-designer-you-have-to-address-this-one-thing-15f94ba5b1f7?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 75,
+   "rank": 3.041,
+   "summary_zh": "资深设计师晋升至Staff时常遭遇瓶颈，因过度依赖设计成果证明价值，反而限制了领导力发展。需转变视角，从执行转向战略，才能突破Senior Plateau。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Designing for the AI agent customer —— 为AI客户设计：适应新规则，兼顾人类用户",
+   "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 6.038,
+   "summary_zh": "AI助手已开始自主比较商品、预订服务并完成购买，传统针对人类的营销手段（如情感诉求、稀缺性）对其效果不同。产品团队需调整策略，适应AI客户的新规则，同时兼顾背后的人类用户。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "The design process is changing. Are we asking the right questions? —— AI加速设计流程，传统MVP理念需重新审视",
+   "url": "https://uxdesign.cc/the-design-process-is-changing-are-we-asking-the-right-questions-c3c376cb7cb8?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "设计师可通过AI快速生成原型、探索用户旅程并评估可用性，设计流程加速。传统MVP理念需重新审视，AI使设计约束减少，流程更灵活。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Who draws the in-betweens? —— 迪奥发布动画短片《Christian Dior’s Night",
+   "url": "https://uxdesign.cc/who-draws-the-in-betweens-3b61d1957efe?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI新闻",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 1.026,
+   "summary_zh": "迪奥发布动画短片《Christian Dior’s Night in Color》，网友质疑使用AI技术。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Beyond the Pixel: Reclaiming Design as a Reflective Practice —— 反思性思维：设计价值提升的关键",
+   "url": "https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 2.033,
+   "summary_zh": "文章强调反思性思维在设计中的重要性，指出设计师应通过持续反思而非单纯追求效率来提升价值。约翰·杜威和唐纳德·舒恩的观点表明，设计不仅是实践，更是通过反思与情境对话的过程。这种思维能揭示隐藏的假设，推动创新。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "《AI 时代的竞争》书评：企业如何用数据重做运营决策",
+   "url": "https://www.bestblogs.dev/video/571ff89860?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 3.024,
+   "summary_zh": "网商银行用AI自动化贷款审批，员工转向系统设计；Netflix通过数据与实验优化推荐算法。AI工厂需打通数据流程，消除部门壁垒，提升决策效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "#839.Lulu Cheng Meservey：信任可以设计，信念会传染",
+   "url": "https://www.bestblogs.dev/podcast/d032fbf2c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 3.023,
+   "summary_zh": "Lulu Cheng Meservey 提出信任设计方法：通过钩子、维恩图重叠区与信念感染穿透噪音，反复出现与共同价值观建立信任。危机时需快速回应实质指控，CEO 需权衡法律、信任与声誉。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "See what 5 builders are making with Gemini 4 Neon —— 查看5位开发者如何使用Gemini 4 Neon进行创作",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "Google 推出 Gemini 4 Neon，支持复杂任务处理。开发者用其创建了 3D 地球、Three.js 蝴蝶、火焰着色器、黑洞模拟和摆波仿真，展示其高效与深度。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "由AI「做梦」补记忆 看生命中如何取舍",
+   "url": "https://www.bestblogs.dev/article/3e19995d56?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 0.036,
+   "summary_zh": "Google 和 Anthropic 推出 AI「做夢」記憶技術，讓 AI 在離線階段整理記憶、產生訓練樣本。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "「千问办公AI」会员免费领一个月 - UIED学习社区",
+   "url": "https://www.bestblogs.dev/article/4e911ccb4c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 8.034,
+   "summary_zh": "阿里千问办公 AI 推出 30 天免费会员活动，支持 PPT 生成、Excel 分析、调研报告、自动化办公和网页生成等功能。设计师可借此体验 AI 在内容生成与自动化流程中的应用，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Bow：我的新项目",
+   "url": "https://www.bestblogs.dev/article/8c64efead6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 5.033,
+   "summary_zh": "Bow 是一个集成网页、终端、画板等内容的容器工具，支持 MCP 协议和内置 Agent，基于 Swift 与 WebKit，目前仅支持 macOS。对产品设计者而言，它展示了多内容集成与智能交互的实现方式。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "小豆｜豆包旗下AI个人助理 - UIED学习社区",
+   "url": "https://www.bestblogs.dev/article/71f63d13f8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 5.032,
+   "summary_zh": "字节跳动推出AI个人助理「小豆」，支持多任务后台推进、主动提醒及生活服务代办。用户可通过一句话交代多个任务，App独立公测，后续集成至豆包。对产品设计者而言，展示了AI从被动问答向主动服务的演进方向。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Courtesy —— 感谢",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/4dh374a3opsky1wngtzt0fspwueb5mblwhxbthki.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 5.046,
+   "summary_zh": "Viktor.com 推出 AI 员工 Viktor，整合广告、销售、财务数据，自动分析哪些广告盈利并调整预算。产品连接 9800+ 工具，在 Slack、Teams 和邮件中运行，帮助团队基于完整数据做决策。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "学术讲座｜AI辅助主题性创作与风格探索——杰出校友何谊畅谈AI与美术创作",
+   "url": "https://www.bestblogs.dev/article/e8937ec421?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 3.028,
+   "summary_zh": "河南大学美术学院举办讲座，何谊分享AI在《封神榜》《谜宫》等项目中的应用，指出AI能高精度还原历史场景、转化文化元素，帮助艺术家探索风格，降低试错成本。AI是画笔的辅助工具，非替代者。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "当AI改变一切，下一步如何构建？",
+   "url": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 5.031,
+   "summary_zh": "亚马逊云科技 re:Invent 2026 将聚焦 AI Agent 在开发、安全和运维中的应用，探讨其对工程师价值的影响。开发者需适应新工具，提升需求理解与系统设计能力，以应对代码生成效率提升后的工程挑战。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "How Lyft and a tennis legend gave older users some independence back —— Lyft 推出简化版应用 Lyft Silver，助力老年用户出行",
+   "url": "https://www.fastcompany.com/91633065/lyft-brands-that-matter-2026-silver-billie-jean-king-ride?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 5.024,
+   "summary_zh": "Lyft 推出针对 65 岁以上用户的简化版应用 Lyft Silver，字体更大、功能更简洁，方便无法续驾照的老年人使用。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Stacey McCormick is updating Aerie’s commitment to authenticity for the AI age —— Aerie坚持真实形象，拒绝AI生成图像",
+   "url": "https://www.fastcompany.com/91634509/stacey-mccormick-aerie-brands-that-matter-2026-ai-real-image-pamela-anderson?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 2.041,
+   "summary_zh": "Aerie通过“100% Aerie Real”活动，坚持使用真实模特，拒绝AI生成图像。此举回应时尚行业因AI模糊真实与虚拟界限而引发的争议，强调真实形象对品牌信任的重要性。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "实测小豆：主动办事的背后，AI正在走向每一个人",
+   "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 2.042,
+   "summary_zh": "豆包推出个人智能体「小豆」，主打主动服务和持续办事，支持应用连接、任务管理、代打电话等功能，依托抖音、飞书等生态，提升生活和办公效率。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "从批量生成到业务可用：电商AI剪辑的工程取舍与实践复盘｜AICon北京",
+   "url": "https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 8.029,
+   "summary_zh": "电商AI剪辑需在约束下完成素材编排，通过标签优先、模型提示与执行校验等手段提升准确性。对产品设计者而言，需明确模型、规则与人工的协作边界，关注任务拆解、质量验收与成本控制，以提升AI在实际业务中的落地效果。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Google申请专利为用户量身定制AI电视频道",
+   "url": "https://www.solidot.org/story?sid=85973",
+   "source": "Solidot 奇客",
+   "cat": "AI新闻",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 3.029,
+   "summary_zh": "Google 申请专利，利用用户数据生成定制AI电视频道，用户为主角并插入个性化广告。该技术通过分析用户画像和观看偏好，生成高度定制化内容，预示AI视频广告新方向。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "Are we actually building better things? —— AI降低门槛，但有用工具增长有限",
+   "url": "https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "rank": 1.033,
+   "summary_zh": "AI降低了软件开发门槛，更多人能独立开发产品，市场出现大量微SaaS和工具。但产品数量激增的同时，真正有用的工具增长有限，竞争激烈，用户难以辨别价值。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "On drawing icons —— Pierre 图标库更新：新增 1200 余个图标",
+   "url": "https://pierre.computer/writing/on-drawing-icons",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "Pierre 更新了图标库，新增 1200 余个图标，涵盖三种尺寸和三种变体，支持 Figma、SVG 和 React。图标设计更统一，改进了处理和打包方式，提升产品界面一致性。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "UI feed —— UI feed：89 个交互组件助力界面设计",
+   "url": "https://ui-feed.dev/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-24",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "UI feed 展示了 89 个交互组件，涵盖滑动、日历、输入框等。设计师可参考具体组件如日期选择器、滑块、开关等，用于提升产品界面的可用性和视觉表现。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜用户反馈ChatGPT Dots存在发送未审核邮件和随机停止响应的问题，产品…",
+   "url": "https://x.com/petergyang/status/2125060785667969399",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 70,
+   "summary_zh": "用户反馈ChatGPT Dots存在发送未审核邮件和随机停止响应的问题，产品体验不稳定。对产品设计者意味着需优化自动化流程和用户控制权，确保操作可预测性。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 96,
+   "rank": 5.024
+  },
+  {
+   "title": "X观点｜服务行业受限于人力规模，而智能代理能解耦输出与时间，使单人产出倍增",
+   "url": "https://x.com/levie/status/2125089009018040779",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-24",
+   "score": 85,
+   "summary_zh": "服务行业受限于人力规模，而智能代理能解耦输出与时间，使单人产出倍增。专家仍需把控质量，未来将广泛应用于法律、营销等领域，适合初创或转型企业。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 346,
+   "rank": 5.024
+  }
+ ]
+}

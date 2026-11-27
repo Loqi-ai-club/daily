@@ -1,0 +1,163 @@
+{
+ "day": "2026-11-22",
+ "generated_at": "2026-11-22 07:13",
+ "scanned": 216,
+ "count": 11,
+ "digest": "AI 正在加速设计流程与产品开发的融合，TaoDesign 通过知识工程实践，让 Agent 理解设计规范与业务规则，使设计资产与修复经验能被蒸馏为知识，用于 Agent 生成与修改，从而减少重复劳动。与此同时，设计师 MengTo 使用 GPT-6.2 Astra 在 24 小时内开发出一个 three.js 赛博朋克游戏，并开源了多个可复用工具，展示了 AI 如何缩短从创意到实现的周期。\nAI 从被动回答转向主动预测用户意图的趋势愈发明显，Meta 的 Muse 代理通过分析用户邮箱内容，主动执行购物等任务，六周内吸引超 1000 万用户，预示着搜索交互方式的变革。Canva 则从用户控制角度出发，新增 AI 关闭开关，允许用户隐藏生成式 AI 功能，为设计师提供更灵活的 AI 使用选择，反映出行业对 AI 介入创意过程的审慎态度。",
+ "items": [
+  {
+   "title": "综述：AI 如何实现自我进化？ - 知乎",
+   "url": "https://www.bestblogs.dev/article/69f737acc3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 85,
+   "rank": 2.018,
+   "summary_zh": "文章提出自进化智能体的‘What-When-How’框架，分析模型、上下文、工具等的进化路径及评估方法，并探讨其在编程、教育等领域的应用潜力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "《神经漫游者》预言 AI Agent 的 40 年",
+   "url": "https://www.bestblogs.dev/status/2124228480674271248?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 85,
+   "rank": 1.019,
+   "summary_zh": "《神经漫游者》中 Wintermute 和 Neuromancer 的 AI Agent 特征，与当今自主智能概念高度契合。40 年后，人类开始讨论 AI 控制权问题，科幻早已预见现实。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT 辅助开发的 3D 赛博朋克游戏与技能开源",
+   "url": "https://www.bestblogs.dev/status/2124200086595125739?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-21",
+   "score": 70,
+   "rank": 5.017,
+   "summary_zh": "设计师 MengTo 用 GPT-6.2 Astra 在 24 小时内开发出 three.js 赛博朋克游戏，并开源 3 个技能至 GitHub，含 200 多个可复用工具，供 AI 编码助手调用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "OpenRouter 审核 Session 对话暴露用户数据",
+   "url": "https://www.bestblogs.dev/status/2124199777634341321?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-21",
+   "score": 75,
+   "rank": 5.014,
+   "summary_zh": "OpenRouter 调用 MiniMax 模型时，系统存留并泄露用户会话数据，违反零数据留存承诺。MiniMax 表示 10 月 22 日前开启内容审核，之后才启用零留存模式，暴露隐私政策实施漏洞。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "互联网历史上平台垄断的循环模式：从 Netscape 到 Anthropic",
+   "url": "https://www.bestblogs.dev/status/2124180573916946483?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 70,
+   "rank": 1.018,
+   "summary_zh": "历史显示，技术革新常被掌握底层资源的巨头压制，如 Netscape 被微软、Dropbox 被云服务巨头压制。Anthropic 上市后暴跌，也面临类似挑战。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "专业视角：AI 中转站涉及刑事责任的行为分析",
+   "url": "https://www.bestblogs.dev/article/6b3ee421ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-21",
+   "score": 70,
+   "rank": 1.023,
+   "summary_zh": "上海某AI中转站站长因非法爬取、倒卖AI接口资源被刑拘37天，案件揭示AI中转站可能触犯非法经营、侵犯公民个人信息等四类刑事罪名。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "The judge used to be the user —— AI加速模型构建，人工方式或将回归",
+   "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 70,
+   "rank": 2.018,
+   "summary_zh": "AI加速模型构建，传统人工方式逐渐被取代。曾有同事称赞作者过去在印尼电商公司做AI研究的经验，引发对人工建模是否会像胶片摄影一样回归的思考。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "To win the AI search wars, stop chasing the answers and start shaping the questions —— Meta Muse 通过预测用户意图改变搜索交互方式",
+   "url": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 85,
+   "rank": 4.022,
+   "summary_zh": "Meta 的 Muse 个人代理通过分析用户邮箱内容，主动执行购物等任务，首六周已吸引超 1000 万用户。AI 正从回答问题转向主动行动，影响品牌选择方式，产品设计需关注用户意图预测与自动化交互体验。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Canva added an AI ‘kill switch’ to its tools —— Canva新增AI关闭开关，用户可隐藏生成式AI功能",
+   "url": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-11-21",
+   "score": 85,
+   "rank": 3.019,
+   "summary_zh": "Canva新增AI关闭开关，允许用户隐藏生成式AI功能及减少AI素材展示。对设计师而言，此举提供更灵活的AI使用控制，有助于平衡创意与自动化工具的依赖。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+   "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-21",
+   "score": 85,
+   "rank": 6.012,
+   "summary_zh": "TaoDesign 通过知识工程实践，让 Agent 理解设计规范与业务规则，提升设计交付效率。设计资产与修复经验可蒸馏为知识，用于 Agent 生成与修改，减少返工。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "X观点｜X团队在假期前用Gemini Neon快速实现了一个功能，用户@UFO200…",
+   "url": "https://x.com/joshwoodward/status/2123943606906138868",
+   "source": "X · @joshwoodward",
+   "cat": "AI工具",
+   "date": "2026-11-21",
+   "score": 85,
+   "summary_zh": "X团队在假期前用Gemini Neon快速实现了一个功能，用户@UFO2002616的创意被直接上线。网页端模型选择器新增长按操作，设计师可直接体验新功能。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 380,
+   "rank": 3.019
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "day": "2026-10-17",
+ "generated_at": "2026-10-17 10:19",
+ "scanned": 250,
+ "count": 19,
+ "items": [
+  {
+   "title": "Context Engineering Is Knowing When to Start Over —— 情境工程：知道何时重新开始",
+   "url": "https://every.to/also-true-for-humans/why-i-start-a-new-thread-in-claude-every-time",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 1.038,
+   "summary_zh": "文章指出，关闭 Claude 和 ChatGPT 的记忆功能有助于避免旧信息干扰对话。对产品设计者而言，需在保持上下文连贯性的同时，避免冗余信息影响用户体验。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "UX Maps: Glossary —— 用户体验地图：术语表",
+   "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 4.037,
+   "summary_zh": "尼尔森诺曼集团发布UX地图术语表，定义了包括亲和图、资产图、时间线图等12种地图类型，帮助设计师明确每种地图的用途和适用场景，提升团队协作效率和设计一致性。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "AI 生成的代码，怎么才能进得了工程体系？",
+   "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 8.02,
+   "summary_zh": "Kiro 推出 spec-driven development 方法，通过 Specs 文档实现需求、设计、任务的双向同步，解决 AI 生成代码与工程体系对接问题。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "We’re sharing 3 tips to study smarter with Gemini Notebook. —— 我们分享三个使用Gemini Notebook更高效学习的技巧。",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 2.037,
+   "summary_zh": "Google Gemini Notebook新增三项学习功能：60秒短视频概述、互动学习概览及扩展测验格式（如填空、多选）。这些工具帮助学生更高效整理和复习资料，适合需要结构化学习的用户。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Hermes Bot Screen 实现独立桌面",
+   "url": "https://www.bestblogs.dev/status/2111116029682122831?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 75,
+   "rank": 0.045,
+   "summary_zh": "Hermes 0.22 版本推出 Bot Screen，AI 代理在 Linux 网关拥有独立桌面，不占用用户本机，支持实时监控与接管。离线托管确保任务不中断，提升透明度与安全性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gemini 4 Argon 改造 3D 打印工作流",
+   "url": "https://www.bestblogs.dev/status/2111114638712537110?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 5.035,
+   "summary_zh": "Gemini 4 Argon 与 Canvas 结合，用户只需拍照上传尺寸数据，即可生成可打印的 STL 模型，无需 CAD 技能。实时滑块调整尺寸，一键导出 STL，简化家居改造流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Opus 5.5 多模态 AI 小剧场：海外 AI 对国人的态度",
+   "url": "https://www.bestblogs.dev/status/2111111416120053953?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 1.032,
+   "summary_zh": "作者用 Opus 5.5 整合 TTS、ASR、生图、生视频等能力，制作小剧场展示 Claude、GPT、Gemini、Grok 对中国用户态度差异，并开源提示词。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Code 公开 AI 原生代码审查系统",
+   "url": "https://www.bestblogs.dev/status/2111110544769859586?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "推荐 ChatGPT images2 作为设计图生成工具",
+   "url": "https://www.bestblogs.dev/status/2111100982738501996?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 8.021,
+   "summary_zh": "设计者推荐使用 ChatGPT images2 生成设计图，认为其汉字渲染效果优于 Grok 的 imagine。作者将开源私有 skills，供社区使用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "上个月最值的一笔消费",
+   "url": "https://www.bestblogs.dev/article/37b6ff5cd0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 3.037,
+   "summary_zh": "作者付费使用豆包工作 agent 一个月，发现其能力相当于 3-4 个名校大学生，能处理 SSL 修复、代码编写等任务，月费仅 68 元，可能影响部分职业岗位。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "PhotoCraft：可替代 Photoshop 订阅的开源图像编辑工具",
+   "url": "https://www.bestblogs.dev/status/2111094834677289104?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "开源图像编辑工具 PhotoCraft 提供 67 个 Photoshop 对标功能，支持 PSD 文件和 AI 批量处理，全平台免费。对设计师而言，可降低迁移成本，提升工作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "豆包与即梦 Seedance 2.0 提示词库分享",
+   "url": "https://www.bestblogs.dev/status/2111090534483955722?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 78,
+   "rank": 5.031,
+   "summary_zh": "分享一套针对豆包和即梦 Seedance 2.0 的提示词库，包含热门 Prompt，帮助用户更高效使用 AI 工具。对产品设计者而言，可参考提示词优化模型交互体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Claude Code /export 功能：高效上下文共享与复用",
+   "url": "https://www.bestblogs.dev/status/2111087580376707234?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "Claude Code 新增 /export 功能，可将完整对话导出为 Markdown 或纯文本，支持多 Agent 接力、提炼 Custom Skills 以及跨设备续写，提升开发效率与知识复用。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "微信宣布：“重大更新”",
+   "url": "https://www.bestblogs.dev/article/50ce8b5704?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 5.036,
+   "summary_zh": "企业微信5.0.12版本新增侧边栏调用WorkBuddy功能，用户可在企业微信内直接对话下达任务，由WorkBuddy结合权限内的消息、文档、会议理解任务并执行，结果返回企业微信。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "SeeCode：面向 AI 编程助手的高动态交互绘图工具",
+   "url": "https://www.bestblogs.dev/status/2111064619808948697?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-16",
+   "score": 84,
+   "rank": 8.026,
+   "summary_zh": "SeeCode 是为 AI 编程助手设计的绘图插件，支持 45 种图表类型，生成可交互的网页文件，能导出 PNG/SVG/GIF/MP4 等格式。对产品设计者而言，它能更直观地展示复杂流程，提升沟通效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Is Your Organization Messing Up AI Adoption? —— 你的组织在AI采纳上出错了吗？",
+   "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 70,
+   "rank": 3.032,
+   "summary_zh": "Paul Boag 用《Digital Adaptation》中的经验，分析组织在 AI 采用中的常见问题，强调需从过去数字化转型中学习，避免重复错误，提升 AI 应用效果。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」",
+   "url": "https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 4.031,
+   "summary_zh": "苹果发布带屏智能音箱HomeView，采用语音+屏幕交互，支持多账号管理；国内厂商如小度已早布局，通过智能体中枢实现家庭任务闭环，价格更具优势，凸显家庭AI需兼顾隐私与共享的交互需求。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+   "url": "https://www.ithome.com/1/013/983.htm",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 0.038,
+   "summary_zh": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
+   "url": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-16",
+   "score": 85,
+   "rank": 4.025,
+   "summary_zh": "中控技术接入千问办公，优化营销、采购等流程，提升效率5倍。AI技术缩短方案产出时间至1天，助力流程工业智能化升级。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "day": "2026-11-07",
+ "generated_at": "2026-11-07 07:15",
+ "scanned": 238,
+ "count": 17,
+ "digest": "腾讯开源了自进化研发平台 LoopForge，提供云端协作与自动化修复功能，已在内部完成 200+ 需求交付。与此同时，302.AI 实测 Taste Skill 表现良好，尤其在前端开发和 UI 重构中提升 AI 设计的实用性 —— 两者都在探索如何让 AI 更好地嵌入设计与开发流程，提升效率与质量。\nLegionSpace 平台通过 DID 技术与记忆系统构建具有身份的 AI 智能体，而 LongMemEval 测试也强调记忆对智能体连贯性的重要性 —— 说明构建长寿命、有身份的智能体正成为 AI 设计的关键方向。与此同时，Figma 联合创始人强调设计是新代码，需通过独特视角提升产品差异化，提醒设计师在 AI 时代更应关注创意与差异化表达。",
+ "items": [
+  {
+   "title": "After the AI bubble: a manifesto —— AI 技术应服务于人类自由，警惕滥用与操控",
+   "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 4.023,
+   "summary_zh": "文章指出AI技术应服务于人类自由，反对滥用和操控。呼吁关注AI对社会和环境的潜在危害，强调技术发展需以伦理为前提。设计师需警惕AI工具可能带来的负面影响，确保产品设计以人为本。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "AI 时代，什么越来越值钱？关于 AI 的 11 条心得",
+   "url": "https://www.bestblogs.dev/article/1e7f959375?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 0.03,
+   "summary_zh": "AI 时代作品范式转向「模型」，传统作品将变充裕。稀缺资源从 token 转向上下文，高质量创作和复合型人才成为关键。教育需培养异类思维和独特知识结构，以提升竞争力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "谷歌发布 Gemini Omni 1.2 Flash 视频模型：15 秒视频 720p 约 1 美元",
+   "url": "https://www.bestblogs.dev/status/2118820452038557790?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 70,
+   "rank": 3.021,
+   "summary_zh": "Google 发布 Gemini Omni 1.2 Flash 视频模型，支持 15 秒带声音视频，720p 约 1 美元，较上一版降价 30%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "In conversation: Dylan Field and David Friedberg on the human role in creating with AI —— Figma 联合创始人谈 AI 时代人类创造力与设计差异化",
+   "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 90,
+   "rank": 4.024,
+   "summary_zh": "Figma 联合创始人 Dylan Field 与 David Friedberg 讨论 AI 时代人类创造力的作用，强调设计是新代码，需通过独特视角提升产品差异化。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "开发 DeepSeek Harness 插件需自行实现自动更新机制",
+   "url": "https://www.bestblogs.dev/status/2118790959341441289?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-06",
+   "score": 82,
+   "rank": 6.023,
+   "summary_zh": "宝玉开发 DeepSeek Harness 插件时，需自行实现自动更新机制，以提升用户体验。插件提供统一入口展示多种设计成果，简化设计师工作流程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "GPT-6.2 Astra 要来了，厉娜 —— OpenAI 将发布 GPT-6.2 Astra 和 Sol 模型",
+   "url": "https://www.bestblogs.dev/article/e0a2a9a3de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 1.019,
+   "summary_zh": "OpenAI 将发布 GPT-6.2 Astra 和 Sol 模型，Astra 推理性能远超前代，Sol 通过强化学习能力跃升。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "谷歌视频新模型双榜第一，力压 Grok、Seedance，价格再砍三成",
+   "url": "https://www.bestblogs.dev/article/5889dec102?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 70,
+   "rank": 4.019,
+   "summary_zh": "谷歌 DeepMind 推出 Gemini Omni 1.2 Flash 视频生成模型，支持 15 秒原生视频生成、多轮对话编辑，价格降至每秒 0.07 美元，文生视频和图生视频榜单双第一。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "突发：李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+   "url": "https://www.bestblogs.dev/article/d280647dec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 2.024,
+   "summary_zh": "李飞飞创办的 World Labs 推出 Frameboy Demo，基于 Atlas 世界模型实现 15fps 实时 3D 渲染，AMD 以 82 亿美元收购该公司。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "302.AI 实战教程 | Taste Skill 实测:这款名为“品味”的技能，能把 AI 设计从能看变成能商用 - 知乎",
+   "url": "https://www.bestblogs.dev/article/10ab37c520?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 6.028,
+   "summary_zh": "Taste Skill 能否实现商用级设计输出是关键。实测显示，其在前端开发、UI 重构和品牌资产创建中表现良好，代码实现类和视觉参考类技能有效提升 AI 设计实用性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "【AI 智能体】记忆：连贯、长寿命 LLM 智能体的关键 | 架构师研究会",
+   "url": "https://www.bestblogs.dev/article/567ea4f228?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "文章系统梳理了六种主流记忆架构，如Mem0、Graphiti、M+等，并通过LongMemEval测试验证记忆系统有效性，指出记忆已成为构建自主智能体的关键要素。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "LegionSpace 黑客松指南（三）：构建具有身份与记忆的 AI 智能体 - 知乎",
+   "url": "https://www.bestblogs.dev/article/4f6aebd67c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 75,
+   "rank": 4.026,
+   "summary_zh": "LegionSpace 平台构建具有身份与记忆的 AI 智能体，采用 DID 技术确保身份唯一性与一致性，结合短期与长期记忆系统，利用区块链与分布式存储实现数据安全。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "国产 AI 底座赋能国产原创 IP 智能化升级，无问芯穹与三体宇宙联合发布智子 Agent 1.0",
+   "url": "https://www.bestblogs.dev/article/977645dd65?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 2.029,
+   "summary_zh": "无问芯穹与三体宇宙发布智子 Agent 1.0，基于《三体》智子角色开发，依托 Agentic Infra 技术实现知识管理、推理服务及多智能体协同。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Why Some AI Workflows Stick—And Others Don’t —— AI工作流程留存关键：明确目标与持续优化",
+   "url": "https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t-rerun",
+   "source": "Every",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 4.03,
+   "summary_zh": "Every发布文章分析AI工作流程留存原因，指出明确目标和持续优化是关键。对产品设计者而言，需关注用户真实需求，避免功能冗余。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "‘War’s painterly, kinetic title sequence is a boxing-inspired knockout —— War》片头动画用冲突色彩强化法律剧张力",
+   "url": "https://www.fastcompany.com/91635051/war-hbo-title-sequence?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 75,
+   "rank": 0.028,
+   "summary_zh": "《War》片头动画用冲突色彩表现法律剧张力，Imaginary Forces设计抽象动态画面，强化剧情紧张感。设计师通过色彩碰撞与抽象手法，呈现离婚案的对立与情绪，为观众营造沉浸式视觉体验。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "A New Community For In-House UX People —— 面向内部用户体验人员的新社区",
+   "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+   "source": "Smashing Magazine",
+   "cat": "AI新闻",
+   "date": "2026-11-06",
+   "score": 75,
+   "rank": 4.016,
+   "summary_zh": "Smashing Magazine联合Boagworld推出一个针对企业内部UX人员的小型社区，提供每周会议和实际案例库，包含成功业务案例、模板和研究计划，帮助成员提升工作效果。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+   "url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-11-06",
+   "score": 85,
+   "rank": 7.025,
+   "summary_zh": "腾讯开源 LoopForge，提供云端 7×24 小时工作区、共享会话与 SOP 流水线，支持多人协作与自动化修复。平台已在内部完成 200+ 需求交付，提升研发效率与质量。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "X观点｜企业将有100倍于当前人数的AI代理处理数据和系统",
+   "url": "https://x.com/levie/status/2118498574497665316",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-06",
+   "score": 70,
+   "summary_zh": "企业将有100倍于当前人数的AI代理处理数据和系统。90%的企业数据为非结构化数据，需有效方式让AI获取关键信息。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 140,
+   "rank": 4.023
+  }
+ ]
+}

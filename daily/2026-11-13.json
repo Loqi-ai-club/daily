@@ -1,0 +1,363 @@
+{
+ "day": "2026-11-13",
+ "generated_at": "2026-11-13 07:17",
+ "scanned": 278,
+ "count": 25,
+ "digest": "Google Gemini 4 Hydrogen 模型今天开始向全球用户推送，覆盖桌面、移动和网页端，提升搜索的意图理解与多语言支持，同时 Google Search 和 Chrome 浏览器也分别整合了 Gemini 技术，使用户能直接在页面内获取信息摘要、对比内容或解释复杂信息。这表明 Gemini 正在从模型能力向实际产品体验渗透，设计师可以借助这类功能优化跨页面操作和信息获取效率。\n设计工具正加速融合 AI 能力，Figma 推出 3D 变换功能，结合插件和代理工具制作动态视频，提升空间设计与协作效率；而 NAVITIME Travel 则整合 AI 规划与预订功能，实现文本导入景点、自动路线规划与协同编辑。这些工具的共通点在于，通过 AI 提供更多自动化与智能辅助，帮助设计师和用户更快生成方案、减少手动计算，同时提升跨场景的连贯性与效率。",
+ "items": [
+  {
+   "title": "相较于精通AI工具，重塑思维才是终极破局之道",
+   "url": "https://www.bestblogs.dev/article/0771e6f8ea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 75,
+   "rank": 2.034,
+   "summary_zh": "AI 时代竞争力不再依赖工具使用，而是重塑思维方式。文章提出应从知识商品化转向个人产品化，强调判断力、AI 协作、审美、表达共情和身心健康五维能力，以构建不可替代性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "NAVITIME Travel - 旅行計画 旅のしおり作成 - Google Play 上的应用 —— NAVITIME Travel：整合AI规划与预订的旅行助手应用",
+   "url": "https://www.bestblogs.dev/article/65f2849746?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 5.033,
+   "summary_zh": "NAVITIME Travel 是一款整合 AI 旅行规划、路线计算、预订服务和旅行回忆管理功能的综合旅行助手应用，支持文本导入景点、自动路线规划及与家人协同编辑行程。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gemini 4 Hydrogen今日起向全球所有用户推送",
+   "url": "https://x.com/GeminiApp/status/2120982674638864797",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-12",
+   "score": 80,
+   "rank": 3.032,
+   "summary_zh": "Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Claude Meetings：AI助手进入Google Meet会议实时记录与协作",
+   "url": "https://www.bestblogs.dev/status/2120979951599931793?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 90,
+   "rank": 3.026,
+   "summary_zh": "Claude 推出 Meetings 测试版，AI 助手以参会者身份加入 Google Meet，实时生成纪要、文档和白板，并显示在聊天区。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI —— Amplitude利用OpenAI模型开发产品代理Wave",
+   "url": "https://openai.com/index/amplitude",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 8.027,
+   "summary_zh": "Amplitude利用OpenAI模型开发产品代理Wave，可在1-2天内完成产品改进，如个性化建议卡片使发送量提升160%。Wave整合数据分析、代码和用户反馈，协调编码代理实现快速迭代，降低模型成本。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "ScienceOra - AI for Science 科研智能平台 —— ScienceOra：面向科研机构的AI平台，提供全链路解决方案",
+   "url": "https://www.bestblogs.dev/article/092c657f01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 3.031,
+   "summary_zh": "ScienceOra 是面向科研机构的 AI 平台，提供从假设提出到成果展示的全链路解决方案，包含多智能体协作、科学工具、数据库导航等功能，已在中国科学院等机构应用，提升科研效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI编程工具生态演进：从模型赋能到垂直整合的技术突围",
+   "url": "https://www.bestblogs.dev/article/dcf77ed550?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 70,
+   "rank": 1.034,
+   "summary_zh": "AI 编程工具经历基础补全、语义理解、垂直整合三阶段，效率提升 40%-60%。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Gemini 4 Hydrogen上线Cursor，CursorBench得分54.3%",
+   "url": "https://x.com/mattyp/status/2120945253666762973",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 1.032,
+   "summary_zh": "作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "World Labs开放世界模型Atlas，支持生成关键帧、视频片段和3D Gaussian splats",
+   "url": "https://x.com/drfeifei/status/2120942509786558671",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 7.025,
+   "summary_zh": "World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表达期待用户用它构建的内容。官方为用户提供了应用和 API 端点，可用 Atlas 生成关键帧、视频片段或 3D Gaussian splats。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Google Gemini开放推送，覆盖开发者、企业与普通用户渠道",
+   "url": "https://x.com/GoogleDeepMind/status/2120940342505566438",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 5.034,
+   "summary_zh": "Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studio、Android Studio 中用 Gemini API，付费 Google AI Pro 和 Ultra 订阅者可在 Google Antigravity 中使用；企业可通过 Gemini for business 和 Google Antigravity 部署；所有用户可在 Google Search 和 Gemini 应用模型下拉菜单中访问。详情见 https://goo.gle/4zDCs8N。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen —— Google Search搭载Gemini 4 Hydrogen实现重大升级",
+   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 4.037,
+   "summary_zh": "Google Search 升级 Gemini 4 Hydrogen 模型，提升意图理解、多语言支持和视觉响应。用户可获得更精准、直观的搜索结果，包括图像、表格等结构化内容，适用于复杂查询和多语言用户。",
+   "source_count": 3,
+   "sources": [
+    "Google The Keyword",
+    "BestBlogs",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers —— Gemini 4 Hydrogen：为开发者提供日常编码与智能工作流",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 2.029,
+   "summary_zh": "Google 推出 Gemini 4 Hydrogen，专为日常编码和智能工作流设计，支持多模态任务和四档思考模式。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "李彦宏：AI时代岗位将收敛为Builder与Seller两类",
+   "url": "https://www.bestblogs.dev/status/2120938732773867907?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 76,
+   "rank": 1.032,
+   "summary_zh": "李彦宏在百度世界大会上提出，AI时代岗位将收敛为Builder与Seller两类。Builder负责构建AI模型与系统，Seller则负责将AI成果转化为商业价值。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Get quick answers from Gemini on any website. —— Chrome 浏览器新增 Gemini 功能，网页内直接获取信息",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+   "source": "Google The Keyword",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 6.031,
+   "summary_zh": "Chrome 浏览器新增 Gemini 功能，用户可直接在当前页面获取摘要、对比产品信息或解释复杂内容，无需新开标签页。设计师可借此快速获取网页信息，提升跨页面操作效率。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Replit Agent新增代购能力及Google Ads投放功能",
+   "url": "https://replit.com/blog/replit-agent-ads-commerce",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 80,
+   "rank": 3.027,
+   "summary_zh": "Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "用户抱怨难以在流媒体服务上找到想看的内容",
+   "url": "https://www.solidot.org/story?sid=85874",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 75,
+   "rank": 8.029,
+   "summary_zh": "51% 流媒体用户因内容过多难以找到想看的内容，47% 用户寻找内容耗时增加，平均 12 分钟。72.3% 用户希望有整合所有订阅平台内容的完整指南。对产品设计者意味着需优化内容发现机制，提升搜索与推荐效率。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "How 3D transforms and Figma’s agent brought a launch video to life —— Figma 推出 3D 变换功能，支持制作动态视频",
+   "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+   "source": "Figma Blog",
+   "cat": "AI工具",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "Figma 推出 3D 变换功能，支持在画布上倾斜、旋转元素，并结合插件和代理工具制作动态视频。设计师可快速测试空间布局，提升协作效率，节省手动计算时间。",
+   "source_count": 2,
+   "sources": [
+    "Figma Blog",
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Designing for privacy on intelligent eyewear —— Google智能眼镜：Gemini技术强化隐私保护",
+   "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+   "source": "Google The Keyword",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 2.038,
+   "summary_zh": "Google智能眼镜通过Gemini技术提供实时翻译、视觉辅助等功能，同时强化隐私保护：不保存视觉数据、加密处理、用户可控制摄像头权限及历史记录。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Design is a search problem —— 设计是搜索问题：用Figma探索多种方案",
+   "url": "https://mattstromawn.com/writing/design-is-a-search-problem/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "设计师过去害怕提供多个选项，如今顶尖设计师使用Figma等工具生成大量设计变体，探索设计可能性。设计被视作搜索问题，类似计算机算法中的深度优先搜索和广度优先搜索，帮助设计师更高效找到最佳方案。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "By taking away —— 产品设计中的减法：去除冗余，聚焦核心价值",
+   "url": "https://haydenbleasel.com/taking-away",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 2.04,
+   "summary_zh": "文章探讨了产品设计中‘减法’的重要性，指出通过去除冗余功能，能更清晰地呈现核心价值。如今，由于构建成本降低，设计者需更早明确目标，避免过度添加。这要求设计师在初期就做出精准决策，减少后期修改。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The AI mind tax that afflicts those who use AI best —— AI使用越频繁，工具碎片化问题越明显",
+   "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "AI使用最频繁的用户面临工具碎片化问题，需额外管理多个工具，增加工作负担。对设计师而言，需关注工具整合与用户体验，避免AI带来的新负担。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "iPhone Siri AI体验：距离真正的AI Phone，苹果还有多远？|附开通指南",
+   "url": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 3.032,
+   "summary_zh": "iOS 27.3 版本中，Siri 变成独立 App，支持跨应用操作和长期记忆，能识别图片信息并添加到日历。国行版因算力限制，部分功能不如海外版，如照片消除和图像生成。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams —— AI是否该加入产品？产品团队需问的四个问题",
+   "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "健康保险公司引入AI撰写申诉文件，但员工使用后效率不升反降。AI应处理繁琐步骤，而非替代专业判断。设计AI功能前需评估：是否减少用户总工作量？是否降低错误率？是否提升一致性？",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "从“搜到知识”到“理解约束”：差旅Agent的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+   "url": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 70,
+   "rank": 5.032,
+   "summary_zh": "携程商旅 CIO 汪政在 AICon 北京分享差旅 Agent 的实践，强调需理解员工偏好、企业差标等约束，而非仅检索文档。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+   "url": "https://www.qbitai.com/2026/11/509349.html",
+   "source": "量子位",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-12",
+   "score": 75,
+   "rank": 4.043,
+   "summary_zh": "中兴通讯璇玑系统通过本体语义建模，连接业务语义与数据资源，使AI能准确理解企业概念并推理分析。璇玑作为语义基础设施，支持采购、财务等场景，提供统一语义、数据映射与规则推理，降低业务人员获取数据的复杂度。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  }
+ ]
+}

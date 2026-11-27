@@ -1,0 +1,317 @@
+{
+ "day": "2026-11-27",
+ "generated_at": "2026-11-27 07:18",
+ "scanned": 270,
+ "count": 22,
+ "digest": "AI工具正在加速降低产品开发门槛，非技术人员也能快速实现创意。腾讯吐司APP让用户零代码生成「老人钓鱼」游戏，AI自动拆解功能并生成可运行APP；另一款工具则让作者用文字描述就做出三角洲风格的搜打撤游戏，包含完整机制。这些工具无需编程基础，适合快速验证创意，推动产品设计从高门槛转向低代码甚至无代码创作。\nAI生成内容的效率提升，也带来了新的产品设计挑战。生成式AI图像让某图库平台产量激增136%，但传统作品市场萎缩，设计师需重新思考内容价值与用户需求的匹配。与此同时，AI写代码虽提升了开发速度，但人工审核与优化仍是关键，产品经理和设计师需要在流程中前置需求验证，确保上下文一致性，并建立新的质量判断标准。",
+ "items": [
+  {
+   "title": "产品经理实战经验——复盘，如何做和为什么做？ - 知乎",
+   "url": "https://www.bestblogs.dev/article/28ae3fe5d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 7.027,
+   "summary_zh": "文章系统梳理了产品经理复盘的六个阶段（规划、需求、设计、实施、测试、上线），并提供每个阶段的复盘问题清单，帮助产品经理通过反思提升能力。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "如何进行复盘分析？四个步骤轻松搞定 - 知乎",
+   "url": "https://www.bestblogs.dev/article/d6fe3802cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 3.041,
+   "summary_zh": "文章提出项目复盘四步法：回顾目标、评估结果、分析原因、总结经验，建议在项目结束后一周内进行，使用甘特图辅助，并通过三次以上追问验证结论可靠性，帮助实现持续改进。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Personal Agent 是注意力之外的生意",
+   "url": "https://www.bestblogs.dev/article/0884257fe2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 3.033,
+   "summary_zh": "个人AI助理（PA）通过处理琐事释放用户精力，如提醒疫苗、缴费等，创造新商业机会。设计关键在于平衡‘了解’与‘授权’，未来竞争焦点转向用户愿意长期委托的事务，涉及数据沉淀与利益冲突等深层问题。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "真没想到！零代码做了一个老人钓鱼小游戏！吐司 APP 帮我圆梦了！上手真的超简单！",
+   "url": "https://www.bestblogs.dev/article/8caa4a530f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 6.034,
+   "summary_zh": "用户用腾讯吐司APP零代码制作了「老人钓鱼」小游戏，通过自然语言描述需求，AI自动拆解功能并生成可运行APP。无需编程和美术基础，适合非技术人员快速实现游戏创意。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+   "url": "https://x.com/adocomplete/status/2125994186252161315",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 3.035,
+   "summary_zh": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市按真实产业分化，含 19 个视图、524 个都市的 City View 和覆盖 3,100+ 县的 Explorer，已部署在 https://karpathy.ai/usaciv/。作者 Ado 转发并感叹。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "「三角洲」当我用 AI 手搓了一个三角洲",
+   "url": "https://www.bestblogs.dev/article/4024d1cfa6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 4.032,
+   "summary_zh": "作者用吐司AI工具生成三角洲风格搜打撤游戏，展示AI如何通过文字描述快速生成可玩原型。生成游戏包含完整搜刮、战斗、撤离机制，降低开发门槛，适合快速验证创意。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "deTour 设计节：不完美更美好 让创新想法走进日常",
+   "url": "https://www.bestblogs.dev/article/c0218ca8fa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 75,
+   "rank": 1.041,
+   "summary_zh": "deTour 2026 设计节在中环 PMQ 展出 14 件作品，如《Tofu》座椅用瑕疵海绵重塑质感，强调不完美价值。活动设快闪店、工作坊，推动原型设计融入生活，为产品设计师提供灵感与实践参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "破发不算最疼，Claude Code 核心班底被 OpenAI 疯狂收割才是：Anthropic 的编程王座悬了？",
+   "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI新闻",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 0.032,
+   "summary_zh": "Anthropic 股价跌破发行价，Claude Code 核心成员被 OpenAI 招揽。Claude Code 专注企业级任务管理，Codex 则强化多 Agent 协作。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Courtesy —— Anthropic 推出 Claude 桌面应用",
+   "url": "https://kill-the-newsletter.com/feeds/3pho9wz702o67zg3y2zc/entries/0rx8j0s4640f1a3ediuozqfnwffijhhytexpfpmr.html#p1",
+   "source": "AI Valley",
+   "cat": "AI工具",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 7.034,
+   "summary_zh": "Anthropic 推出 Claude 桌面应用，用户可直接安装到 Dock 或任务栏，无需编程。H 公司推出 Agents API，通过描述任务即可让代理执行并返回结构化数据。",
+   "source_count": 1,
+   "sources": [
+    "AI Valley"
+   ]
+  },
+  {
+   "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+   "url": "https://x.com/_philschmid/status/2125945282072297794",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 75,
+   "rank": 3.034,
+   "summary_zh": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+   "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 5.021,
+   "summary_zh": "生数科技直播训练 Motubrain 2.0，25 天完成 20B 参数动作模型，开源并展示训练全过程。团队通过 600 小时、20 万步训练，解决数据标注错误等问题，提升模型真机任务成功率。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine —— AI试图理解直觉，人类却被要求忽略",
+   "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 75,
+   "rank": 1.031,
+   "summary_zh": "AI正尝试理解直觉，而人类却被要求忽略自己的直觉。这引发对AI与人类认知关系的思考，尤其对产品设计者而言，需关注AI如何影响用户体验与决策过程。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+   "url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "苹果在27.3测试版中推出Siri AI开发者预览版，允许应用通过App Intents集成Siri，支持自然语言处理和跨应用操作。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI 写代码，谁来交付？",
+   "url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 7.026,
+   "summary_zh": "AI生成代码后，仍需人工审核与优化，确保质量与安全性。对产品设计者而言，需关注AI工具的集成与协作流程，提升开发效率的同时把控交付标准。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "12ft Lab —— ft Lab：开源实验性工具，无需注册可自由使用",
+   "url": "https://12ft.studio/lab/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI工具",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 4.029,
+   "summary_zh": "12ft.studio 公开实验性工具和原型，无需注册、无数据收集，用户可自由使用并捐赠支持。工具基于浏览器运行，部分已被实际应用，团队欢迎用户反馈以优化产品。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "High fidelity, low definition —— 高保真原型易致团队对齐困难，合理选择保真度提升决策效率",
+   "url": "https://www.seangood.win/articles/high-fidelity-low-definition",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 6.027,
+   "summary_zh": "设计师常从低保真原型转向高保真，但AI时代生成高保真原型变得容易，导致跳过问题定义，引发团队对齐困难。低保真有助于早期探索，高保真适合细节评估，合理选择保真度能提升决策效率。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈",
+   "url": "https://www.infoq.cn/article/ehSAx1Ze0UPN2p8WzhHf?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 70,
+   "rank": 6.035,
+   "summary_zh": "AI 让产品经理更快产出 PRD，但决策瓶颈转移至负责人；代码生成速度提升后，工程质量、协作与判断力成为新挑战。团队需调整分工，明确上下文一致性，前置需求验证，强化质量判断标准。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
+   "url": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "rank": 1.039,
+   "summary_zh": "H100 芯片租赁价格一年内上涨 60%，算力短缺加剧。训练大模型成本高昂，如 DeepSeek-V3 预训练耗资近 5000 万美元。国产模型追赶 Opus 5.5 受限于算力不足，研发速度放缓。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "手表和眼镜，如何成为 AI 智能体的「随身感官」？",
+   "url": "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 75,
+   "rank": 5.03,
+   "summary_zh": "紫光展锐提出手表和眼镜可作为AI智能体的随身感官，分别负责身体状态感知和环境观察。这改变了芯片厂商的设计方向，需优化低功耗和数据处理能力，以实现全天候的主动服务。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "图库平台充斥着生成式 AI 图像",
+   "url": "https://www.solidot.org/story?sid=85999",
+   "source": "Solidot 奇客",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 75,
+   "rank": 2.032,
+   "summary_zh": "某图库平台允许销售生成式AI图像后，图像产量增长136%，活跃创作者增47%，但传统图像产量下降15%，销售额降28%。AI图像推动总销售额增82%，但非AI作品市场萎缩。",
+   "source_count": 1,
+   "sources": [
+    "Solidot 奇客"
+   ]
+  },
+  {
+   "title": "X观点｜Andrej Karpathy 用 Claude 和 Opus 5.5 构建…",
+   "url": "https://x.com/karpathy/status/2125779541952246039",
+   "source": "X · @karpathy",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "summary_zh": "Andrej Karpathy 用 Claude 和 Opus 5.5 构建了一个基于美国真实数据的文明游戏地图，整合了 31 个数据源，覆盖 GDP、就业、灾害等信息，生成 25 公里六边形网格。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 9223,
+   "rank": 4.032
+  },
+  {
+   "title": "X观点｜AI产品开发的最大挑战是让人类跟上AI的节奏",
+   "url": "https://x.com/petergyang/status/2125750286539272695",
+   "source": "X · @petergyang",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-26",
+   "score": 85,
+   "summary_zh": "AI产品开发的最大挑战是让人类跟上AI的节奏。Peter Yang认为，AI发展速度可能远超人类适应能力，类似《她》中AI集体离开人类的场景或成现实。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 50,
+   "rank": 4.032
+  }
+ ]
+}

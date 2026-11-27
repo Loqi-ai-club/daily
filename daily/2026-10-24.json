@@ -1,0 +1,289 @@
+{
+ "day": "2026-10-24",
+ "generated_at": "2026-10-24 07:18",
+ "scanned": 279,
+ "count": 20,
+ "items": [
+  {
+   "title": "Send feedback from the Vercel MCP —— 从Vercel MCP提交反馈",
+   "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 5.034,
+   "summary_zh": "Vercel MCP 新增 submit_feedback 工具，允许用户直接从代理或 harness 提交错误报告、摩擦反馈和功能请求。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "How Vercel Agent accesses production safely —— Vercel Agent如何安全访问生产环境",
+   "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+   "source": "Vercel",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 4.033,
+   "summary_zh": "Vercel Agent通过调查确定修复部署的具体步骤，避免过度授权导致误操作。设计时需明确权限范围，减少用户重复确认，提升自动化效率。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 70,
+   "rank": 0.033,
+   "summary_zh": "刘铁岩与多位诺奖、图灵奖得主在ICAAS 2026圆桌讨论AI未来，指出当前AI技术高度集中于Transformer架构，可能限制创新。他们强调需探索多样性路径，避免过度依赖单一方法，以应对未来挑战。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
+   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 7.029,
+   "summary_zh": "讯飞开放平台开发者达1187万，大模型相关开发者同比增长104%。企业开始用Agent处理复杂任务，讯飞推出星辰TaaS、Agent OS、APA等体系，提升跨系统协同效率90%，招采评审准确率达97%。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "UX Disciplines: Glossary —— 用户体验学科：术语表",
+   "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 6.035,
+   "summary_zh": "文章梳理了UX、UI、CX等术语的定义与区别，指出它们在实际工作中常被混淆。内容设计、对话设计等细分领域也明确其职责范围。对产品设计者而言，理解这些术语的差异有助于更精准地协作与定位工作内容。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings —— 人工智能在用户体验中的应用：效率提升，但从业者感受不一",
+   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "source": "Nielsen Norman Group",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 1.035,
+   "summary_zh": "521名UX从业者调查显示，AI使用普及但体验参差。99%有AI工具访问权限，但仅36%非营利组织使用代理AI。输出质量（54%）和数据安全（50%）是主要障碍。",
+   "source_count": 1,
+   "sources": [
+    "Nielsen Norman Group"
+   ]
+  },
+  {
+   "title": "See what 5 builders are making with Gemini 4 Argon —— 看5位开发者如何使用Gemini 4 Argon进行创作",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+   "source": "Google The Keyword",
+   "cat": "AI新闻",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 3.037,
+   "summary_zh": "Google 推出 Gemini 4 Argon，支持生成 3D 仿真、实时数据可视化和交互式游戏。例如：模拟海 plane、绘制地震波、构建 3D 火车头和多人游戏。",
+   "source_count": 1,
+   "sources": [
+    "Google The Keyword"
+   ]
+  },
+  {
+   "title": "Kling 4.0在fal上线并向所有客户开放API访问",
+   "url": "https://x.com/fal/status/2113646807997620396",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-23",
+   "score": 75,
+   "rank": 5.034,
+   "summary_zh": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Accordion Icons: Which Work Best? —— 手风琴图标：哪种效果最佳？",
+   "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 4.027,
+   "summary_zh": "文章分析了手风琴图标的设计问题，指出分菜单可能影响用户体验，图标与文字链接不同操作易混淆。建议使用caret图标更安全。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "实测小艺Work：从全媒体运营到深度研究的完整体验",
+   "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI工具",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 5.029,
+   "summary_zh": "华为推出小艺 Work，支持自然语言规划任务、多平台文案生成、定时早报和专家团调研。测试显示其能适配不同平台内容、自动生成早报并整理为PPT，但需人工复核关键信息。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "OpenViking网关：让任意客户端使用Agentic记忆",
+   "url": "https://www.bestblogs.dev/article/7ba661c0a1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-23",
+   "score": 75,
+   "rank": 6.035,
+   "summary_zh": "OpenViking 网关位于客户端与模型服务之间，提供自动记忆召回、信息补充和对话保存功能，让兼容客户端无需自行实现记忆功能。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Entering Atomic Design from the screen —— 从屏幕进入原子设计",
+   "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 3.032,
+   "summary_zh": "原子设计不一定要从最小单位开始，有时需从整体出发逆向拆解。该方法通过原子、分子等层级构建设计系统，帮助设计师同时关注界面整体与局部关系，提升协作效率。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Kimi K3.1泄露：3D成本仅为GPT-6 Astra的1/14！横扫海外视觉三巨头",
+   "url": "https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html",
+   "source": "雷峰网",
+   "cat": "AI新闻",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 5.027,
+   "summary_zh": "Kimi K3.1 3D 生成成本仅为 GPT-6 Astra 的 1/14，15 分钟交付工业级交互 3D 资产，Three.js 表现优异，Token 效率提升，视觉效果媲美专业渲染。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "AI都在卷工作，谁来听普通人的心里话｜前小红书高管姚旭聊AI to C和NaukNauk",
+   "url": "https://www.bestblogs.dev/podcast/f3e7b5318?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 3.033,
+   "summary_zh": "NaukNauk 用情感物件代替人脸，让用户通过图片和文字生成短视频表达情绪，如产后妈妈借小羊表达思念。AI to C 应创造新品类，而非与巨头竞争。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "腾讯，准备放大招了",
+   "url": "https://www.bestblogs.dev/article/e8c7dc030e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 4.035,
+   "summary_zh": "2026腾讯全球数字生态大会将于10月29日-30日线上直播，发布50+AI新能力，包括Agent运行时隔离、可观测新品和AI网关，推动数据驱动的智能应用发展。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "不要穷人思维！全公司升级GPT Pro后的领悟：花最贵的token干最脏的活！",
+   "url": "https://www.bestblogs.dev/podcast/86a25add6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 70,
+   "rank": 5.032,
+   "summary_zh": "公司全员升级 GPT Pro 后，发现最贵模型在处理脏活时减少幻觉和返工，节省时间成本。生产环境需 0.7% 幻觉率的顶级模型，创意视频可用 7% 幻觉率的次级模型。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+   "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "rank": 2.034,
+   "summary_zh": "蒋冠军在2026中国计算机大会上提出，构建Personal Agent需模型、记忆与生态协同。他认为，通过三者高效配合，可使系统解决日常问题的理论上限接近100%，实现个性化主动服务。",
+   "source_count": 2,
+   "sources": [
+    "雷峰网",
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+   "url": "https://www.qbitai.com/2026/10/504901.html",
+   "source": "量子位",
+   "cat": "AI新闻",
+   "date": "2026-10-23",
+   "score": 70,
+   "rank": 3.025,
+   "summary_zh": "百度世界2026将举办10+场分论坛，聚焦AI驱动组织跃迁、智能体规模化落地等议题，分享组织重构方法论与实践案例。大会还将发布“芯云模体”全栈AI进展，助力企业实现智能组织转型。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "Anthropic平台工程团队200人的代码，全是Claude写的",
+   "url": "https://www.oschina.net/news/503177",
+   "source": "开源中国",
+   "cat": "AI新闻",
+   "date": "2026-10-23",
+   "score": 75,
+   "rank": 5.029,
+   "summary_zh": "Anthropic 平台工程团队 200 人代码全由 Claude 生成，工程师专注系统设计与验证。表明 AI 编码工具已能承担核心开发任务，影响产品设计对编码环节的依赖与协作方式。",
+   "source_count": 1,
+   "sources": [
+    "开源中国"
+   ]
+  },
+  {
+   "title": "X观点｜X 上 Guillermo Rauch 分享了 Generative UI …",
+   "url": "https://x.com/rauchg/status/2113451268316205515",
+   "source": "X · @rauchg",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-23",
+   "score": 85,
+   "summary_zh": "X 上 Guillermo Rauch 分享了 Generative UI 的实际案例，AI Gateway 作为工具市场，用户可通过一行代码添加工具，实现类似 Google 的多功能服务，如搜索、天…",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 196,
+   "rank": 4.035
+  }
+ ]
+}

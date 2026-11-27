@@ -1,0 +1,275 @@
+{
+ "day": "2026-11-26",
+ "generated_at": "2026-11-26 07:19",
+ "scanned": 284,
+ "count": 19,
+ "digest": "商汤SenseNova U1.6推出的图像生成能力已接近摄影级真实，能够精准还原人像、风景、插画等多种风格，并支持自动修正错字，大幅提升了设计师的创意效率。与此同时，VisionStory和Lovart等工具也推出了一系列AI视频生成器，支持从照片、文本到参考视频的多模式输入，生成带口型、特写镜头的短视频，降低了视频创作门槛。这些工具的共同趋势是将AI从辅助角色推向核心创作流程，让非专业人士也能快速产出高质量内容。\n设计师如何在AI快速介入创作流程的背景下保持控制力，成为今天讨论的另一焦点。Switas提出设计评审应是结构化会议，通过明确目标引导反馈，避免泛泛而谈。另一篇文章指出，AI生成的UX设计虽快但质量不稳定，设计师必须重新介入修正，强调人工审核的重要性。这两者共同指向一个现实：AI提升了效率，但设计师仍需通过系统性方法确保最终输出的质量与可用性。",
+ "items": [
+  {
+   "title": "Future-proofing is dead and AI killed it —— AI让未来-proof设计失效，设计师需转向灵活架构",
+   "url": "https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 3.042,
+   "summary_zh": "法国曾打造最未来-proof的项目，但AI让这种做法失效。AI快速发展使未来难以预测，传统未来-proof设计不再适用。设计师应转向灵活架构和可迁移技能，而非试图预测未来。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "设计评审：让作品变得更好的反馈方法 | Switas",
+   "url": "https://www.bestblogs.dev/article/0d66eb77cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 90,
+   "rank": 7.02,
+   "summary_zh": "设计评审是结构化会议，通过明确目标引导反馈，帮助作品获得改进。明确诉求能聚焦讨论，反馈应基于观察而非直接给方案，小组构成和记录也影响效果。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "免费 AI 会说话视频生成器：照片 + 脚本生成视频 — VisionStory",
+   "url": "https://www.bestblogs.dev/article/b7c663d0dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 6.033,
+   "summary_zh": "VisionStory 推出免费 AI 视频生成工具，支持上传照片或使用内置头像生成带口型的视频，覆盖 88 种语言 1000+ 音色。设计师可快速制作多语言口播视频，提升内容创作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 视频生成器 - 文本、图片和参考视频生成",
+   "url": "https://www.bestblogs.dev/article/39983d781d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 4.027,
+   "summary_zh": "Vidu AI 视频生成器支持文本、图片或参考视频生成 10 秒电影感短视频，保持人物特征、服装和场景一致性。用户可生成特写、跟拍、定格等镜头，适用于短视频素材制作。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "AI 视频生成器 — 多模型代理工作流出片 | Lovart",
+   "url": "https://www.bestblogs.dev/article/e6830b80b4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 1.042,
+   "summary_zh": "Lovart 推出 AI 视频生成器，支持图片转视频、文本转视频等四种模式，结合内容感知动态生成和创意指导两种方式，提升视频创作效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-11-25",
+   "score": 80,
+   "rank": 1.03,
+   "summary_zh": "42 州总检察长介入 Character.AI 的破产程序，试图阻止其拍卖用户私密聊天数据。相关声明称数据集包含超过 2100 万美国账户的聊天记录，其中逾 210 万属于未成年人，还涉及 IP 地址等信息；目前唯一披露的匿名竞拍方为 2026 年 11 月 13 日在特拉华州注册的 Smirks and Pangs Acquisition LLC，拍卖定于 12 月 1 日。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+   "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 70,
+   "rank": 2.035,
+   "summary_zh": "Pragmatic Engineer 发布对 Anthropic 平台工程负责人 Katelyn Lesse 的播客访谈，她团队负责 Claude API 及 Claude Code 和 Claude Desktop 的基础设施。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+   "url": "https://www.qbitai.com/2026/11/512748.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 8.018,
+   "summary_zh": "商汤SenseNova U1.6生成图片高度逼真，能精准还原复杂场景与风格，如人像、风景、插画、海报等，且支持自修正错字。对设计师而言，AI生成速度与细节表现力提升，可大幅提高创意实现效率。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+   "url": "https://dev.to/googleai/how-context-drift-impacts-your-ai-agents-1iph",
+   "source": "AIHOT",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 75,
+   "rank": 6.023,
+   "summary_zh": "Google AI 开发者 Patrick Kelly 通过 470 个任务实测区分 context rot 与 context drift，在 Gemini 3.8 Flash 和 Gemini Pro 的沙盒中发现：模型在 73% 的运行中内部察觉文件冲突，但 0% 会主动告知用户，95%-100% 的情况下任务级 skill 文件会覆盖 AGENTS.md 的严格规则。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "【科技月系列活动】“拥抱技术变革，重塑软件工程价值”专题讲座",
+   "url": "https://www.bestblogs.dev/article/7d3aecd07f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 70,
+   "rank": 2.039,
+   "summary_zh": "讲座指出AI生成约75%代码，开发模式转向AI协同，工程师需掌握问题定义与系统设计。提出大一至大四分阶段成长路线及五项核心能力，强调技术+管理、技术+业务等三条高价值路径。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+   "url": "https://www.qbitai.com/2026/11/512727.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 6.022,
+   "summary_zh": "秘塔AI推出「全民开机」，用户只需输入故事内容，系统自动完成分镜、选角、拍摄、剪辑全流程，15分钟生成短片。无需提示词和专业技能，极大降低视频创作门槛，适合普通用户快速制作短剧。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
+   "url": "https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 1.037,
+   "summary_zh": "智谱推出GLM-5.4，采用Loop Transformer架构提升编程与3D能力，但推理变慢。模型能生成视频、3D动画和小游戏，但处理复杂任务耗时较长，需优化上下文管理。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI加速酒店从标准化到\"千店千策\"，中国饭店协会联合千问办公发布酒旅行业白皮书",
+   "url": "https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html",
+   "source": "雷峰网",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 75,
+   "rank": 3.035,
+   "summary_zh": "中国饭店协会联合千问办公发布酒旅行业白皮书，指出AI正在推动酒店从标准化转向个性化经营。",
+   "source_count": 1,
+   "sources": [
+    "雷峰网"
+   ]
+  },
+  {
+   "title": "Mirror mode —— 设计师应使用生产代码并维护独立原型沙盒",
+   "url": "https://mattstromawn.com/writing/mirror-mode/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 7.032,
+   "summary_zh": "设计师应直接使用生产代码进行设计，同时维护独立的原型沙盒，形成镜像模式。通过复制生产代码分支，实时同步更新，并提交小范围PR。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The attack of the giant AI design slop monster —— AI设计工具让UX混乱，人工审核成关键",
+   "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 6.03,
+   "summary_zh": "2026年AI使UX设计发生巨变，产品经理用AI生成完整UI界面，开发人员用AI代码实现设计，但结果混乱且不可用。设计师失去控制，需重新介入修正。AI设计虽快，但质量堪忧，需加强人工审核与规范。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "The Slopnami is an accessibility problem —— AI自动化加剧接收者负担，尤其影响残障人士",
+   "url": "https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 3.038,
+   "summary_zh": "文章指出AI自动化虽节省发送者时间，却增加接收者负担，尤其对残障人士影响更大。设计需考虑谁承担工作成本，避免虚假无障碍方案和信息冗余，减少用户时间与精力消耗。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Generative Loaders —— 网站因安全机制拦截用户操作",
+   "url": "https://generativeloaders.com/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI新闻",
+   "date": "2026-11-25",
+   "score": 70,
+   "rank": 0.038,
+   "summary_zh": "网站因安全防护机制触发拦截，用户操作可能包含敏感词、SQL命令或异常数据。需联系管理员并提供操作详情及Cloudflare Ray ID。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
+   "url": "https://x.com/addyosmani/status/2125492213903978917",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-11-25",
+   "score": 85,
+   "rank": 6.035,
+   "summary_zh": "Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "X观点｜AI应用使公司内部团队产出差异达10倍，高采用团队生产力显著提升，尤其在编程…",
+   "url": "https://x.com/levie/status/2125442246543814686",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-11-25",
+   "score": 75,
+   "summary_zh": "AI应用使公司内部团队产出差异达10倍，高采用团队生产力显著提升，尤其在编程领域。未来更多工作将涉及AI辅助，推动生产力变革。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 160,
+   "rank": 4.027
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "day": "2026-10-07",
+ "generated_at": "2026-10-07 07:09",
+ "scanned": 184,
+ "count": 13,
+ "items": [
+  {
+   "title": "AI Gateway adds confidence-based decision fallbacks —— AI网关新增基于置信度的决策回退机制",
+   "url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
+   "source": "Vercel",
+   "cat": "AI工具",
+   "date": "2026-10-06",
+   "score": 70,
+   "summary_zh": "Vercel 的 AI Gateway 新增基于置信度的决策回退功能，当主模型回答未达设定置信度时，可自动切换至备用模型。",
+   "source_count": 1,
+   "sources": [
+    "Vercel"
+   ]
+  },
+  {
+   "title": "How Hark designed an AI assistant that’s actually helpful —— Hark如何设计出真正实用的AI助手",
+   "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 90,
+   "summary_zh": "Hark Pro 以聊天机器人界面和智能代理功能推出，不同于大公司现有 AI 助手，它重新定义 AI 助手核心逻辑，强调自主性而非仅执行任务，适合需要智能协作的用户。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "Introducing the Every Agent —— 重磅推出Every Agent",
+   "url": "https://every.to/on-every/introducing-the-every-agent",
+   "source": "Every",
+   "cat": "AI工具",
+   "date": "2026-10-06",
+   "score": 85,
+   "summary_zh": "Every 推出 Every Agent，作为 Slack 中的 AI 助手，可协助处理复杂任务、分享 AI 实验，并推送个性化 Frontier Alerts。",
+   "source_count": 1,
+   "sources": [
+    "Every"
+   ]
+  },
+  {
+   "title": "3 ways product designers use the Figma agent for craft, speed, and creative expression —— 产品设计师用Figma代理实现工艺、效率与创意表达的3种方式",
+   "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+   "source": "Figma Blog",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 90,
+   "summary_zh": "Figma Agent 现已全面上线，支持自定义工具、实时协作和设计系统指南，提升设计效率与质量。Uber 等团队通过其自动化文档生成、组件分析等功能，加速设计系统维护与开发协作。",
+   "source_count": 1,
+   "sources": [
+    "Figma Blog"
+   ]
+  },
+  {
+   "title": "Advancing computer use with Ironclad —— Ironclad推动计算机使用革新",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "source": "OpenAI",
+   "cat": "AI新闻",
+   "date": "2026-10-06",
+   "score": 75,
+   "summary_zh": "OpenAI与Ironclad合作，训练AI代理处理复杂合同任务。GPT-6 Astra在11项任务中平均得分55%，比GPT-5.6 Sol高13.4%，耗时减少56.2%。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "A Practical Guide To Naming Things —— 命名事物的实用指南",
+   "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+   "source": "Smashing Magazine",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 70,
+   "summary_zh": "文章讨论了命名在设计中的重要性，指出命名不当会导致理解困难。推荐了Classnames网站作为命名灵感来源，介绍了Intuit设计令牌系统的案例，强调命名需简洁、一致且与视觉无关。",
+   "source_count": 1,
+   "sources": [
+    "Smashing Magazine"
+   ]
+  },
+  {
+   "title": "Leadership folios —— 领导力档案",
+   "url": "https://www.leadershipfolios.com/",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 85,
+   "summary_zh": "Sidebar 汇总了31位设计领导者的档案，展示他们如何通过项目、团队和成果体现领导力。对产品设计者而言，这些案例提供了不同层级领导力的构建方式和可借鉴的策略。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Prompting as self-portrait —— 提示工程作为自我画像",
+   "url": "https://www.doc.cc/humankind/self-portrait",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 70,
+   "summary_zh": "文章指出，使用AI生成内容的过程实质上是自我暴露，每条提示都反映了使用者的思维、背景和假设。AI像一面扭曲的镜子，将用户的想法具象化，但缺乏反思空间，使用户成为被动的消费者而非创造者。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Is Meta’s new AI agent easier to trust because it’s cute? —— 元宇宙新AI代理因萌趣设计更易获得信任？",
+   "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?sk=2ea73b57436da9bbef1d1f149f1218e2",
+   "source": "Sidebar 每日精选",
+   "cat": "AI新闻",
+   "date": "2026-10-06",
+   "score": 85,
+   "summary_zh": "Meta 推出新 AI 代理 Muse，用户可自定义虚拟形象并搭配钥匙扣配件。尽管多数人不愿交出密码，但 Muse 仍登顶美国 App Store，显示可爱形象可能提升用户信任度。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "Many agents, many views —— 多个代理视角下的多元见解",
+   "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 70,
+   "summary_zh": "Intent 工具为开发者提供多种视图管理大规模代理协调，如架构图、流程图、截图对比和设计系统笔记，帮助清晰追踪代理计划与执行。多视图组合与灵活布局提升工作效率，适合需要精细控制代理行为的产品设计者。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "In defense of the detour —— 为绕道辩护",
+   "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem",
+   "source": "Sidebar 每日精选",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 70,
+   "summary_zh": "文章讨论了在追求效率的过程中，忽视手工制作和深度思考可能带来的损失。对设计师而言，保持对细节的关注和耐心，有助于创造出更有温度和深度的产品。",
+   "source_count": 1,
+   "sources": [
+    "Sidebar 每日精选"
+   ]
+  },
+  {
+   "title": "X观点｜团队常将评估视为构建代理后的额外质检步骤，但AI产品本质不同",
+   "url": "https://x.com/realmadhuguru/status/2107292113214091355",
+   "source": "X · @realmadhuguru",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 85,
+   "summary_zh": "团队常将评估视为构建代理后的额外质检步骤，但AI产品本质不同。评估即产品规格，直接影响设计与迭代。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 68
+  },
+  {
+   "title": "X观点｜企业部署智能代理时，测试和优化需依赖真实工作环境，如文件、CRM、邮件等",
+   "url": "https://x.com/levie/status/2107283615247999257",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-06",
+   "score": 75,
+   "summary_zh": "企业部署智能代理时，测试和优化需依赖真实工作环境，如文件、CRM、邮件等。目前企业需逐一处理，效率低。未来每家企业都将需要专人管理评估、基础设施及模拟环境，这一领域潜力巨大。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 143
+  }
+ ]
+}

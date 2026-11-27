@@ -1,0 +1,125 @@
+{
+ "day": "2026-09-20",
+ "generated_at": "2026-09-20 07:13",
+ "scanned": 216,
+ "count": 9,
+ "items": [
+  {
+   "title": "当企业 AI 从演示走向真实业务，十几位科技领导者看到了什么？",
+   "url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-19",
+   "score": 75,
+   "summary_zh": "Snowflake 2026 上海站聚焦企业 AI 落地，强调语义层与业务本体对 AI 理解业务的重要性。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Personal AI 未来竞争不只是“谁更懂用户”，而是： - 即刻 App",
+   "url": "https://www.bestblogs.dev/article/9674bf3c5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-19",
+   "score": 85,
+   "summary_zh": "Personal AI 竞争核心从算法转向交互场景，关键在于抢占用户日常使用的入口，如 WhatsApp、邮件、桌面系统等。对产品设计者而言，需关注如何在现有交互界面中自然嵌入 AI 功能，提升用户黏性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+   "url": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-19",
+   "score": 85,
+   "summary_zh": "苹果 iPhone Duo 采用 √2 屏幕比例，保持内外屏视觉连续性，减少用户迷失感；通过 10 层超薄材料和钛板结构降低折痕可见性，铰链角度成为 UI 输入信号，C2 基带实现按需唤醒，提升能效。",
+   "source_count": 1,
+   "sources": [
+    "爱范儿"
+   ]
+  },
+  {
+   "title": "阿里发布 Qwen3.8-LiveTranslate 实时语音翻译模型",
+   "url": "https://www.bestblogs.dev/status/2101339335564181619?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-19",
+   "score": 80,
+   "summary_zh": "阿里发布Qwen3.8-LiveTranslate，支持多人语音区分、同步输出原文译文，译文延迟从2.8秒降至2.3秒。覆盖60种语言输入和输出，适用于会议、访谈等场景，提升翻译准确性与使用体验。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Qwen3.8-LiveTranslate 用摄像头画面辅助同音词消歧",
+   "url": "https://www.bestblogs.dev/status/2101339340882534450?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-19",
+   "score": 72,
+   "summary_zh": "Qwen3.8-LiveTranslate 通过摄像头画面辅助同音词消歧。当语音中出现同音词且上下文无法判断时，模型结合视觉信息提高翻译准确性，适用于需要精准翻译的场景。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Google 推出家庭实验性 AI 助手 CC",
+   "url": "https://www.bestblogs.dev/status/2101328738114002978?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI新闻",
+   "date": "2026-09-19",
+   "score": 85,
+   "summary_zh": "Google Labs 推出实验性 AI 助手 CC，支持家庭与群组的日程同步、晨间简报和协同处理琐事。对产品设计者而言，展示了 AI 在家庭场景中的应用潜力，提供新的交互模式参考。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "开源端到端文档解析模型 WeVisDoc",
+   "url": "https://www.bestblogs.dev/status/2101324586633629846?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-09-19",
+   "score": 70,
+   "summary_zh": "腾讯开源 WeVisDoc，支持将文档图片直接转为 Markdown，保留结构、公式与表格。2B 和 4B 版本分别适用于资源受限和复杂图像场景，提升文档解析效率与准确性。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta 搭建企业「第二大脑」的 AI 实践方案",
+   "url": "https://www.bestblogs.dev/status/2101322585262969142?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-19",
+   "score": 87,
+   "summary_zh": "Meta 提出 AI「第二大脑」方案，通过规则与分析流程解耦、资料分级、真人把关及免训练升级，将复杂评估时间从几天缩短至几分钟，解决专家资源重复占用问题，提升决策效率。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "X观点｜X团队使用roboclaw管理服务器，实时在Discord运行，并与gpt-…",
+   "url": "https://x.com/steipete/status/2101141707375227372",
+   "source": "X · @steipete",
+   "cat": "AI深度长文·观点",
+   "date": "2026-09-19",
+   "score": 85,
+   "summary_zh": "X团队使用roboclaw管理服务器，实时在Discord运行，并与gpt-live交互，可随时查询会议上下文。对产品设计者而言，这种集成方式提升了团队协作效率，展示了AI在实时会议管理中的应用潜力。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 83
+  }
+ ]
+}

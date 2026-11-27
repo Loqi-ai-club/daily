@@ -1,0 +1,303 @@
+{
+ "day": "2026-10-15",
+ "generated_at": "2026-10-15 07:21",
+ "scanned": 275,
+ "count": 21,
+ "items": [
+  {
+   "title": "Nobody wants your AI app —— 没人想要你的AI应用",
+   "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 4.042,
+   "summary_zh": "AI应用正面临被主流平台吞噬的风险，用户更倾向于使用集成在现有平台中的智能功能，而非独立的AI应用。这促使设计师重新思考如何在不牺牲用户体验的前提下，将AI功能无缝嵌入现有产品生态中。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "What I told the CFO when he asked why design matters —— 当CFO问我为什么设计很重要时，我告诉他什么",
+   "url": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
+   "source": "UX Collective",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 4.034,
+   "summary_zh": "设计师需用量化数据向CFO证明设计投入的回报。某CFO要求用数据对比设计与工程、营销的投资效益，促使设计师改变沟通方式，强调设计对业务的实际影响。",
+   "source_count": 1,
+   "sources": [
+    "UX Collective"
+   ]
+  },
+  {
+   "title": "Gemini 4 Argon向全球Google AI Pro和Ultra订阅者开放",
+   "url": "https://x.com/GeminiApp/status/2110491358498865638",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-14",
+   "score": 80,
+   "rank": 2.042,
+   "summary_zh": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "AI视频生成中的身份风险",
+   "url": "https://www.bestblogs.dev/status/2110489668609536061?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 0.03,
+   "summary_zh": "AI 视频生成可能复刻真实人物形象，引发身份混淆或隐私风险。用户需在发布前检查内容，避免无意侵权。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Measuring the Impact of Personalized Recommendations —— 评估个性化推荐的影响",
+   "url": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+   "source": "Netflix Tech",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 7.022,
+   "summary_zh": "Netflix 通过个性化推荐提升用户体验，研究显示个性化推荐使用户观看时长增加 20%。对产品设计者意味着需重视数据驱动的推荐算法，以提高用户参与度和满意度。",
+   "source_count": 1,
+   "sources": [
+    "Netflix Tech"
+   ]
+  },
+  {
+   "title": "AI科学与医疗健康瓶颈从信任转向验证的演进",
+   "url": "https://www.bestblogs.dev/status/2110451113069834702?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 75,
+   "rank": 2.031,
+   "summary_zh": "医疗与科学领域对AI的关注从信任转向验证，药企开始提供数据，AI从执行流程转向辅助科学发现。2026年瓶颈在于湿实验周期，细胞智能领域融资与合作进展显著。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "智能家居物联网控制面板系统 触摸屏软件界面UI设计与开发实践",
+   "url": "https://www.bestblogs.dev/article/fd50c0b620?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 75,
+   "rank": 5.04,
+   "summary_zh": "文章介绍了智能家居控制面板的UI设计原则与开发实践，强调可视化反馈和扁平信息架构，提供编程示例帮助开发者实现稳定高效的控制系统，适用于物联网产品设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "40位总检察长介入Character.AI破产案，要求保护用户对话数据",
+   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+   "source": "AIHOT",
+   "cat": "AI新闻",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 0.033,
+   "summary_zh": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "企业真正需要的，不是更聪明的Agent？",
+   "url": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 8.025,
+   "summary_zh": "调研显示，70%企业认为现有AI代理无法满足实际需求，更关注可靠性与易用性。对产品设计者意味着：应减少炫技功能，优先解决用户真实痛点，提升交互稳定性和任务完成率。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "AI管理瑞幸咖啡店，员工为什么越来越累？｜端闻Podcast",
+   "url": "https://www.bestblogs.dev/article/3e0949794f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 75,
+   "rank": 3.027,
+   "summary_zh": "瑞幸咖啡引入AI排班系统后，员工被迫无薪加班应对突发情况，店长失去调配人力的权力。AI仅关注可量化指标，忽略培训、清洁等隐性劳动，导致一线压力增大。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+   "url": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 6.036,
+   "summary_zh": "千问办公推出电商版，接入多平台工具，实现跨平台经营看板、ROI优化等功能，降低开店成本至几百元。对产品设计者而言，展示了Agent在电商场景中的落地路径，强调跨平台整合与轻资产模式的价值。",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Claude Code的界面交互升级：任务管理更直观、体验更流畅",
+   "url": "https://www.bestblogs.dev/status/2110416274912313464?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI工具",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 7.033,
+   "summary_zh": "Claude Code 最新版本优化了任务管理界面，明确母任务与子任务层级，增强进度可视化。对产品设计者而言，这种结构化展示有助于提升用户效率，可借鉴其分层显示与图形化元素设计。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Meta Muse Wonder模型深度负面评价",
+   "url": "https://www.bestblogs.dev/status/2110408222997926249?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+   "source": "BestBlogs",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 75,
+   "rank": 4.028,
+   "summary_zh": "海外博主 Ben 对 Meta Muse Wonder 模型表示不满，认为其响应慢、UI 生成效果差，决定不再使用。对产品设计者而言，模型在交互效率和 UI 审美上的不足可能影响实际应用效果。",
+   "source_count": 1,
+   "sources": [
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges —— 将地球AI投入工作：应对地球最大挑战的地理空间代理",
+   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+   "source": "Google Research",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 3.037,
+   "summary_zh": "Google推出Geospatial Reasoning代理，整合Earth AI模型与Gemini，支持多步骤地理分析与预测。",
+   "source_count": 1,
+   "sources": [
+    "Google Research"
+   ]
+  },
+  {
+   "title": "从大模型到Agent落地，这场大会讲透AI全链路",
+   "url": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中国",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 2.037,
+   "summary_zh": "摘要：",
+   "source_count": 1,
+   "sources": [
+    "InfoQ 中国"
+   ]
+  },
+  {
+   "title": "Lovable推出增长工具，从同一聊天窗口帮你获客投广告和做SEO",
+   "url": "https://lovable.dev/blog/introducing-growth-tools",
+   "source": "AIHOT",
+   "cat": "AI工具",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 6.032,
+   "summary_zh": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+   "source_count": 1,
+   "sources": [
+    "AIHOT"
+   ]
+  },
+  {
+   "title": "苹果HomeView上手汇总：「果家」首秀小惊艳，SiriAI很聪明",
+   "url": "https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "cat": "AI新闻",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 4.023,
+   "summary_zh": "苹果发布 HomeView，7 英寸屏幕搭配音箱底座，支持人脸识别切换家庭成员界面，无 App Store 但可投屏 iPhone 应用。",
+   "source_count": 2,
+   "sources": [
+    "爱范儿",
+    "BestBlogs"
+   ]
+  },
+  {
+   "title": "Amp puts AI agents to work beyond code with OpenAI models —— Amp借助OpenAI模型让AI代理在代码之外工作",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI",
+   "cat": "AI工具",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 6.026,
+   "summary_zh": "Amp利用OpenAI模型（如GPT-6 Astra）扩展AI代理功能，从代码编写到产品设计全流程辅助开发者。",
+   "source_count": 1,
+   "sources": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Patagonia just made a brilliant update to its website—and it could change the way we shop —— Patagonia刚刚对其网站进行了出色更新——这可能改变我们的购物方式",
+   "url": "https://www.fastcompany.com/91622922/patagonia-worn-wear-resale-site-redesign?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+   "source": "Fast Company Design",
+   "cat": "AI新闻",
+   "date": "2026-10-14",
+   "score": 70,
+   "rank": 4.025,
+   "summary_zh": "Patagonia 网站新增二手服饰销售功能，用户可同时浏览新旧商品。该平台允许顾客寄回旧衣换购卡，清洗修复后以折扣价出售。此举整合了二手交易流程，提升购物便利性，为品牌提供可持续消费模式参考。",
+   "source_count": 1,
+   "sources": [
+    "Fast Company Design"
+   ]
+  },
+  {
+   "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+   "url": "https://www.qbitai.com/2026/10/503244.html",
+   "source": "量子位",
+   "cat": "AI工具",
+   "date": "2026-10-14",
+   "score": 85,
+   "rank": 3.037,
+   "summary_zh": "阶跃终端发布STEPX Neo，首款Agent手机，内置智能体Amoo，支持系统级任务执行与Skill调用，用户可自定义学习计划、使用打碟Agent等。",
+   "source_count": 1,
+   "sources": [
+    "量子位"
+   ]
+  },
+  {
+   "title": "X观点｜AI代理将大幅改变网络安全领域，能自动检测漏洞、测试攻击方案并加速事件响应",
+   "url": "https://x.com/levie/status/2110227571090788526",
+   "source": "X · @levie",
+   "cat": "AI深度长文·观点",
+   "date": "2026-10-14",
+   "score": 70,
+   "summary_zh": "AI代理将大幅改变网络安全领域，能自动检测漏洞、测试攻击方案并加速事件响应。这对产品设计者意味着，需在数据、网络、身份、设备等多个层面提前布局AI安全方案，以应对未来更复杂的威胁。",
+   "source_count": 1,
+   "sources": [],
+   "is_x_opinion": true,
+   "likes": 60,
+   "rank": 4.028
+  }
+ ]
+}
